@@ -82,7 +82,8 @@
   #navfab.open .ico-grid{ opacity:0; transform:rotate(90deg) }
   #navfab.open .ico-close{ opacity:1; transform:rotate(0) }
   /* Menu panel — anchored above the launcher */
-  .navmenu{ pointer-events:none; width:248px; max-width:calc(100vw - 40px);
+  .navmenu{ pointer-events:none; width:260px; max-width:calc(100vw - 40px);
+    max-height:min(72vh, 580px); overflow-y:auto; overscroll-behavior:contain;
     background:var(--surface); border:1px solid var(--line); border-radius:18px; padding:8px;
     box-shadow:var(--shadow), 0 26px 50px -22px rgba(27,23,20,.45);
     transform-origin:bottom right; opacity:0; visibility:hidden; transform:translateY(10px) scale(.96);
@@ -97,6 +98,14 @@
   .navmenu .navrow:hover{ background:var(--paper) }
   .navmenu .navrow.is-active{ background:var(--accent-soft); color:var(--accent); font-weight:600 }
   .navmenu .navrow.is-active::after{ content:""; width:7px; height:7px; border-radius:50%; background:var(--accent) }
+  /* Timeline — jump to a dated entry in the current view */
+  .navtl{ display:flex; flex-direction:column; max-height:240px; overflow-y:auto; overscroll-behavior:contain; padding:2px 2px 4px }
+  .navtl-row{ display:flex; align-items:baseline; gap:10px; width:100%; text-align:left; background:none; border:0;
+    border-radius:9px; padding:7px 11px; cursor:pointer; font-family:inherit; color:var(--ink); transition:background .15s }
+  .navtl-row:hover{ background:var(--paper) }
+  .navtl-date{ flex:0 0 auto; font-size:.74rem; font-weight:700; letter-spacing:.02em; color:var(--accent); min-width:46px }
+  .navtl-name{ flex:1 1 auto; font-size:.9rem; color:var(--ink-soft); white-space:nowrap; overflow:hidden; text-overflow:ellipsis }
+  .navtl-row:hover .navtl-name{ color:var(--ink) }
 
   /* Glossary */
   #glossaryView{ max-width:880px; padding:48px 0 96px }
@@ -310,6 +319,8 @@
       <button class="navrow tab" data-view="glossary" data-glossary="design">Design Terms</button>
       <button class="navrow tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
       <button class="navrow tab" data-view="glossary" data-glossary="ads">Digital Ads</button>
+      <p class="navmenu-group" id="navTlGroup">Jump to a date</p>
+      <div class="navtl" id="navTimeline"></div>
     </nav>
     <button id="navToggle" class="navfab" type="button" aria-expanded="false" aria-controls="navMenu" aria-label="Open navigation">
       <svg class="navfab-ico" viewBox="0 0 24 24" aria-hidden="true">
@@ -401,12 +412,20 @@ function renderFeed(){
     const noun = journalKind === "ad" ? "ad" : (journalKind === "designer" ? "designer" : "website");
     feed.innerHTML = `<div class="empty">No ${noun} studies yet.</div>`;
     rail.innerHTML = ""; document.getElementById("latest").innerHTML = "";
+    renderTimeline([]);
     return;
   }
   document.getElementById("latest").innerHTML = `Latest · <b>${esc(fmtShort(items[0].date))}</b>`;
   feed.innerHTML = items.map(renderEntry).join("");
   rail.innerHTML = items.map((e,i) =>
     `<li><a href="#entry-${i}"><span class="d">${esc(fmtShort(e.date))}</span>${esc(e.site?.name||"")}</a></li>`).join("");
+  renderTimeline(items);
+}
+function renderTimeline(items){
+  const tl = document.getElementById("navTimeline");
+  if(!tl) return;
+  tl.innerHTML = items.map((e,i) =>
+    `<button class="navtl-row" data-entry="${i}"><span class="navtl-date">${esc(fmtShort(e.date))}</span><span class="navtl-name">${esc(e.site?.name||"Untitled")}</span></button>`).join("");
 }
 fetch("./entries.json", {cache:"no-store"})
   .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
@@ -461,6 +480,10 @@ function syncTabUI(){
   document.getElementById("journalView").hidden = !onJournal;
   document.getElementById("glossaryView").hidden = onJournal;
   if (gsearch) gsearch.hidden = onJournal;
+  // Timeline (jump-to-date) only applies to the dated journal feed
+  const tlGroup = document.getElementById("navTlGroup"), tl = document.getElementById("navTimeline");
+  if (tlGroup) tlGroup.hidden = !onJournal;
+  if (tl) tl.hidden = !onJournal;
 }
 function jumpTop(){ const r=document.documentElement, p=r.style.scrollBehavior; r.style.scrollBehavior="auto"; window.scrollTo(0,0); r.style.scrollBehavior=p; }
 function goJournal(kind){
@@ -496,8 +519,17 @@ if (navfab && navToggle){
     navToggle.setAttribute("aria-expanded", String(open));
     navToggle.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
   });
-  // Selecting a destination navigates (handled above) and closes the menu
-  document.getElementById("navMenu").addEventListener("click", e => { if (e.target.closest(".navrow")) closeNav(); });
+  // Timeline tap: jump to that entry; destination rows navigate (handled above). Either way, close.
+  document.getElementById("navMenu").addEventListener("click", e => {
+    const tlRow = e.target.closest(".navtl-row");
+    if (tlRow){
+      closeNav();
+      const target = document.getElementById("entry-" + tlRow.dataset.entry);
+      if (target) requestAnimationFrame(() => target.scrollIntoView({ behavior: "smooth", block: "start" }));
+      return;
+    }
+    if (e.target.closest(".navrow")) closeNav();
+  });
   // Click-away and Escape close it
   document.addEventListener("click", e => { if (!navfab.contains(e.target)) closeNav(); });
   document.addEventListener("keydown", e => { if (e.key === "Escape") closeNav(); });
