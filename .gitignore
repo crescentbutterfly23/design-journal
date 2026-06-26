@@ -3,6 +3,8 @@
 daily-prompt.md
 catchup-check.cjs
 serve.bat
+compress-images.py
+publish.bat
 
 # Temp/merge scratch files
 _*.json
