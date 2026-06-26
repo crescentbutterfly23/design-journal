@@ -63,13 +63,40 @@
     background:none; border:1px solid var(--line); border-radius:999px; padding:8px 18px; cursor:pointer; transition:.18s }
   .tab:hover{ color:var(--ink) }
   .tab.is-active{ background:var(--ink); color:var(--surface); border-color:var(--ink) }
-  /* Floating bottom nav */
-  .tabbar{ position:fixed; left:50%; bottom:18px; transform:translateX(-50%); z-index:90; margin-top:0;
-    flex-wrap:wrap; justify-content:center; max-width:calc(100vw - 24px);
-    background:rgba(255,253,250,.92); -webkit-backdrop-filter:blur(8px); backdrop-filter:blur(8px);
-    border:1px solid var(--line); border-radius:999px; padding:7px; box-shadow:0 12px 30px -10px rgba(27,23,20,.35) }
-  /* On phones the masthead nav becomes the single swipeable strip; the floating bar is redundant there */
-  @media (max-width:600px){ .tabbar{ display:none } }
+  /* Floating navigation launcher (bottom-right, like a support-chat button) */
+  /* z-index scale: content < navfab(200) < lightbox(1000) < library(1100) */
+  .navfab-wrap{ position:fixed; right:max(20px, env(safe-area-inset-right)); bottom:max(20px, env(safe-area-inset-bottom));
+    z-index:200; display:flex; flex-direction:column; align-items:flex-end; gap:12px; pointer-events:none }
+  .navfab{ pointer-events:auto; width:56px; height:56px; border-radius:50%; border:0; cursor:pointer;
+    background:var(--ink); color:var(--surface); display:grid; place-items:center;
+    box-shadow:0 14px 30px -10px rgba(27,23,20,.5), 0 2px 6px rgba(27,23,20,.2);
+    transition:transform .25s cubic-bezier(.2,.8,.2,1), box-shadow .25s }
+  .navfab:hover{ transform:translateY(-2px); box-shadow:0 18px 36px -10px rgba(27,23,20,.55), 0 2px 6px rgba(27,23,20,.2) }
+  .navfab:active{ transform:translateY(0) scale(.95) }
+  .navfab:focus-visible{ outline:2px solid var(--accent); outline-offset:3px }
+  .navfab-ico{ width:24px; height:24px; position:relative }
+  .navfab-ico .ico-grid rect{ fill:currentColor }
+  .navfab-ico .ico-grid, .navfab-ico .ico-close{ transform-origin:center;
+    transition:opacity .2s ease, transform .35s cubic-bezier(.2,.8,.2,1) }
+  .navfab-ico .ico-close{ fill:none; stroke:currentColor; stroke-width:2.4; stroke-linecap:round; opacity:0; transform:rotate(-90deg) }
+  #navfab.open .ico-grid{ opacity:0; transform:rotate(90deg) }
+  #navfab.open .ico-close{ opacity:1; transform:rotate(0) }
+  /* Menu panel — anchored above the launcher */
+  .navmenu{ pointer-events:none; width:248px; max-width:calc(100vw - 40px);
+    background:var(--surface); border:1px solid var(--line); border-radius:18px; padding:8px;
+    box-shadow:var(--shadow), 0 26px 50px -22px rgba(27,23,20,.45);
+    transform-origin:bottom right; opacity:0; visibility:hidden; transform:translateY(10px) scale(.96);
+    transition:opacity .2s ease, transform .3s cubic-bezier(.2,.8,.2,1), visibility .3s }
+  #navfab.open .navmenu{ pointer-events:auto; opacity:1; visibility:visible; transform:translateY(0) scale(1) }
+  .navmenu-group{ font-size:.68rem; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-soft);
+    font-weight:700; margin:10px 11px 5px }
+  .navmenu-group:first-child{ margin-top:4px }
+  .navmenu .navrow{ display:flex; align-items:center; justify-content:space-between; gap:10px; width:100%;
+    text-align:left; background:none; border:0; border-radius:11px; padding:10px 12px; cursor:pointer;
+    font-family:inherit; font-size:.96rem; font-weight:500; color:var(--ink); transition:background .15s, color .15s }
+  .navmenu .navrow:hover{ background:var(--paper) }
+  .navmenu .navrow.is-active{ background:var(--accent-soft); color:var(--accent); font-weight:600 }
+  .navmenu .navrow.is-active::after{ content:""; width:7px; height:7px; border-radius:50%; background:var(--accent) }
 
   /* Glossary */
   #glossaryView{ max-width:880px; padding:48px 0 96px }
@@ -145,15 +172,8 @@
     header.masthead{ padding:42px 0 28px }
     .layout{ padding:30px 0 56px }
     .shot-frame{ max-height:460px }
-    /* Nav: one clean swipeable strip (no wrap, no cut-off) instead of the floating bottom bar */
-    .tabs{ flex-wrap:nowrap; overflow-x:auto; overflow-y:hidden; -webkit-overflow-scrolling:touch;
-      scrollbar-width:none; scroll-snap-type:x proximity; margin-top:20px;
-      padding-bottom:4px; scroll-padding-left:2px;
-      margin-right:calc(-1 * max(32px, env(safe-area-inset-right))); padding-right:max(32px, env(safe-area-inset-right)) }
-    .tabs::-webkit-scrollbar{ display:none }
-    .tabs > *{ flex:0 0 auto; scroll-snap-align:start }
-    .tabs .tab{ font-size:.85rem; padding:8px 15px }
-    .tabs .journal-toggle .jtab{ padding:7px 14px; font-size:.85rem }
+    /* On phones, navigation lives entirely in the floating launcher (bottom-right) */
+    .tabs{ display:none }
   }
 
   /* Date rail */
@@ -279,17 +299,30 @@
 
   <footer><div class="wrap">Design Journal · a personal study log. Principles are also banked into the <code style="all:unset;font-family:inherit;color:var(--accent)">design-inspiration</code> skill for reuse.</div></footer>
 
-  <nav class="tabs tabbar" id="tabsBottom" aria-label="Sections (quick access)">
-    <button class="tab journal-tab-btn" data-view="journal">Daily Journal</button>
-    <span class="journal-toggle" hidden>
-      <button class="tab jtab" data-kind="site">Web Design</button>
-      <button class="tab jtab" data-kind="ad">Digital Ads</button>
-      <button class="tab jtab" data-kind="designer">Designers</button>
-    </span>
-    <button class="tab" data-view="glossary" data-glossary="design">Design Terms</button>
-    <button class="tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
-    <button class="tab" data-view="glossary" data-glossary="ads">Digital Ads</button>
-  </nav>
+  <!-- Floating navigation launcher (bottom-right) -->
+  <div id="navfab" class="navfab-wrap">
+    <nav class="navmenu" id="navMenu" aria-label="Navigate">
+      <p class="navmenu-group">Journal</p>
+      <button class="navrow jtab" data-kind="site">Web Design</button>
+      <button class="navrow jtab" data-kind="ad">Digital Ads</button>
+      <button class="navrow jtab" data-kind="designer">Designers</button>
+      <p class="navmenu-group">Reference</p>
+      <button class="navrow tab" data-view="glossary" data-glossary="design">Design Terms</button>
+      <button class="navrow tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
+      <button class="navrow tab" data-view="glossary" data-glossary="ads">Digital Ads</button>
+    </nav>
+    <button id="navToggle" class="navfab" type="button" aria-expanded="false" aria-controls="navMenu" aria-label="Open navigation">
+      <svg class="navfab-ico" viewBox="0 0 24 24" aria-hidden="true">
+        <g class="ico-grid">
+          <rect x="3.5" y="3.5" width="7.2" height="7.2" rx="2.2"/>
+          <rect x="13.3" y="3.5" width="7.2" height="7.2" rx="2.2"/>
+          <rect x="3.5" y="13.3" width="7.2" height="7.2" rx="2.2"/>
+          <rect x="13.3" y="13.3" width="7.2" height="7.2" rx="2.2"/>
+        </g>
+        <path class="ico-close" d="M6.5 6.5 L17.5 17.5 M17.5 6.5 L6.5 17.5"/>
+      </svg>
+    </button>
+  </div>
 
 <div id="lightbox" aria-hidden="true"><button class="lb-close" aria-label="Close image">&times;</button><img alt=""></div>
 
@@ -446,6 +479,29 @@ document.addEventListener("click", e => {
   const gt = e.target.closest('.tab[data-view="glossary"]'); if (gt){ goGlossary(gt.dataset.glossary); return; }
 });
 syncTabUI();
+
+// ── Floating navigation launcher ──────────────────────────
+const navfab = document.getElementById("navfab");
+const navToggle = document.getElementById("navToggle");
+function closeNav(){
+  if (!navfab.classList.contains("open")) return;
+  navfab.classList.remove("open");
+  navToggle.setAttribute("aria-expanded", "false");
+  navToggle.setAttribute("aria-label", "Open navigation");
+}
+if (navfab && navToggle){
+  navToggle.addEventListener("click", e => {
+    e.stopPropagation();
+    const open = navfab.classList.toggle("open");
+    navToggle.setAttribute("aria-expanded", String(open));
+    navToggle.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
+  });
+  // Selecting a destination navigates (handled above) and closes the menu
+  document.getElementById("navMenu").addEventListener("click", e => { if (e.target.closest(".navrow")) closeNav(); });
+  // Click-away and Escape close it
+  document.addEventListener("click", e => { if (!navfab.contains(e.target)) closeNav(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeNav(); });
+}
 
 // ── Lightbox for glossary term images ─────────────────────
 const lightbox = document.getElementById("lightbox");
