@@ -533,7 +533,6 @@ if (navfab && navToggle){
   // Click-away and Escape close it
   document.addEventListener("click", e => { if (!navfab.contains(e.target)) closeNav(); });
   document.addEventListener("keydown", e => { if (e.key === "Escape") closeNav(); });
-  if (location.search.indexOf("navopen") > -1){ navfab.classList.add("open"); navToggle.setAttribute("aria-expanded","true"); }
 }
 
 // ── Lightbox for glossary term images ─────────────────────
