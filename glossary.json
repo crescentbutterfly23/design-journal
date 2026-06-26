@@ -1,0 +1,1252 @@
+{
+  "glossaries": [
+    {
+      "id": "design",
+      "label": "Design Terms",
+      "intro": "Vocabulary to name what you see — and to pinpoint exactly what you want in your own designs. Includes the techniques and styles behind the sites in the journal.",
+      "categories": [
+        {
+          "name": "Scroll & Motion Techniques",
+          "terms": [
+            {
+              "term": "Scrollytelling",
+              "def": "A page that tells a story as you scroll, with text and visuals changing in sync — great for narrative product walkthroughs.",
+              "example": "Pletor"
+            },
+            {
+              "term": "Sticky / pinned section",
+              "def": "A section stays fixed in place while content or animation plays over it, then the page continues. (Often the ‘scrolling effect’ people can't name.)",
+              "image": "images/diagram-sticky.svg"
+            },
+            {
+              "term": "Scroll scrubbing (scroll-linked animation)",
+              "def": "An animation whose progress is tied to scroll position, so scrolling forward/back plays it forward/back.",
+              "image": "images/term-airpods.png",
+              "exampleUrl": "https://www.apple.com/airpods-pro/",
+              "exampleLabel": "Apple AirPods Pro"
+            },
+            {
+              "term": "Scroll-triggered reveal",
+              "def": "Elements fade, slide, or scale in as they enter the viewport.",
+              "example": "Pletor"
+            },
+            {
+              "term": "Parallax",
+              "def": "Background and foreground layers move at different speeds on scroll, creating depth.",
+              "image": "images/web-parallax.gif"
+            },
+            {
+              "term": "Scroll-jacking",
+              "def": "Overriding normal scrolling to control the pace or snapping of sections — powerful but can hurt usability, so use carefully.",
+              "image": "images/term-locomotive.png",
+              "exampleUrl": "https://locomotive.ca/en",
+              "exampleLabel": "Locomotive"
+            },
+            {
+              "term": "Scroll snap",
+              "def": "The page snaps cleanly to each section as you scroll.",
+              "image": "images/diagram-scroll-snap.svg"
+            },
+            {
+              "term": "Horizontal scroll",
+              "def": "Content that moves sideways, often while the page scrolls down.",
+              "image": "images/term-madewithgsap.png",
+              "exampleUrl": "https://www.madewithgsap.com/",
+              "exampleLabel": "Made With GSAP"
+            },
+            {
+              "term": "Intro animation / preloader",
+              "def": "A short branded animation on first load before content appears (e.g. Steven.com's logo draw-on with a counter).",
+              "example": "Steven.com"
+            },
+            {
+              "term": "Page transition",
+              "def": "An animated change between pages or views instead of an instant cut.",
+              "image": "images/term-dennissnellenberg.png",
+              "exampleUrl": "https://www.dennissnellenberg.com/",
+              "exampleLabel": "Dennis Snellenberg"
+            },
+            {
+              "term": "Staggered reveal",
+              "def": "A list or grid whose items animate in one after another rather than all at once.",
+              "image": "images/diagram-staggered.svg"
+            },
+            {
+              "term": "Kinetic typography",
+              "def": "Text that moves or animates as a design element.",
+              "image": "images/term-obys.png",
+              "exampleUrl": "https://obys.agency/",
+              "exampleLabel": "Obys Agency"
+            },
+            {
+              "term": "Text mask / clip reveal",
+              "def": "Text or images revealed through a moving mask or wipe.",
+              "image": "images/term-obys.png",
+              "exampleUrl": "https://obys.agency/",
+              "exampleLabel": "Obys Agency"
+            },
+            {
+              "term": "Marquee / ticker",
+              "def": "A continuously scrolling strip of text or logos.",
+              "image": "images/term-k72.png",
+              "exampleUrl": "https://k72.ca/en",
+              "exampleLabel": "K72"
+            },
+            {
+              "term": "Magnetic button",
+              "def": "A button that subtly pulls toward the cursor on hover.",
+              "image": "images/term-cuberto.png",
+              "exampleUrl": "https://cuberto.com/",
+              "exampleLabel": "Cuberto"
+            },
+            {
+              "term": "Custom cursor / cursor follower",
+              "def": "A replaced or trailing cursor used as a brand or interaction flourish.",
+              "image": "images/term-cuberto.png",
+              "exampleUrl": "https://cuberto.com/",
+              "exampleLabel": "Cuberto"
+            },
+            {
+              "term": "Hover reveal",
+              "def": "Content (an image, a detail) that appears only on hover.",
+              "image": "images/term-dennissnellenberg.png",
+              "exampleUrl": "https://www.dennissnellenberg.com/",
+              "exampleLabel": "Dennis Snellenberg"
+            },
+            {
+              "term": "Draw-on (SVG)",
+              "def": "A line or logo that appears to draw itself stroke by stroke.",
+              "image": "images/term-gsap-drawsvg.png",
+              "exampleUrl": "https://gsap.com/docs/v3/Plugins/DrawSVGPlugin/",
+              "exampleLabel": "GSAP DrawSVG"
+            },
+            {
+              "term": "Animated gradient / gradient mesh",
+              "def": "A slowly shifting multi-color gradient used as a signature backdrop (e.g. Stripe's hero).",
+              "image": "images/term-animated-gradient.png",
+              "example": "Stripe"
+            }
+          ]
+        },
+        {
+          "name": "Design Styles & Aesthetics",
+          "terms": [
+            {
+              "term": "Minimalist",
+              "def": "Stripped-back: lots of whitespace, few elements, restrained color.",
+              "example": "Emil Kowalski"
+            },
+            {
+              "term": "Editorial",
+              "def": "Magazine-like — strong typography, columns, generous space, often serif/display type.",
+              "example": "Aesop"
+            },
+            {
+              "term": "Brutalist",
+              "def": "Raw, high-contrast, system fonts, exposed structure, intentionally ‘undesigned.’",
+              "image": "images/term-brutalistwebsites.png",
+              "exampleUrl": "https://brutalistwebsites.com/",
+              "exampleLabel": "Brutalist Websites"
+            },
+            {
+              "term": "Maximalist",
+              "def": "Bold, dense, layered — lots of color and decoration.",
+              "image": "images/term-liquiddeath.png",
+              "exampleUrl": "https://liquiddeath.com/",
+              "exampleLabel": "Liquid Death"
+            },
+            {
+              "term": "Swiss / International typographic style",
+              "def": "Grid-based, clean sans-serif, objective and highly ordered.",
+              "image": "images/term-swissted.png",
+              "exampleUrl": "https://www.swissted.com/",
+              "exampleLabel": "Swissted"
+            },
+            {
+              "term": "Glassmorphism",
+              "def": "Frosted, semi-transparent ‘glass’ panels with background blur.",
+              "image": "images/term-apple-ios.png",
+              "exampleUrl": "https://www.apple.com/os/ios/",
+              "exampleLabel": "Apple iOS"
+            },
+            {
+              "term": "Neumorphism",
+              "def": "Soft, extruded shapes that look pressed into or out of the background.",
+              "image": "images/term-neumorphism-ui.png",
+              "exampleUrl": "https://demo.themesberg.com/neumorphism-ui/",
+              "exampleLabel": "Neumorphism UI"
+            },
+            {
+              "term": "Bento grid",
+              "def": "A grid of varied-size boxes, like a bento tray, each holding one feature.",
+              "image": "images/term-apple-watch.png",
+              "exampleUrl": "https://www.apple.com/apple-watch-series-10/",
+              "exampleLabel": "Apple Watch"
+            },
+            {
+              "term": "Broken / asymmetric grid",
+              "def": "Deliberately off-grid, overlapping, or asymmetric layouts for energy.",
+              "image": "images/diagram-broken-grid.svg"
+            },
+            {
+              "term": "Full-bleed",
+              "def": "Imagery or color that runs edge to edge with no margins.",
+              "image": "images/diagram-full-bleed.svg"
+            },
+            {
+              "term": "Split-screen",
+              "def": "The viewport divided into two strong halves.",
+              "image": "images/diagram-split-screen.svg"
+            },
+            {
+              "term": "Color-drenched",
+              "def": "One saturated color floods the whole surface.",
+              "image": "images/term-color-drenched.png",
+              "exampleUrl": "https://cash.app/",
+              "exampleLabel": "Cash App"
+            },
+            {
+              "term": "Dark mode",
+              "def": "A dark background with light text and content.",
+              "example": "Linear"
+            },
+            {
+              "term": "Cinematic",
+              "def": "Moody, photographic, film-like — strong imagery, deep contrast, sparse type (e.g. Aperture).",
+              "example": "Aperture Global Real Estate"
+            }
+          ]
+        },
+        {
+          "name": "Hero & Type Treatments",
+          "terms": [
+            {
+              "term": "Hand-lettered / brush-script hero",
+              "def": "An oversized hand-drawn or brush-script word as the hero focal point — expressive and organic; adds personality and energy (good for lifestyle, sport, or craft brands).",
+              "image": "images/type-hand-lettered.jpg"
+            },
+            {
+              "term": "Oversized display type",
+              "def": "A massive, heavy display word dominating the hero, often bigger than the imagery — an instant, confident statement of the brand's voice.",
+              "image": "images/type-oversized-display.jpg"
+            },
+            {
+              "term": "Editorial type hero",
+              "def": "A magazine-style hero: multi-column text, refined serif or grotesk, small eyebrow labels, and lots of restraint — reads intellectual and premium.",
+              "image": "images/type-editorial.jpg"
+            },
+            {
+              "term": "Type behind image",
+              "def": "A large headline sits behind the subject or product, which overlaps and pops in front — creates depth and literally ties the word to the product.",
+              "image": "images/type-behind-image.jpg"
+            },
+            {
+              "term": "Outlined / stroke type",
+              "def": "A headline set in outline only (stroke, no fill) for a lighter, graphic, architectural feel.",
+              "image": "images/diagram-outlined-type.svg"
+            },
+            {
+              "term": "Split / interrupted type",
+              "def": "A word broken or interrupted by an image, a line, or the edge of the frame, implying the brand is bigger than the canvas.",
+              "image": "images/diagram-split-type.svg"
+            }
+          ]
+        },
+        {
+          "name": "Layout & Structure",
+          "terms": [
+            {
+              "term": "Grid",
+              "def": "An invisible framework of columns and rows used to align elements consistently.",
+              "image": "images/term-grid.png",
+              "example": "21st.dev"
+            },
+            {
+              "term": "Column / Gutter",
+              "def": "Columns are the vertical divisions of a grid; the gutter is the gap between them.",
+              "image": "images/diagram-column-gutter.svg"
+            },
+            {
+              "term": "Whitespace (negative space)",
+              "def": "The empty space around and between elements; it gives a design room to breathe and guides focus.",
+              "example": "Emil Kowalski"
+            },
+            {
+              "term": "Visual hierarchy",
+              "def": "The order in which the eye notices things, created with size, weight, color, and spacing.",
+              "example": "Linear"
+            },
+            {
+              "term": "Alignment",
+              "def": "Lining elements up to a shared edge or axis so a layout feels intentional.",
+              "image": "images/diagram-alignment.svg"
+            },
+            {
+              "term": "Above the fold",
+              "def": "The part of a page visible before scrolling — prime real estate for the key message.",
+              "image": "images/diagram-above-fold.svg"
+            },
+            {
+              "term": "Container / max-width",
+              "def": "A wrapper that caps how wide content gets so lines stay readable on large screens.",
+              "image": "images/diagram-container.svg"
+            },
+            {
+              "term": "Full-bleed vs contained",
+              "def": "Whether an element spans the whole viewport or sits inside the centered content column.",
+              "example": "Aperture Global Real Estate"
+            }
+          ]
+        },
+        {
+          "name": "Typography",
+          "terms": [
+            {
+              "term": "Typeface vs Font",
+              "def": "A typeface is the design (e.g. Helvetica); a font is a specific style/size of it.",
+              "image": "images/diagram-typeface-font.svg"
+            },
+            {
+              "term": "Serif / Sans-serif",
+              "def": "Serifs are the small feet on letters; sans-serif faces have none and read as more modern.",
+              "image": "images/term-serif.png",
+              "example": "Aesop"
+            },
+            {
+              "term": "Weight",
+              "def": "How thick the strokes are — Light, Regular, Bold, etc.",
+              "image": "images/term-weight.png",
+              "example": "Linear"
+            },
+            {
+              "term": "Leading (line-height)",
+              "def": "The vertical space between lines of text.",
+              "image": "images/diagram-leading.svg"
+            },
+            {
+              "term": "Tracking (letter-spacing)",
+              "def": "The uniform spacing applied between all letters in a block of text.",
+              "image": "images/diagram-tracking.svg"
+            },
+            {
+              "term": "Kerning",
+              "def": "Adjusting the space between specific letter pairs for even spacing.",
+              "image": "images/web-kerning.png"
+            },
+            {
+              "term": "Measure (line length)",
+              "def": "How many characters fit on a line; roughly 45–75 is most readable.",
+              "image": "images/diagram-measure.svg"
+            },
+            {
+              "term": "Type scale",
+              "def": "A set of harmonious font sizes used consistently across a design.",
+              "image": "images/diagram-type-scale.svg"
+            },
+            {
+              "term": "Display vs Body",
+              "def": "Display type is large and characterful (headlines); body type is set for comfortable reading.",
+              "image": "images/term-display-vs-body.png",
+              "example": "Vercel"
+            }
+          ]
+        },
+        {
+          "name": "Color",
+          "terms": [
+            {
+              "term": "Palette",
+              "def": "The limited, deliberate set of colors a design uses.",
+              "image": "images/diagram-palette.svg"
+            },
+            {
+              "term": "Accent color",
+              "def": "A single stronger color reserved for the most important actions, used sparingly.",
+              "example": "Linear"
+            },
+            {
+              "term": "Hue / Saturation / Lightness",
+              "def": "A color's base tone, its intensity, and how light or dark it is.",
+              "image": "images/web-hsl.png"
+            },
+            {
+              "term": "Tint / Shade",
+              "def": "A color mixed with white (tint) or black (shade).",
+              "image": "images/web-tint-shade.png"
+            },
+            {
+              "term": "Contrast ratio",
+              "def": "A legibility measure between text and background; WCAG AA needs ≥4.5:1 for body text.",
+              "image": "images/diagram-contrast.svg"
+            },
+            {
+              "term": "Monochrome / Near-monochrome",
+              "def": "A palette built from one hue (plus neutrals), letting weight and space carry hierarchy (e.g. Linear).",
+              "example": "Linear"
+            }
+          ]
+        },
+        {
+          "name": "Spacing & Rhythm",
+          "terms": [
+            {
+              "term": "Padding vs Margin",
+              "def": "Padding is space inside an element's edge; margin is space outside it.",
+              "image": "images/web-box-model.png"
+            },
+            {
+              "term": "Spacing scale",
+              "def": "A consistent set of spacing values (e.g. 4 / 8 / 16 / 24 / 32px) reused everywhere.",
+              "image": "images/diagram-spacing-scale.svg"
+            },
+            {
+              "term": "Vertical rhythm",
+              "def": "Consistent vertical spacing that makes a page feel even and calm.",
+              "example": "Vercel"
+            },
+            {
+              "term": "Density",
+              "def": "How much content is packed into a given amount of space.",
+              "image": "images/diagram-density.svg"
+            }
+          ]
+        },
+        {
+          "name": "Components & UI Patterns",
+          "terms": [
+            {
+              "term": "Hero",
+              "def": "The large, attention-grabbing section at the top of a page.",
+              "image": "images/term-hero.png",
+              "example": "Stripe"
+            },
+            {
+              "term": "CTA (Call to Action)",
+              "def": "The button or link prompting the main action, e.g. ‘Get started’.",
+              "image": "images/term-cta.png",
+              "example": "Pletor"
+            },
+            {
+              "term": "Card",
+              "def": "A contained block grouping related content (image, title, text).",
+              "image": "images/term-card.png",
+              "example": "21st.dev"
+            },
+            {
+              "term": "Modal / Dialog",
+              "def": "A focused window that appears over the page to capture attention or input.",
+              "image": "images/diagram-modal.svg"
+            },
+            {
+              "term": "Accordion",
+              "def": "A list of sections that expand and collapse to reveal content.",
+              "example": "Aesop"
+            },
+            {
+              "term": "Carousel",
+              "def": "A rotating set of slides or items shown in one space.",
+              "image": "images/term-carousel.png",
+              "example": "Mercury"
+            },
+            {
+              "term": "Eyebrow / Kicker",
+              "def": "A small label above a heading giving context — overused, so use sparingly.",
+              "image": "images/term-eyebrow.png",
+              "example": "Vercel"
+            },
+            {
+              "term": "Curation rows",
+              "def": "Named horizontal rows (Newest / Popular / themed) that frame a big catalog as a browsable feed (e.g. 21st.dev).",
+              "image": "images/term-curation-rows.png",
+              "example": "21st.dev"
+            },
+            {
+              "term": "Command palette",
+              "def": "A keyboard-driven search/action menu (often ⌘K), common in pro tools.",
+              "image": "images/term-command-palette.png",
+              "example": "21st.dev"
+            },
+            {
+              "term": "Filmstrip / thumbnail strip",
+              "def": "A row of small preview thumbnails under a gallery or lightbox that shows every item and lets you jump straight to any one — also called a thumbnail rail or scrubber.",
+              "image": "images/diagram-filmstrip.svg"
+            }
+          ]
+        },
+        {
+          "name": "UX & Process",
+          "terms": [
+            {
+              "term": "UX vs UI",
+              "def": "UX is how it works and feels (the experience); UI is how it looks (the surface).",
+              "image": "images/diagram-ux-ui.svg"
+            },
+            {
+              "term": "Information architecture (IA)",
+              "def": "How content is organized, structured, and labeled.",
+              "image": "images/term-ia.png",
+              "example": "21st.dev"
+            },
+            {
+              "term": "Wireframe",
+              "def": "A low-detail, gray-box blueprint of a layout.",
+              "image": "images/web-wireframe.png"
+            },
+            {
+              "term": "Mockup",
+              "def": "A high-detail static visual of the finished design.",
+              "image": "images/diagram-mockup.svg"
+            },
+            {
+              "term": "Prototype",
+              "def": "A clickable, interactive version used to test flows.",
+              "image": "images/diagram-prototype.svg"
+            },
+            {
+              "term": "Fidelity (lo-fi / hi-fi)",
+              "def": "How finished and detailed a design artifact is.",
+              "image": "images/diagram-fidelity.svg"
+            },
+            {
+              "term": "User flow",
+              "def": "The path a user takes to complete a task.",
+              "image": "images/diagram-user-flow.svg"
+            },
+            {
+              "term": "Affordance",
+              "def": "A visual cue that signals how something works (a button that looks pressable).",
+              "image": "images/web-affordance.jpg"
+            },
+            {
+              "term": "Progressive disclosure",
+              "def": "Revealing information gradually so users aren't overwhelmed.",
+              "image": "images/diagram-progressive-disclosure.svg"
+            },
+            {
+              "term": "Cognitive load",
+              "def": "The mental effort a design demands; less is usually better.",
+              "image": "images/diagram-cognitive-load.svg"
+            }
+          ]
+        },
+        {
+          "name": "Design Systems & Tools",
+          "terms": [
+            {
+              "term": "Design system",
+              "def": "A documented set of reusable components, rules, and styles that keep a product consistent.",
+              "exampleUrl": "https://m3.material.io/",
+              "exampleLabel": "Material Design 3",
+              "image": "images/term-ds-material.png"
+            },
+            {
+              "term": "Design tokens",
+              "def": "Named values (colors, spacing, fonts) stored once and reused everywhere.",
+              "exampleUrl": "https://styledictionary.com/",
+              "exampleLabel": "Style Dictionary",
+              "image": "images/term-ds-tokens.png"
+            },
+            {
+              "term": "Style guide",
+              "def": "Documentation of how a brand's visuals and voice should be used.",
+              "exampleUrl": "https://polaris.shopify.com/foundations/design",
+              "exampleLabel": "Shopify Polaris",
+              "image": "images/term-ds-styleguide.png"
+            },
+            {
+              "term": "Component library",
+              "def": "A collection of pre-built, reusable UI pieces.",
+              "exampleUrl": "https://ui.shadcn.com/",
+              "exampleLabel": "shadcn/ui",
+              "image": "images/term-ds-complib.png"
+            },
+            {
+              "term": "Figma",
+              "def": "The industry-standard collaborative interface-design tool.",
+              "exampleUrl": "https://www.figma.com/",
+              "exampleLabel": "Figma",
+              "image": "images/term-ds-figma.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "webtech",
+      "label": "Web Tech Basics",
+      "intro": "The technical building blocks behind every website — enough to understand how your designs actually get built and to talk to developers (or to me).",
+      "categories": [
+        {
+          "name": "HTML Basics",
+          "terms": [
+            {
+              "term": "HTML",
+              "def": "The markup language that structures a web page's content.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+              "exampleLabel": "MDN: HTML"
+            },
+            {
+              "term": "Element / Tag",
+              "def": "The building blocks of HTML, written with tags like <p>…</p>.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+              "exampleLabel": "MDN: HTML elements"
+            },
+            {
+              "term": "Attribute",
+              "def": "Extra info on a tag (e.g. href on a link, alt on an image).",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes",
+              "exampleLabel": "MDN: HTML attributes"
+            },
+            {
+              "term": "Semantic HTML",
+              "def": "Using meaningful tags (<header>, <nav>, <article>) so structure is clear to browsers and screen readers.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics",
+              "exampleLabel": "MDN: Semantics"
+            },
+            {
+              "term": "Heading hierarchy (h1–h6)",
+              "def": "Ranked headings that outline a page; one h1 per page is best practice.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+              "exampleLabel": "MDN: h1–h6 headings"
+            },
+            {
+              "term": "div / span",
+              "def": "Generic containers: div for blocks, span for inline bits.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div",
+              "exampleLabel": "MDN: div"
+            },
+            {
+              "term": "Anchor (link)",
+              "def": "The <a> tag that links to other pages or sections.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a",
+              "exampleLabel": "MDN: a (anchor)"
+            },
+            {
+              "term": "Image (img + alt)",
+              "def": "Embeds a picture; alt text describes it for accessibility and SEO.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img",
+              "exampleLabel": "MDN: img + alt"
+            },
+            {
+              "term": "Form / Input",
+              "def": "Elements that collect user data — text fields, checkboxes, buttons.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form",
+              "exampleLabel": "MDN: form"
+            }
+          ]
+        },
+        {
+          "name": "CSS Basics",
+          "terms": [
+            {
+              "term": "CSS",
+              "def": "The language that styles HTML: colors, spacing, layout, and type.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+              "exampleLabel": "MDN: CSS"
+            },
+            {
+              "term": "Selector",
+              "def": "The part of a CSS rule that targets which elements to style.",
+              "exampleUrl": "https://flukeout.github.io/",
+              "exampleLabel": "CSS Diner",
+              "image": "images/term-wt-cssdiner.png"
+            },
+            {
+              "term": "Class / ID",
+              "def": "Hooks for styling: classes are reusable, IDs are unique to one element.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",
+              "exampleLabel": "MDN: class selectors"
+            },
+            {
+              "term": "Box model",
+              "def": "Every element is a box made of content, padding, border, and margin.",
+              "image": "images/web-box-model.png",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+              "exampleLabel": "MDN: box model"
+            },
+            {
+              "term": "Display",
+              "def": "How an element lays out: block, inline, flex, grid, or none.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
+              "exampleLabel": "MDN: display"
+            },
+            {
+              "term": "Pseudo-class",
+              "def": "A state-based selector like :hover or :focus.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes",
+              "exampleLabel": "MDN: pseudo-classes"
+            },
+            {
+              "term": "Custom properties (CSS variables)",
+              "def": "Reusable values like --color-brand defined once and used everywhere.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties",
+              "exampleLabel": "MDN: CSS variables"
+            },
+            {
+              "term": "Transition / Transform",
+              "def": "Smoothly animate changes; move, scale, or rotate elements.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform",
+              "exampleLabel": "MDN: transform"
+            },
+            {
+              "term": "Overflow",
+              "def": "What happens when content is bigger than its box — scroll, hidden, or visible.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow",
+              "exampleLabel": "MDN: overflow"
+            }
+          ]
+        },
+        {
+          "name": "Layout & Responsive (CSS)",
+          "terms": [
+            {
+              "term": "Flexbox",
+              "def": "A 1-dimensional layout system for arranging items in a row or a column.",
+              "image": "images/diagram-flexbox.svg",
+              "exampleUrl": "https://flexboxfroggy.com/",
+              "exampleLabel": "Flexbox Froggy"
+            },
+            {
+              "term": "CSS Grid",
+              "def": "A 2-dimensional layout system for rows and columns together.",
+              "image": "images/diagram-grid.svg",
+              "exampleUrl": "https://cssgridgarden.com/",
+              "exampleLabel": "Grid Garden"
+            },
+            {
+              "term": "Position",
+              "def": "relative / absolute / fixed / sticky control where an element sits.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+              "exampleLabel": "MDN: position"
+            },
+            {
+              "term": "Units (px / rem / em / % / vw / vh / ch)",
+              "def": "Ways to size things; rem scales with the root font size, vw/vh with the viewport.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units",
+              "exampleLabel": "MDN: values & units"
+            },
+            {
+              "term": "clamp()",
+              "def": "Sets a value that flexes between a minimum and maximum — great for fluid type.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/clamp",
+              "exampleLabel": "MDN: clamp()"
+            },
+            {
+              "term": "Media query",
+              "def": "A rule that applies styles only at certain screen sizes (breakpoints).",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries",
+              "exampleLabel": "MDN: media queries"
+            },
+            {
+              "term": "Breakpoint",
+              "def": "A screen width at which the layout changes.",
+              "image": "images/diagram-breakpoint.svg",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+              "exampleLabel": "MDN: responsive design"
+            },
+            {
+              "term": "Viewport meta tag",
+              "def": "The line in the HTML head that makes a page scale correctly on mobile.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag",
+              "exampleLabel": "MDN: viewport meta"
+            },
+            {
+              "term": "Mobile-first",
+              "def": "Writing base styles for small screens, then adding for larger ones.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+              "exampleLabel": "MDN: mobile-first"
+            }
+          ]
+        },
+        {
+          "name": "How Websites Work",
+          "terms": [
+            {
+              "term": "Domain",
+              "def": "The site's address, e.g. yoursite.com.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Glossary/Domain_name",
+              "exampleLabel": "MDN: domain name"
+            },
+            {
+              "term": "Hosting / Server",
+              "def": "The computer that stores and serves your site's files to visitors.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server",
+              "exampleLabel": "MDN: web server"
+            },
+            {
+              "term": "Frontend vs Backend",
+              "def": "Frontend is what users see and interact with; backend is the server and data behind it.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview",
+              "exampleLabel": "MDN: client-server"
+            },
+            {
+              "term": "DOM",
+              "def": "The browser's live, tree-shaped model of the page that JavaScript can read and change.",
+              "image": "images/web-dom.png",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Glossary/DOM",
+              "exampleLabel": "MDN: DOM"
+            },
+            {
+              "term": "JavaScript",
+              "def": "The language that makes pages interactive.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+              "exampleLabel": "MDN: JavaScript"
+            },
+            {
+              "term": "Framework (React / Vue)",
+              "def": "Tools that help build complex interfaces from reusable components.",
+              "exampleUrl": "https://react.dev/",
+              "exampleLabel": "React.dev",
+              "image": "images/term-wt-react.png"
+            },
+            {
+              "term": "Component",
+              "def": "A reusable, self-contained piece of UI.",
+              "exampleUrl": "https://react.dev/learn/your-first-component",
+              "exampleLabel": "React: components"
+            },
+            {
+              "term": "API",
+              "def": "A way for software to request data or actions from another system.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Glossary/API",
+              "exampleLabel": "MDN: API"
+            },
+            {
+              "term": "Git",
+              "def": "Version control that tracks changes and lets people collaborate without overwriting each other.",
+              "exampleUrl": "https://git-scm.com/",
+              "exampleLabel": "git-scm.com"
+            },
+            {
+              "term": "Browser dev tools",
+              "def": "Built-in browser panels for inspecting and tweaking a page live.",
+              "exampleUrl": "https://developer.chrome.com/docs/devtools",
+              "exampleLabel": "Chrome DevTools"
+            }
+          ]
+        },
+        {
+          "name": "Files, Assets & Performance",
+          "terms": [
+            {
+              "term": "Vector vs Raster",
+              "def": "Vectors (SVG) scale infinitely; rasters (JPG/PNG) are fixed pixel grids.",
+              "image": "images/web-vector-raster.png",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types",
+              "exampleLabel": "MDN: image types"
+            },
+            {
+              "term": "SVG",
+              "def": "Scalable vector graphic — ideal for logos and icons.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/SVG",
+              "exampleLabel": "MDN: SVG"
+            },
+            {
+              "term": "PNG / JPEG / WebP",
+              "def": "Image formats: PNG for crisp/transparent, JPEG for photos, WebP for smaller modern files.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types",
+              "exampleLabel": "MDN: image formats"
+            },
+            {
+              "term": "Favicon",
+              "def": "The little icon shown in the browser tab.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link",
+              "exampleLabel": "MDN: link (favicon)"
+            },
+            {
+              "term": "Web font (woff2)",
+              "def": "A compressed font format made for fast loading on the web.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts",
+              "exampleLabel": "MDN: web fonts"
+            },
+            {
+              "term": "Compression / Optimization",
+              "def": "Shrinking files so pages load faster.",
+              "exampleUrl": "https://web.dev/learn/images",
+              "exampleLabel": "web.dev: Learn Images"
+            },
+            {
+              "term": "Lighthouse",
+              "def": "A built-in browser tool that scores page speed, accessibility, and SEO.",
+              "exampleUrl": "https://pagespeed.web.dev/",
+              "exampleLabel": "PageSpeed Insights",
+              "image": "images/term-wt-pagespeed.png"
+            },
+            {
+              "term": "Accessibility / ARIA",
+              "def": "Making sites usable for everyone, including people using assistive technology.",
+              "exampleUrl": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+              "exampleLabel": "MDN: ARIA"
+            },
+            {
+              "term": "SEO (basics)",
+              "def": "Practices that help a page rank in search results.",
+              "exampleUrl": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+              "exampleLabel": "Google: SEO starter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ads",
+      "label": "Digital Ads",
+      "intro": "How digital advertising works — formats, sizes, the anatomy of a strong ad, the platforms and auction behind it, and the metrics that judge it.",
+      "categories": [
+        {
+          "name": "Ad Formats",
+          "terms": [
+            {
+              "term": "Display / banner ad",
+              "def": "A static or animated image ad placed in a slot on a webpage.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Web_banner",
+              "exampleLabel": "Wikipedia: Web banner"
+            },
+            {
+              "term": "Native ad",
+              "def": "An ad styled to match the surrounding content so it feels in-context.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Native_advertising",
+              "exampleLabel": "Wikipedia: Native ads"
+            },
+            {
+              "term": "Social feed ad",
+              "def": "An ad that appears inline in a social feed (Instagram, Facebook, LinkedIn).",
+              "exampleUrl": "https://www.facebook.com/ads/library/",
+              "exampleLabel": "Meta Ad Library",
+              "image": "images/term-ad-adlibrary.png"
+            },
+            {
+              "term": "Story / Reel ad",
+              "def": "A full-screen vertical (9:16) ad shown between stories or short videos.",
+              "exampleUrl": "https://www.facebook.com/business/help/980593475366490",
+              "exampleLabel": "Meta: Stories/Reels"
+            },
+            {
+              "term": "Video ad",
+              "def": "A video that plays before (pre-roll), during (mid-roll), or after content.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Video_advertising",
+              "exampleLabel": "Wikipedia: Video ads"
+            },
+            {
+              "term": "Carousel ad",
+              "def": "A swipeable series of images or cards inside one ad unit.",
+              "exampleUrl": "https://www.facebook.com/business/ads/ad-formats",
+              "exampleLabel": "Meta: Ad formats"
+            },
+            {
+              "term": "Interstitial",
+              "def": "A full-screen ad that covers the app or page at a natural break.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Interstitial_webpage",
+              "exampleLabel": "Wikipedia: Interstitial"
+            },
+            {
+              "term": "Rich media / HTML5 ad",
+              "def": "An interactive, animated ad (expandable or playable) built in HTML5.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/1722124",
+              "exampleLabel": "Google Ads Help"
+            },
+            {
+              "term": "Search ad",
+              "def": "A text ad shown above the organic results for a search query.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Search_advertising",
+              "exampleLabel": "Wikipedia: Search ads"
+            },
+            {
+              "term": "Shopping ad",
+              "def": "A product ad with image, price, and merchant shown in search or a marketplace.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/2454022",
+              "exampleLabel": "Google Ads Help"
+            }
+          ]
+        },
+        {
+          "name": "Common Sizes (IAB)",
+          "terms": [
+            {
+              "term": "Tablet Portrait (768x1024)",
+              "def": "Full-page portrait unit sized for tablets held upright (e.g. iPad).",
+              "image": "images/diagram-ad-sizes.svg",
+              "exampleUrl": "https://support.google.com/google-ads/answer/7031480",
+              "exampleLabel": "Google ad sizes"
+            },
+            {
+              "term": "Tablet Landscape (1024x768)",
+              "def": "Full-page landscape unit for tablets held sideways.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/7031480",
+              "exampleLabel": "Google ad sizes"
+            },
+            {
+              "term": "Mobile Landscape (480x320)",
+              "def": "Full-screen interstitial for phones held sideways.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/7031480",
+              "exampleLabel": "Google ad sizes"
+            },
+            {
+              "term": "Billboard (970x250)",
+              "def": "A large, premium banner near the top of a page.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/7031480",
+              "exampleLabel": "Google ad sizes"
+            },
+            {
+              "term": "Mobile Portrait (320x480)",
+              "def": "Full-screen portrait interstitial for phones.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/7031480",
+              "exampleLabel": "Google ad sizes"
+            },
+            {
+              "term": "Half Page (300x600)",
+              "def": "A large, high-impact vertical unit.",
+              "exampleUrl": "https://support.google.com/google-ads/answer/7031480",
+              "exampleLabel": "Google ad sizes"
+            }
+          ]
+        },
+        {
+          "name": "Anatomy of an Ad",
+          "terms": [
+            {
+              "term": "Hook",
+              "def": "The first moment (or first 3 seconds of video) that stops the scroll.",
+              "image": "images/diagram-ad-anatomy.svg",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Narrative_hook",
+              "exampleLabel": "Wikipedia: Narrative hook"
+            },
+            {
+              "term": "Headline",
+              "def": "The single biggest promise or message in the ad.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Headline",
+              "exampleLabel": "Wikipedia: Headline"
+            },
+            {
+              "term": "Hero / product shot",
+              "def": "The main visual — the product, the result, or the feeling.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Web_banner",
+              "exampleLabel": "Wikipedia: Hero image"
+            },
+            {
+              "term": "CTA (Call to Action)",
+              "def": "The button or line telling the viewer exactly what to do ('Shop now').",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Call_to_action_(marketing)",
+              "exampleLabel": "Wikipedia: CTA"
+            },
+            {
+              "term": "Branding / logo",
+              "def": "Clear, consistent brand presence so the ad is attributable at a glance.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Brand",
+              "exampleLabel": "Wikipedia: Brand"
+            },
+            {
+              "term": "Value proposition",
+              "def": "The one reason this is worth a click.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Value_proposition",
+              "exampleLabel": "Wikipedia: Value prop"
+            },
+            {
+              "term": "Social proof",
+              "def": "Ratings, reviews, or recognizable logos that build trust.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Social_proof",
+              "exampleLabel": "Wikipedia: Social proof"
+            },
+            {
+              "term": "Safe zone",
+              "def": "The area kept clear of platform UI overlays (e.g. the Stories caption/CTA strip).",
+              "exampleUrl": "https://www.facebook.com/business/help/980593475366490",
+              "exampleLabel": "Meta: Safe zone"
+            }
+          ]
+        },
+        {
+          "name": "Platforms & Buying",
+          "terms": [
+            {
+              "term": "Google Ads",
+              "def": "Search, Display, YouTube, and Shopping ads across Google's network.",
+              "exampleUrl": "https://ads.google.com/home/",
+              "exampleLabel": "Google Ads",
+              "image": "images/term-ad-googleads.png"
+            },
+            {
+              "term": "Meta Ads",
+              "def": "Facebook and Instagram ads managed in Meta Ads Manager.",
+              "exampleUrl": "https://www.facebook.com/business/ads",
+              "exampleLabel": "Meta Ads",
+              "image": "images/term-ad-metaads.png"
+            },
+            {
+              "term": "Programmatic",
+              "def": "Automated, real-time buying of ad space via software.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Online_advertising",
+              "exampleLabel": "Wikipedia: Programmatic"
+            },
+            {
+              "term": "DSP (Demand-Side Platform)",
+              "def": "The tool advertisers use to buy programmatic inventory.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Demand-side_platform",
+              "exampleLabel": "Wikipedia: DSP"
+            },
+            {
+              "term": "Ad network",
+              "def": "A broker that aggregates and resells ad space across many sites.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Advertising_network",
+              "exampleLabel": "Wikipedia: Ad network"
+            },
+            {
+              "term": "PPC (Pay-Per-Click)",
+              "def": "A model where you pay only when someone clicks.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Pay-per-click",
+              "exampleLabel": "Wikipedia: PPC"
+            },
+            {
+              "term": "Bidding / auction",
+              "def": "Advertisers bid; an auction decides which ad shows and what it costs.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Real-time_bidding",
+              "exampleLabel": "Wikipedia: RTB"
+            }
+          ]
+        },
+        {
+          "name": "Metrics & Performance",
+          "terms": [
+            {
+              "term": "Impressions",
+              "def": "How many times the ad was shown.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Impression_(online_media)",
+              "exampleLabel": "Wikipedia: Impressions"
+            },
+            {
+              "term": "Reach",
+              "def": "How many unique people saw it.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Reach_(advertising)",
+              "exampleLabel": "Wikipedia: Reach"
+            },
+            {
+              "term": "CTR (Click-Through Rate)",
+              "def": "Clicks divided by impressions — how compelling the ad is.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Click-through_rate",
+              "exampleLabel": "Wikipedia: CTR"
+            },
+            {
+              "term": "CPM",
+              "def": "Cost per 1,000 impressions.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Cost_per_mille",
+              "exampleLabel": "Wikipedia: CPM"
+            },
+            {
+              "term": "CPC",
+              "def": "Cost per click.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Pay-per-click",
+              "exampleLabel": "Wikipedia: CPC"
+            },
+            {
+              "term": "CPA",
+              "def": "Cost per acquisition — a sale or signup.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Cost_per_action",
+              "exampleLabel": "Wikipedia: CPA"
+            },
+            {
+              "term": "ROAS (Return on Ad Spend)",
+              "def": "Revenue earned for every dollar spent — the headline efficiency number.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Return_on_marketing_investment",
+              "exampleLabel": "Wikipedia: ROMI/ROAS"
+            },
+            {
+              "term": "Conversion rate",
+              "def": "The share of clicks that complete the goal.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Conversion_marketing",
+              "exampleLabel": "Wikipedia: Conversion"
+            },
+            {
+              "term": "Frequency",
+              "def": "The average number of times one person saw the ad.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Frequency_(marketing)",
+              "exampleLabel": "Wikipedia: Frequency"
+            },
+            {
+              "term": "Viewability",
+              "def": "Whether the ad was actually in view, not just served.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Viewable_impression",
+              "exampleLabel": "Wikipedia: Viewability"
+            }
+          ]
+        },
+        {
+          "name": "Targeting & Tracking",
+          "terms": [
+            {
+              "term": "Audience targeting",
+              "def": "Choosing who sees the ad by demographics, interests, or behavior.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Targeted_advertising",
+              "exampleLabel": "Wikipedia: Targeting"
+            },
+            {
+              "term": "Lookalike audience",
+              "def": "New people who resemble your existing customers.",
+              "exampleUrl": "https://www.facebook.com/business/help/164749007013531",
+              "exampleLabel": "Meta: Lookalike"
+            },
+            {
+              "term": "Retargeting / remarketing",
+              "def": "Re-showing ads to people who already visited you.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Behavioral_retargeting",
+              "exampleLabel": "Wikipedia: Retargeting"
+            },
+            {
+              "term": "Pixel / tag",
+              "def": "A snippet on your site that tracks visits and conversions.",
+              "exampleUrl": "https://www.facebook.com/business/help/742478679120153",
+              "exampleLabel": "Meta: Pixel"
+            },
+            {
+              "term": "UTM parameters",
+              "def": "Tags added to a link that tell analytics where a click came from.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/UTM_parameters",
+              "exampleLabel": "Wikipedia: UTM"
+            },
+            {
+              "term": "Attribution",
+              "def": "Deciding which ad or touchpoint gets credit for a conversion.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Attribution_(marketing)",
+              "exampleLabel": "Wikipedia: Attribution"
+            }
+          ]
+        },
+        {
+          "name": "How Ads Work",
+          "terms": [
+            {
+              "term": "The marketing funnel",
+              "def": "Awareness then Consideration then Conversion — ads are tailored to each stage.",
+              "image": "images/web-funnel.jpg",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Purchase_funnel",
+              "exampleLabel": "Wikipedia: Funnel"
+            },
+            {
+              "term": "Real-time auction",
+              "def": "Each impression is auctioned in milliseconds as the page loads.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Real-time_bidding",
+              "exampleLabel": "Wikipedia: RTB"
+            },
+            {
+              "term": "Landing-page match",
+              "def": "The page after the click should deliver on the ad's promise.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Landing_page",
+              "exampleLabel": "Wikipedia: Landing page"
+            },
+            {
+              "term": "Creative testing (A/B)",
+              "def": "Running variants to find the best-performing creative.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/A/B_testing",
+              "exampleLabel": "Wikipedia: A/B testing"
+            },
+            {
+              "term": "Ad fatigue",
+              "def": "Performance drops as people see the same ad too often; refresh the creative.",
+              "exampleUrl": "https://en.wikipedia.org/wiki/Display_advertising",
+              "exampleLabel": "Wikipedia: Ad fatigue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

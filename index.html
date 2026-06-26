@@ -1,0 +1,545 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<title>Design Journal — a daily study</title>
+<link rel="icon" href="data:,">
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#f6f3ee;        /* warm off-white canvas */
+    --surface:#fffdfa;      /* card */
+    --ink:#1b1714;          /* near-black, warm */
+    --ink-soft:#5a514a;     /* secondary text */
+    --line:#e6ddd2;         /* hairline */
+    --accent:#b3492f;       /* terracotta — single accent */
+    --accent-soft:#f0e3dd;
+    --good:#2f6b4f;         /* for "what works" ticks */
+    --radius:14px;
+    --shadow:0 1px 2px rgba(27,23,20,.04), 0 12px 32px -16px rgba(27,23,20,.18);
+    --maxw:1180px;
+  }
+  *{box-sizing:border-box}
+  [hidden]{ display:none !important }   /* beats .layout's display:grid so view toggling works */
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:"Hanken Grotesk",system-ui,sans-serif;
+    font-size:17px; line-height:1.6; -webkit-font-smoothing:antialiased;
+    padding-bottom:92px;   /* clearance for the floating bottom nav */
+  }
+  a{color:inherit}
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:0 28px}
+
+  /* Masthead */
+  header.masthead{
+    border-bottom:1px solid var(--line);
+    padding:46px 0 30px;
+    background:linear-gradient(180deg,var(--surface),var(--paper));
+  }
+  .masthead .eyebrow{
+    font-size:12px; letter-spacing:.22em; text-transform:uppercase;
+    color:var(--accent); font-weight:600; margin:0 0 12px;
+  }
+  .masthead h1{
+    font-family:"Fraunces",Georgia,serif; font-weight:600;
+    font-size:clamp(2.6rem,6vw,4.4rem); line-height:1.02;
+    letter-spacing:-0.025em; margin:0; text-wrap:balance;
+  }
+  .masthead p.dek{
+    max-width:60ch; color:var(--ink-soft); margin:18px 0 0; font-size:1.05rem;
+  }
+  .masthead .meta{ margin-top:22px; font-size:.9rem; color:var(--ink-soft); display:flex; gap:18px; flex-wrap:wrap }
+  .masthead .meta b{ color:var(--ink); font-weight:600 }
+  .tabs{ display:flex; gap:8px; margin-top:24px }
+  .tab{ font-family:inherit; font-size:.92rem; font-weight:600; color:var(--ink-soft);
+    background:none; border:1px solid var(--line); border-radius:999px; padding:8px 18px; cursor:pointer; transition:.18s }
+  .tab:hover{ color:var(--ink) }
+  .tab.is-active{ background:var(--ink); color:var(--surface); border-color:var(--ink) }
+  /* Floating bottom nav */
+  .tabbar{ position:fixed; left:50%; bottom:18px; transform:translateX(-50%); z-index:90; margin-top:0;
+    flex-wrap:wrap; justify-content:center; max-width:calc(100vw - 24px);
+    background:rgba(255,253,250,.92); -webkit-backdrop-filter:blur(8px); backdrop-filter:blur(8px);
+    border:1px solid var(--line); border-radius:999px; padding:7px; box-shadow:0 12px 30px -10px rgba(27,23,20,.35) }
+  @media (max-width:600px){ .tabbar{ bottom:10px; max-width:94vw } .tabbar .tab{ padding:8px 13px; font-size:.82rem } }
+
+  /* Glossary */
+  #glossaryView{ max-width:880px; padding:48px 0 96px }
+  .gintro{ color:var(--ink-soft); max-width:62ch; margin:0 0 24px; font-size:1.05rem }
+  .gsearch{ width:100%; max-width:420px; padding:12px 16px; font-family:inherit; font-size:1rem; color:var(--ink);
+    border:1px solid var(--line); border-radius:12px; background:var(--surface); margin:20px 0 0 }
+  .gsearch:focus{ outline:none; border-color:var(--accent) }
+  .gcat{ margin-bottom:42px }
+  .gcat h3{ font-family:"Fraunces",Georgia,serif; font-weight:600; font-size:1.5rem; letter-spacing:-0.01em; margin:0 0 18px }
+  dl.gterms{ margin:0; display:grid; gap:18px }
+  dl.gterms .gitem dt{ font-weight:700; font-size:1.02rem; margin-bottom:3px }
+  dl.gterms .gitem dd{ margin:0; color:var(--ink-soft) }
+  .gitem .gthumb{ display:block; margin-top:12px; max-width:150px; border-radius:8px; overflow:hidden; border:1px solid var(--line); box-shadow:var(--shadow); transition:transform .2s ease; cursor:zoom-in }
+  .gitem .gthumb:hover{ transform:translateY(-2px) }
+  .gitem .gthumb img{ display:block; width:100%; height:112px; object-fit:cover; object-position:top center }
+  /* Lightbox overlay */
+  #lightbox{ position:fixed; inset:0; z-index:1000; display:none; background:rgba(20,17,14,.85); overflow:auto; padding:5vmin; cursor:zoom-out }
+  #lightbox.open{ display:block }
+  #lightbox img{ display:block; margin:0 auto; max-width:min(92vw, 1100px); height:auto; border-radius:8px; box-shadow:0 30px 80px -20px rgba(0,0,0,.6); cursor:default }
+  #lightbox .lb-close{ position:fixed; top:16px; right:20px; width:40px; height:40px; font-size:1.7rem; line-height:1; color:#fff; background:rgba(0,0,0,.4); border:0; border-radius:50%; cursor:pointer; z-index:1 }
+
+  /* Glossary head + Library button */
+  .glossary-head{ display:flex; justify-content:space-between; align-items:flex-start; gap:24px }
+  .lib-btn{ flex-shrink:0; font-family:inherit; font-size:.86rem; font-weight:600; color:var(--ink); background:var(--surface);
+    border:1px solid var(--line); border-radius:999px; padding:9px 16px; cursor:pointer; transition:.18s }
+  .lib-btn:hover{ border-color:var(--accent); color:var(--accent) }
+
+  /* Library view (picture-first gallery) */
+  #library{ position:fixed; inset:0; z-index:1100; display:none; background:rgba(20,17,14,.94) }
+  #library.open{ display:flex; align-items:center; justify-content:center; padding-bottom:92px }
+  .lib-strip{ position:fixed; left:0; right:0; bottom:0; z-index:2; display:flex; gap:8px; align-items:center;
+    overflow-x:auto; padding:12px 16px; background:rgba(0,0,0,.38); -webkit-backdrop-filter:blur(6px); backdrop-filter:blur(6px); scrollbar-width:thin }
+  .lib-thumb{ flex:0 0 auto; width:58px; height:42px; padding:0; border:2px solid transparent; border-radius:5px;
+    overflow:hidden; background:none; cursor:pointer; opacity:.5; transition:opacity .15s, border-color .15s }
+  .lib-thumb img{ width:100%; height:100%; object-fit:cover; object-position:top center; display:block }
+  .lib-thumb:hover{ opacity:.85 }
+  .lib-thumb.is-active{ opacity:1; border-color:var(--accent) }
+  .lib-stage{ display:flex; gap:44px; align-items:center; width:min(1120px,92vw); max-height:88vh }
+  .lib-img{ flex:1 1 58%; display:flex; align-items:center; justify-content:center; min-width:0 }
+  .lib-img img{ max-width:100%; max-height:82vh; border-radius:10px; box-shadow:0 30px 80px -20px rgba(0,0,0,.6); background:var(--surface) }
+  .lib-info{ flex:1 1 42%; max-width:380px; color:#ded3c8 }
+  .lib-info .lib-count{ font-size:.78rem; letter-spacing:.14em; color:#b9a89c }
+  .lib-info .lib-cat{ display:block; margin-top:10px; font-size:.74rem; letter-spacing:.16em; text-transform:uppercase; color:var(--accent); font-weight:700 }
+  .lib-info .lib-term{ font-family:"Fraunces",Georgia,serif; font-weight:600; font-size:1.8rem; line-height:1.12; margin:6px 0 12px; color:#fff }
+  .lib-info .lib-def{ margin:0; font-size:1.05rem; line-height:1.6 }
+  .lib-info .lib-see{ display:inline-block; margin-top:18px; color:var(--accent); font-weight:600; text-decoration:none }
+  .lib-info .lib-see:hover{ text-decoration:underline }
+  .lib-close{ position:fixed; top:16px; right:20px; width:42px; height:42px; font-size:1.7rem; line-height:1; color:#fff; background:rgba(255,255,255,.12); border:0; border-radius:50%; cursor:pointer; z-index:2 }
+  .lib-nav{ position:fixed; top:50%; transform:translateY(-50%); width:52px; height:52px; font-size:2rem; line-height:1; color:#fff; background:rgba(255,255,255,.12); border:0; border-radius:50%; cursor:pointer; z-index:2 }
+  .lib-prev{ left:20px } .lib-next{ right:20px }
+  .lib-nav:hover,.lib-close:hover{ background:rgba(255,255,255,.24) }
+  @media (max-width:720px){
+    .lib-stage{ flex-direction:column; gap:18px; width:92vw; max-height:none; overflow:auto; padding:8vh 0 12vh }
+    .lib-img img{ max-height:52vh }
+    .lib-info{ max-width:none; text-align:center }
+    .lib-nav{ top:auto; bottom:84px; transform:none }
+    .lib-prev{ left:24% } .lib-next{ right:24% }
+  }
+  .gex{ display:inline-block; margin-top:6px; font-size:.82rem; font-weight:600; color:var(--accent); text-decoration:none }
+  .gex:hover{ text-decoration:underline }
+  .gempty{ color:var(--ink-soft) }
+
+  /* Layout */
+  .layout{ display:grid; grid-template-columns:220px 1fr; gap:54px; padding:40px 0 96px; }
+  .journal-toggle{ display:inline-flex; gap:0; background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:3px }
+  .journal-toggle .jtab{ border:0; background:none; border-radius:999px; padding:7px 17px; color:var(--ink-soft); transition:.18s }
+  .journal-toggle .jtab:hover{ color:var(--ink) }
+  .journal-toggle .jtab.is-active{ background:var(--ink); color:var(--surface) }
+  @media (max-width:880px){ .layout{ grid-template-columns:1fr; gap:0 } nav.rail{ display:none } }
+  @media (max-width:600px){
+    .wrap{ padding-left:max(32px, env(safe-area-inset-left)); padding-right:max(32px, env(safe-area-inset-right)) }
+    .feed{ padding-left:10px; padding-right:10px }
+    header.masthead{ padding:42px 0 28px }
+    .layout{ padding:30px 0 76px }
+    .shot-frame{ max-height:460px }
+  }
+
+  /* Date rail */
+  nav.rail{ position:sticky; top:28px; align-self:start; }
+  nav.rail .rail-title{ font-size:11px; letter-spacing:.2em; text-transform:uppercase; color:var(--ink-soft); margin:0 0 14px }
+  nav.rail ol{ list-style:none; margin:0; padding:0; border-left:1px solid var(--line) }
+  nav.rail li a{
+    display:block; text-decoration:none; padding:7px 0 7px 16px; margin-left:-1px;
+    border-left:1px solid transparent; color:var(--ink-soft); font-size:.92rem; transition:.18s;
+  }
+  nav.rail li a:hover{ color:var(--ink); border-left-color:var(--accent) }
+  nav.rail li a .d{ display:block; font-weight:600; color:var(--ink) }
+
+  /* Feed */
+  .feed{ max-width:760px }
+  article.entry{ padding-bottom:64px; margin-bottom:64px; border-bottom:1px solid var(--line); scroll-margin-top:24px }
+  article.entry:last-child{ border-bottom:0 }
+  .entry .date{ font-size:.82rem; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-soft); margin:0 0 10px }
+  .entry .date .src{ color:var(--accent); font-weight:600 }
+  .entry h2{
+    font-family:"Fraunces",Georgia,serif; font-weight:600;
+    font-size:clamp(1.9rem,4vw,2.7rem); line-height:1.06; letter-spacing:-0.02em;
+    margin:0; text-wrap:balance;
+  }
+  .entry h2 a{ text-decoration:none; background-image:linear-gradient(var(--accent),var(--accent)); background-size:0% 1.5px; background-repeat:no-repeat; background-position:0 100%; transition:background-size .3s ease }
+  .entry h2 a:hover{ background-size:100% 1.5px }
+  .entry .tagline{ color:var(--ink-soft); margin:6px 0 0; font-size:1.02rem }
+  .entry .when{ display:inline-block; margin:10px 0 0; font-size:.74rem; letter-spacing:.06em; text-transform:uppercase;
+    font-weight:600; color:var(--accent); background:var(--accent-soft); border-radius:999px; padding:4px 11px }
+  .entry .chips{ display:flex; gap:8px; flex-wrap:wrap; margin:18px 0 24px }
+  .chip{ font-size:.74rem; letter-spacing:.04em; text-transform:uppercase; font-weight:600; color:var(--ink-soft);
+    border:1px solid var(--line); border-radius:999px; padding:5px 11px; background:var(--surface) }
+  .chip.cat{ color:var(--accent); border-color:var(--accent-soft); background:var(--accent-soft) }
+  .chip.adbadge{ color:var(--surface); background:var(--accent); border-color:var(--accent) }
+
+  .entry .shot{ margin:4px 0 10px }
+  .shot-frame{ display:block; max-height:540px; overflow-y:auto; border-radius:12px;
+    border:1px solid var(--line); box-shadow:var(--shadow); background:var(--surface); scrollbar-width:thin }
+  .shot-frame img{ display:block; width:100%; height:auto }
+  .shot-bar{ display:flex; align-items:center; gap:18px; margin:10px 2px 30px; font-size:.86rem }
+  .shot-bar a{ color:var(--accent); text-decoration:none; font-weight:600 }
+  .shot-bar a:hover{ text-decoration:underline }
+  .shot-bar .hint{ margin-left:auto; color:var(--ink-soft); font-size:.76rem; letter-spacing:.02em }
+
+  .entry .summary{ font-size:1.12rem; margin:0 0 26px }
+
+  dl.sections{ margin:0 0 30px; display:grid; gap:16px }
+  dl.sections .srow dt{ font-weight:700; font-size:1rem; margin-bottom:3px }
+  dl.sections .srow dd{ margin:0; color:var(--ink-soft) }
+
+  h3.sec{ font-size:.78rem; letter-spacing:.18em; text-transform:uppercase; color:var(--ink-soft); margin:0 0 14px; font-weight:600 }
+  ul.works{ list-style:none; margin:0 0 30px; padding:0; display:grid; gap:12px }
+  ul.works li{ position:relative; padding-left:30px; color:var(--ink) }
+  ul.works li::before{
+    content:""; position:absolute; left:0; top:.5em; width:16px; height:16px;
+    border-radius:50%; background:var(--good);
+    -webkit-mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='white' d='M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4z'/></svg>") center/12px no-repeat;
+            mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='white' d='M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4z'/></svg>") center/12px no-repeat;
+  }
+
+  /* Principle callout */
+  .principle{
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:var(--shadow); padding:28px 30px; margin-top:8px;
+  }
+  .principle .kicker{ font-size:.74rem; letter-spacing:.2em; text-transform:uppercase; color:var(--accent); font-weight:700; margin:0 0 8px }
+  .principle h4{ font-family:"Fraunces",Georgia,serif; font-weight:600; font-size:1.45rem; line-height:1.2; margin:0 0 12px; letter-spacing:-0.01em }
+  .principle p{ margin:0 0 14px; color:var(--ink) }
+  .principle .apply{ border-top:1px solid var(--line); padding-top:14px; margin-top:4px; font-size:.96rem; color:var(--ink-soft) }
+  .principle .apply b{ color:var(--ink); font-weight:600 }
+
+  /* States */
+  .empty,.error{ max-width:560px; color:var(--ink-soft); padding:20px 0 }
+  .error code{ background:var(--accent-soft); color:var(--accent); padding:2px 7px; border-radius:6px; font-size:.88em }
+
+  footer{ border-top:1px solid var(--line); padding:30px 0; color:var(--ink-soft); font-size:.86rem }
+  @media (prefers-reduced-motion:reduce){ *{transition:none!important; scroll-behavior:auto!important} }
+</style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <p class="eyebrow">Design Journal</p>
+      <h1>A daily study of design done well.</h1>
+      <p class="dek">Each morning: one strong website, one well-made ad, and one great designer — broken down, with a single principle worth keeping. A slow, deliberate way to sharpen the eye and build a working library of what good looks like.</p>
+      <div class="meta">
+        <span><b id="count">—</b> entries</span>
+        <span>Updated each morning at <b>9:00</b></span>
+        <span id="latest"></span>
+      </div>
+      <nav class="tabs" id="tabs" aria-label="Views">
+        <button class="tab journal-tab-btn" data-view="journal">Daily Journal</button>
+        <span class="journal-toggle" hidden>
+          <button class="tab jtab" data-kind="site">Web Design</button>
+          <button class="tab jtab" data-kind="ad">Digital Ads</button>
+          <button class="tab jtab" data-kind="designer">Designers</button>
+        </span>
+        <button class="tab" data-view="glossary" data-glossary="design">Design Terms</button>
+        <button class="tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
+        <button class="tab" data-view="glossary" data-glossary="ads">Digital Ads</button>
+      </nav>
+      <input id="glossarySearch" class="gsearch" type="search" placeholder="Search terms…" aria-label="Search terms" hidden />
+    </div>
+  </header>
+
+  <section id="journalView">
+    <div class="wrap layout">
+      <nav class="rail" aria-label="Archive">
+        <p class="rail-title">Archive</p>
+        <ol id="rail"></ol>
+      </nav>
+      <main class="feed" id="feed" aria-live="polite"></main>
+    </div>
+  </section>
+
+  <section class="wrap" id="glossaryView" hidden aria-label="Terms to know">
+    <div class="glossary-head">
+      <p class="gintro" id="gintro"></p>
+      <button id="libBtn" class="lib-btn" type="button">▦ Library view</button>
+    </div>
+    <div id="glossary"></div>
+  </section>
+
+  <footer><div class="wrap">Design Journal · a personal study log. Principles are also banked into the <code style="all:unset;font-family:inherit;color:var(--accent)">design-inspiration</code> skill for reuse.</div></footer>
+
+  <nav class="tabs tabbar" id="tabsBottom" aria-label="Sections (quick access)">
+    <button class="tab journal-tab-btn" data-view="journal">Daily Journal</button>
+    <span class="journal-toggle" hidden>
+      <button class="tab jtab" data-kind="site">Web Design</button>
+      <button class="tab jtab" data-kind="ad">Digital Ads</button>
+      <button class="tab jtab" data-kind="designer">Designers</button>
+    </span>
+    <button class="tab" data-view="glossary" data-glossary="design">Design Terms</button>
+    <button class="tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
+    <button class="tab" data-view="glossary" data-glossary="ads">Digital Ads</button>
+  </nav>
+
+<div id="lightbox" aria-hidden="true"><button class="lb-close" aria-label="Close image">&times;</button><img alt=""></div>
+
+<div id="library" aria-hidden="true">
+  <button class="lib-close" aria-label="Close library">&times;</button>
+  <button class="lib-nav lib-prev" aria-label="Previous term">&lsaquo;</button>
+  <div class="lib-stage">
+    <div class="lib-img"><img alt=""></div>
+    <div class="lib-info">
+      <span class="lib-count"></span>
+      <span class="lib-cat"></span>
+      <h3 class="lib-term"></h3>
+      <p class="lib-def"></p>
+      <a class="lib-see" href="#" hidden></a>
+    </div>
+  </div>
+  <button class="lib-nav lib-next" aria-label="Next term">&rsaquo;</button>
+  <div class="lib-strip" id="libStrip" aria-label="All term previews"></div>
+</div>
+
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmtDate = iso => { try { return new Date(iso+"T00:00:00").toLocaleDateString(undefined,{weekday:"long",year:"numeric",month:"long",day:"numeric"}); } catch { return iso; } };
+const fmtShort = iso => { try { return new Date(iso+"T00:00:00").toLocaleDateString(undefined,{month:"short",day:"numeric"}); } catch { return iso; } };
+
+function renderEntry(e, i){
+  const works = (e.whatWorks||[]).map(w=>`<li>${esc(w)}</li>`).join("");
+  const chips = [
+    e.category ? `<span class="chip cat">${esc(e.category)}</span>` : "",
+    ...(e.tags||[]).map(t=>`<span class="chip">${esc(t)}</span>`)
+  ].join("");
+  const p = e.principle || {};
+  const isDesigner = e.kind === "designer";
+  const liveShot = (e.kind === "ad" || isDesigner) ? "" : `https://image.thum.io/get/fullpage/width/1280/${e.site?.url||""}`;
+  const shotSrc = e.image || liveShot;
+  const sections = (e.sections||[]).map(s=>`<div class="srow"><dt>${esc(s.name)}</dt><dd>${esc(s.notes)}</dd></div>`).join("");
+  const visitTxt = isDesigner ? "Learn more ↗" : (e.kind==="ad" ? "Visit ad ↗" : "Visit site ↗");
+  const secHeading = isDesigner ? "Their process" : (e.kind==="ad" ? "Anatomy of the ad" : "Section by section");
+  const imgAlt = isDesigner ? `Portrait or work — ${e.site?.name||"designer"}` : `Screenshot of ${e.site?.name||"the site"}`;
+  return `<article class="entry" id="entry-${i}" data-site="${esc(e.site?.name||"")}">
+    <p class="date">${esc(fmtDate(e.date))}${e.source==="manual"?` · <span class="src">added by you</span>`:(e.source==="daily"?` · <span class="src">daily pick</span>`:"")}</p>
+    <h2>${e.site?.url ? `<a href="${esc(e.site.url)}" target="_blank" rel="noopener">${esc(e.site?.name||"Untitled")}</a>` : esc(e.site?.name||"Untitled")}</h2>
+    ${e.tagline?`<p class="tagline">${esc(e.tagline)}</p>`:""}
+    ${e.when?`<p class="when">${esc(e.when)}</p>`:""}
+    <div class="chips">${e.kind==="ad"?`<span class="chip adbadge">Digital ad</span>`:""}${isDesigner?`<span class="chip adbadge">Designer</span>`:""}${chips}</div>
+    ${shotSrc ? `<div class="shot">
+      <a class="shot-frame" href="${esc(shotSrc)}" target="_blank" rel="noopener" title="Open full image in a new tab">
+        <img loading="lazy" src="${esc(shotSrc)}" alt="${esc(imgAlt)}"
+             ${liveShot?`onerror="this.onerror=null;this.src='${esc(liveShot)}';this.closest('a').href='${esc(liveShot)}'"`:""}>
+      </a>
+      <div class="shot-bar">
+        ${e.site?.url?`<a href="${esc(e.site.url)}" target="_blank" rel="noopener">${visitTxt}</a>`:""}
+        <a href="${esc(shotSrc)}" target="_blank" rel="noopener">Full image ↗</a>
+        <span class="hint">click to expand · scroll to preview ↕</span>
+      </div>
+    </div>` : (e.kind==="ad" && e.site?.url ? `<p class="shot-bar"><a href="${esc(e.site.url)}" target="_blank" rel="noopener">Visit ad ↗</a><span class="hint">creative not captured — add an image to images/</span></p>` : "")}
+    ${e.summary?`<p class="summary">${esc(e.summary)}</p>`:""}
+    ${works?`<h3 class="sec">${isDesigner?"What to take from them":"What works"}</h3><ul class="works">${works}</ul>`:""}
+    ${sections?`<h3 class="sec">${esc(secHeading)}</h3><dl class="sections">${sections}</dl>`:""}
+    ${p.title?`<div class="principle">
+      <p class="kicker">Principle of the day</p>
+      <h4>${esc(p.title)}</h4>
+      ${p.explanation?`<p>${esc(p.explanation)}</p>`:""}
+      ${p.howToApply?`<p class="apply"><b>How to apply:</b> ${esc(p.howToApply)}</p>`:""}
+    </div>`:""}
+  </article>`;
+}
+
+let journalEntries = [];
+let journalKind = "site";   // "site" | "ad" | "designer"
+function renderFeed(){
+  const items = journalEntries.filter(e => (e.kind || "site") === journalKind);
+  const feed = document.getElementById("feed"), rail = document.getElementById("rail");
+  document.getElementById("count").textContent = items.length;
+  if(!items.length){
+    const noun = journalKind === "ad" ? "ad" : (journalKind === "designer" ? "designer" : "website");
+    feed.innerHTML = `<div class="empty">No ${noun} studies yet.</div>`;
+    rail.innerHTML = ""; document.getElementById("latest").innerHTML = "";
+    return;
+  }
+  document.getElementById("latest").innerHTML = `Latest · <b>${esc(fmtShort(items[0].date))}</b>`;
+  feed.innerHTML = items.map(renderEntry).join("");
+  rail.innerHTML = items.map((e,i) =>
+    `<li><a href="#entry-${i}"><span class="d">${esc(fmtShort(e.date))}</span>${esc(e.site?.name||"")}</a></li>`).join("");
+}
+fetch("./entries.json", {cache:"no-store"})
+  .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    journalEntries = (data.entries||data||[]).slice().sort((a,b)=> a.date===b.date ? 0 : (a.date<b.date?1:-1));
+    if (typeof glossaries !== "undefined" && glossaries[activeGlossary]) renderGlossary();
+    renderFeed();
+  })
+  .catch(err => {
+    document.getElementById("feed").innerHTML =
+      `<div class="error"><p><b>Couldn't load entries.</b></p>
+       <p>This page reads <code>entries.json</code> over HTTP, so it needs to be served — opening the file directly (file://) won't work in most browsers.</p>
+       <p>Run <code>serve.bat</code> in this folder, then visit <code>http://localhost:4173</code>.</p>
+       <p style="opacity:.6">(${esc(err.message)})</p></div>`;
+  });
+
+// ── Glossaries (Design Terms / Web Tech Basics) ───────────
+let glossaries = {};            // id -> { label, intro, categories }
+let activeGlossary = "design";
+function renderGlossary(){
+  const g = glossaries[activeGlossary];
+  const introEl = document.getElementById("gintro");
+  if(introEl) introEl.textContent = g ? (g.intro||"") : "";
+  if(!g){ document.getElementById("glossary").innerHTML = `<p class="gempty">Glossary unavailable.</p>`; return; }
+  const q = (document.getElementById("glossarySearch").value||"").trim().toLowerCase();
+  const html = (g.categories||[]).map(cat => {
+    const items = (cat.terms||[]).filter(t => !q || t.term.toLowerCase().includes(q) || t.def.toLowerCase().includes(q));
+    if(!items.length) return "";
+    return `<section class="gcat"><h3>${esc(cat.name)}</h3><dl class="gterms">${
+      items.map(t => { const pic = t.image || (t.example ? siteImage(t.example) : null); const see = t.exampleUrl ? ` <a class="gex-ext" href="${esc(t.exampleUrl)}" target="_blank" rel="noopener">See it live: ${esc(t.exampleLabel||t.exampleUrl)} ↗</a>` : (t.example ? ` <a class="gex" data-site="${esc(t.example)}" href="#">See it live: ${esc(t.example)} ↗</a>` : ""); return `<div class="gitem"><dt>${esc(t.term)}</dt><dd>${esc(t.def)}${see}</dd>${pic?`<a class="gthumb" href="${esc(pic)}" target="_blank" rel="noopener" title="Open image"><img loading="lazy" src="${esc(pic)}" alt="${esc(t.term)} example"></a>`:""}</div>`; }).join("")
+    }</dl></section>`;
+  }).join("");
+  document.getElementById("glossary").innerHTML = html || `<p class="gempty">No terms match “${esc(q)}”.</p>`;
+}
+fetch("./glossary.json", {cache:"no-store"})
+  .then(r => r.ok ? r.json() : null)
+  .then(data => { ((data && data.glossaries) || []).forEach(g => glossaries[g.id] = g); renderGlossary(); })
+  .catch(() => { document.getElementById("glossary").innerHTML = `<p class="gempty">Couldn't load the glossary.</p>`; });
+
+const gsearch = document.getElementById("glossarySearch");
+if (gsearch) gsearch.addEventListener("input", renderGlossary);
+
+// ── View tabs: Daily Journal pill becomes a Web Design / Digital Ads toggle when active ──
+let currentView = "journal";  // "journal" | "glossary"
+function syncTabUI(){
+  const onJournal = currentView === "journal";
+  document.querySelectorAll(".journal-tab-btn").forEach(b => b.hidden = onJournal);
+  document.querySelectorAll(".journal-toggle").forEach(g => g.hidden = !onJournal);
+  document.querySelectorAll(".jtab").forEach(p => p.classList.toggle("is-active", onJournal && p.dataset.kind === journalKind));
+  document.querySelectorAll('.tab[data-view="glossary"]').forEach(t =>
+    t.classList.toggle("is-active", !onJournal && (t.dataset.glossary||"") === activeGlossary));
+  document.getElementById("journalView").hidden = !onJournal;
+  document.getElementById("glossaryView").hidden = onJournal;
+  if (gsearch) gsearch.hidden = onJournal;
+}
+function jumpTop(){ const r=document.documentElement, p=r.style.scrollBehavior; r.style.scrollBehavior="auto"; window.scrollTo(0,0); r.style.scrollBehavior=p; }
+function goJournal(kind){
+  currentView = "journal";
+  if (kind) journalKind = kind;
+  renderFeed(); syncTabUI(); jumpTop();
+}
+function goGlossary(id){
+  currentView = "glossary"; activeGlossary = id || "design";
+  if (gsearch) gsearch.value = "";
+  renderGlossary(); syncTabUI(); jumpTop();
+}
+document.addEventListener("click", e => {
+  const jt = e.target.closest(".jtab");        if (jt){ goJournal(jt.dataset.kind); return; }
+  const dj = e.target.closest(".journal-tab-btn"); if (dj){ goJournal(); return; }
+  const gt = e.target.closest('.tab[data-view="glossary"]'); if (gt){ goGlossary(gt.dataset.glossary); return; }
+});
+syncTabUI();
+
+// ── Lightbox for glossary term images ─────────────────────
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = lightbox ? lightbox.querySelector("img") : null;
+function openLightbox(src, alt){ if(!lightbox) return; lightboxImg.src = src; lightboxImg.alt = alt || ""; lightbox.classList.add("open"); lightbox.setAttribute("aria-hidden", "false"); }
+function closeLightbox(){ if(!lightbox) return; lightbox.classList.remove("open"); lightbox.setAttribute("aria-hidden", "true"); lightboxImg.removeAttribute("src"); }
+if (lightbox){
+  lightbox.addEventListener("click", e => { if (e.target !== lightboxImg) closeLightbox(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeLightbox(); });
+}
+
+// Feed screenshots → open in the same lightbox
+const feedEl = document.getElementById("feed");
+if (feedEl) feedEl.addEventListener("click", e => {
+  const frame = e.target.closest(".shot-frame");
+  if (!frame) return;
+  e.preventDefault();
+  const im = frame.querySelector("img");
+  openLightbox(frame.getAttribute("href"), im ? im.alt : "");
+});
+
+// ── Glossary clicks: open image in lightbox, or jump to the journal entry ──
+document.getElementById("glossary").addEventListener("click", e => {
+  const thumb = e.target.closest(".gthumb");
+  if (thumb){ e.preventDefault(); const im = thumb.querySelector("img"); openLightbox(thumb.getAttribute("href"), im ? im.alt : ""); return; }
+  const link = e.target.closest(".gex"); if(!link) return;
+  e.preventDefault();
+  const site = link.dataset.site || "";
+  goJournal("site");
+  const target = document.querySelector('#journalView article[data-site="' + site + '"]');
+  if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+});
+
+// ── Library view: flip through terms picture-first ────────
+const library = document.getElementById("library");
+let libItems = [], libIndex = 0;
+function siteImage(name){ const e = journalEntries.find(x => x.site && x.site.name === name); return e ? e.image : null; }
+function buildLibItems(){
+  const g = glossaries[activeGlossary]; libItems = [];
+  if(!g) return;
+  g.categories.forEach(c => c.terms.forEach(t => {
+    const pic = t.image || (t.example ? siteImage(t.example) : null);
+    if (pic) libItems.push({ term: t.term, def: t.def, cat: c.name, pic, example: t.example || null, exampleUrl: t.exampleUrl || null, exampleLabel: t.exampleLabel || null });
+  }));
+}
+const libStrip = document.getElementById("libStrip");
+function buildLibStrip(){
+  if(!libStrip) return;
+  libStrip.innerHTML = libItems.map((it, idx) =>
+    `<button class="lib-thumb" data-i="${idx}" title="${esc(it.term)}"><img src="${esc(it.pic)}" alt=""></button>`).join("");
+}
+function renderLibItem(){
+  if(!library || !libItems.length) return;
+  const it = libItems[libIndex];
+  const img = library.querySelector(".lib-img img");
+  img.src = it.pic; img.alt = it.term;
+  library.querySelector(".lib-count").textContent = (libIndex + 1) + " / " + libItems.length;
+  library.querySelector(".lib-cat").textContent = it.cat;
+  library.querySelector(".lib-term").textContent = it.term;
+  library.querySelector(".lib-def").textContent = it.def;
+  const see = library.querySelector(".lib-see");
+  if (it.exampleUrl){ see.hidden = false; see.textContent = "See it live: " + (it.exampleLabel || it.exampleUrl) + " ↗"; see.dataset.url = it.exampleUrl; see.dataset.site = ""; }
+  else if (it.example){ see.hidden = false; see.textContent = "See it live: " + it.example + " ↗"; see.dataset.site = it.example; see.dataset.url = ""; }
+  else see.hidden = true;
+  if (libStrip){
+    libStrip.querySelectorAll(".lib-thumb").forEach((b, idx) => b.classList.toggle("is-active", idx === libIndex));
+    const act = libStrip.querySelector(".lib-thumb.is-active");
+    if (act) act.scrollIntoView({ inline: "center", block: "nearest" });
+  }
+}
+function openLibrary(){
+  buildLibItems();
+  if(!libItems.length){ alert("No term pictures yet — add example sites or images first."); return; }
+  buildLibStrip();
+  libIndex = 0; renderLibItem();
+  library.classList.add("open"); library.setAttribute("aria-hidden", "false");
+}
+function closeLibrary(){ if(library){ library.classList.remove("open"); library.setAttribute("aria-hidden", "true"); } }
+function libStep(d){ if(!libItems.length) return; libIndex = (libIndex + d + libItems.length) % libItems.length; renderLibItem(); }
+const libBtn = document.getElementById("libBtn");
+if (libBtn) libBtn.addEventListener("click", openLibrary);
+if (library){
+  library.querySelector(".lib-close").addEventListener("click", closeLibrary);
+  library.querySelector(".lib-prev").addEventListener("click", () => libStep(-1));
+  library.querySelector(".lib-next").addEventListener("click", () => libStep(1));
+  if (libStrip) libStrip.addEventListener("click", e => {
+    const b = e.target.closest(".lib-thumb"); if(!b) return;
+    libIndex = +b.dataset.i; renderLibItem();
+  });
+  library.querySelector(".lib-see").addEventListener("click", e => {
+    e.preventDefault();
+    const url = e.currentTarget.dataset.url || "";
+    if (url){ window.open(url, "_blank", "noopener"); return; }
+    const site = e.currentTarget.dataset.site || ""; closeLibrary();
+    goJournal("site");
+    const target = document.querySelector('#journalView article[data-site="' + site + '"]'); if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+  document.addEventListener("keydown", e => {
+    if (!library.classList.contains("open")) return;
+    if (e.key === "Escape") closeLibrary();
+    else if (e.key === "ArrowLeft") libStep(-1);
+    else if (e.key === "ArrowRight") libStep(1);
+  });
+}
+</script>
+</body>
+</html>

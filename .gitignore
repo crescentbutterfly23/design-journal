@@ -1,0 +1,13 @@
+# Local-only workflow files — kept on the maker's machine, not published
+# (they reference local absolute paths and drive the daily automation)
+daily-prompt.md
+catchup-check.cjs
+serve.bat
+
+# Temp/merge scratch files
+_*.json
+
+# OS cruft
+Thumbs.db
+.DS_Store
+desktop.ini
