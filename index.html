@@ -560,6 +560,7 @@ document.addEventListener("click", e => {
   const gt = e.target.closest('.tab[data-view="glossary"]'); if (gt){ goGlossary(gt.dataset.glossary); return; }
 });
 syncTabUI();
+if (location.search.indexOf("exq") > -1) goJournal("exercise");
 
 // ── Floating navigation launcher ──────────────────────────
 const navfab = document.getElementById("navfab");
