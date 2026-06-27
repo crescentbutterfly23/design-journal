@@ -243,6 +243,30 @@
             mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='white' d='M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4z'/></svg>") center/12px no-repeat;
   }
 
+  /* Weekly exercise card */
+  .entry.exercise .ex-skill{ color:var(--ink-soft); margin:0 0 24px }
+  .ex-steps{ margin:0 0 30px; padding-left:1.25em; display:grid; gap:11px; color:var(--ink) }
+  .ex-steps li{ padding-left:6px; line-height:1.55 }
+  .ex-assets{ display:grid; gap:14px; margin-bottom:30px }
+  .asset{ border:1px solid var(--line); border-radius:12px; background:var(--surface); padding:12px 14px }
+  .asset-head{ display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:9px }
+  .asset-label{ font-size:.7rem; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-soft); font-weight:700 }
+  .ex-copy{ font-family:inherit; font-size:.74rem; font-weight:600; color:var(--accent); background:none;
+    border:1px solid var(--line); border-radius:999px; padding:3px 11px; cursor:pointer; transition:.15s; white-space:nowrap }
+  .ex-copy:hover{ border-color:var(--accent) }
+  .asset-text{ margin:0; color:var(--ink); white-space:pre-wrap; line-height:1.6 }
+  .asset-code{ margin:0; padding:13px 14px; background:var(--ink); color:#f3ece4; border-radius:9px; overflow:auto;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.82rem; line-height:1.55 }
+  .asset-code code{ font-family:inherit; white-space:pre }
+  .asset-link{ font-size:.8rem; font-weight:600; color:var(--accent); text-decoration:none }
+  .asset-link:hover{ text-decoration:underline }
+  .asset-note{ margin:0; color:var(--ink-soft); font-size:.9rem }
+  .swatches{ display:flex; flex-wrap:wrap; gap:8px }
+  .swatch{ display:inline-flex; align-items:center; gap:7px; font-family:inherit; font-size:.8rem; color:var(--ink);
+    background:none; border:1px solid var(--line); border-radius:999px; padding:4px 11px 4px 6px; cursor:pointer }
+  .swatch:hover{ border-color:var(--accent) }
+  .swatch-chip{ width:16px; height:16px; border-radius:50%; background:var(--sw); border:1px solid rgba(0,0,0,.14) }
+
   /* Principle callout */
   .principle{
     background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
@@ -279,6 +303,7 @@
           <button class="tab jtab" data-kind="site">Web Design</button>
           <button class="tab jtab" data-kind="ad">Digital Ads</button>
           <button class="tab jtab" data-kind="designer">Designers</button>
+          <button class="tab jtab" data-kind="exercise">Practice</button>
         </span>
         <button class="tab" data-view="glossary" data-glossary="design">Design Terms</button>
         <button class="tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
@@ -315,6 +340,7 @@
       <button class="navrow jtab" data-kind="site">Web Design</button>
       <button class="navrow jtab" data-kind="ad">Digital Ads</button>
       <button class="navrow jtab" data-kind="designer">Designers</button>
+      <button class="navrow jtab" data-kind="exercise">Practice</button>
       <p class="navmenu-group">Reference</p>
       <button class="navrow tab" data-view="glossary" data-glossary="design">Design Terms</button>
       <button class="navrow tab" data-view="glossary" data-glossary="webtech">Web Tech Basics</button>
@@ -360,6 +386,7 @@ const fmtDate = iso => { try { return new Date(iso+"T00:00:00").toLocaleDateStri
 const fmtShort = iso => { try { return new Date(iso+"T00:00:00").toLocaleDateString(undefined,{month:"short",day:"numeric"}); } catch { return iso; } };
 
 function renderEntry(e, i){
+  if (e.kind === "exercise") return renderExercise(e, i);
   const works = (e.whatWorks||[]).map(w=>`<li>${esc(w)}</li>`).join("");
   const chips = [
     e.category ? `<span class="chip cat">${esc(e.category)}</span>` : "",
@@ -402,6 +429,37 @@ function renderEntry(e, i){
   </article>`;
 }
 
+function renderExercise(e, i){
+  const chips = [
+    e.discipline ? `<span class="chip cat">${esc(e.discipline)}</span>` : "",
+    e.tool ? `<span class="chip">${esc(e.tool)}</span>` : "",
+    e.time ? `<span class="chip">${esc(e.time)}</span>` : "",
+    ...(e.tags||[]).map(t=>`<span class="chip">${esc(t)}</span>`)
+  ].join("");
+  const steps = (e.steps||[]).map(s=>`<li>${esc(s)}</li>`).join("");
+  const assets = (e.assets||[]).map(a => {
+    if (a.code != null)
+      return `<div class="asset"><div class="asset-head"><span class="asset-label">${esc(a.label||"Code")}</span><button class="ex-copy" data-copy="code">Copy</button></div><pre class="asset-code"><code>${esc(a.code)}</code></pre></div>`;
+    if (Array.isArray(a.swatches))
+      return `<div class="asset"><div class="asset-head"><span class="asset-label">${esc(a.label||"Palette")}</span></div><div class="swatches">${
+        a.swatches.map(c=>`<button class="swatch ex-copy" data-copy="swatch" style="--sw:${esc(c)}" title="Copy ${esc(c)}"><span class="swatch-chip"></span>${esc(c)}</button>`).join("")
+      }</div></div>`;
+    if (a.url)
+      return `<div class="asset"><div class="asset-head"><span class="asset-label">${esc(a.label||"Asset")}</span><a class="asset-link" href="${esc(a.url)}" target="_blank" rel="noopener">Open ↗</a></div>${a.note?`<p class="asset-note">${esc(a.note)}</p>`:""}</div>`;
+    return `<div class="asset"><div class="asset-head"><span class="asset-label">${esc(a.label||"Text")}</span><button class="ex-copy" data-copy="text">Copy</button></div><p class="asset-text">${esc(a.value||"")}</p></div>`;
+  }).join("");
+  return `<article class="entry exercise" id="entry-${i}">
+    <p class="date">${esc(fmtDate(e.date))} · <span class="src">weekly exercise</span></p>
+    <h2>${esc(e.title||"Exercise")}</h2>
+    <div class="chips"><span class="chip adbadge">Exercise</span>${chips}</div>
+    ${e.brief?`<p class="tagline">${esc(e.brief)}</p>`:""}
+    ${e.skill?`<p class="ex-skill"><b>Builds:</b> ${esc(e.skill)}</p>`:""}
+    ${steps?`<h3 class="sec">Do this</h3><ol class="ex-steps">${steps}</ol>`:""}
+    ${assets?`<h3 class="sec">Assets — copy &amp; go</h3><div class="ex-assets">${assets}</div>`:""}
+    ${e.successLooksLike?`<div class="principle"><p class="kicker">Done when</p><p>${esc(e.successLooksLike)}</p>${e.stretch?`<p class="apply"><b>Stretch:</b> ${esc(e.stretch)}</p>`:""}</div>`:""}
+  </article>`;
+}
+
 let journalEntries = [];
 let journalKind = "site";   // "site" | "ad" | "designer"
 function renderFeed(){
@@ -409,8 +467,8 @@ function renderFeed(){
   const feed = document.getElementById("feed"), rail = document.getElementById("rail");
   document.getElementById("count").textContent = items.length;
   if(!items.length){
-    const noun = journalKind === "ad" ? "ad" : (journalKind === "designer" ? "designer" : "website");
-    feed.innerHTML = `<div class="empty">No ${noun} studies yet.</div>`;
+    const noun = journalKind === "ad" ? "ad" : (journalKind === "designer" ? "designer" : (journalKind === "exercise" ? "practice" : "website"));
+    feed.innerHTML = `<div class="empty">No ${noun} ${journalKind === "exercise" ? "exercises" : "studies"} yet.</div>`;
     rail.innerHTML = ""; document.getElementById("latest").innerHTML = "";
     renderTimeline([]);
     return;
@@ -502,6 +560,7 @@ document.addEventListener("click", e => {
   const gt = e.target.closest('.tab[data-view="glossary"]'); if (gt){ goGlossary(gt.dataset.glossary); return; }
 });
 syncTabUI();
+if (location.search.indexOf("exq") > -1) goJournal("exercise");
 
 // ── Floating navigation launcher ──────────────────────────
 const navfab = document.getElementById("navfab");
@@ -548,6 +607,18 @@ if (lightbox){
 // Feed screenshots → open in the same lightbox
 const feedEl = document.getElementById("feed");
 if (feedEl) feedEl.addEventListener("click", e => {
+  // Copy buttons on exercise assets
+  const cp = e.target.closest(".ex-copy");
+  if (cp){
+    let text = "";
+    if (cp.dataset.copy === "code"){ const c = cp.closest(".asset").querySelector(".asset-code code"); text = c ? c.textContent : ""; }
+    else if (cp.dataset.copy === "swatch"){ text = cp.textContent.trim(); }
+    else { const t = cp.closest(".asset").querySelector(".asset-text"); text = t ? t.textContent : ""; }
+    if (navigator.clipboard) navigator.clipboard.writeText(text).catch(()=>{});
+    const prev = cp.textContent; cp.textContent = "Copied ✓";
+    setTimeout(() => { cp.textContent = prev; }, 1200);
+    return;
+  }
   const frame = e.target.closest(".shot-frame");
   if (!frame) return;
   e.preventDefault();

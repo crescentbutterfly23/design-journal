@@ -1983,6 +1983,82 @@
         "systems",
         "process"
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Fix the tracking & hierarchy of a display title",
+      "discipline": "Typography",
+      "tool": "CSS (or Figma)",
+      "time": "15 min",
+      "skill": "Optical letter-spacing at large sizes, measure, and baseline hierarchy — the invisible adjustments that separate amateur from set type.",
+      "brief": "Take a loosely-set hero headline and tighten it into a confident, hierarchy-clear lockup.",
+      "steps": [
+        "Drop the starter snippet into CodePen (or rebuild the same lockup in Figma with the provided text).",
+        "Tighten the H1 tracking — large display type needs NEGATIVE letter-spacing; aim for about -0.02 to -0.03em so the letters lock together.",
+        "Set the measure: keep the headline to 2 lines, constrain its width (~16ch) so it breaks well, and add text-wrap: balance.",
+        "Build hierarchy: eyebrow = small, uppercase, +0.12em tracking, muted; subhead ≈ half the H1 size, regular weight, ink-soft color.",
+        "Fix vertical rhythm: tighten H1 line-height (~1.03), give the subhead air (~1.5), and set deliberate gaps between eyebrow → H1 → subhead."
+      ],
+      "assets": [
+        {
+          "label": "Starter HTML + CSS (fix this)",
+          "code": "<div class=\"hero\">\n  <p class=\"eyebrow\">design journal</p>\n  <h1>Build a working library of what good looks like.</h1>\n  <p class=\"sub\">A daily study of design done well — one principle at a time.</p>\n</div>\n\n<style>\n.hero { max-width: 900px; font-family: Georgia, serif; }\n.eyebrow { font-size: 18px; }\nh1 { font-size: 56px; letter-spacing: 1px; line-height: 1.3; font-weight: 400; }\n.sub { font-size: 40px; }\n</style>"
+        },
+        {
+          "label": "Palette (ink / muted / accent)",
+          "swatches": [
+            "#1b1714",
+            "#5a514a",
+            "#b3492f"
+          ]
+        }
+      ],
+      "successLooksLike": "The headline reads as one tight unit (no gappy letters), breaks across two balanced lines, and the eye lands eyebrow → headline → subhead without effort.",
+      "stretch": "Do it twice — once in CSS, once in Figma — and compare how each tool handles optical tracking and line breaks.",
+      "tags": [
+        "typography",
+        "tracking",
+        "hierarchy"
+      ],
+      "week": "2026-W26"
+    },
+    {
+      "date": "2026-06-15",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Set body copy in two columns — kill widows, orphans & rivers",
+      "discipline": "Layout & typesetting",
+      "tool": "Figma (or InDesign / CSS)",
+      "time": "15 min",
+      "skill": "Column setup, measure (line length), justification/hyphenation, and spotting the rendering flaws that make text look unprofessional.",
+      "brief": "Flow the provided copy into two clean columns and remove the typographic gremlins.",
+      "steps": [
+        "Make a text frame and split it into 2 columns with a ~24px gutter (Figma: text-box columns; InDesign: Object > Text Frame Options; CSS: column-count:2).",
+        "Set the measure to 45–75 characters per line — adjust size/width until each line holds roughly 9–12 words.",
+        "Choose alignment deliberately: left-aligned (ragged) is safest; if you justify, turn ON hyphenation so you don't open rivers.",
+        "Hunt the gremlins: no lone word on a paragraph's last line (widow), no single line stranded at a column top/bottom (orphan), no vertical 'rivers' of gaps.",
+        "Tidy: pick paragraph spacing OR a first-line indent (never both), and balance both columns so they bottom-align."
+      ],
+      "assets": [
+        {
+          "label": "Body copy",
+          "value": "Good design is mostly decisions made twice — once on instinct, once on purpose. The first pass finds the idea; the second pass defends it, trimming everything that does not earn its place. Restraint is not the absence of effort but its concentration.\n\nA page is a sequence of attention. The eye lands somewhere first, then follows the path you built for it: a headline, a figure, a line of type that explains the rest. When that path is clear, the work feels effortless. When it is not, the reader does the designer's job — and resents it.\n\nTreat structure as the message. A grid, a measure, a consistent rhythm: these are not constraints on expression, they are the medium of it."
+        },
+        {
+          "label": "Specs",
+          "value": "2 columns · 24px gutter · measure 45–75 ch · 16–18px body · line-height 1.5 · left-aligned, or justified + hyphenated"
+        }
+      ],
+      "successLooksLike": "Both columns read evenly, no widows/orphans/rivers, a comfortable measure, and the block looks like a magazine spread rather than a wall of text.",
+      "stretch": "Rebuild the same block in CSS with `columns: 2`, `hyphens: auto`, and `text-wrap: pretty`, and see how close you get to your Figma version.",
+      "tags": [
+        "layout",
+        "typesetting",
+        "columns"
+      ],
+      "week": "2026-W25"
     }
   ]
 }
