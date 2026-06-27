@@ -179,10 +179,12 @@
     .wrap{ padding-left:max(32px, env(safe-area-inset-left)); padding-right:max(32px, env(safe-area-inset-right)) }
     .feed{ padding-left:10px; padding-right:10px }
     header.masthead{ padding:42px 0 28px }
-    .layout{ padding:30px 0 56px }
+    .layout{ padding:30px 0 110px }   /* bottom room so the floating launcher never covers the last content */
     .shot-frame{ max-height:460px }
     /* On phones, navigation lives entirely in the floating launcher (bottom-right) */
     .tabs{ display:none }
+    /* Safety net: never let a stray wide child (e.g. a long code line) scroll the page sideways */
+    html, body{ overflow-x:hidden }
   }
 
   /* Date rail */
@@ -247,15 +249,15 @@
   .entry.exercise .ex-skill{ color:var(--ink-soft); margin:0 0 24px }
   .ex-steps{ margin:0 0 30px; padding-left:1.25em; display:grid; gap:11px; color:var(--ink) }
   .ex-steps li{ padding-left:6px; line-height:1.55 }
-  .ex-assets{ display:grid; gap:14px; margin-bottom:30px }
-  .asset{ border:1px solid var(--line); border-radius:12px; background:var(--surface); padding:12px 14px }
+  .ex-assets{ display:grid; grid-template-columns:minmax(0,1fr); gap:14px; margin-bottom:30px }
+  .asset{ min-width:0; border:1px solid var(--line); border-radius:12px; background:var(--surface); padding:12px 14px }
   .asset-head{ display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:9px }
   .asset-label{ font-size:.7rem; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-soft); font-weight:700 }
   .ex-copy{ font-family:inherit; font-size:.74rem; font-weight:600; color:var(--accent); background:none;
     border:1px solid var(--line); border-radius:999px; padding:3px 11px; cursor:pointer; transition:.15s; white-space:nowrap }
   .ex-copy:hover{ border-color:var(--accent) }
   .asset-text{ margin:0; color:var(--ink); white-space:pre-wrap; line-height:1.6 }
-  .asset-code{ margin:0; padding:13px 14px; background:var(--ink); color:#f3ece4; border-radius:9px; overflow:auto;
+  .asset-code{ margin:0; padding:13px 14px; background:var(--ink); color:#f3ece4; border-radius:9px; overflow-x:auto; max-width:100%;
     font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:.82rem; line-height:1.55 }
   .asset-code code{ font-family:inherit; white-space:pre }
   .asset-link{ font-size:.8rem; font-weight:600; color:var(--accent); text-decoration:none }
