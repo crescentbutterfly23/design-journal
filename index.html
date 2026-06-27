@@ -432,11 +432,12 @@ function renderEntry(e, i){
 }
 
 function renderExercise(e, i){
+  const dupe = new Set([e.discipline, e.tool].filter(Boolean).map(s => String(s).toLowerCase()));
   const chips = [
     e.discipline ? `<span class="chip cat">${esc(e.discipline)}</span>` : "",
     e.tool ? `<span class="chip">${esc(e.tool)}</span>` : "",
     e.time ? `<span class="chip">${esc(e.time)}</span>` : "",
-    ...(e.tags||[]).map(t=>`<span class="chip">${esc(t)}</span>`)
+    ...(e.tags||[]).filter(t => !dupe.has(String(t).toLowerCase())).map(t=>`<span class="chip">${esc(t)}</span>`)
   ].join("");
   const steps = (e.steps||[]).map(s=>`<li>${esc(s)}</li>`).join("");
   const assets = (e.assets||[]).map(a => {
@@ -562,7 +563,6 @@ document.addEventListener("click", e => {
   const gt = e.target.closest('.tab[data-view="glossary"]'); if (gt){ goGlossary(gt.dataset.glossary); return; }
 });
 syncTabUI();
-if (location.search.indexOf("exq") > -1) goJournal("exercise");
 
 // ── Floating navigation launcher ──────────────────────────
 const navfab = document.getElementById("navfab");
