@@ -2059,6 +2059,222 @@
         "columns"
       ],
       "week": "2026-W25"
+    },
+    {
+      "date": "2026-06-29",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "PostHog",
+        "url": "https://posthog.com"
+      },
+      "image": "images/2026-06-29-posthog.png",
+      "category": "Developer tool / Product analytics",
+      "tagline": "A serious open-source analytics platform drawn as a friendly engineering sketchbook — hand-drawn hedgehogs instead of the usual dark-tech gradients.",
+      "summary": "PostHog sells a deeply technical product (product analytics, session replay, feature flags, experiments) but rejects the entire visual genre of B2B dev tools. Instead of somber dark gradients and 3D abstractions, it runs a warm, creamy, textbook-illustration world populated by custom hand-drawn hedgehogs — a proprietary illustration system maintained by full-time in-house illustrators. The result is instantly recognizable, impossible to clone with stock assets, and pitched perfectly at engineers who distrust polished sales language. The copy is just as deliberate: self-aware, transparent, and funny.",
+      "whatWorks": [
+        "A proprietary hand-drawn illustration system (the hedgehogs) replaces stock/3D dark-tech tropes — instant, un-clonable differentiation in a sea of identical SaaS sites",
+        "The hero leads with personality (a mascot scene), not a product screenshot — brand before feature",
+        "Creamy off-white, sketchbook palette instead of the genre's default dark gradients — warmth reads as contrast and confidence",
+        "Radical pricing transparency: real per-unit costs shown ($0.00005/event) and a genuinely generous free tier as a trust signal",
+        "Anti-corporate, self-aware copy ('Yes they actually use us...', 'Shameless CTA') earns credibility with skeptical engineers",
+        "One platform shown as a modular stack of distinct, individually-illustrated tools — generous whitespace keeps the density scannable"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Minimal nav (product, pricing, docs, community) plus a 'Get started – free' CTA, anchored by a large hand-drawn hedgehog scene. Personality and a clear free entry point land before any feature claim."
+        },
+        {
+          "name": "Social proof",
+          "notes": "Customer logos with a 'Shuffle companies' interaction and a parenthetical aside ('Yes they actually use us...'). The honest, joking tone defuses the usual logo-wall skepticism."
+        },
+        {
+          "name": "Product stack / tools",
+          "notes": "The suite (analytics, session replay, feature flags, experiments, surveys) shown as a modular grid of cards, many with their own little illustration. Communicates 'one platform, many real tools' without a feature dump."
+        },
+        {
+          "name": "Pricing",
+          "notes": "Usage-based pricing with actual unit economics on display and a large free tier. Showing the real numbers (rather than 'Contact sales') is itself the trust move for an engineering buyer."
+        },
+        {
+          "name": "Why PostHog / culture",
+          "notes": "Links straight to the public company handbook, fast shipping cadence, and engineer-run support — turning operational transparency into brand differentiation."
+        },
+        {
+          "name": "Footer",
+          "notes": "A dense mega-footer (docs, community, company) with playful easter eggs and self-deprecating CTA copy ('Shameless CTA') — even the chrome stays on-voice."
+        }
+      ],
+      "principle": {
+        "title": "Draw your own world — make custom illustration the moat",
+        "explanation": "In a category where every competitor reaches for the same dark gradients, 3D blobs, and stock photography, a consistent proprietary illustration system is the one asset rivals can't copy. It carries personality, tone, and recognition simultaneously, and it compounds: every new drawing reinforces the same unmistakable world.",
+        "howToApply": "When a brand sits in a visually homogeneous category, commission (or build) a small, consistent illustration vocabulary — a character, a drawing style, a palette — and use it everywhere instead of stock. Even a handful of custom spots in a recognizable hand will out-distinguish a site of polished but generic 3D renders."
+      },
+      "tags": [
+        "illustration",
+        "brand",
+        "developer-tool",
+        "copywriting",
+        "color",
+        "transparency"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Liquid Death — packaging & branded social",
+        "url": "https://liquiddeath.com"
+      },
+      "image": "images/2026-06-29-ad-liquid-death.png",
+      "category": "Packaging-as-media / branded social video",
+      "tagline": "Heavy-metal horror branding wrapped around… canned mountain water.",
+      "when": "Launched January 2019; run continuously since",
+      "summary": "Liquid Death inverts the entire visual language of bottled water. Where the category is serene blues, mountains, dewdrops and wellness, Liquid Death wears a gothic-metal logo, a skull, and a 'murder your thirst' tallboy can that looks like a craft beer or energy drink. The packaging itself is the primary medium — it markets on the shelf and in every hand — amplified by darkly comic social videos. It turned the most boring product imaginable into an entertainment brand people tattoo on themselves, with a real sustainability argument (aluminum, 'Death to Plastic') riding inside the joke.",
+      "whatWorks": [
+        "Category inversion: adopt the codes of the OPPOSITE category (energy drink / metal / horror) so a water can becomes unmissable",
+        "The product IS the ad — the tallboy can does the marketing on the shelf and in every photo, no media buy required",
+        "Tone as a moat: dark, self-aware comedy competitors can't copy without looking desperate",
+        "A real value smuggled inside the gag — 'Death to Plastic' / recycled aluminum gives the irreverence substance",
+        "It behaves like an entertainment IP, not a CPG: merch and a 'Country Club' turn buyers into a tribe",
+        "One locked system — gothic blackletter-ish type, skull mark, black + bone-white — makes every touchpoint instantly its own"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Cognitive dissonance stops the scroll: a murder-metal 'death' can that turns out to be just water. It doesn't compute, so you look twice."
+        },
+        {
+          "name": "Message",
+          "notes": "'Murder Your Thirst' / 'Don't be scared, it's just water.' Threat-comedy reframes ordinary hydration as rebellion and an in-joke."
+        },
+        {
+          "name": "Visual",
+          "notes": "A tallboy aluminum can in black and bone-white with a dripping horror logo and skull — reads as craft beer or energy drink, never as Evian."
+        },
+        {
+          "name": "CTA",
+          "notes": "Low-friction and identity-driven: buy the can, join the Country Club. The purchase is sold as joining a culture, not consuming a beverage."
+        }
+      ],
+      "principle": {
+        "title": "Wear the opposite category's clothes",
+        "explanation": "The fastest way to stand out in a visually homogeneous category is to borrow the aesthetic codes of a different, more exciting one — then anchor the stunt to one true value so it's subversion with substance, not just shock.",
+        "howToApply": "When designing in a sea of sameness (another calm fintech, another serene wellness brand), list the category's visual clichés, then deliberately dress the brand in an adjacent category's energy. Pin it to one genuine truth (a real value, a real benefit) so the contrarian look has a reason to exist beyond noise."
+      },
+      "tags": [
+        "branding",
+        "packaging",
+        "tone-of-voice",
+        "contrarian",
+        "category-design",
+        "social"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Total Design (Amsterdam)",
+        "url": "https://designreviewed.com/designer/total-design/"
+      },
+      "image": "images/2026-06-29-designer-total-design.png",
+      "category": "Systematic multidisciplinary studio (Dutch modernism)",
+      "when": "Founded 1963 · Amsterdam, Netherlands",
+      "tagline": "The Netherlands' first big multidisciplinary studio — design as rational teamwork on a grid.",
+      "summary": "Founded in 1963 by Wim Crouwel, Friso Kramer, Benno Wissing and the brothers Paul and Dick Schwarz, Total Design (TD) was the first large-scale multidisciplinary design consultancy in the Netherlands — created so Dutch institutions wouldn't have to hand major work to foreign agencies. Under Crouwel's creative direction it treated design as rational, systematic teamwork: grids, neutral sans typography, and a documented house method. Across decades of Stedelijk Museum graphics, wayfinding and identities, TD proved a studio could scale craft through system rather than through a single star designer.",
+      "whatWorks": [
+        "Start every project from a grid and a tight type palette — system first, expression second",
+        "Staff multidisciplinary by design: graphic + industrial + spatial designers under one roof so big 'total' commissions can actually ship",
+        "Pair the makers with business partners (the Schwarz brothers ran organization and finance) so designers spend their time designing",
+        "Divide labor on a shared system — many hands stay coherent because the grid and rules hold the work together, not one person's taste",
+        "Treat neutral typography as a stance: suppress designer ego and let the system and content speak",
+        "Use a long client relationship (the Stedelijk Museum) as a living lab to refine one system over decades"
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "A founding partnership that mixed disciplines on purpose — graphic (Crouwel), industrial (Kramer), spatial (Wissing) — plus the Schwarz brothers running organization and finance, so the design side could focus on design while the business held."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Built for large, complex 'total' commissions — identities, wayfinding, exhibition graphics — that a solo designer can't hold. Clients get one studio responsible for the whole coherent system."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Rigorous grid systems plus neutral sans typography (Akzidenz/Helvetica-era). The modular grid is the unit of work, letting many designers contribute consistently; Crouwel's New Alphabet pushed systematic, constructed type to its logical extreme."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Rational over expressive: choices you can defend from the system's logic. The system — not the individual — is the author, and consistency held across a long relationship beats one-off cleverness."
+        }
+      ],
+      "principle": {
+        "title": "Build a system many hands can execute as one",
+        "explanation": "Total Design's breakthrough was organizational as much as visual: by encoding decisions into a documented grid and a neutral type palette, a multidisciplinary team could split a huge commission and still ship one coherent voice. The system absorbs ego and scales craft past what any single designer can touch.",
+        "howToApply": "On any project bigger than yourself, invest first in the shared scaffold — grid, tokens, type scale, and a short written house style — then parcel out the work. Coherence comes from everyone building against the same system, not from one person having to touch every screen."
+      },
+      "tags": [
+        "systems",
+        "grid",
+        "typography",
+        "studio-process",
+        "teamwork",
+        "dutch-modernism"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "week": "2026-W27",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Trace a curve in the fewest anchor points",
+      "discipline": "Vector / Bézier",
+      "tool": "Illustrator (Pen tool)",
+      "time": "15 min",
+      "skill": "Drawing clean Bézier curves with minimal anchor points and tangent-aligned handles",
+      "brief": "Rebuild a simple curved shape with the Pen tool using as few anchor points as possible — placing each one only at a curvature extreme — so the outline is smooth and editable.",
+      "steps": [
+        "Paste the starter SVG below into a 600×600 artboard (or open it) and lock it on its own layer at 40% opacity — it's an over-anchored, lumpy leaf shape. This is your reference.",
+        "On a new layer, redraw the same leaf with the Pen tool, placing anchors ONLY at the top, bottom, left and right extremes of the curve (the north/south/east/west rule) — never mid-curve.",
+        "Drag each handle along the tangent of the curve; keep handle length around one-third of the segment so the curve stays smooth without overshooting.",
+        "Close the path, then switch to the Direct Selection tool and nudge handles until your outline kisses the reference with no kinks at 400% zoom.",
+        "Count your anchors. Try to beat your first pass by deleting one point and re-smoothing the neighbours."
+      ],
+      "assets": [
+        {
+          "label": "Goal",
+          "value": "Match the reference leaf using 4–6 anchor points total (the starter uses ~10)."
+        },
+        {
+          "label": "Palette",
+          "swatches": [
+            "#1a1a1a",
+            "#f4f1ea",
+            "#5a7d4f"
+          ]
+        },
+        {
+          "label": "Starter SVG (rebuild this with fewer points)",
+          "code": "<svg viewBox=\"0 0 600 600\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- over-anchored, lumpy leaf: redraw it cleaner -->\n  <path fill=\"#5a7d4f\" d=\"M300 80 C360 110 370 150 395 200 C415 240 430 270 430 320\n    C430 380 400 430 350 470 C330 486 312 500 300 520 C288 500 270 486 250 470\n    C200 430 170 380 170 320 C170 270 185 240 205 200 C230 150 240 110 300 80 Z\"/>\n  <line x1=\"300\" y1=\"80\" x2=\"300\" y2=\"520\" stroke=\"#1a1a1a\" stroke-width=\"3\"/>\n</svg>"
+        },
+        {
+          "label": "Rule of thumb",
+          "value": "Anchor points belong at extremes (N/S/E/W) and at sharp corners — nowhere else. If a point sits mid-curve, you have one too many."
+        }
+      ],
+      "successLooksLike": "A smooth leaf outline matching the reference, built from ~4–6 anchors placed at curve extremes, with no visible bumps or kinks when you zoom to 400%.",
+      "stretch": "Hand-write the same shape as a raw SVG <path> 'd' string using cubic Bézier (C) commands, matching your Illustrator anchor positions — then diff it against the starter to see how much shorter clean curves are.",
+      "tags": [
+        "vector",
+        "bezier",
+        "pen-tool",
+        "illustrator",
+        "logo"
+      ]
     }
   ]
 }
