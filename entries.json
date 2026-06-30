@@ -2275,6 +2275,334 @@
         "illustrator",
         "logo"
       ]
+    },
+    {
+      "date": "2026-06-27",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Stripe Press",
+        "url": "https://press.stripe.com"
+      },
+      "image": "images/2026-06-27-stripe-press.png",
+      "category": "Publishing / Editorial",
+      "tagline": "A tech company's book imprint that treats its website like fine print design — covers as heroes, type and whitespace doing all the work.",
+      "summary": "Stripe Press publishes 'ideas for progress' as beautifully produced books, and the site mirrors that craft. It is almost entirely typographic — no stock photography, no gradients — with the physical book covers (often foil/letterpress, presented as animated 'living covers') acting as the only imagery. A restrained grayscale palette with a single hyperlink blue, generous whitespace, and one consistent per-book template make a content-dense catalog feel like a quiet, premium reading room.",
+      "whatWorks": [
+        "Let the product's own artifact be the imagery: animated 'living' book covers are the only visuals, so the page inherits the books' craft",
+        "Near-monochrome palette plus one accent (hyperlink blue) — restraint reads as intellectual confidence",
+        "Typographic hierarchy alone (weight, size, space) carries the page; no decorative chrome",
+        "A single repeating per-book module (title → author → cover → description → praise → buy) builds rhythm and cuts cognitive load",
+        "Generous gutters make a dense catalog feel curated rather than crowded",
+        "A deliberate burst of color in the documentary section breaks the monochrome to signal a different content type"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "'Stripe Press — Ideas for progress' set large in type with no hero image; positions the imprint as content-forward and confident from the first screen."
+        },
+        {
+          "name": "Book grid",
+          "notes": "A multi-column grid of titles, authors, and cover thumbnails. The covers are the visual anchors in an otherwise text-led layout."
+        },
+        {
+          "name": "Individual book treatment",
+          "notes": "A repeating module per book — living cover, description, multi-retailer buy buttons, author bio, praise blockquotes, and a downloadable zine PDF. Identical structure every time."
+        },
+        {
+          "name": "Documentary / film section",
+          "notes": "Colorful abstract stills ('We Are As Gods') deliberately break the monochrome to mark a different medium without breaking the overall system."
+        },
+        {
+          "name": "Newsletter & footer",
+          "notes": "A quiet signup and a minimal footer; the chrome stays subordinate to the content throughout."
+        }
+      ],
+      "principle": {
+        "title": "Design one module and repeat it without flourish",
+        "explanation": "A catalog feels premium and calm when every item uses the identical template — same order, same spacing, same blockquote style — so the eye learns the pattern once and the content (not the layout) becomes the variable. Bespoke per-item layouts read as noise; strict uniformity reads as editorial confidence.",
+        "howToApply": "For any list or catalog (products, case studies, books), define one item template down to spacing and quote styling, then apply it identically to every entry. Resist the urge to make each item special; let repetition create rhythm and let the content provide the variety."
+      },
+      "tags": [
+        "layout",
+        "template",
+        "editorial",
+        "typography",
+        "consistency",
+        "whitespace"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Coca-Cola — Share a Coke (packaging/social)",
+        "url": "https://www.coca-colacompany.com/about-us/history/how-a-campaign-got-its-start-down-under"
+      },
+      "image": "images/2026-06-27-ad-share-a-coke.png",
+      "category": "Packaging-as-media / personalization campaign",
+      "tagline": "Coca-Cola replaced its own iconic logo with 150 first names — turning every bottle into a personal invitation.",
+      "when": "Launched 2011 (Australia); rolled out to 120+ countries in 2013–2014",
+      "summary": "Coca-Cola did something almost heretical: it gave up the most valuable logo position in the world and printed people's first names in its place. 'Share a Coke with [Name]' turned a mass product into a personal, giftable object and a social-media engine — people hunted for their names, photographed them, and tagged friends. It reversed a sales decline in Australia (250M+ named bottles sold in a nation of ~23M) and scaled to over 120 countries.",
+      "whatWorks": [
+        "Sacrifice sacred brand real estate (the logo) to make the customer the hero of the pack",
+        "Personalization at scale: hundreds of names plus inclusive fallbacks ('Mate', 'BFF') so almost everyone is covered",
+        "Build in a treasure hunt — finding your name is a small reward that drives store visits and repeat looks",
+        "Engineer shareability: a named bottle is a pre-made social post and a tagging prompt",
+        "Keep the rest of the system intact (Spencerian script, Coke red) so it still reads instantly as Coca-Cola",
+        "Tie digital to physical: free name-printing kiosks made the campaign an event, not just packaging"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "You see your own name where the Coca-Cola logo should be — a double-take that personalizes one of the most familiar brands on earth."
+        },
+        {
+          "name": "Message",
+          "notes": "'Share a Coke with [Name]' reframes buying a soda as a small act of giving it to a specific person."
+        },
+        {
+          "name": "Visual",
+          "notes": "The familiar red bottle and flowing script, but the wordmark swapped for a first name — all the equity, new personal meaning."
+        },
+        {
+          "name": "CTA",
+          "notes": "Find your name and share it — implicit, social, and physical (kiosks), never a hard sell."
+        }
+      ],
+      "principle": {
+        "title": "Give your logo's spot to the customer",
+        "explanation": "The most personal thing you can put on a product is the customer themselves. Trading even sacred brand real estate for the user's name (or photo, or data) converts a mass object into something they own and broadcast — so the customer becomes your distribution channel.",
+        "howToApply": "Find the one place users expect to see YOUR branding and consider handing it to them — a name, their stats, their content — on a generated asset that is easy and rewarding to share. Keep the rest of the brand system fixed so it stays unmistakably you."
+      },
+      "tags": [
+        "personalization",
+        "packaging",
+        "branding",
+        "social",
+        "user-as-hero",
+        "retail"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Lance Wyman",
+        "url": "https://en.wikipedia.org/wiki/Lance_Wyman"
+      },
+      "image": "images/2026-06-27-designer-lance-wyman.png",
+      "category": "Environmental graphics / wayfinding & identity",
+      "when": "b. 1937 · American",
+      "tagline": "Turned a whole city into a navigable identity — Mexico '68's pulsing logo and pictogram wayfinding.",
+      "summary": "Lance Wyman is a father of modern wayfinding. For the 1968 Mexico City Olympics he immersed himself in Mexican culture — pre-Hispanic art, Huichol yarn paintings, local sign-painting, plus 1960s Op Art — and from that built a total identity: the radiating 'Mexico 68' logo, a pictogram system, color-coded transit maps, and supergraphics that turned the city into a legible space. His method — research a place deeply, then derive a systematic visual language from it — helped define environmental graphic design (later the Mexico City Metro, Washington Metro, the National Zoo).",
+      "whatWorks": [
+        "Begin with immersive field research: days in museums and streets absorbing the local visual culture before drawing anything",
+        "Derive the system from the place — let indigenous and vernacular forms (Huichol lines, Op Art) generate the logo and grammar, not an imported style",
+        "Design for everyone: pictograms and color-coding that work across languages and literacy levels",
+        "Make one motif generative: the radiating-line logo seeds banners, uniforms, signage, and the whole environment",
+        "Think in environments, not artifacts — balloons, supergraphics, and maps turn the city itself into the medium",
+        "Treat legibility at distance and speed (transit, crowds) as a hard design constraint"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "Buys a one-way ticket and does immersive, on-the-ground research — over a week in the Museum of Anthropology and the streets — absorbing local forms before he sketches anything."
+        },
+        {
+          "name": "Core method",
+          "notes": "Extracts a visual DNA from the place (pre-Hispanic geometry, Huichol yarn-painting lines, Op Art) and builds a coherent system from it rather than applying a house style."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "A single radiating-line motif that scales from logo to typography to citywide supergraphics, plus language-independent pictograms and color-coded transit routes."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Judge by navigation for real people in real space: does it help a stranger find their way at speed, across languages and literacy levels?"
+        }
+      ],
+      "principle": {
+        "title": "Mine the place for the system",
+        "explanation": "The strongest identities aren't imported styles — they're derived from deep research into the specific context (culture, vernacular, environment). Wyman's Mexico '68 worked because its visual grammar grew out of Mexico itself, then was applied systematically across every touchpoint.",
+        "howToApply": "Before designing an identity or product world, do field research into its specific context — the place, the users' vernacular, the existing signage — pull out a few generative forms, and build the whole system from those rather than from a trend. Then test it where it will actually be used (at distance, across languages)."
+      },
+      "tags": [
+        "wayfinding",
+        "identity",
+        "pictograms",
+        "research",
+        "environmental-graphics",
+        "systems"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "GOV.UK",
+        "url": "https://www.gov.uk"
+      },
+      "image": "images/2026-06-28-gov-uk.png",
+      "category": "Public sector / Design system",
+      "tagline": "The world's most-copied public service site — plain language, task-first IA, and a rigorously documented, accessible design system.",
+      "summary": "GOV.UK consolidated hundreds of UK government sites into one, and it has become the global reference for public-sector and systems-driven design. It leads with search and the most-used services, organizes everything by user task ('Money and tax', not 'Treasury'), writes in plain language, and is built on the open GOV.UK Design System — accessible components, the legible GDS Transport-derived typeface, and strict content standards. It is the anti-flashy benchmark: design as clarity, accessibility, and trust at national scale.",
+      "whatWorks": [
+        "Organize by user task and life event, not by internal org structure",
+        "Plain-language labels everywhere ('Check your State Pension forecast', not departmental jargon)",
+        "Search-first hero: discovery as the primary action for an enormous service catalog",
+        "A documented, open, accessible design system (components + content style) so thousands of teams stay consistent",
+        "Accessibility as a baseline: skip links, high contrast, legible type, tested with assistive technology",
+        "Ruthless restraint: near-zero decoration so content and tasks dominate"
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "A simple menu grouped by plain-language categories, mirrored in the footer so the structure is consistent top and bottom."
+        },
+        {
+          "name": "Search hero",
+          "notes": "A prominent search box positions findability first — the right primary action for a catalog of thousands of services."
+        },
+        {
+          "name": "Popular services",
+          "notes": "The most-used tasks (HMRC account, Universal Credit) surfaced immediately, driven by real usage data rather than politics."
+        },
+        {
+          "name": "Services & information grid",
+          "notes": "Card modules grouped by life event and task (Benefits, Housing, Citizenship) — categorized by user need, not government department."
+        },
+        {
+          "name": "Government activity",
+          "notes": "Departmental news and content kept clearly separate from the services, so 'doing a task' and 'reading about government' never blur."
+        },
+        {
+          "name": "Footer",
+          "notes": "Support links, an explicit accessibility statement, and the same nav structure repeated for consistency."
+        }
+      ],
+      "principle": {
+        "title": "Organize by the user's task, not your org chart",
+        "explanation": "People come to do a thing, not to learn your internal structure. GOV.UK's biggest move is labeling and grouping everything by user task in plain language — which only works because it sits on a documented system that keeps thousands of pages consistent and accessible.",
+        "howToApply": "Audit your nav and labels: are they named after departments and features, or after what users are trying to do? Rewrite them as user tasks in plain language, group by life events / jobs-to-be-done, and back it with a small component and content system so consistency survives scale."
+      },
+      "tags": [
+        "design-system",
+        "accessibility",
+        "information-architecture",
+        "plain-language",
+        "content-design",
+        "public-sector"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "McDonald's — Follow the Arches (OOH/digital)",
+        "url": "https://www.cossette.com/en/work/mcdonalds-follow-the-arches"
+      },
+      "image": "images/2026-06-28-ad-mcdonalds-follow-the-arches.png",
+      "category": "Out-of-home / digital billboard",
+      "tagline": "Cropped the golden arches into directional signs — the logo itself becomes the wayfinding.",
+      "when": "Launched February 2018 (Canada) · Cossette",
+      "summary": "Cossette's 'Follow the Arches' sliced McDonald's logo into fragments that double as directional arrows — the left arch as a left turn, the right as a right, the top as a U-turn — so a billboard literally points you to the nearest restaurant using nothing but pieces of the brand mark. Minimal color, minimal text, no food photography; it works because the arches are so deeply recognizable that even a fragment reads instantly. It won Cannes, Clio and D&AD honors.",
+      "whatWorks": [
+        "Exploit brand recognition: a logo so iconic that a cropped fragment still reads as the brand",
+        "Make the logo do a job — turn identity into functional wayfinding information",
+        "Radical reduction: minimal color, almost no copy; the idea needs nothing else",
+        "Language-independent: arrows work for any driver, in any language",
+        "A repeatable system: the same logic generates left / right / U-turn / next-exit variants",
+        "The confidence to crop — trusting the audience to complete the shape is the whole gag"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "An abstract yellow fragment on a billboard that your brain instantly completes as McDonald's — recognition lands before you have read a single word."
+        },
+        {
+          "name": "Message",
+          "notes": "Directional copy ('next exit', 'just missed us') — the brand mark itself tells you where to go."
+        },
+        {
+          "name": "Visual",
+          "notes": "A single cropped section of the golden arches functioning as an arrow, on a minimal ground, with no food photography."
+        },
+        {
+          "name": "CTA",
+          "notes": "Follow it — the sign is the call to action, leading you to the nearest restaurant."
+        }
+      ],
+      "principle": {
+        "title": "Crop your logo until it does a job",
+        "explanation": "A truly iconic mark survives fragmentation — and that surplus recognition is an asset you can spend. McDonald's turned brand equity into functional information (directions) by cropping the logo, proving the audience will complete a shape they already know.",
+        "howToApply": "If your brand mark is well-known, test how little of it still reads (a corner, a color, a curve) and use that fragment functionally — as navigation, a loader, a cropped hero, a favicon-as-system. The more you can remove and still be recognized, the stronger and more flexible the identity."
+      },
+      "tags": [
+        "branding",
+        "out-of-home",
+        "reduction",
+        "wayfinding",
+        "logo",
+        "recognition"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Susan Kare",
+        "url": "https://en.wikipedia.org/wiki/Susan_Kare"
+      },
+      "image": "images/2026-06-28-designer-susan-kare.png",
+      "category": "Digital / icon & type design (UI)",
+      "when": "b. 1954 · American",
+      "tagline": "Gave the computer a face — the original Macintosh icons, fonts, and the friendly pixel.",
+      "summary": "Susan Kare designed the original Macintosh icons, typefaces and visual language (1983–86): the Happy Mac, the trash can, the watch cursor, the Command (⌘) symbol, and bitmap fonts like Chicago and Geneva. Working at 16×16 and 32×32 pixels, she made computing feel approachable and human. Her method — sketch the metaphor on graph paper as if doing needlepoint, then place each pixel deliberately — turned a hostile machine into something warm and effectively founded icon design as a discipline.",
+      "whatWorks": [
+        "Start from the metaphor, not the pixels: name the idea ('boot', 'find', 'danger') before drawing",
+        "Sketch on graph paper first — one square per pixel — treating icons like needlepoint or mosaics",
+        "Embrace the constraint: the tiny grid forces clarity and a single readable idea per icon",
+        "Borrow from craft traditions (counted-thread embroidery, mosaic, pointillism) for pixel thinking",
+        "Design for instant recognition and warmth — make the symbol friendly, not technical",
+        "Build a coherent family (icons + fonts + cursors) so the whole system feels of one hand"
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "With the concept or command to be represented — sketchbook pages titled 'boot', 'jump', 'debug' — choosing a metaphor a stranger will read instantly."
+        },
+        {
+          "name": "Core method",
+          "notes": "Blocks a 16×16 or 32×32 square on graph paper and fills pixels by hand, exactly like a needlepoint or knitting pattern, before moving to the on-screen icon editor."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Maximal meaning from minimal pixels — the Happy Mac, trash can, watch cursor — plus hand-built bitmap fonts; warmth deliberately engineered into a tiny grid."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Is it instantly recognizable and friendly? Does it reduce to one clear idea at actual size? Craft and metaphor over technical accuracy."
+        }
+      ],
+      "principle": {
+        "title": "Solve the metaphor before the pixels",
+        "explanation": "Kare's icons endure because she nailed the idea — the right human metaphor — first, then executed it with craft inside a brutal constraint. The tiny grid clarified rather than limited; it forced one legible idea per symbol.",
+        "howToApply": "When designing any icon, symbol, or small UI element, first decide the metaphor in words and confirm it is universally readable; then design at the smallest real size you will ship, placing every pixel or point deliberately. Let the constraint force a single clear idea."
+      },
+      "tags": [
+        "icons",
+        "ui",
+        "pixel",
+        "metaphor",
+        "type-design",
+        "craft"
+      ]
     }
   ]
 }
