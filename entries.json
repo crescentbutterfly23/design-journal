@@ -2664,59 +2664,6 @@
     {
       "date": "2026-06-30",
       "source": "daily",
-      "kind": "ad",
-      "site": {
-        "name": "AT&T — 'You Will' (the first banner ad)",
-        "url": "http://thefirstbannerad.com/"
-      },
-      "image": "images/2026-06-30-ad-att-you-will.gif",
-      "category": "Display banner (468×60 leaderboard, static GIF)",
-      "tagline": "The web's first banner ad — a curiosity gap and a literal arrow that reportedly earned a 44% click rate.",
-      "when": "Ran 27 October 1994 on HotWired",
-      "summary": "On 27 October 1994, HotWired ran the web's first banner ads; AT&T's was a static 468×60 GIF reading 'Have you ever clicked your mouse right HERE?' with an arrow pointing to the words 'YOU WILL.' It clicked through to a tour of the world's great museums. With nothing but a question, an arrow, and a two-word payoff, it reportedly earned a 44% click-through rate — unthinkable today (modern display CTR is roughly 0.5%). It is the origin point of the entire digital-ad-unit format, and still a clinic in the curiosity gap.",
-      "whatWorks": [
-        "A pure curiosity gap: ask a question whose only answer is to click",
-        "One idea, two words ('YOU WILL') — ruthless economy fitted to a tiny 468×60 canvas",
-        "A literal directional cue (the arrow) telling the eye and hand exactly what to do",
-        "Reward the click with something genuinely worth it (a virtual museum tour), not a hard sell",
-        "High contrast on a tiny unit so it reads instantly amid page content",
-        "Brand restraint: the AT&T name stays small; the interaction itself is the hero"
-      ],
-      "sections": [
-        {
-          "name": "Hook",
-          "notes": "'Have you ever clicked your mouse right HERE?' — a direct question that creates an itch the reader has to scratch."
-        },
-        {
-          "name": "Headline / message",
-          "notes": "The question IS the message; in 1994 it also taught the then-novel act of clicking a banner."
-        },
-        {
-          "name": "Visual",
-          "notes": "A simple high-contrast bar with an arrow pointing to the payoff — no imagery needed at 468×60."
-        },
-        {
-          "name": "CTA",
-          "notes": "'YOU WILL' beside the arrow — a two-word answer that doubles as the button."
-        }
-      ],
-      "principle": {
-        "title": "Open a curiosity gap, then point at the click",
-        "explanation": "The first banner worked because it created a question the audience could only resolve by clicking, then removed all friction with a literal arrow and a two-word payoff. In a tiny unit, one unresolved idea plus an unmistakable directional cue beats any amount of feature copy.",
-        "howToApply": "For any small ad unit or CTA, lead with a single open loop (a question, a tease, an incomplete statement), keep the words to a handful, and add an explicit directional cue toward the action. Make the click resolve the curiosity — and make what's on the other side worth it."
-      },
-      "tags": [
-        "display-banner",
-        "curiosity-gap",
-        "cta",
-        "copywriting",
-        "history",
-        "minimalism"
-      ]
-    },
-    {
-      "date": "2026-06-30",
-      "source": "daily",
       "kind": "designer",
       "site": {
         "name": "Adrian Frutiger",
@@ -2765,6 +2712,59 @@
         "naming",
         "signage",
         "families"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Semrush — animated display banner (512×82 leaderboard)",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-06-30-ad-semrush.gif",
+      "category": "Animated display banner (leaderboard)",
+      "tagline": "An animated banner that shows a search result physically climbing the rankings — the motion IS the value proposition.",
+      "when": "GDN display, ~2020 (featured in WordStream's best-display-ads roundup)",
+      "summary": "Semrush's animated leaderboard turns its core promise — climb Google's rankings — into literal motion: a result rises up the SERP inside the banner. In a strip only 82px tall, the animation does the explaining that copy can't fit, beating banner blindness with movement that conveys information rather than mere decoration. High-contrast brand colors and a single icon keep it legible at a glance, with one clear, fixed CTA.",
+      "whatWorks": [
+        "Animate the value proposition itself — the result climbing the SERP shows the benefit instead of stating it",
+        "Use motion to convey information, not just catch the eye, so it earns the attention it grabs",
+        "Survive a tiny canvas (512×82): one idea, one icon, a few words, one CTA",
+        "High-contrast brand colors so the unit reads instantly against a busy publisher page",
+        "Loop a short, legible sequence — it still reads even if caught mid-animation",
+        "Keep the CTA fixed and obvious so the click target never slides out from under the cursor"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Motion at the edge of vision — a result visibly climbing — stops the scroll where a static bar would be ignored."
+        },
+        {
+          "name": "Headline / message",
+          "notes": "The climb communicates 'we get you higher rankings' before a single word is read."
+        },
+        {
+          "name": "Visual",
+          "notes": "A compact SERP/rank graphic with a single brand icon, high contrast, sized precisely to the leaderboard."
+        },
+        {
+          "name": "CTA",
+          "notes": "One fixed button (e.g. 'Try for free') that stays put through the animation loop."
+        }
+      ],
+      "principle": {
+        "title": "Animate the value proposition, not just the pixels",
+        "explanation": "On a tiny banner there's no room to explain the benefit in copy, so the strongest display ads dramatize the benefit in motion. Semrush shows a result climbing the rankings — the animation conveys the value proposition itself, which is why it beats banner blindness instead of merely adding noise.",
+        "howToApply": "When you animate a banner (or a hero, or an empty state), make the motion depict the core benefit — the thing getting higher, faster, cleaner — not just spin or fade for attention. If removing the movement removes meaning rather than just polish, the animation is doing real work."
+      },
+      "tags": [
+        "display-banner",
+        "animation",
+        "saas",
+        "value-proposition",
+        "motion",
+        "cta"
       ]
     }
   ]
