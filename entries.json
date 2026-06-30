@@ -2603,6 +2603,169 @@
         "type-design",
         "craft"
       ]
+    },
+    {
+      "date": "2026-06-30",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Aman",
+        "url": "https://www.aman.com"
+      },
+      "image": "images/2026-06-30-aman.png",
+      "category": "Luxury hospitality",
+      "tagline": "Sells transformation, not rooms — full-bleed photography, near-silent copy, and extreme restraint as the luxury signal.",
+      "summary": "Aman's site is a master class in luxury restraint. It lets enormous, architectural, full-bleed photography of its resorts carry almost the entire experience, with spare, evocative copy ('Moments of Transformation') and a strictly neutral white/gray/black palette so nothing competes with the imagery. Properties are organized geographically and presented as equal-weight modular cards; interactions are quiet (collapsing menus, gentle hovers) rather than flashy. The generous whitespace and refusal to clutter are themselves the message: exclusivity reads as calm.",
+      "whatWorks": [
+        "Let full-bleed, architectural photography do the selling and keep copy to a few evocative words",
+        "Keep the UI palette strictly neutral so the only color on the page comes from the photography",
+        "Use generous whitespace as a luxury signal — emptiness reads as exclusivity, density reads as discount",
+        "Present destinations and experiences as equal-weight modular cards so a large brand stays scannable",
+        "Favor quiet, purposeful motion (menu collapse, subtle hovers) over animation spectacle",
+        "Manage expectations transparently with status badges ('Opening 2027', 'Reopening Soon') without breaking the calm",
+        "Keep one consistent 'Reserve' CTA placement so booking is always a single move away"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "A single full-bleed property image (e.g. Amanvari, two chairs facing the sea) with minimal copy; the photograph communicates luxury before a word is read."
+        },
+        {
+          "name": "Destinations",
+          "notes": "Properties grouped geographically (Americas & Caribbean, EMEA, Asia) as a scannable directory, some flagged 'Coming Soon' or 'Reopening Soon'."
+        },
+        {
+          "name": "Experiences",
+          "notes": "Four equal-width cards (art, wellness, private villas, escapes) — modular consistency carrying content variety."
+        },
+        {
+          "name": "Brand ecosystem",
+          "notes": "Aman at Sea, Shop, Interiors and Gift Cards given equal visual weight, extending the brand narrative beyond accommodation."
+        },
+        {
+          "name": "Footer",
+          "notes": "Comprehensive regional destination lists and global social links (including WeChat/Red) signalling international reach."
+        }
+      ],
+      "principle": {
+        "title": "Make photography the only source of color",
+        "explanation": "Aman's UI is strictly neutral (white, gray, black) so every bit of chroma comes from the property photography. This makes a sprawling, image-heavy brand feel coherent and lets each photo land at full saturation against a quiet ground — the imagery never fights the chrome.",
+        "howToApply": "For an image-led site, strip color out of the UI entirely — neutral type, neutral backgrounds, neutral controls — and let only the photography carry color. Choose one strong full-bleed image per section and let it own the screen; the neutral frame makes even mixed photography read as one set."
+      },
+      "tags": [
+        "luxury",
+        "photography",
+        "restraint",
+        "whitespace",
+        "color",
+        "hospitality"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "AT&T — 'You Will' (the first banner ad)",
+        "url": "http://thefirstbannerad.com/"
+      },
+      "image": "images/2026-06-30-ad-att-you-will.gif",
+      "category": "Display banner (468×60 leaderboard, static GIF)",
+      "tagline": "The web's first banner ad — a curiosity gap and a literal arrow that reportedly earned a 44% click rate.",
+      "when": "Ran 27 October 1994 on HotWired",
+      "summary": "On 27 October 1994, HotWired ran the web's first banner ads; AT&T's was a static 468×60 GIF reading 'Have you ever clicked your mouse right HERE?' with an arrow pointing to the words 'YOU WILL.' It clicked through to a tour of the world's great museums. With nothing but a question, an arrow, and a two-word payoff, it reportedly earned a 44% click-through rate — unthinkable today (modern display CTR is roughly 0.5%). It is the origin point of the entire digital-ad-unit format, and still a clinic in the curiosity gap.",
+      "whatWorks": [
+        "A pure curiosity gap: ask a question whose only answer is to click",
+        "One idea, two words ('YOU WILL') — ruthless economy fitted to a tiny 468×60 canvas",
+        "A literal directional cue (the arrow) telling the eye and hand exactly what to do",
+        "Reward the click with something genuinely worth it (a virtual museum tour), not a hard sell",
+        "High contrast on a tiny unit so it reads instantly amid page content",
+        "Brand restraint: the AT&T name stays small; the interaction itself is the hero"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "'Have you ever clicked your mouse right HERE?' — a direct question that creates an itch the reader has to scratch."
+        },
+        {
+          "name": "Headline / message",
+          "notes": "The question IS the message; in 1994 it also taught the then-novel act of clicking a banner."
+        },
+        {
+          "name": "Visual",
+          "notes": "A simple high-contrast bar with an arrow pointing to the payoff — no imagery needed at 468×60."
+        },
+        {
+          "name": "CTA",
+          "notes": "'YOU WILL' beside the arrow — a two-word answer that doubles as the button."
+        }
+      ],
+      "principle": {
+        "title": "Open a curiosity gap, then point at the click",
+        "explanation": "The first banner worked because it created a question the audience could only resolve by clicking, then removed all friction with a literal arrow and a two-word payoff. In a tiny unit, one unresolved idea plus an unmistakable directional cue beats any amount of feature copy.",
+        "howToApply": "For any small ad unit or CTA, lead with a single open loop (a question, a tease, an incomplete statement), keep the words to a handful, and add an explicit directional cue toward the action. Make the click resolve the curiosity — and make what's on the other side worth it."
+      },
+      "tags": [
+        "display-banner",
+        "curiosity-gap",
+        "cta",
+        "copywriting",
+        "history",
+        "minimalism"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Adrian Frutiger",
+        "url": "https://en.wikipedia.org/wiki/Adrian_Frutiger"
+      },
+      "image": "images/2026-06-30-designer-adrian-frutiger.png",
+      "category": "Type design / typography",
+      "when": "1928–2015 · Swiss",
+      "tagline": "Designed type as a coordinated system — Univers, its rational numbering grid, and the airport-legible Frutiger.",
+      "summary": "Adrian Frutiger was the great systems-thinker of type. In 1957 he designed Univers as the first typeface conceived from the outset as a complete, coordinated family — every weight and width drawn together — and gave it a two-digit numbering system (55 = roman regular; first digit = weight, second = width and posture) that replaced the muddle of 'bold condensed italic' names with a rational grid. In 1970 he designed the signage type for Charles de Gaulle Airport, which became the typeface Frutiger: a humanist sans engineered for legibility at distance and angle. His method: design the whole system at once, governed by how the eye actually reads.",
+      "whatWorks": [
+        "Design the entire family simultaneously, not one cut then extensions — coherence is built in, never retrofitted",
+        "Encode the system in a rational scheme (the numbering grid) so anyone can navigate it at a glance",
+        "Start from how the eye perceives light, shadow and letterforms — legibility as the governing constraint",
+        "Design for the hardest real condition (signage seen at distance and an angle); the easy cases then follow",
+        "Favor clear, objective forms over expressive flourish so the type works anywhere",
+        "Treat naming and specification as part of the design — a system you can't navigate isn't finished"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "With the system and its use: define the full matrix of weights and widths and the real reading conditions (size, distance, angle) before perfecting any single glyph."
+        },
+        {
+          "name": "Core method",
+          "notes": "Draws every member of the family in parallel so they share proportions and rhythm, achieving a consistency no sequential, one-at-a-time process could reach."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The Univers numbering grid — a two-digit code (weight × width/posture) that turns a sprawling family into a navigable system — plus humanist forms tuned for legibility."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Judge by legibility under real conditions (CDG Airport at distance and angle; small text) and by whether the form is clear and objective rather than stylistic."
+        }
+      ],
+      "principle": {
+        "title": "Design the whole family at once, then index it",
+        "explanation": "Frutiger's leap was treating a typeface as a coordinated system designed in parallel and made navigable by a rational scheme. Drawing every variant together builds in a consistency you cannot bolt on later, and a clear index (his numbering grid) keeps the system usable at scale.",
+        "howToApply": "When building anything with variants — a type scale, a component family, an icon set — design the full matrix together against the hardest use case, not one piece plus ad-hoc extensions. Then give it a rational, legible naming or numbering scheme so collaborators can navigate it without guessing."
+      },
+      "tags": [
+        "type-design",
+        "systems",
+        "legibility",
+        "naming",
+        "signage",
+        "families"
+      ]
     }
   ]
 }
