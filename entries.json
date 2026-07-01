@@ -2766,6 +2766,172 @@
         "motion",
         "cta"
       ]
+    },
+    {
+      "date": "2026-07-01",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Graza",
+        "url": "https://www.graza.co/"
+      },
+      "image": "images/2026-07-01-graza.png",
+      "category": "E-commerce / DTC food",
+      "tagline": "“Olive oil the way it should be” — a squeeze-bottle brand that makes a pantry staple feel joyful, confident, and collectible.",
+      "summary": "A bright, cream-and-green DTC store that treats extra-virgin olive oil like a brand you'd want on your counter. Where most grocery sites are cluttered, Graza is playful and disciplined: a warm off-white canvas, one bold forest-green wordmark, hand-drawn illustrations, and honest product photography of its three squeeze bottles (Drizzle, Sizzle, Frizzle). The naming system does the heavy lifting — rhyming names plus one-word flavor cues (Punchy / Mellow / Neutral) make a three-SKU line instantly legible — and the whole page stays calm and characterful rather than salesy.",
+      "whatWorks": [
+        "A tight, ownable palette — warm cream ground, one deep olive/forest green, chartreuse and tomato-red accents — so the page feels branded and cohesive instead of the rainbow clutter typical of grocery e-commerce.",
+        "The product naming IS the information architecture: Drizzle / Sizzle / Frizzle plus one-word cues (Punchy / Mellow / Neutral) and ‘made for eating, never heating’ teach a 3-SKU range in a single glance, no spec table needed.",
+        "A giant, confident ‘GRAZA’ wordmark used as a full-width graphic element anchors the page and gives a cheap-to-produce pantry product a bold, premium presence.",
+        "Hand-drawn illustrations (a little chef, olive sprigs, ‘FAN FAVE’ badges) add warmth and personality that photography alone can't, without undercutting the clean layout.",
+        "Honest, in-use product photography — real squeeze bottles, real food, real hands — keeps it credible and appetizing rather than sterile studio packshots.",
+        "A verb-led use-case block (Sear / Grill / Bake / Fry / Garnish / Knead) reframes ‘which oil’ as ‘what you're cooking,’ selling versatility in one scannable list."
+      ],
+      "sections": [
+        {
+          "name": "Promo bar + hero",
+          "notes": "A slim promo strip (‘22.5% off everything’) sits above a hero declaring ‘Extra Virgin Olive Oil makes everything better’ with one SHOP NOW button — appetite and offer up front, minimal chrome."
+        },
+        {
+          "name": "Graza in Glass",
+          "notes": "A freshness story — bottles shot in glass with ‘Olive oil so fresh, you can taste it’ — makes a quality claim visual and concrete instead of a bullet list."
+        },
+        {
+          "name": "Product lineup",
+          "notes": "The giant GRAZA wordmark + ‘Olive oil the way it should be’ introduces the three bottles (Drizzle $21 / Sizzle $16 / Frizzle $14), each with price, volume, a rhyming name and a one-word flavor cue — the whole range legible at a glance."
+        },
+        {
+          "name": "Use cases",
+          "notes": "A verb list (Sear / Grill / Bake / Fry / Garnish / Knead) over food photography answers ‘what do I use it for’ and sells versatility without a paragraph."
+        },
+        {
+          "name": "Brand story",
+          "notes": "‘Made by people who take olives very seriously’ with an olive-tree image and an About Us link — a quick credibility beat that grounds the playful tone in real sourcing."
+        },
+        {
+          "name": "UGC / Instagram grid + footer",
+          "notes": "A grid of real customer and food shots as social proof, then a footer that reprises the big GRAZA wordmark and shop/company/legal links — personality maintained to the last pixel."
+        }
+      ],
+      "principle": {
+        "title": "Let a naming system do the explaining",
+        "explanation": "Graza's rhyming names plus one-word cues (Drizzle/Sizzle/Frizzle → Punchy/Mellow/Neutral) make a product range self-explanatory, so the design can stay clean and playful instead of drowning in spec copy. Good naming is information architecture: it lowers cognitive load before any layout work happens.",
+        "howToApply": "For any multi-SKU or multi-tier product, invent a tiny, memorable naming system with a single differentiating cue per option, then design the page around those names — you'll need far less explanatory copy, and the range will read in one glance."
+      },
+      "tags": [
+        "e-commerce",
+        "dtc",
+        "branding",
+        "illustration",
+        "typography",
+        "playful"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Square — 300×600 half-page display ad (Square Terminal)",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-01-ad-square-terminal.png",
+      "category": "Display banner (300×600 half-page / large skyscraper)",
+      "tagline": "A tall unit read top-to-bottom: mark → product → one benefit → CTA → in-context proof shot.",
+      "when": "Google Display Network, ~2020",
+      "summary": "A textbook half-page display unit that uses its vertical format instead of fighting it. Reading straight down: the Square logomark, a big two-line product name (‘Square Terminal’), one plain benefit (‘Take payments for one low rate’), a lightweight ‘Learn more’ link, and finally a real photo of the device ringing up a sale on a countertop. Near-monochrome black-on-white with a single blue accent for the link, generous whitespace, and exactly one idea — it's calm and premium in a medium that's usually loud, and it proves the product by showing it in use.",
+      "whatWorks": [
+        "Hierarchy fitted to the format: a 300×600 unit is a vertical column, so the ad stacks logo → headline → benefit → CTA → image in a single top-to-bottom read instead of cramming a landscape layout into a tall box.",
+        "One idea only — ‘Square Terminal, one low rate’ — no feature list, so it registers in the sub-second glance a display ad actually gets.",
+        "Near-monochrome (black type on white) with a single blue accent reserved for ‘Learn more’ keeps the one clickable thing obvious and the unit calm.",
+        "The product shot is in-context (the terminal on a real counter mid-transaction), which demonstrates the value rather than floating a packshot.",
+        "Generous whitespace makes a small canvas feel premium and legible instead of cluttered — restraint reads as confidence even at banner scale.",
+        "Big two-line product name doubles as the visual anchor, so branding and message land together without a separate tagline."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The Square logomark top-left plus an oversized ‘Square Terminal’ name — brand and subject register instantly at the top of the column."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "‘Take payments for one low rate.’ A single plain-language benefit — one promise, zero jargon, no supporting bullets."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A real photo of the Square Terminal on a countertop mid-sale ($18.55 on screen) — the product proven in its actual context, anchoring the bottom of the unit."
+        },
+        {
+          "name": "CTA",
+          "notes": "‘Learn more’ as a lightweight blue text link — the only colored element on the page, so the eye knows exactly where to click; low-pressure, matched to a top-of-funnel display placement."
+        }
+      ],
+      "principle": {
+        "title": "Fit the hierarchy to the format",
+        "explanation": "A tall half-page unit is a vertical reading column, not a shrunken billboard. Stacking one element per row — mark, headline, benefit, CTA, proof image — lets a viewer absorb the whole ad in a single downward glance, which is all the attention a display ad ever gets.",
+        "howToApply": "Before designing any fixed-format unit (banner, story, email module, card), decide its natural reading axis from its aspect ratio, then place one idea per step along that axis and reserve your only accent color for the CTA."
+      },
+      "tags": [
+        "display-banner",
+        "half-page",
+        "hierarchy",
+        "fintech",
+        "restraint",
+        "cta"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Herb Lubalin",
+        "url": "https://en.wikipedia.org/wiki/Herb_Lubalin"
+      },
+      "image": "images/2026-07-01-designer-herb-lubalin.jpg",
+      "category": "Expressive typography · ‘typographics’ · editorial & type design",
+      "when": "1918–1981 · American",
+      "tagline": "Turned letters into pictures — the master of ‘typographics,’ where the type IS the idea.",
+      "summary": "Herb Lubalin was the New York designer who made typography as expressive as illustration. He crushed letters together, intertwined them, cut serifs with a razor blade, and built logos where the meaning of a word lived in its letterforms (‘Mother & Child’ with a fetus inside the ampersand's belly). He co-founded the International Typeface Corporation, gave the world ITC Avant Garde with its riot of tight ligatures, and edited U&lc, the journal where he pushed expressive lettering as far as it would go. AIGA coined the term ‘typographics’ for what he did — not typesetting, but type as image.",
+      "whatWorks": [
+        "Make the word mean what it says: build the concept INTO the letterforms so the type itself carries the idea, not just a caption next to it.",
+        "Comp obsessively on tracing paper — layer marker studies over one another until the spacing and interlock are exactly right before committing to finished art.",
+        "Treat letterspacing as a design variable, not a default: push letters until they touch, overlap, and interlock to create rhythm and a single unified shape.",
+        "Customize existing type by hand — take a blade to serifs, ascenders and descenders — rather than accepting a typeface as drawn.",
+        "Design ligatures and alternates as expressive opportunities, the way Avant Garde's overlapping caps became its signature.",
+        "Let one strong word or phrase be the entire composition — typographic economy over decoration."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With the words themselves. Lubalin started from the meaning of the phrase and asked how the letters could embody it — the idea was found in the type, not applied to it afterward. First moves were marker comps on tissue, fast and decisive."
+        },
+        {
+          "name": "Core method",
+          "notes": "Iterative tracing-paper studies: he assembled and layered elements on tracing paper, sliding letters together and adjusting until the effect was perfect, then inked the final freehand onto hot-press illustration board over a light pencil transfer. The comp was as considered as the finished piece."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Extreme tight-setting and ligatures — reducing spacing until letters interlock into one shape — plus hand-cutting type with a scalpel to alter serifs and stroke heights. This is the DNA of ITC Avant Garde and his conceptual logos (Mother & Child, Families, Marriage)."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Type is image. He rejected the label ‘typographer’ as too narrow and embraced ‘typographics’ — typography should be as exciting as illustration or photography. Good work makes the letterforms do the communicating; if the word doesn't visually mean something, push it further."
+        }
+      ],
+      "principle": {
+        "title": "Make the type carry the idea",
+        "explanation": "Lubalin's power came from refusing to treat type as neutral delivery. When the letterforms themselves embody the meaning — through spacing, ligatures, a hidden image, a cut serif — a headline or logo communicates instantly and memorably, doing the work that would otherwise need an illustration.",
+        "howToApply": "On your next wordmark or hero headline, spend 15 minutes trying to make the letters mean the word: tighten spacing until letters interlock, hide a small image in a counter or ligature, or alter one glyph so the type itself tells the story before anyone reads it."
+      },
+      "tags": [
+        "typography",
+        "lettering",
+        "logos",
+        "editorial",
+        "type-design",
+        "process"
+      ]
     }
   ]
 }
