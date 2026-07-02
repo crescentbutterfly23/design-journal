@@ -2932,6 +2932,176 @@
         "type-design",
         "process"
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Ghia",
+        "url": "https://www.drinkghia.com"
+      },
+      "image": "images/2026-07-02-ghia.png",
+      "category": "DTC / non-alcoholic beverage e-commerce",
+      "tagline": "A non-alcoholic aperitif sold not as a substitute but as a desirable ritual, through deep-oxblood Mediterranean art direction and honest product photography.",
+      "summary": "Ghia takes a category usually framed by absence ('non-alcoholic') and reframes it as presence and pleasure. A saturated bordeaux/oxblood palette, warm cream and a muted sage footer carry a sun-drenched Italian aperitivo mood; a script wordmark and a confident serif give it editorial weight rather than wellness-brand blandness. The page is a tight vertical scroll where every band changes background color to signal a new idea, and real drinks in real glassware do the selling. Its one caveat: an aggressive countdown discount popup opens over the hero, which slightly undercuts the premium calm.",
+      "whatWorks": [
+        "Color-blocked bands (oxblood, cream, sage) segment the page — you always know you've entered a new section without a single divider line",
+        "Sells the ritual, not the abstinence: copy like 'it's not a mocktail, it's Ghia' reframes the product as a positive choice",
+        "Honest, appetite-driven photography — the actual bottle and a real red spritz over ice, never generic stock or fake fizz",
+        "The 'Apéritif Guide' turns three SKUs into flat colored bottle icons with stacked facts (flavors / servings / occasion) — a comparison chart that reads as art",
+        "Layered social proof: pull-quotes from Food & Wine and Fast Company, then a scroll of real customer video reviews for face-level trust",
+        "A script logo + a bold display serif do the brand-voice work, so the type feels boutique rather than templated DTC"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Script 'Ghia' wordmark on a bordeaux blob beside a hero shot of the red spritz in a stemmed glass over ice. Immediately warm and premium; the drink itself is the hero image, not a lifestyle scene. (A countdown 'mystery discount' modal overlays it — the one friction point.)"
+        },
+        {
+          "name": "Product carousel",
+          "notes": "'It's not a mocktail, it's Ghia' headline over a horizontal carousel of the Discovery Set, Original Aperitif, and Spritz Variety Pack — each with a 'Bestseller'/'Sale' tag, price, and product cutout on black, so shopping starts high on the page."
+        },
+        {
+          "name": "Brand story",
+          "notes": "Full-bleed oxblood band: 'Inspired by Mediterranean aperitivo culture, we created Ghia, a spirits-free aperitif adapted for modern times' beside a bottle-and-cocktail still life. Gives the product a heritage and a reason to exist."
+        },
+        {
+          "name": "Our Greatest Sips",
+          "notes": "Three usage modes (Apéritif / Le Spritz / Le Fizz) as photo cards with a one-line description and an inline 'Add to Cart' — teaches how to drink it while keeping conversion one click away."
+        },
+        {
+          "name": "Apéritif Guide",
+          "notes": "Cream band with three flat colored bottle silhouettes (blue, oxblood, red), each stacked with facts — bold flavors, servings, single-serve vs. share, occasion. A comparison table rendered as an illustrated infographic; the page's smartest visual move."
+        },
+        {
+          "name": "Social proof / press & real reviews",
+          "notes": "'Don't just take our word for it' — a mosaic of 5-star press pull-quotes (Food & Wine, Fast Company) followed by 'See real reviews', a scrolling grid of genuine customer video testimonials. Editorial credibility plus peer credibility, stacked."
+        },
+        {
+          "name": "Footer",
+          "notes": "Muted sage-green band, an eye motif, a playful newsletter line ('we're booze free, but our emails are intoxicating'), the large script logo again, and tidy link columns — a calm, on-brand close after the saturated reds."
+        }
+      ],
+      "principle": {
+        "title": "Sell the ritual, not the absence",
+        "explanation": "A product defined by what it lacks (no alcohol, no sugar, no meat) invites the buyer to feel deprived. Ghia never leads with 'non-alcoholic' as a compromise — it wraps the product in aperitivo culture, real glassware, and warm color so the emotional pitch is pleasure and belonging, and the 'free-from' fact becomes a bonus, not the headline.",
+        "howToApply": "On any 'alternative' or 'free-from' product page, write the hero around the positive experience (the ritual, the taste, the moment) and demote the negative-space claim to a supporting line. Back it with honest photography of the real thing in use rather than clinical or apologetic framing."
+      },
+      "tags": [
+        "color",
+        "ecommerce",
+        "editorial",
+        "photography",
+        "branding",
+        "dtc"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Ridge — leaderboard display banner",
+        "url": "https://www.wordstream.com/blog/ws/2020/03/02/banner-ads-examples"
+      },
+      "image": "images/2026-07-02-ad-ridge.jpg",
+      "category": "Display banner (leaderboard / responsive GDN unit)",
+      "tagline": "A one-glance before/after: two photos of 'OLD WALLET' vs 'NEW WALLET' make the entire pitch without a word of body copy.",
+      "when": "GDN display, ~2020",
+      "summary": "Ridge's banner is a masterclass in doing the argument visually. On a clean white stage it shows a fat, bulging leather wallet labeled 'OLD WALLET' next to its slim metal wallet labeled 'NEW WALLET' — the product's whole value proposition (thinner) is proven by the size contrast in under a second. A dark left panel holds the logo, a two-line headline, and a boxed 'SHOP NOW', so the reading path is fixed and the busy comparison never fights the call to action.",
+      "whatWorks": [
+        "The before/after is the message — the size difference between the two wallets is the argument, so no one has to read to 'get it'",
+        "Explicit 'OLD WALLET' / 'NEW WALLET' labels remove all ambiguity from the comparison in two words each",
+        "Dark left panel vs. white product stage creates a clear zone split: brand+copy on the left, proof on the right",
+        "Copy is ruthlessly short — one benefit line ('a slim, RFID-blocking wallet designed to streamline') and a two-word CTA",
+        "Outlined 'SHOP NOW' button sits in the dark panel where contrast makes it the obvious next step",
+        "Neutral white background keeps the products the only saturated thing in the frame"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Two product photos side by side — a bulging old wallet and a slim new one. The visual size gap stops the eye and poses the comparison before any text is read."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Meet The Ridge. A slim, RFID-blocking wallet designed to streamline.' One benefit stated plainly; the labels 'OLD WALLET' / 'NEW WALLET' under each photo do the rest of the explaining."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The two wallets on a plain white surface are the hero — the ad trusts the product photography to carry the persuasion, with the brand mark small in the dark panel."
+        },
+        {
+          "name": "CTA",
+          "notes": "A simple outlined 'SHOP NOW' box in the dark left panel — high contrast, single verb, unmistakable as the action."
+        }
+      ],
+      "principle": {
+        "title": "Let the before/after be the argument",
+        "explanation": "When a product's benefit is visual (smaller, cleaner, faster, brighter), a side-by-side comparison persuades faster and more honestly than any adjective. The viewer draws the conclusion themselves, which is more convincing than being told — and it survives the sub-second attention a banner gets.",
+        "howToApply": "For any 'better than the old way' product, mock up a two-panel before/after with two-word labels and let it carry the ad; keep body copy to a single benefit line and one CTA. The same device works for hero sections and comparison rows on a product page."
+      },
+      "tags": [
+        "advertising",
+        "display-banner",
+        "before-after",
+        "conversion",
+        "product",
+        "contrast"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "David Carson",
+        "url": "https://en.wikipedia.org/wiki/David_Carson_(graphic_designer)"
+      },
+      "image": "images/2026-07-02-designer-david-carson.jpg",
+      "category": "Experimental / grunge typography · post-modern editorial",
+      "when": "b. 1955 · American",
+      "tagline": "The 'End of Print' art director who threw out the grid and designed each page from the feeling of its content.",
+      "summary": "A former professional surfer turned self-taught designer, David Carson became the most imitated art director of the 1990s through his work on Beach Culture and Ray Gun magazine. He treated typography as emotion and texture rather than neutral delivery — layering images, breaking baselines, and once setting a boring interview entirely in Zapf Dingbats. His book The End of Print (1995) made him famous and controversial. His process is the opposite of the Swiss systems most of this journal admires, which is exactly why it's worth stealing from: it's a permission structure for intuition and experiment.",
+      "whatWorks": [
+        "Design from the content's feeling, not a template — let each piece dictate its own layout instead of pouring everything into one grid",
+        "Treat type as image and atmosphere: spacing, overlap, distress and scale become the emotional message, not just the words",
+        "Start intuitively and fast — respond to the material before intellectualizing it, then refine",
+        "Use deliberate 'wrong' moves (broken baselines, overprinting, unexpected fonts) as expressive tools once you know the rules you're breaking",
+        "Keep the basics sacred: Carson insists the real craft is image choice, cropping, and font choice — the flashy layering is secondary",
+        "Build a recognizable personal voice by trusting your own eye rather than converging on the consensus 'correct' solution"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "He reads the content and reacts to its mood first — for Ray Gun, he designed each spread from how the music or article 'felt', treating every page as a brand-new assignment with no house grid or formula to fall back on."
+        },
+        {
+          "name": "Core method",
+          "notes": "Intuition-led composition: no master grid, no reusable template. Layout emerges by responding to the specific photos, headline, and tone in front of him, layering type and image until the page carries the right emotional charge."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Expressive, 'grunge' typography — overprinted and layered text, broken baselines, distressed textures, compressed or exploded type, and provocations like the all-Zapf-Dingbats interview that argued an unengaging piece didn't deserve to be read straight."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'Don't mistake legibility for communication.' Type is never neutral; the emotional response before reading is the point. But he grounds it: the fundamentals — image, cropping, appropriate font choice — are what make design work, not the opacity tricks. Judge by feeling and voice, not by conformity to rules."
+        }
+      ],
+      "principle": {
+        "title": "Design from the feeling of the content, not a template",
+        "explanation": "Carson's power came from refusing to treat layout as a neutral container. When the composition responds to the specific mood and material of a piece — rather than being poured into a reusable grid — the result communicates emotion instantly and is unmistakably its own. It's the counterweight to systematized design: proof that intuition, disciplined by strong fundamentals, is a legitimate method.",
+        "howToApply": "On a project where the default is 'drop it in the template', spend 20 minutes designing one page purely from the content's mood — pick type, crop, and scale by feel — then reconcile it with your system. Even if you keep the grid, the exercise surfaces expressive moves the template would have hidden."
+      },
+      "tags": [
+        "typography",
+        "experimental",
+        "editorial",
+        "intuition",
+        "process",
+        "post-modern"
+      ]
     }
   ]
 }
