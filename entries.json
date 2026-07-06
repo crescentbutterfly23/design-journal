@@ -3102,6 +3102,218 @@
         "process",
         "post-modern"
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "basement.studio",
+        "url": "https://basement.studio"
+      },
+      "image": "images/2026-07-06-basement-studio.png",
+      "category": "Creative & branding agency",
+      "tagline": "‘Making cool shit that performs’ — a near-black agency portfolio that leads with named outcomes, not motion reels.",
+      "summary": "basement.studio's own site is loud but disciplined. It opens on a blunt, oversized one-line positioning statement, proves itself instantly with a dense logo grid of ambitious clients (Vercel, Linear, Cursor, ElevenLabs, MrBeast), then walks four flagship projects — each captioned by a business RESULT rather than a craft brag. Every project panel is styled in its own brand colors, so the work's art direction carries the section instead of a house template, and the page signs off with a giant BSMNT.26 wordmark. Confident, results-first, and unmistakably its own voice.",
+      "whatWorks": [
+        "Positioning as one blunt sentence in oversized type (‘a digital studio & branding powerhouse making cool shit that performs’) — voice and value prop in a single confident line, zero corporate hedging.",
+        "A dense, uniform ‘Trusted by Visionaries’ logo grid of recognizable, ambitious clients does the credibility work in one scan — and mirrors exactly the kind of client they want.",
+        "Featured projects are captioned by OUTCOME, not craft (‘sold out inventory in hours’) — results-first case framing aimed at buyers, not other designers.",
+        "Each project gets a full-bleed panel in ITS OWN brand colors (Daylight cream, KidSuper sky-blue, MrBeast hot-pink sunburst) so the work's art direction styles the section, not a house template.",
+        "Service scope shown as four tidy columns (Websites & Features, Visual Branding, IRL Experience Design, Marketing Execution) with sub-discipline tags — full-service breadth communicated in one look.",
+        "One loud, ownable brand gesture to close: the huge ‘BSMNT.26’ wordmark as a sign-off — memorable and confident where most sites just taper into a footer."
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "Minimal top bar — ‘basement.’ wordmark left; Services, Showcase, People, Blog, Lab center; Contact Us right — quiet chrome floating on a near-black canvas."
+        },
+        {
+          "name": "Hero",
+          "notes": "An oversized positioning headline with a two-line supporting sentence, set with generous black space above so the statement lands hard before anything else appears."
+        },
+        {
+          "name": "Trusted by Visionaries (logo grid)",
+          "notes": "A dense, evenly-gridded wall of client logos (Vercel, Linear, Cursor, ElevenLabs, Cal.com, Solana, MrBeast) — instant, scannable proof placed high, that mirrors the target audience."
+        },
+        {
+          "name": "Featured Projects",
+          "notes": "Four case entries — Vercel Ship, Daylight, KidSuper, Shop MrBeast — each a full-bleed, brand-colored visual paired with a result-led sentence and the disciplines applied. The work styles its own row."
+        },
+        {
+          "name": "Capabilities / Services",
+          "notes": "‘We're here to create the extraordinary’ over four service columns with sub-discipline tags — scope and rigor stated plainly, no fluff."
+        },
+        {
+          "name": "Contact + footer",
+          "notes": "‘Let's make an impact together / hello@basement.studio’ as the single clear action, then a giant BSMNT.26 wordmark and a simple nav + newsletter signup to close."
+        }
+      ],
+      "principle": {
+        "title": "Caption your work with the outcome, not the craft",
+        "explanation": "A portfolio that describes HOW it made something (‘bespoke WebGL, custom type’) talks to other designers; a portfolio that states WHAT the work achieved (‘sold out inventory in hours’) talks to the person who signs the check. Let the visual show the craft while the words carry the proof.",
+        "howToApply": "For every case study or project card, write the caption as the business result it drove — a number, a launch, a sell-out — and let the image do the showing. Save the craft details for the deeper case page."
+      },
+      "tags": [
+        "agency",
+        "dark theme",
+        "typography",
+        "portfolio",
+        "social proof",
+        "case studies"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Allbirds — 300×250 display banner",
+        "url": "https://www.wordstream.com/blog/ws/2020/03/02/banner-ads-examples"
+      },
+      "image": "images/2026-07-06-ad-allbirds.jpg",
+      "category": "Display banner (300×250 medium rectangle)",
+      "tagline": "One lifestyle product photo, a three-word imperative, one CTA — DTC restraint sized to a square.",
+      "when": "GDN display, ~2021",
+      "summary": "A textbook-clean DTC square display ad. A real lifestyle photo of the light-blue wool sneakers on a sidewalk fills the top two-thirds; the lowercase ‘allbirds’ wordmark sits quietly at the top; a short imperative headline (‘Slip ‘Em On, Move Along’) and a single ‘SHOP NOW’ link anchor the bottom. No specs, no discount badge, no clutter — the photo does the selling and the copy just nudges. It reads calm and premium in a format that usually shouts.",
+      "whatWorks": [
+        "One focal point: a single real product-in-context photo carries the whole unit — no competing graphics or callouts.",
+        "Copy stripped to a three-word imperative (‘Slip ‘Em On, Move Along’) that's instantly readable at banner scale.",
+        "Restraint as brand: lowercase wordmark, muted palette, and no price/urgency badge signal premium in a noisy format.",
+        "A single unmistakable CTA (‘SHOP NOW’) with breathing room — one action, no competing buttons.",
+        "Photography does the demo — the shoe is shown worn on a real sidewalk, so the ad is mood and product proof at once.",
+        "Clean top-to-bottom hierarchy even in a tiny 300×250: image → headline → CTA."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The pale-blue sneakers shot in real daylight on a sidewalk — a lifestyle image, not a packshot, so it reads like content rather than an ad and earns a second look."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "‘Slip ‘Em On, Move Along’ — a breezy three-word imperative selling the feeling (easy, casual, effortless) over any material or feature."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The worn product fills two-thirds of the square; muted blue against neutral pavement keeps the unit calm, premium, and unmistakably on-brand."
+        },
+        {
+          "name": "CTA",
+          "notes": "A simple centered ‘SHOP NOW’ link with space around it — the one clear action, no button noise."
+        }
+      ],
+      "principle": {
+        "title": "Let one honest product photo carry the ad — cut the copy to three words",
+        "explanation": "In a small display unit, a single real product-in-use image plus a three-word imperative and one CTA out-reads and out-converts feature lists and discount badges — and the restraint itself signals a premium brand.",
+        "howToApply": "When designing a banner, force yourself to one photo, one headline of ≤4 words, and one CTA. If you're tempted to add a price flag or a second line, cut something instead and give the remaining elements more room."
+      },
+      "tags": [
+        "display banner",
+        "dtc",
+        "photography",
+        "restraint",
+        "cta",
+        "product"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Unimark International",
+        "url": "https://en.wikipedia.org/wiki/Unimark_International"
+      },
+      "image": "images/2026-07-06-designer-unimark-international.png",
+      "category": "Studio · systematic corporate identity (modernism)",
+      "when": "1965–1977 · international (Chicago · Milan · New York)",
+      "tagline": "The lab-coated firm that turned modernist design into a repeatable system — and wrote the manual so anyone could build it.",
+      "summary": "Founded in 1965 by seven partners — including Massimo and Lella Vignelli, Bob Noorda, and Ralph Eckerstrom — Unimark briefly became the largest design firm in the world by treating design not as art but as a rational, reproducible discipline. It imported European modernism (Bauhaus functionalism, the Swiss grid, neutral sans type) into American corporate work, producing identity and signage systems for American Airlines, Ford, JC Penney, and the New York City Transit Authority whose logic still shapes the subway today. Its true deliverable wasn't a logo but the graphics standards MANUAL — a documented system any office or fabricator could execute identically. (It over-expanded and filed Chapter 11 by 1977 — proof that a great method still needs a sound business under it.)",
+      "whatWorks": [
+        "Ship the SYSTEM, not the artifact: encode every decision into a documented standards manual so the work can be reproduced identically by anyone, anywhere.",
+        "Make the grid the unit of work — a shared modular grid lets many hands (and offices) contribute and still read as one voice.",
+        "Design as objective problem-solving, not self-expression: choices you can defend from the system's logic, not personal taste.",
+        "Pick a neutral, reproducible type palette (Akzidenz/Helvetica-era sans) and hold it, so consistency survives across thousands of touchpoints.",
+        "Use ritual to align a team: the (short-lived) white lab coats signaled a clean, unified, serious profession — a shared standard that put the system above the individual.",
+        "Aim for durability over cleverness — a system that still works decades later beats a one-off that dazzles once."
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "A seven-partner firm spanning Chicago, Milan, and New York (later London and more), pairing American corporate business sense (Eckerstrom) with European modernist rigor (Vignelli, Noorda). In its early years it required white lab coats — Vignelli's idea — to signal a clean, unified, scientific profession on par with medicine and architecture."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Pursued large corporate identity and signage commissions — American Airlines, Ford, JC Penney, the NYC Transit Authority — that demanded system-wide consistency across thousands of signs, forms, and vehicles: work far too big for any lone designer to hold."
+        },
+        {
+          "name": "Signature method",
+          "notes": "The graphics standards manual. Unimark encoded every rule — grid, type (Akzidenz/Helvetica-era sans), spacing, color, sign placement — into a documented, reproducible system so any office or sign shop executed it identically. The NYC Transit Authority manual is the canonical example, still governing subway wayfinding today."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Designer as objective problem-solver, not artist; universal clarity over personal flair; quality measured by consistency and reproducibility. The caution baked into its story: the same impersonal rigor that scaled its craft couldn't insulate the business, and over-expansion sank the firm by 1977 — method needs a sound business under it."
+        }
+      ],
+      "principle": {
+        "title": "Ship the system as a manual, not just the artifact",
+        "explanation": "Unimark's lasting power came from designing the reusable RULES and documenting them, so the work could be reproduced at scale by people who never met the original designers. A logo is a moment; a documented system is an institution — which is why the subway still speaks Unimark's language.",
+        "howToApply": "On any project meant to outlive you or scale past your own hands (a brand, a design system, a signage set), write the short standards doc alongside the artifact: the grid, type scale, color rules, spacing, and do/don't examples. Judge the work by whether a stranger could reproduce it correctly from the manual alone."
+      },
+      "tags": [
+        "systems",
+        "grid",
+        "identity",
+        "studio-process",
+        "standards-manual",
+        "modernism"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "week": "2026-W28",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Construct a monogram on a strict grid (SVG)",
+      "discipline": "Vector / systematic mark-making",
+      "tool": "SVG (hand-coded)",
+      "time": "15 min",
+      "skill": "Building a geometric lettermark from grid primitives with a single consistent stroke weight, snapped alignment, and one optical correction — Unimark-style systematic construction.",
+      "brief": "Hand-code a two-letter monogram in SVG on a visible modular grid, using only grid-snapped primitives (rects / lines / circles) and ONE stroke weight for the whole mark.",
+      "steps": [
+        "Use the starter below: an 8×8 unit grid (unit = 30) inside a 240×240 viewBox, with faint gridlines so you can see the structure.",
+        "Pick two initials and build each letter from grid-snapped primitives only — strokes as <line> or <rect> with the SAME stroke-width (24), no freehand paths.",
+        "Align every terminal and joint to a grid intersection; keep counters (interior spaces) roughly equal to the stroke width so the mark reads evenly.",
+        "Interlock the two letters on shared grid lines so they lock into one unit, not two shapes sitting side by side.",
+        "Apply ONE optical fix — nudge round or pointed parts slightly past the grid so they look aligned — then hide the gridlines and judge the mark on its own."
+      ],
+      "assets": [
+        {
+          "label": "Starter SVG (build on this)",
+          "code": "<svg viewBox=\"0 0 240 240\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <pattern id=\"grid\" width=\"30\" height=\"30\" patternUnits=\"userSpaceOnUse\">\n      <path d=\"M30 0H0V30\" fill=\"none\" stroke=\"#dcdcdc\" stroke-width=\"1\"/>\n    </pattern>\n  </defs>\n  <rect width=\"240\" height=\"240\" fill=\"#f4f1ea\"/>\n  <rect width=\"240\" height=\"240\" fill=\"url(#grid)\"/>\n  <!-- Monogram: keep ONE stroke-width; snap every end to a grid intersection -->\n  <g fill=\"none\" stroke=\"#111111\" stroke-width=\"24\" stroke-linecap=\"butt\">\n    <line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"180\"/>   <!-- example stem -->\n    <line x1=\"60\" y1=\"180\" x2=\"150\" y2=\"180\"/> <!-- example foot -->\n  </g>\n</svg>"
+        },
+        {
+          "label": "Palette (ink / paper / accent)",
+          "swatches": [
+            "#111111",
+            "#f4f1ea",
+            "#e5482f"
+          ]
+        },
+        {
+          "label": "Guiding logic",
+          "value": "Unimark-era rules: one grid, one stroke weight, neutral geometry. Think NYC Transit signage and corporate marks — construction you can defend from the grid, not freehand flourish."
+        }
+      ],
+      "successLooksLike": "The two initials read as a single balanced mark: every stroke is the same weight, joints sit on grid intersections, counters feel even, and it looks constructed rather than drawn.",
+      "stretch": "Rebuild the same monogram in Figma or Illustrator on a matching grid and compare how each tool handles snapping and optical overshoot.",
+      "tags": [
+        "svg",
+        "grid",
+        "monogram",
+        "vector",
+        "systematic"
+      ]
     }
   ]
 }
