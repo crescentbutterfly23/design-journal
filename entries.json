@@ -3314,6 +3314,504 @@
         "vector",
         "systematic"
       ]
+    },
+    {
+      "date": "2026-07-03",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Family",
+        "url": "https://family.co"
+      },
+      "image": "images/2026-07-03-family.png",
+      "category": "Fintech / product (crypto wallet)",
+      "tagline": "‘Your favorite crypto wallet’ — a bright, whitespace-heavy product site whose micro-interactions ARE the pitch.",
+      "summary": "Family makes a notoriously intimidating category — an Ethereum wallet — feel calm and friendly. It runs a near-white canvas with enormous whitespace, real app screenshots in phone frames, and human language instead of crypto jargon (‘Human-Readable Activity’, not ‘tx hash’). Its real signature is motion: number counters, chart scrubbing, and buttery state changes that reward every interaction — the ‘details that matter’ ethos demonstrated rather than described. A dense ‘Friends of Family’ testimonial wall, much of it praising the animation specifically, closes the case.",
+      "whatWorks": [
+        "Radical whitespace on a bright canvas makes an intimidating category feel calm and approachable — the opposite of dense crypto dashboards.",
+        "Real app screenshots in phone frames (send / receive / swap, a scrubbable price chart, a token list) are the hero — honest product, not abstract 3D.",
+        "Humanized language replaces jargon (‘Human-Readable Activity’, ‘Watch Wallets’) so beginners aren't shut out.",
+        "Motion is the argument: number counters and chart-scrub animations reward interaction, demonstrating the ‘details that matter’ claim instead of stating it.",
+        "Four plain-English pillars (Easy, Secure, Fast, Powerful) organize the value prop in one scan.",
+        "Concentrated social proof — a dense ‘Friends of Family’ wall, many quotes calling out the UX/animation — is credibility that matches the product's actual differentiator."
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "Minimal top bar — logo, Developers and Resources dropdowns, login — with a single ‘Get Started’ CTA. Quiet chrome on white."
+        },
+        {
+          "name": "Hero",
+          "notes": "‘Your favorite crypto wallet’ + ‘Interacting with crypto has never been so simple’, dual CTA (Download on iOS / Watch Video), and acres of whitespace so the promise lands."
+        },
+        {
+          "name": "Product mockups (Send / Receive / Swap)",
+          "notes": "Phone frames showing the real app — a colorful wallet, a QR receive screen, a $20 send — the product itself as proof."
+        },
+        {
+          "name": "Feature sections",
+          "notes": "NFT rich-media support, ‘Watch Wallets’ (view-only tracking), and ‘Human-Readable Activity’ — each a benefit-led subhead over a real screen and a scrubbable price chart."
+        },
+        {
+          "name": "Friends of Family (social proof)",
+          "notes": "A dense grid of testimonials, many specifically praising the animation and onboarding — proof aimed exactly at the product's edge."
+        },
+        {
+          "name": "Footer",
+          "notes": "Multi-column Developers / Resources / Company links — a quiet, orderly close."
+        }
+      ],
+      "principle": {
+        "title": "Make the interface itself the proof of craft",
+        "explanation": "When your differentiator is polish and ease, a page that merely SAYS ‘intuitive’ is unconvincing. Family instead performs its craft — live number counters, chart scrubbing, smooth state changes — so visiting the page is the demo, and the delight becomes the evidence.",
+        "howToApply": "If your edge is UX/polish, build the marketing page to enact it: animate a real component, let visitors scrub or toggle actual product UI inline, and cut the adjective ‘intuitive’. The interaction is the argument."
+      },
+      "tags": [
+        "fintech",
+        "product",
+        "light theme",
+        "motion",
+        "whitespace",
+        "social proof"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Dyson — 300×250 display banner",
+        "url": "https://www.wordstream.com/blog/ws/2020/03/02/banner-ads-examples"
+      },
+      "image": "images/2026-07-03-ad-dyson.jpg",
+      "category": "Display banner (300×250 medium rectangle)",
+      "tagline": "Put a real five-star customer review inside the banner and let proof do the selling.",
+      "when": "GDN display, ~2020",
+      "summary": "A clean product-plus-proof square. The unit names the product (‘Dyson Pure Hot + Cool’), then hands the headline to a real customer: a five-star rating, the quote ‘Exceeded my expectations!!’, and an attributed reviewer, with the product shot on the right and an understated ‘Learn more’ CTA. Instead of claiming quality, it shows a stranger vouching for it — social proof compressed into a banner.",
+      "whatWorks": [
+        "The headline is a real customer quote, not a brand claim — third-party proof is more believable than self-praise.",
+        "A visible five-star rating plus an attributed reviewer name make the proof concrete and scannable at a glance.",
+        "One clean product shot anchors the right side so the unit still reads as ‘Dyson’ instantly.",
+        "Restrained palette (white, black, one gold star row) keeps a proof-heavy unit calm and legible.",
+        "A soft ‘Learn more’ CTA suits a considered, higher-price product — no false urgency.",
+        "Clear reading order: product name → stars → quote → product → CTA."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A row of gold five-star rating beside a real quote — you register ‘people love this’ before reading a word of brand copy."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "The customer's own words, ‘Exceeded my expectations!!’, doing the persuading in place of a slogan."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The Dyson Pure Hot + Cool unit shot cleanly on the right, so brand recognition is instant even though the copy leads with proof."
+        },
+        {
+          "name": "CTA",
+          "notes": "A quiet ‘Learn more’ — matched to a considered, higher-price purchase rather than an impulse click."
+        }
+      ],
+      "principle": {
+        "title": "Hand the headline to your customer",
+        "explanation": "A real, attributed review with a star rating persuades more than any brand claim — it's specific, credible, and clearly not self-authored. Dropping one into the banner lets proof carry the unit.",
+        "howToApply": "For a considered or higher-price product, build the display unit around a genuine five-star quote + reviewer name + stars, keep one clean product shot, and use a soft CTA (‘Learn more’). Let the customer's voice be the headline."
+      },
+      "tags": [
+        "display banner",
+        "social proof",
+        "reviews",
+        "product",
+        "cta",
+        "dtc"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Armin Hofmann",
+        "url": "https://en.wikipedia.org/wiki/Armin_Hofmann"
+      },
+      "image": "images/2026-07-03-designer-armin-hofmann.jpg",
+      "category": "Swiss / International Typographic Style · poster & pedagogy",
+      "when": "1920–2020 · Swiss",
+      "tagline": "The Basel master who taught design as the disciplined play of contrasts — and reduced every poster to its essence.",
+      "summary": "Armin Hofmann was a central figure of the Swiss Style and one of its most influential teachers, at the Basel School of Design and Yale. His posters (especially for the Basel Stadttheater and Kunsthalle) strip communication to point, line, and plane, built on stark contrasts — light/dark, curve/straight, form/counterform — with color used sparingly and on purpose. His 1965 ‘Graphic Design Manual’ exported Swiss principles worldwide, and his students included Wolfgang Weingart and April Greiman.",
+      "whatWorks": [
+        "Reduce to essentials: remove everything that isn't communicating, then test whether what remains still works.",
+        "Design with a vocabulary of contrasts — light/dark, big/small, curve/straight, form/counterform — as the engine of tension and clarity.",
+        "Treat point, line, and plane as your primitives; compose with those building blocks before adding type or image.",
+        "Use color as a deliberate accent, not decoration — resist the ‘trivialization of colour’.",
+        "Value the counterform (negative space) as much as the positive shape — the gaps do real work.",
+        "Build (and follow) a documented method so the discipline is teachable and repeatable, not just intuitive."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With subtraction and structure — identify the single communicative essence, then reach for the elemental vocabulary (point/line/plane, figure/ground) rather than decoration."
+        },
+        {
+          "name": "Core method",
+          "notes": "Composing through deliberate contrasts — scale, value, and shape opposition — so every element earns its place through tension with another; nothing is neutral filler."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Severe reduction plus precise sans typography and high figure/ground contrast, treating negative space (the counterform) as an active element equal to the mark."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Good design balances simplicity with complexity and abstraction with representation, achieved by restraint; color is used sparingly and intentionally, and the method should be teachable — clarity you can defend and pass on."
+        }
+      ],
+      "principle": {
+        "title": "Compose with contrast, not decoration",
+        "explanation": "Hofmann built impact from oppositions — light/dark, curve/straight, form/counterform — rather than added ornament. Tension between elements creates hierarchy and energy that decoration can't fake, and it survives ruthless reduction.",
+        "howToApply": "On a layout, name the one contrast doing the work (a huge headline against a tiny caption; a curved mark against a rigid grid; black type on a white void) and push it; strip anything that isn't part of that opposition, and treat the empty space as a designed element."
+      },
+      "tags": [
+        "swiss-style",
+        "poster",
+        "reduction",
+        "contrast",
+        "typography",
+        "pedagogy"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "On",
+        "url": "https://www.on.com"
+      },
+      "image": "images/2026-07-04-on.png",
+      "category": "E-commerce / sportswear",
+      "tagline": "Swiss-engineered running gear sold with editorial calm — clean grids, honest in-motion photography, and technical product naming.",
+      "summary": "On's storefront applies Swiss restraint to e-commerce. A single full-bleed hero (‘The Cloudmonster 3 — Triple stacked. Fully alive.’) leads into an orderly grid of category tiles, model carousels, and editorial ‘Stories that move’, all set in a clean sans with generous whitespace and real, in-motion athlete photography. Products are organized by named model line (Cloudmonster, Cloud, Cloudtilt…) rather than price tier, and a mission band (‘Ignite the human spirit through movement / Powered by Swiss engineering’) frames the brand. Commerce stays calm and premium — closer to a magazine than a big-box shop.",
+      "whatWorks": [
+        "Swiss restraint applied to retail: a clean sans, tidy grid, and generous whitespace make a large catalog feel premium and calm, not busy.",
+        "One full-bleed hero product (‘The Cloudmonster 3’) with a two-word energy line and dual women's/men's CTAs — focus over a cluttered promo carousel.",
+        "Honest, in-motion athlete photography (real running, real light) instead of studio packshots — the product shown doing its job.",
+        "Products organized by named model line (Cloudmonster, Cloud, Cloudtilt, Cloudnova) not price tier — the range reads as a recognizable family.",
+        "Editorial ‘Stories that move’ blends commerce with lifestyle (shoe finder, styling, athletes) so browsing feels like reading, not just shopping.",
+        "A mission band (‘Ignite the human spirit through movement / Powered by Swiss engineering’) gives the catalog a point of view."
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "Minimal top bar — Shop / Activities / Explore with search, account, and cart — plus activity-based entry points below."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-bleed ‘The Cloudmonster 3 — Triple stacked. Fully alive.’ over an athlete mid-run, with Shop women's / Shop men's CTAs."
+        },
+        {
+          "name": "Shop by category",
+          "notes": "Three clean photographic tiles — Shoes, Apparel, Accessories — each a lifestyle crop rather than a packshot."
+        },
+        {
+          "name": "Shop by activity + model carousels",
+          "notes": "A plain-text activity list (Running, Trail, Tennis, Training…) beside a photo, then a carousel of named models and a ‘New arrivals’ row with prices and ‘Bestseller’ tags."
+        },
+        {
+          "name": "Stories that move",
+          "notes": "Editorial cards (On's shoe finder, Tenniscore styling, ‘Lane 1: The running mindset’, Discover our athletes) — lifestyle woven into commerce."
+        },
+        {
+          "name": "Mission + footer",
+          "notes": "‘Ignite the human spirit through movement’ / ‘Powered by Swiss engineering’, then an extensive support / company / community footer."
+        }
+      ],
+      "principle": {
+        "title": "Photograph the product doing its job",
+        "explanation": "For performance or physical products, real in-motion imagery in authentic conditions (real running, real light, real people) both demonstrates and aspires — it out-performs sterile studio packshots, which prove nothing about how the thing actually behaves.",
+        "howToApply": "Art-direct at least the hero and category imagery around genuine use — motion, environment, real people — and reserve clean packshots for the product-detail grid where spec clarity matters. Show it working before you show it isolated."
+      },
+      "tags": [
+        "e-commerce",
+        "sportswear",
+        "photography",
+        "swiss-style",
+        "editorial",
+        "grid"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Lexus — 728×90 leaderboard display banner",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-04-ad-lexus.png",
+      "category": "Display banner (728×90 leaderboard)",
+      "tagline": "A premium close-up photo, an evocative question, and almost no copy — luxury restraint sized to a leaderboard.",
+      "when": "GDN display, ~2020",
+      "summary": "Lexus fills a wide leaderboard with a single arresting image — an extreme close-up of a woman's eyes — paired with an open, aspirational question, ‘What amazing ideas will you inspire next?’. The logo sits quiet bottom-left and the CTA is a soft ‘Curious? Click to learn more.’ No price, no specs, no product at all — the banner sells a feeling and trusts the brand. It's how a luxury marque behaves in a format usually crammed with offers.",
+      "whatWorks": [
+        "One arresting, high-quality image (a striking eyes close-up) fills the frame and stops the scroll on craft, not clutter.",
+        "An open, aspirational question as the headline invites the viewer in rather than pushing a product.",
+        "Extreme restraint — no price, no specs, no car — signals a premium brand and respects the viewer.",
+        "The logo stays small and bottom-left; the brand trusts recognition instead of shouting.",
+        "A soft, curiosity-framed CTA (‘Curious? Click to learn more.’) matches a considered luxury purchase.",
+        "Type kept to two short lines so the wide leaderboard reads instantly."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A cinematic extreme close-up of eyes — human, high-craft, and unexpected in a banner, so it reads as an image first and an ad second."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "‘What amazing ideas will you inspire next?’ — an aspirational open question that sells possibility, not a spec."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The photograph IS the hero, filling the leaderboard; the logo is a small, quiet lockup rather than the focal point."
+        },
+        {
+          "name": "CTA",
+          "notes": "‘Curious? Click to learn more.’ — a low-pressure, curiosity-led nudge fit for luxury consideration."
+        }
+      ],
+      "principle": {
+        "title": "For luxury, sell a feeling and cut the copy",
+        "explanation": "A single high-craft image plus one aspirational line — with no price, specs, or urgency — signals premium and out-performs offer-stuffed banners for prestige brands. Restraint reads as confidence; clutter reads as discounting.",
+        "howToApply": "For a prestige product, build the unit around one exceptional image and one evocative line; remove price/specs/urgency; keep the logo small and the CTA curiosity-framed. Let restraint do the positioning."
+      },
+      "tags": [
+        "display banner",
+        "luxury",
+        "photography",
+        "restraint",
+        "leaderboard",
+        "automotive"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Cipe Pineles",
+        "url": "https://en.wikipedia.org/wiki/Cipe_Pineles"
+      },
+      "image": "images/2026-07-04-designer-cipe-pineles.jpg",
+      "category": "Editorial art direction · magazines",
+      "when": "1908–1991 · Austrian-American",
+      "tagline": "The first autonomous woman art director, who put fine art on newsstand magazines and took her readers seriously.",
+      "summary": "Cipe Pineles art-directed Seventeen, Charm, Glamour, and Mademoiselle and became the first autonomous woman art director in the US and the first woman admitted to the Art Directors Club. Her signature move was commissioning fine artists (Ad Reinhardt, and a young Andy Warhol) to illustrate editorial content, elevating mass-market magazines. She planned issues as whole visual sequences — controlling color separations and pacing page to page — and refused the era's condescending clichés about women readers, designing for an intelligent audience.",
+      "whatWorks": [
+        "Commission real artists / distinctive voices for content instead of defaulting to stock — it raises credibility and gives a publication its own look.",
+        "Design at the level of the whole issue, not the single page — plan color, rhythm, and pacing as a sequence.",
+        "Integrate hand-lettering with painted illustration so type and image are composed together, not layered as afterthoughts.",
+        "Respect the audience: reject clichés about who they are and design as if they're intelligent — it shows in the work.",
+        "Use a mentor's rigor as a base (she learned issue planning under M.F. Agha) then add your own warmth and play.",
+        "Treat editorial art direction as authorship — the AD shapes the argument and tone, not just the decoration."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "From the reader's intelligence and the issue as a whole — she rejected condescending assumptions about women readers and planned the visual arc of a full issue before individual pages."
+        },
+        {
+          "name": "Core method",
+          "notes": "Casting and sequencing — commission the right artist/illustrator for a story, then orchestrate color separations and pacing across the issue so it reads as one composed rhythm."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Bringing fine artists into commercial editorial and pairing hand-lettering with painted illustration, so type and image are designed together into a single voice."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Make the prosaic attractive without false glamour; assume a serious, capable audience; the art director is an author of the whole — responsible for tone and sequence, not just layout."
+        }
+      ],
+      "principle": {
+        "title": "Cast the right voice, then direct the whole sequence",
+        "explanation": "Pineles's power came from choosing distinctive contributors (real artists) and orchestrating an entire issue's rhythm — treating art direction as casting plus sequencing, not page decoration. The result had a recognizable voice and took its audience seriously.",
+        "howToApply": "On any multi-part deliverable (a site, a deck, a report, a campaign), first cast the voices — the specific illustrator, photographer, or type that gives it character — then design the whole sequence's pacing (color, density, rhythm) before polishing single screens. And pitch the audience up, not down."
+      },
+      "tags": [
+        "editorial",
+        "art-direction",
+        "illustration",
+        "magazines",
+        "typography",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Framer",
+        "url": "https://www.framer.com"
+      },
+      "image": "images/2026-07-05-framer.png",
+      "category": "Design / web-building tool (SaaS)",
+      "tagline": "‘The web design agent for professional sites’ — a dark marketing site that redesigns itself live to prove the product.",
+      "summary": "Framer's marketing site is a portfolio piece for the product: a dark, high-contrast page where the hero isn't a screenshot but a live AI ‘agent’ interface making real-time design changes. It's organized around three agent pillars (Design, CMS, Code), each shown as an interactive ‘Live’ demo rather than a static mockup, then backed by a ‘Not just vibes, a full platform’ dashboard of hard metrics (99.99% uptime, Core Web Vitals) and community proof (‘12,447 Resources’, logos like Miro and Perplexity). The marketing mirrors the product philosophy — collaborative, transparent, demonstrative.",
+      "whatWorks": [
+        "The hero demonstrates the product live (an AI agent making real design edits) instead of describing it — the site is the demo.",
+        "Positioning tuned to the moment: ‘agents that work alongside you, not instead of you’ addresses AI skepticism head-on.",
+        "Feature sections are interactive ‘Live’ examples, not screenshots, so claims are shown working.",
+        "A ‘Not just vibes, a full platform’ band pairs delight with hard proof — 99.99% uptime, Core Web Vitals (LCP/INP/CLS) — to answer the serious buyer.",
+        "Embedded community proof (‘12,447 Resources’, a live component feed, recognizable team logos) shows an ecosystem, not just a tool.",
+        "A dark, high-contrast canvas makes the colorful live demos and product UI pop."
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "Capability-led nav (AI, Agents, Design, CMS, Hosting, Performance, SEO, Collaborate) plus Enterprise / Pricing / auth — product features foregrounded over company info."
+        },
+        {
+          "name": "Hero",
+          "notes": "‘The web design agent for professional sites’ with four use-case entry points and a LIVE agent interface editing a real design in view."
+        },
+        {
+          "name": "Agent pillars (Design / CMS / Code)",
+          "notes": "Each its own section with an interactive ‘Live’ demonstration and use-case cards linking to inspiration galleries."
+        },
+        {
+          "name": "Workflow / integrations",
+          "notes": "A Claude Code terminal importing content into Framer CMS — ‘trigger CMS changes from the terminal, ship from a GitHub PR’ — showing it plugs into real dev workflows."
+        },
+        {
+          "name": "Platform proof (‘Not just vibes, a full platform’)",
+          "notes": "Feature cards with metrics — uptime, Core Web Vitals, A/B testing, analytics, localization — the credibility layer beneath the delight."
+        },
+        {
+          "name": "Community + CTA + footer",
+          "notes": "‘Built on a community’ with resource counts and team logos, then dual low-friction CTAs (Get started free / Download app)."
+        }
+      ],
+      "principle": {
+        "title": "Put a working demo in the page, not a screenshot",
+        "explanation": "For a creative or technical tool, the strongest proof is letting visitors experience the product's core action inline — a live, manipulable slice — rather than a video or screenshot of it. Direct experience converts skeptics that description can't.",
+        "howToApply": "Embed a real, bounded, interactive piece of your product in the marketing page (a live editor, a working widget, a runnable example) so a visitor can try the core action before signing up. Reserve static screenshots for secondary detail."
+      },
+      "tags": [
+        "saas",
+        "design tool",
+        "dark theme",
+        "interactive",
+        "ai",
+        "social proof"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "GEICO — square display banner",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-05-ad-geico.png",
+      "category": "Display banner (square, ~250×250)",
+      "tagline": "Turns an abstract benefit — bundling saves — into a simple icon diagram you grasp in a glance.",
+      "when": "GDN display, ~2020",
+      "summary": "GEICO makes an intangible idea (bundle your policies and save) instantly legible by drawing it. On a dark navy field, a colorful wheel of category icons — car, home, boat, motorcycle — orbits the GEICO ‘G’, visualizing ‘combine and you could save’ literally. The headline uses multi-color words to echo the wheel, a one-line clarifier (‘More than just car insurance’) sets scope, and a red-outlined ‘GET A QUOTE’ is the single clear action. It's a small unit that teaches a concept with a picture, not a paragraph.",
+      "whatWorks": [
+        "Visualizes an abstract benefit (bundling) as a literal icon wheel — the diagram explains ‘combine = save’ faster than copy could.",
+        "Colorful category icons double as a product-scope list (car, home, boat, motorcycle) in one glance.",
+        "Multi-color headline words (‘Combine … could save’) tie the type to the wheel's palette, unifying the unit.",
+        "A single one-line clarifier (‘More than just car insurance’) reframes the brand's scope without a paragraph.",
+        "One high-contrast CTA (red-outlined ‘GET A QUOTE’) is unmistakable against the navy.",
+        "The dark navy ground makes the bright icon wheel and CTA pop."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The bright icon wheel around the ‘G’ — a small piece of visual interest that instantly reads as ‘lots of things covered here’."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "‘Combine and you could save’ in wheel-matched colors, with ‘More than just car insurance’ clarifying scope."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The icon diagram itself is the hero — it teaches the bundling concept pictorially rather than asserting it."
+        },
+        {
+          "name": "CTA",
+          "notes": "A red-outlined ‘GET A QUOTE’ — one clear, high-contrast action."
+        }
+      ],
+      "principle": {
+        "title": "Draw the abstract benefit",
+        "explanation": "When the value is a concept (bundle to save, sync across devices, all-in-one), a simple diagram or icon system communicates it at a glance, where a written claim makes the viewer stop and decode. The picture does the explaining faster than the sentence.",
+        "howToApply": "For an intangible benefit, sketch it as a small diagram — a hub-and-spoke, a before/after, a flow — and let that picture carry the unit; keep words to a short headline, one clarifier, and one CTA."
+      },
+      "tags": [
+        "display banner",
+        "insurance",
+        "iconography",
+        "concept-visualization",
+        "cta",
+        "color"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "El Lissitzky",
+        "url": "https://en.wikipedia.org/wiki/El_Lissitzky"
+      },
+      "image": "images/2026-07-05-designer-el-lissitzky.jpg",
+      "category": "Russian avant-garde · Constructivism",
+      "when": "1890–1941 · Russian (Soviet)",
+      "tagline": "The Constructor who treated the page as architecture — and the reader as a participant to be activated.",
+      "summary": "El Lissitzky bridged fine art and functional design, inventing the ‘Proun’ as an interchange between painting and architecture and carrying its spatial logic into revolutionary typography, book design, photomontage, and exhibitions. In works like ‘Of Two Squares’ and Mayakovsky's ‘For the Voice’, he treated the page as constructed space — dynamic axes, functional composition, type and image built together — and used photomontage (‘The Constructor’ self-portrait) to assemble new realities. His conviction: design should activate the viewer, not lull them.",
+      "whatWorks": [
+        "Treat the page (or screen, or room) as constructed SPACE to be navigated, not a flat surface to fill.",
+        "Compose functionally: place every element for a communicative reason and dynamic balance, not symmetry by default.",
+        "Build type and image together as one constructed system, not text-then-illustration.",
+        "Use a consistent visual logic (color-coding, proportion, axis) so a complex layout still reads as a clear structure.",
+        "Design to activate the viewer — make them do something (reorient, follow, assemble) rather than passively receive.",
+        "Cross media deliberately — carry one spatial idea from a poster into a book, a montage, an exhibition."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "From a structural idea, not decoration — the ‘Proun’ mindset of treating a composition as a model of space (‘begins as a level surface, turns into a model of three-dimensional space’)."
+        },
+        {
+          "name": "Core method",
+          "notes": "Functional, dynamic construction — placing type and image on active axes with a consistent logic (proportion, color-coding) so the layout reads as built architecture rather than arranged decoration."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Constructivist typography and photomontage — rotating and varying text-image relationships page to page (‘For the Voice’), and montage (‘The Constructor’) to assemble composite realities."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Reject passive spectatorship — design should make the viewer an active participant; form follows communicative function; the page is space, not surface."
+        }
+      ],
+      "principle": {
+        "title": "Design the page as space, and activate the reader",
+        "explanation": "Lissitzky's work endures because he treated layout as constructed, navigable space and demanded participation — dynamic axes and functional composition pull the eye through, and the reader ‘builds’ meaning rather than passively receiving it. It's the antidote to inert, centered, decorative layouts.",
+        "howToApply": "On a layout, replace default symmetry with a deliberate axis and sense of depth — lead the eye along a path, vary scale and position with purpose, and design one moment that asks the viewer to act (a scroll-reveal, a reorder, an assemble). Compose type and image together as one spatial system."
+      },
+      "tags": [
+        "constructivism",
+        "avant-garde",
+        "typography",
+        "photomontage",
+        "composition",
+        "process"
+      ]
     }
   ]
 }
