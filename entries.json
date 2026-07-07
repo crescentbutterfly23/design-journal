@@ -3812,6 +3812,166 @@
         "composition",
         "process"
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com"
+      },
+      "image": "images/2026-07-07-anthropic.png",
+      "category": "AI / technology company",
+      "tagline": "A frontier-tech company that reads like a quiet editorial magazine — warm ivory paper, a confident serif, and near-zero chrome.",
+      "summary": "Anthropic's homepage rejects the cold blue-gradient default of AI/SaaS and instead feels like a printed publication: a warm off-white 'ivory' ground, a large humanist serif (Copernicus) for display paired with a neutral grotesque (Styrene) for UI, and generous editorial spacing. Content leads with mission and research rather than product screenshots, and the whole page holds a single calm palette so the words and a few clay/rust accents do the work. It's a benchmark for how restraint and one warm color story can make a tech company feel trustworthy and human.",
+      "whatWorks": [
+        "A warm ivory/cream ground instead of stark white or dark-mode blue instantly separates it from the AI-company template and signals 'considered, human, editorial'.",
+        "Display serif (Copernicus) for headlines + neutral sans (Styrene) for UI/body — the serif carries warmth and authority, the sans keeps interface text quiet.",
+        "Announcement/release cards are modular and scannable: date + category tag + one-line title + 'continue reading', so a dense news area still reads calmly.",
+        "The page leads with mission and research (safety, constitution, scaling policy) before product — values-first ordering that builds trust before the pitch.",
+        "One restrained palette across the whole page (ivory + ink + a little clay/rust); color is rationed to a few accents rather than sprayed section to section.",
+        "Big, airy section padding and a steady grid give a content-dense page breathing room — nothing feels crowded despite many links."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "A short declarative mission line ('AI research and products that put safety at the frontier') set large in the serif on the ivory ground, one supporting sentence, and a single 'Try Claude' CTA. No product screenshot, no gradient — the typography and whitespace are the hero."
+        },
+        {
+          "name": "Featured announcement",
+          "notes": "A single milestone release gets its own calm block with a large title and a 'Continue reading' link — one thing spotlighted at a time rather than a busy feature grid."
+        },
+        {
+          "name": "Latest releases grid",
+          "notes": "Stacked modular cards (date, category tag, title, read-through link) present recent updates in a scannable rhythm; consistent card structure keeps a news-heavy area orderly."
+        },
+        {
+          "name": "Mission / thought-leadership blocks",
+          "notes": "Feature blocks for the strategic pillars (core views on safety, Responsible Scaling Policy, Academy, Economic Index, Claude's Constitution) — positioning the company as research-led and transparent, not just a product vendor."
+        },
+        {
+          "name": "Footer",
+          "notes": "A dense but well-grouped multi-column footer (Products, Models, Solutions, Platform, Resources, Company, Legal) in small neutral type, with granular cookie/consent controls — compliance-conscious and calm, matching the restrained palette."
+        }
+      ],
+      "principle": {
+        "title": "Give a tech product one warm, editorial color story and let type carry it",
+        "explanation": "Most AI/SaaS sites default to cold white or dark-blue gradients and lean on product screenshots. Anthropic proves that a single warm ground (ivory), a confident serif/sans pairing, and heavy whitespace can make a frontier-tech company feel human and trustworthy — the restraint itself reads as confidence.",
+        "howToApply": "On a tech or SaaS build, try replacing stark white/dark-mode-blue with one warm off-white ground and ration color to a couple of accents. Pair a humanist serif for display with a neutral sans for UI, lead with the mission/idea before the product shot, and let generous section padding do the styling instead of decoration."
+      },
+      "tags": [
+        "editorial",
+        "typography",
+        "color",
+        "restraint",
+        "serif",
+        "whitespace"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "SAP — animated GDN display banner (leaderboard)",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-07-ad-sap.gif",
+      "category": "Animated display banner (leaderboard)",
+      "tagline": "A B2B leaderboard that earns its motion — a short animated sequence resolves to one clear message and one button, never fighting the reader.",
+      "when": "Google Display Network banner, ~2020",
+      "summary": "In the cramped leaderboard format, SAP uses animation the right way: a brief sequence of frames builds a single idea, then settles on a stable end-frame with a legible headline, the SAP mark, and one high-contrast CTA. The motion sequences the message instead of decorating it — each frame carries one thought — and the banner resolves to a readable static state so a viewer who glances at the end still gets the point. It's a clinic in respecting a tiny canvas: one focal message, one action, brand colors doing the recognition.",
+      "whatWorks": [
+        "Animation is used to SEQUENCE one message across a few frames, not to add sparkle — each frame delivers a single thought so the strip stays readable.",
+        "It resolves to a stable, legible end-frame (headline + logo + CTA), so a late glance still lands the message — never an ad that only makes sense mid-loop.",
+        "One clear CTA button in a high-contrast color, distinct from the SAP brand blue, so the action never gets lost in a wide, short space.",
+        "Ruthless copy economy: a leaderboard has room for one headline and one button — SAP cuts to exactly that.",
+        "Brand color and logo carry recognition instantly, so the creative spends its few words on the offer, not on explaining who it is."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Motion in the first frame catches the eye in peripheral vision — the animation itself is the scroll-stopper in an otherwise static page."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "A single benefit-led headline revealed across frames; short enough to read in the wide-but-short leaderboard without wrapping into clutter."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "SAP's brand color field and logo anchor identity immediately; the visual stays clean so the type and button dominate the tiny canvas."
+        },
+        {
+          "name": "CTA",
+          "notes": "One contrasting button on the resolved end-frame — a clear, single next action, sized to stay tappable in the constrained format."
+        }
+      ],
+      "principle": {
+        "title": "Use banner animation to sequence one message, then resolve to a readable frame",
+        "explanation": "In tiny formats, motion is powerful but easily wasted. Animating a single message across a few frames lets you deliver more without crowding — but only if the banner ends on a stable, legible frame (headline + logo + CTA) so a viewer who catches just the end still gets it.",
+        "howToApply": "When building an animated banner, storyboard one thought per frame and design the LAST frame first as a complete static ad. Keep total copy to one headline and one CTA, put the button in a color that contrasts the brand field, and make sure the loop rests long enough on the end-frame to be read."
+      },
+      "tags": [
+        "display",
+        "animation",
+        "b2b",
+        "cta",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Matthew Carter",
+        "url": "https://en.wikipedia.org/wiki/Matthew_Carter"
+      },
+      "image": "images/2026-07-07-designer-matthew-carter.jpg",
+      "category": "Type design · metal to phototype to digital",
+      "when": "b. 1937 · British-American",
+      "tagline": "The type designer who treats the reproduction medium as the brief — and designs the letterform to survive its worst-case rendering.",
+      "summary": "Matthew Carter's career spans hand-cut metal, phototypesetting, and digital, giving him a rare understanding of how a letterform actually reproduces. His most famous faces are all answers to hostile constraints: Bell Centennial for phone books printed tiny on cheap paper (with 'ink traps' cut into the joints so ink spread wouldn't fill them in), and Verdana/Georgia for coarse 1990s screens where 'every pixel was on or off'. His method — study historical precedent, define the exact reproduction conditions, then shape every curve to survive them — is a masterclass in designing for the medium rather than the ideal.",
+      "whatWorks": [
+        "Treat the reproduction medium (cheap newsprint, a 72-dpi screen, a small size) as the actual brief, and design to its worst case, not to an ideal render.",
+        "Build tolerances INTO the form: ink traps, bolder-than-normal bolds, wide spacing — deliberate 'wrong-looking' choices that make it right once reproduced.",
+        "Research precedent before designing — Carter studied 19th-century Scotch Romans for Georgia and Miller to understand why forms once worked and then vanished.",
+        "Start from a functional, specific problem ('legible in a phone book', 'readable on this screen'), not an abstract aesthetic urge.",
+        "Test at the real target condition (small size, low resolution, actual paper), not zoomed-in on a clean monitor where every face looks fine.",
+        "Carry craft across technology shifts — the same discipline serves metal, phototype, and pixels; the medium changes, the problem-solving doesn't."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "From a concrete functional brief and its reproduction constraints — who prints it, at what size, on what surface, at what resolution — plus historical research into faces that solved similar problems. The constraint is the starting material, not a limitation to fight."
+        },
+        {
+          "name": "Core method",
+          "notes": "Define the worst-case rendering condition, then shape every letter to survive it: analyze how ink spreads or pixels quantize, and pre-compensate in the drawing. Legibility in context outranks beauty in isolation."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Engineering tolerances into the letterform — ink traps in Bell Centennial (notches that fill with ink spread to read clean at tiny sizes), and screen-tuned forms in Verdana/Georgia where bolds jump straight to two pixels because one wasn't enough. Wide spacing and open counters for small-size legibility."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Every decision serves readability in the intended medium; a face is judged where it will actually be used, not on a designer's screen. Constraints are creative catalysts, and precedent is a tool, not a cage."
+        }
+      ],
+      "principle": {
+        "title": "Design for the worst-case rendering, not the ideal one",
+        "explanation": "Carter's faces endure because he designed them for the hostile real conditions they'd live in — cheap ink, small sizes, coarse pixels — and baked compensations (ink traps, heavier bolds, wider spacing) into the form itself. The thing looks slightly 'wrong' up close precisely so it looks right where it's actually used.",
+        "howToApply": "Before polishing on a clean Retina screen, define the real worst case — smallest size, lowest-DPI device, poorest contrast, actual print stock — and design/test there. Bake in tolerances: bump small-text weight and spacing, widen counters, and verify type and UI at the true target condition, not zoomed-in."
+      },
+      "tags": [
+        "typography",
+        "type design",
+        "legibility",
+        "constraints",
+        "process",
+        "craft"
+      ]
     }
   ]
 }
