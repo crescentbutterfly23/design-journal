@@ -3972,6 +3972,326 @@
         "process",
         "craft"
       ]
+    },
+    {
+      "date": "2026-07-08",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Klim Type Foundry",
+        "url": "https://klim.co.nz"
+      },
+      "image": "images/2026-07-08-klim-type-foundry.png",
+      "category": "Type foundry",
+      "tagline": "A type foundry where the product IS the layout — retail fonts sold through enormous live specimens, never screenshots.",
+      "summary": "Klim (Kris Sowersby's Wellington foundry behind Founders Grotesk, National, Söhne and Tiempos) sells type by setting the entire page in it. There is no marketing hero and almost no colour — black on white, huge display specimens you read by scrolling, families broken into every weight and width with a per‑style 'Buy', an honest in‑use gallery, and long essays that give each release a cultural argument. Evaluating the product and reading the page become the same act.",
+      "whatWorks": [
+        "The product is the layout: fonts are shown as giant live specimens set on the page, so judging a typeface means experiencing it, not looking at a thumbnail.",
+        "Ruthless black‑on‑white restraint — the only 'colour' is the letterforms, so 100% of attention lands on the craft being sold.",
+        "'Fonts in use' names the exact pairings (e.g. Die Grotesk & Pitch Sans) with image counts — merchandising that doubles as a lesson in how to combine the fonts.",
+        "Each family gets an essay positioning it culturally ('Die Grotesk in the long shadow of Helvetica') so a purchase feels like buying into a point of view.",
+        "Granular, transparent licensing (desktop / web / app) is treated as first‑class UI, not fine print — the boring part builds trust."
+      ],
+      "sections": [
+        {
+          "name": "Masthead",
+          "notes": "Minimal wordmark + a 'Fonts' link; the page opens straight into type with no promotional hero — the specimens are the hero."
+        },
+        {
+          "name": "Families / collections",
+          "notes": "Every family shown at display scale with all variants (Condensed, X‑Condensed, Mono, Text) listed and a 'Buy' per style; you read the face by scrolling it."
+        },
+        {
+          "name": "Fonts in use",
+          "notes": "Real applications with named font pairings and image counts — proof through use rather than logos or testimonials."
+        },
+        {
+          "name": "Journal / essays",
+          "notes": "Long‑form writing that argues the case for each typeface, giving the catalogue depth and a distinct voice."
+        },
+        {
+          "name": "Licensing / EULA",
+          "notes": "Detailed desktop/web/app licensing built into the buying flow; transparency lowers friction for the pro buyer."
+        },
+        {
+          "name": "Footer",
+          "notes": "Sitemap, newsletter and social (Mastodon, Instagram, Vimeo) — quiet, no mega‑footer."
+        }
+      ],
+      "principle": {
+        "title": "Let the product be the layout",
+        "explanation": "When what you sell is visual, don't describe it — render it at full size and let the page BE the demo. Klim never screenshots its fonts; the page is set in them, so reading equals evaluating.",
+        "howToApply": "On a product or portfolio page, replace 'feature screenshots + copy' with the real artifact at generous scale — a live component, the actual typeface, the real UI — so experiencing the product and reading the page are one and the same."
+      },
+      "tags": [
+        "typography",
+        "editorial",
+        "restraint",
+        "product-page",
+        "black-and-white"
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "The New York Times — medium‑rectangle display ad",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-08-ad-new-york-times.png",
+      "category": "Display banner (medium rectangle)",
+      "when": "GDN display, ~2020",
+      "tagline": "A subscription ad that sells conviction, not features — masthead, one editorial sentence, one soft CTA.",
+      "summary": "A near‑empty display unit that leans entirely on brand voice: the blackletter masthead, a single values‑led headline set in the paper's own editorial serif, a gold link, and a black button. No photo, no offer, no urgency. It reads like a headline torn from the Times itself, which is exactly the point.",
+      "whatWorks": [
+        "Brand fidelity does the heavy lifting — the blackletter masthead + Cheltenham‑style headline make the ad look like the product before you read a word.",
+        "One belief‑statement ('This is when journalism matters most.') instead of a feature list or discount — it recruits values, not price sensitivity.",
+        "Type IS the image: no photography, generous white space; the restraint reads as institutional confidence.",
+        "A single reserved accent (gold link) names the action; everything else is black on white.",
+        "Low‑friction CTA — 'SEE MY OPTIONS' invites exploration rather than demanding 'Subscribe now', lowering the cost of the first click."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The blackletter New York Times masthead — instant recognition and borrowed authority; you know the advertiser and its stature immediately."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'This is when journalism matters most.' set in the paper's editorial serif, so the ad speaks in the exact voice of the product."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is no photo — the type is the hero. White space carries gravity and signals confidence."
+        },
+        {
+          "name": "CTA",
+          "notes": "A gold 'Subscribe to The Times.' link names the goal, then a solid black 'SEE MY OPTIONS' button softens the commitment into a browse."
+        }
+      ],
+      "principle": {
+        "title": "Sell the conviction, then the click",
+        "explanation": "A consideration‑stage ad converts on belief, not features. One values‑led sentence in the brand's own typeface does more than a spec list, and a soft CTA verb makes the first click cheap.",
+        "howToApply": "For a consideration ad or hero, lead with a single belief‑statement set in your brand's real display face, drop the photo if the words are strong enough, and pair a naming link with a low‑friction button ('see my options', not 'buy now')."
+      },
+      "tags": [
+        "display-ad",
+        "typography",
+        "subscription",
+        "restraint",
+        "brand-voice",
+        "cta"
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Wim Crouwel",
+        "url": "https://en.wikipedia.org/wiki/Wim_Crouwel"
+      },
+      "image": "images/2026-07-08-designer-wim-crouwel.jpg",
+      "category": "Dutch modernism / International Typographic Style",
+      "when": "1928–2019 · Dutch",
+      "tagline": "'Mr Gridnik' — turned the grid into a total operating system and treated technical constraints as the design itself.",
+      "summary": "Crouwel co‑founded Total Design and gave Dutch modernism its most systematic voice — the Stedelijk Museum's posters and catalogues (1964–93), the experimental New Alphabet, and the Gridnik typeface. His work reduced design to grids, fixed type and rational rules, and it turned the limits of a medium into visible logic rather than hiding them.",
+      "whatWorks": [
+        "Design the system (grid, type, format, rules) first; treat every finished piece as a predictable output of it.",
+        "Turn the constraint into the form — New Alphabet (1967) was built only from horizontal and vertical strokes to honour early screen limits.",
+        "Solve recurring problems by building a typeface or module you can reuse, creating economies of decision‑making.",
+        "Test a concept in its real application (he reworked the Rabobank wordmark after seeing it in a 3D light‑box) instead of judging it flat on paper.",
+        "Keep radical experiments separate from client deliverables so ideas can mature without risking the brief.",
+        "Choose functional clarity over personal expression — legibility and order are the point, not the designer's signature."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Define a modular grid and a strict rule set before any layout — the system is the first deliverable; individual pieces come out of it."
+        },
+        {
+          "name": "Core method",
+          "notes": "Reduce to essentials, standardise (typeface, grid, format), and let the system generate consistency across posters, catalogues and wayfinding for decades."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Constraint‑driven letterforms — New Alphabet honours cathode‑ray limits; Gridnik is drawn on a fixed modular grid; the medium's limit becomes the aesthetic."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Be 'technologically honest': don't disguise the medium's constraints, make them the readable logic. Function beats self‑expression; clarity is the judge."
+        }
+      ],
+      "principle": {
+        "title": "Build the system before the page",
+        "explanation": "Crouwel's coherence came from designing rules — grid, type scale, format, constraints — first, so every artifact is a predictable output rather than a fresh invention. It scales and stays unified, and honouring a constraint can become the form.",
+        "howToApply": "Before designing screens, define the grid, type scale and a short list of constraints (spacing steps, allowed weights); compose only within them. When a medium imposes a limit, make it the visible logic instead of fighting it."
+      },
+      "tags": [
+        "grid",
+        "systems",
+        "typography",
+        "modernism",
+        "constraints"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Cereal Magazine",
+        "url": "https://readcereal.com"
+      },
+      "image": "images/2026-07-09-cereal-magazine.png",
+      "category": "Editorial / travel & style archive",
+      "tagline": "A travel magazine's entire archive rendered as one hushed typographic index — whitespace as the main character.",
+      "summary": "Cereal's site is its whole back catalogue (888 entries) rebuilt as a single, radically calm index: a spaced‑out wordmark, a plain‑text filter rail (Categories / Search Terms / Year), and a sparse masonry of article titles with tiny id numbers, punctuated by the occasional large photograph. Imagery loads on scroll, so the page reads as a quiet list of names first and pictures second. (In a static full‑page capture many images appear as placeholders — it's genuinely best experienced live.)",
+      "whatWorks": [
+        "Archive as a text‑first index, not a wall of thumbnails — titles and ids carry navigation, so 888 entries feel calm instead of overwhelming.",
+        "A warm cream ground and tiny serif captions set a hushed, print‑like register that signals editorial confidence.",
+        "Enormous margins and air; the few large duotone/still images that do appear feel earned rather than decorative.",
+        "The filter rail (Categories / Search Terms / Year 2024—2017) is powerful archive navigation kept as plain text with no UI chrome.",
+        "A consistent numbering system ([005‑04], [018‑12]) runs quietly underneath as an ordering device."
+      ],
+      "sections": [
+        {
+          "name": "Masthead & nav",
+          "notes": "Letter‑spaced 'C E R E A L' top‑left with minimal 'Search / Information' links; nothing competes with the content."
+        },
+        {
+          "name": "Filter rail",
+          "notes": "Right‑aligned Categories / Search Terms / Year (a plain column of years) — archive power tools rendered as quiet text."
+        },
+        {
+          "name": "Results index",
+          "notes": "'Results: 888 · Sort by: Chronologically', then a sparse grid of article titles with id numbers, punctuated by a few large photographs (a still‑life, a white staircase, warm interiors)."
+        },
+        {
+          "name": "Image on demand",
+          "notes": "Photographs load as you scroll rather than all at once, so the page reads as a list of names first — in a static capture many show as placeholders; the site is best seen live."
+        },
+        {
+          "name": "Load more & footer",
+          "notes": "A quiet 'Load more', then a centred newsletter signup — no busy mega‑footer to break the calm."
+        }
+      ],
+      "principle": {
+        "title": "Let whitespace do the curating",
+        "explanation": "Cereal makes a huge archive feel considered by leading with typography and air and revealing images only on demand. Restraint reads as editorial confidence, and each photograph that does surface feels chosen rather than dumped.",
+        "howToApply": "For content‑heavy indexes (blogs, galleries, docs, case‑study libraries), try a text‑first list with generous margins and lazy/hover‑loaded imagery instead of a thumbnail grid; the page feels curated and loads light."
+      },
+      "tags": [
+        "editorial",
+        "whitespace",
+        "minimalism",
+        "archive",
+        "typography"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Merrell — 300×600 half‑page display ad",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-09-ad-merrell.png",
+      "category": "Display banner (half‑page / 300×600)",
+      "when": "GDN display, ~2020",
+      "tagline": "A tall unit split into 'aspiration on top, action below' — one boot hero, one script word, one loud button.",
+      "summary": "Merrell uses the height of a 300×600 to tell a two‑beat story: the top half is a full‑bleed forest photograph with the boots as the single focal point, and the bottom half is a clean white action zone. Script product name over letter‑spaced benefit copy, then one saturated‑orange CTA and the wordmark. The emotive image and the calm message never fight.",
+      "whatWorks": [
+        "Clear vertical zoning — an image‑led 'why' on top, a quiet 'do this' below; the tall format is used as a reading axis, not just more space.",
+        "One focal point (boots on a stump) in a real environment sells a place, not just a product.",
+        "The white lower third gives type room to breathe against a busy photograph — no text‑on‑image legibility gamble.",
+        "Two type registers do two jobs: a warm script 'Ontario' (the model / feeling) over spaced sans 'TRAIL‑READY PERFORMANCE' (the function).",
+        "One reserved accent — saturated orange 'SHOP NOW' is the only loud colour, so the eye lands on the CTA; the wordmark anchors brand recall."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A full‑bleed forest photograph with boots perched on a stump — stops the scroll with mood and place before any words."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Lower white panel: script 'Ontario' over letter‑spaced 'TRAIL‑READY PERFORMANCE' — emotive and functional in two registers."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Single focal point and a warm natural palette; the clean lower third keeps the type legible and calm against the busy image."
+        },
+        {
+          "name": "CTA",
+          "notes": "A saturated orange 'SHOP NOW' — the only loud colour in the unit — with the Merrell wordmark beneath for recall."
+        }
+      ],
+      "principle": {
+        "title": "Zone a tall ad: aspiration up top, action below",
+        "explanation": "A 300×600 has room for a two‑beat story. Merrell gives the top to an emotive full‑bleed image and the bottom to a calm white action zone, so the unit sells the feeling then routes the click without the two competing.",
+        "howToApply": "In any tall/portrait creative or hero, split it into an image‑led 'why' zone and a quiet, high‑contrast 'do this' zone, and reserve one saturated accent colour solely for the CTA."
+      },
+      "tags": [
+        "display-ad",
+        "photography",
+        "hierarchy",
+        "cta",
+        "layout",
+        "outdoor"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Alan Fletcher",
+        "url": "https://en.wikipedia.org/wiki/Alan_Fletcher_(graphic_designer)"
+      },
+      "image": "images/2026-07-09-designer-alan-fletcher.jpg",
+      "category": "British graphic design / identity & wit",
+      "when": "1931–2006 · British",
+      "tagline": "Pentagram co‑founder who made wit a working method — ideas by 'looking sideways', reduced to one clever mark.",
+      "summary": "Fletcher was Britain's most influential postwar graphic designer, co‑founding Fletcher/Forbes/Gill and then Pentagram, and creating marks like the V&A monogram and the Reuters dot logo. His method was lateral thinking and relentless collecting — he treated design as 'a way of life', mined a lifelong scrapbook for oblique connections, and reduced each idea to a single witty move.",
+      "whatWorks": [
+        "Treat design as a way of seeing, not a task — sketch and observe constantly so input never stops.",
+        "Collect relentlessly (notebooks, scrapbooks, cuttings) and use the hoard as raw material for unexpected connections.",
+        "Solve by lateral association and visual pun rather than illustrating the brief literally.",
+        "Reduce to one idea, cleanly executed — the V&A logo turning the ampersand's counter into the 'A'; Reuters built from 84 dots.",
+        "Use wit as a test of quality: if a mark rewards a second look, the idea is real; if it's merely decorative, it isn't finished.",
+        "Let big ideas mature over years (18 years on 'The Art of Looking Sideways')."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Constant collecting and sketching — a brief starts by ransacking a lifelong scrapbook of images and observations for an oblique connection."
+        },
+        {
+          "name": "Core method",
+          "notes": "Lateral thinking: find the unexpected association or visual pun that reframes the problem instead of depicting it head‑on."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Radical reduction to a single witty mark — the V&A ampersand‑as‑A monogram, the 84‑dot Reuters logo; one idea, executed cleanly."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Ask: is there a real idea, and does it reward a second look? Wit is evidence of intelligence, not garnish; give big ideas years to mature."
+        }
+      ],
+      "principle": {
+        "title": "Look sideways, then cut to one idea",
+        "explanation": "Fletcher's best marks come from an oblique association nobody else spotted, reduced until a single clever move carries the whole thing. Wit isn't decoration — it's proof the idea is real.",
+        "howToApply": "When stuck, stop illustrating the brief literally: list adjacent objects, words and metaphors, hunt for a surprising overlap, then reduce to the one element that makes people look twice. Keep a running scrapbook so you always have raw material."
+      },
+      "tags": [
+        "logos",
+        "identity",
+        "wit",
+        "ideas",
+        "reduction"
+      ]
     }
   ]
 }
