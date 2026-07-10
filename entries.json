@@ -4292,6 +4292,168 @@
         "ideas",
         "reduction"
       ]
+    },
+    {
+      "date": "2026-07-10",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Teenage Engineering",
+        "url": "https://teenage.engineering/products"
+      },
+      "image": "images/2026-07-10-teenage-engineering.png",
+      "category": "Product / e-commerce (audio hardware)",
+      "tagline": "A product catalog designed like an instrument: full-bleed hardware photography on a stark white grid, wordless custom icons, and near-zero marketing chrome.",
+      "summary": "Teenage engineering treats its site the way it treats its products — reductive, precise, and confident enough to leave most of the page empty. The homepage is a wordmark plus four wordless icon clusters (products, store, latest, finder); the product index is a vertical stack of enormous, edge-to-edge hardware photographs, each device shot flat and razor-sharp on white so the object itself carries the page. Type is one tight custom geometric sans, colour is ~95% black-on-white with a single signal-orange accent, and marketing copy is almost absent: a product name, a model number, a one-line descriptor, done. It is Swiss-industrial restraint applied to e-commerce, where the grid and the photography do all the talking.",
+      "whatWorks": [
+        "One signal colour: the palette is essentially black on white, and a single saturated orange marks only what is new or actionable (the 'EP SERIES UPDATE' badge, the version numbers) so attention has exactly one place to land.",
+        "Product-as-hero photography: each device is shot flat, centred and edge-to-edge at huge scale on pure white, sharp enough to read every button label — the object is the layout, not a supporting image.",
+        "Wordless custom iconography: the top nav uses bespoke pictograms instead of a text menu, which reads as brand confidence and rewards familiarity.",
+        "Radical copy restraint: a product gets a name, a model number and a single descriptor line ('128 MB SAMPLER COMPOSER') with no feature bullets competing with the image.",
+        "Whitespace as pacing: generous empty bands separate each product block so the long scroll feels like turning pages in a catalogue, never a crowded grid.",
+        "One tight technical typeface ties wordmark, nav, labels and product names into a single engineered voice."
+      ],
+      "sections": [
+        {
+          "name": "Hero / index nav",
+          "notes": "The page opens not with a banner but with the brand as an index: the 'teenage engineering' wordmark, four wordless icon clusters (products / store / latest / finder), the hexagonal TO logo, and a small block of Japanese mission text. It frames the site as a tool you navigate rather than a pitch you read."
+        },
+        {
+          "name": "EP SERIES update block",
+          "notes": "A compact left-aligned module announcing firmware updates — 'EP SERIES / UPDATE' with a solid orange bar, then a tiny table of models and version numbers in orange. It is the one place colour and 'news' concentrate, sitting quietly above the product river."
+        },
+        {
+          "name": "Product hero rows",
+          "notes": "The catalogue is a vertical stack of full-bleed product photographs (RIDDIM, K.O. II, field-system devices), each shot flat and gigantic on white with only a name, model and one-line descriptor. Scale plus sharpness make the hardware the entire visual argument."
+        },
+        {
+          "name": "Product detail / macro photography",
+          "notes": "Scrolling into a product shows its face at near 1:1 — every knob, key and silkscreen label legible — so the photography doubles as spec sheet and seduction; no rendered mockups, just the honest object."
+        },
+        {
+          "name": "Footer",
+          "notes": "A restrained multi-column footer: Stockholm address, ©2026, newsletter signup, policies, retailers and the free-shipping threshold — utilitarian, quiet, and set in the same single-typeface system."
+        }
+      ],
+      "principle": {
+        "title": "Let the product be the entire layout, and ration everything else",
+        "explanation": "When you sell something that is itself well designed, oversized honest photography of the real object out-argues any amount of marketing copy or decoration. Stripping the chrome — menus become icons, features become a single line, colour shrinks to one accent — doesn't weaken the page; it signals that the product can carry it, which reads as confidence and quality.",
+        "howToApply": "On a product or portfolio page, shoot or render the real artifact flat and sharp, place it edge-to-edge at large scale on a plain ground, and give it only a name plus one descriptor line. Restrict colour to a single signal accent reserved for what is new or clickable, and set everything in one tight typeface. When a section tempts you to add explanatory copy, first try making the image bigger instead."
+      },
+      "tags": [
+        "product-design",
+        "photography",
+        "restraint",
+        "typography",
+        "color",
+        "e-commerce"
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "DocuSign — wide display banner (eSignature)",
+        "url": "https://www.wordstream.com/blog/ws/2020/03/02/banner-ads-examples"
+      },
+      "image": "images/2026-07-10-ad-docusign.png",
+      "category": "Display banner (wide leaderboard / billboard, ~970×250)",
+      "tagline": "Acid-green headline on pure black, one ghost CTA, and the logo lockup as the only other element — a B2B banner that reads in half a second.",
+      "when": "GDN display, ~2020",
+      "summary": "This is B2B display distilled to four elements: a black field, a two-line acid-green headline, a bordered 'Read the eBook' ghost button, and the DocuSign eSignature lockup. There is no product shot and no illustration — the extreme contrast of neon green on black does the stopping, a number ('6') promises a scannable payoff, and the offer is honest about being an eBook, a low-commitment consideration-stage ask. It is the anti-clutter banner: everything not essential to one click has been removed.",
+      "whatWorks": [
+        "Maximum contrast as the hook: near-fluorescent green type on pure black pops in a crowded feed or GDN slot with no imagery at all.",
+        "A number in the headline: '6 overlooked strategies' promises a finite, scannable payoff and primes the reader for a listicle eBook.",
+        "Benefit-led copy: 'that deliver rapid growth' names the outcome, not the format — the value is stated before the ask.",
+        "Ghost CTA sized right: 'Read the eBook' is a bordered outline button, present but not shouting, and its verb matches the low-commitment offer (read, not buy).",
+        "Brand where it belongs: the DocuSign eSignature lockup sits bottom-right, clearly present but subordinate to the message — attribution without stealing the focal point.",
+        "One focal point: no competing photo, badge or price; the eye travels headline → button → logo in a single pass."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Fluorescent green on pure black. With no image at all, the raw contrast is the scroll-stopper; the banner looks like a highlighter glowing on a dark screen."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'6 overlooked strategies that deliver rapid growth.' A number for scannability, 'overlooked' for curiosity and mild FOMO, and the benefit ('rapid growth') stated plainly — all in two tight lines."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is no hero image; the typography IS the visual. Trusting type and colour to carry the unit keeps file size tiny and the message unmissable at banner scale."
+        },
+        {
+          "name": "CTA",
+          "notes": "A white-outlined 'Read the eBook' ghost button under the headline. The outline style reads as a button without competing with the neon headline, and the verb honestly matches a low-friction gated-content offer."
+        }
+      ],
+      "principle": {
+        "title": "Trust type + contrast when the offer is an idea, not a product",
+        "explanation": "For a consideration-stage gated asset (an eBook, a guide) there is no product to photograph, so a hero image would just be decoration. A high-contrast type-only banner loads fast, stops the scroll on colour alone, and lets a numbered, benefit-led headline do the persuading — with the CTA verb matched honestly to the small ask.",
+        "howToApply": "For content-offer banners, drop the stock photo. Set a numbered, benefit-first headline in the brand's boldest colour on a plain dark ground, add one ghost CTA whose verb matches the commitment ('read the guide', not 'get started'), and place the logo lockup small in a corner. Test it at the smallest size — if the headline still reads, it works."
+      },
+      "tags": [
+        "display-ad",
+        "typography",
+        "contrast",
+        "b2b",
+        "cta",
+        "copywriting"
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Jan Tschichold",
+        "url": "https://en.wikipedia.org/wiki/Jan_Tschichold"
+      },
+      "image": "images/2026-07-10-designer-jan-tschichold.png",
+      "category": "Typography & book design / Modernism → classical",
+      "when": "1902–1974 · German (later Swiss)",
+      "tagline": "The typographer who codified modernist asymmetry in 'Die neue Typographie', then systematised Penguin's paperbacks with a single sheet of composition rules.",
+      "summary": "Jan Tschichold trained as a calligrapher, which gave him a craftsman's respect for letterforms and, unusually, a pragmatic streak: he built with stock typefaces and commercial paper rather than bespoke everything. In 1928 his book 'Die neue Typographie' codified modernist practice — sans-serif, asymmetry, function over ornament — into rules that working printers could actually follow. Then he did the opposite of dogma: he later renounced his own hardline modernism as too rigid, returned to classical typefaces, and at Penguin Books (1947–49) wrote the four-page 'Penguin Composition Rules' that standardised hundreds of titles while still letting each book breathe. His genius was turning taste into a transmissible system.",
+      "whatWorks": [
+        "Write the rules down: he distilled his method into short, printable manuals (Die neue Typographie, the Penguin Composition Rules) so a whole team of printers could execute his standard without him in the room.",
+        "Systematise the many, personalise the one: a shared skeleton (grid, type sizes, spacing) across hundreds of books, but each cover and title page tuned to that book's character — consistency and individuality at once.",
+        "Build with stock, not bespoke: he chose commercial typefaces and standard paper stocks deliberately, so the system stayed reproducible and affordable rather than a one-off luxury.",
+        "Let function set the layout: asymmetry, type size and whitespace were chosen to serve information hierarchy and reading, never as decoration.",
+        "Be willing to renounce your own dogma: he publicly reversed his hardline modernism when he judged it too rigid, choosing the right tool over ideological consistency.",
+        "Sweat the micro-typography — spacing, punctuation and detail rules — because that is where he located quality."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "He starts from the text and the constraints, not a blank aesthetic. Calligraphy training meant he read the content and the reading experience first, then asked what standardised materials (a stock face, a standard paper size) could serve it economically."
+        },
+        {
+          "name": "Core method",
+          "notes": "Codify the method into explicit, written rules. Rather than art-directing each piece by feel, he wrote manuals and composition rules that encode the decisions, so the standard becomes transmissible and repeatable across a team and hundreds of artifacts."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Systematic micro-typography and grid discipline: precise rules for type sizes, line spacing, indentation, punctuation and title-page layout — the small, near-invisible craft decisions applied consistently — plus, in his modernist phase, functional asymmetry driven purely by hierarchy."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Function and legibility over ornament; the nature of each work dictates its final look within the system. And, crucially, ideology is subordinate to results — he abandoned rules, even his own famous ones, when he decided they no longer served the reader."
+        }
+      ],
+      "principle": {
+        "title": "Turn your taste into written rules others can execute",
+        "explanation": "A design standard only scales if it lives outside your head. Tschichold's lasting impact came not from single beautiful pages but from short, explicit rule-sets — grids, type sizes, spacing, composition rules — that let printers and teams reproduce his quality across hundreds of artifacts, while a shared skeleton still left room to tailor each individual piece.",
+        "howToApply": "For any multi-artifact project (a site, a component library, a set of ads, a book series) write a one- or two-page 'composition rules' doc: the grid, the type scale, spacing rhythm, colour usage and the do/don'ts — concrete enough that someone else could produce an on-brand piece without you. Then allow deliberate per-piece variation on top of that fixed base, and hold the rules loosely, revising them when they stop serving the reader."
+      },
+      "tags": [
+        "typography",
+        "systems",
+        "book-design",
+        "grids",
+        "process",
+        "standards"
+      ]
     }
   ]
 }
