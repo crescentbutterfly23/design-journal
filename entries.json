@@ -1,6 +1,205 @@
 {
   "entries": [
     {
+      "date": "2026-07-11",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Vercel",
+        "url": "https://vercel.com"
+      },
+      "image": "images/2026-07-11-vercel.png",
+      "category": "Developer platform / cloud infra",
+      "tagline": "A famously spare, near-monochrome dev-platform homepage that lets one triangle mark and typographic restraint carry the whole brand.",
+      "summary": "Vercel's homepage is a masterclass in confident minimalism aimed at engineers: black text on off-white, generous whitespace, and real product screenshots doing the talking. The 2026 iteration reframes around 'Agentic Infrastructure', leading with a stark hero, then a logo wall of blue-chip customers, then customer-proof case studies (Notion, Zapier) that each pair a real UI screenshot with a terse mono-type feature list. Restraint reads as seriousness.",
+      "whatWorks": [
+        "Monochrome discipline: black on off-white with the triangle as the only 'color', so screenshots pop without competing chrome",
+        "Mono-type feature lists ('DURABLE ORCHESTRATION / SANDBOXED ENVIRONMENTS') signal 'for engineers' faster than any illustration",
+        "Logo wall placed immediately under the hero converts abstract positioning into instant credibility",
+        "Case studies lead with a customer sentence + a real dashboard screenshot, not marketing renders — proof over promise",
+        "Huge vertical rhythm: each idea gets its own screenful, nothing crowded"
+      ],
+      "sections": [
+        { "name": "Hero", "notes": "'Agentic Infrastructure' set large, three-line supporting copy, two CTAs (Deploy Now / Talk to Sales), a single centered black triangle. Emptiness reads as confidence." },
+        { "name": "Logo wall", "notes": "Blackbox.ai, Charles Schwab, DoorDash, OpenAI, Supreme, Weather Company, Polymarket in one quiet row — breadth of trust in a single glance." },
+        { "name": "Case study — Notion", "notes": "Left: real AI-chat UI screenshot. Right: 'Notion powers millions of agent conversations daily' + a mono feature list. The product UI is the hero image." },
+        { "name": "Case study — Zapier", "notes": "Full-width product screenshot with a stat row (450K+, 9,000+, 3.33M+) — numbers as proof, framed by whitespace." },
+        { "name": "Footer", "notes": "Eight-column link matrix (Agent Stack, Core Platform, Security, Tools, Frameworks, SDKs…) + theme toggle — dense but organized, reads as a serious platform." }
+      ],
+      "principle": {
+        "title": "Let restraint signal seriousness — spend your one accent sparingly.",
+        "explanation": "For technical or premium products, a near-monochrome palette with a single mark reads as more confident and trustworthy than a colorful one; the real product screenshots become the color.",
+        "howToApply": "On dev-facing or premium pages, try a black-on-off-white section with the brand accent reserved only for the primary CTA, and let an actual UI screenshot (not an illustration) be the hero visual."
+      },
+      "tags": ["minimalism", "monochrome", "saas", "developer", "typography", "social-proof"]
+    },
+    {
+      "date": "2026-07-11",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Instapage — 300×250 medium-rectangle display ad",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-11-ad-instapage.png",
+      "category": "Display banner (medium rectangle / 300×250)",
+      "tagline": "A benefit headline stacked as four short lines does the whole selling job inside a tiny box.",
+      "when": "GDN display, ~2020",
+      "summary": "A textbook medium-rectangle: logo top-left, a benefit headline 'The most powerful landing page builder' broken into short stacked lines so it stays big, a single blue 'SEE WHY' button, and a light isometric illustration filling the right third. One message, one action, sized perfectly to 300×250.",
+      "whatWorks": [
+        "Headline broken into short stacked lines so it stays huge and legible at banner size",
+        "One focal CTA in saturated blue — the only strong color, so the eye lands on it",
+        "Isometric illustration adds energy without stealing from the copy (kept to the right third)",
+        "Brand logo anchored top-left for instant attribution",
+        "Ruthless economy: no body copy, no secondary links"
+      ],
+      "sections": [
+        { "name": "Hook", "notes": "The bold near-black 'The most powerful…' headline occupying the left half stops the eye first." },
+        { "name": "Message / headline", "notes": "Benefit-led and specific — superlative ('most powerful') tied to a concrete product ('landing page builder')." },
+        { "name": "Visual / hero", "notes": "Light isometric scene of people building pages — supports the message, kept to a third of the frame." },
+        { "name": "CTA", "notes": "Blue 'SEE WHY' pill, high contrast, curiosity-framed rather than a hard 'Buy'." }
+      ],
+      "principle": {
+        "title": "In a small unit, stack the headline so it can stay big.",
+        "explanation": "Banner real estate is tiny; breaking a benefit line into short stacked lines keeps type large and scannable at a glance, which is all a 300×250 gets.",
+        "howToApply": "For any small ad or card, write the headline as 3–4 short lines, reserve one saturated color for the CTA, and keep imagery to about a third of the frame."
+      },
+      "tags": ["display-ad", "banner", "cta", "typography", "saas"]
+    },
+    {
+      "date": "2026-07-11",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "László Moholy-Nagy",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy"
+      },
+      "image": "images/2026-07-11-designer-laszlo-moholy-nagy.jpg",
+      "category": "Bauhaus / avant-garde — the New Vision",
+      "when": "1895–1946 · Hungarian",
+      "tagline": "The Bauhaus polymath who treated the camera, light, and even the telephone as design tools — process as experiment.",
+      "summary": "Moholy-Nagy was a painter, photographer, and Bauhaus master who insisted design should be relentlessly experimental and technology-native. He pioneered the camera-less photogram, 'painted with light' via his kinetic Light-Space Modulator, and famously 'ordered' paintings by telephone — proving the idea, not the maker's hand, was the work. He later carried this experimental pedagogy to Chicago's New Bauhaus.",
+      "whatWorks": [
+        "Work across media on purpose: solve a problem in photo, then paint, then object — cross-pollinate techniques",
+        "'New Vision': deliberately seek the viewpoint the eye can't get (overhead, extreme angle, negative) to defamiliarize the subject",
+        "Make with the process, not just the tool — the photogram lets the technique itself generate form",
+        "Separate concept from execution (the 'Telephone Pictures') — specify a design so precisely someone else could build it",
+        "Prototype with light and motion, judging the result (shifting shadows) over the object that produced it"
+      ],
+      "sections": [
+        { "name": "How they begin", "notes": "With a material or technology question — 'what can this medium do that others can't?' — rather than a fixed final image in mind." },
+        { "name": "Core method", "notes": "Relentless experimentation and interdisciplinary making: learning by doing across photography, film, sculpture, and print." },
+        { "name": "Signature technique", "notes": "The photogram (objects laid on light-sensitive paper) and kinetic light works — form generated by process, not depiction." },
+        { "name": "Decision rules / philosophy", "notes": "Reject specialization; value the idea over the hand; let new technology expand what art and design can be." }
+      ],
+      "principle": {
+        "title": "Design the specification, not just the artifact.",
+        "explanation": "Moholy-Nagy's Telephone Pictures show that if you can specify a design precisely enough to hand it off, you've clarified the concept itself — and freed it from your own execution.",
+        "howToApply": "Before building, write the spec (grid, tokens, exact rules) so tightly that a teammate — or an agent — could execute it identically; it both sharpens the idea and lets the work scale."
+      },
+      "tags": ["bauhaus", "process", "experimentation", "photography", "systems"]
+    },
+    {
+      "date": "2026-07-12",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Grilli Type",
+        "url": "https://www.grillitype.com"
+      },
+      "image": "images/2026-07-12-grilli-type.jpg",
+      "category": "Type foundry / editorial",
+      "tagline": "A Swiss foundry site where the fonts sell themselves through in-use editorial and free trials, not hard-sell.",
+      "summary": "Grilli Type's site is disciplined Swiss editorial: a clean light layout, dark typography, and a catalogue that trusts the work. Rather than flashy specimens up front, it lists 21 retail typefaces as a plain alphabetical menu, pushes generous free trials, and leans on a rich 'GT In Use' stream of real-world projects (Museu Terra, Decathlon, Figma Sans) to prove the type in context.",
+      "whatWorks": [
+        "'Try our fonts — for free' as a primary move: lowering friction is itself the pitch for a foundry",
+        "Typeface list as a spare text menu — confident that the names, plus specimens on click, are enough; no decorative grid needed",
+        "'GT In Use' editorial turns customers' projects into the best possible specimen — type shown working, not posed",
+        "Swiss restraint: light ground, dark type, tight hierarchy; the letterforms are the only ornament",
+        "Educational content (GT Academy, Variable Fonts guide) builds authority and keeps type-nerds returning"
+      ],
+      "sections": [
+        { "name": "Header", "notes": "Left logo, flat menu (Typefaces, Free Trials, Commissions, Blog, Information), Login — clear hierarchy, no flourish." },
+        { "name": "Featured minisite", "notes": "GT Mechanik promoted via an animated GIF banner to its own page — one hero product spotlighted at a time." },
+        { "name": "Retail list", "notes": "21 typefaces (GT Mechanik…GT Sectra) as an alphabetical text menu — the catalogue treated as a clean index." },
+        { "name": "GT In Use", "notes": "Editorial thumbnails of real brand applications (Museu Terra with GT Alpina) — proof of the type working in the wild." },
+        { "name": "Guides", "notes": "GT Academy + a Variable Fonts guide with an animated demo — teaching as a way to sell expertise and typefaces." },
+        { "name": "Footer", "notes": "Five columns (Information, Contact, full typeface listing, Swiss-tradition blurb) — everything findable, nothing shouted." }
+      ],
+      "principle": {
+        "title": "Show the work in use, not just on a pedestal.",
+        "explanation": "A specimen shows what a typeface looks like; a real project shows what it can do. In-use editorial is more persuasive than any posed specimen because it answers the buyer's real question — 'will this work for me?'",
+        "howToApply": "For any product or portfolio, add an 'in use' section of real applications (screenshots, case snippets) alongside the polished hero shots — and offer a genuinely free trial to remove the last objection."
+      },
+      "tags": ["typography", "foundry", "editorial", "swiss", "product", "restraint"]
+    },
+    {
+      "date": "2026-07-12",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Constant Contact — 300×250 animated GDN banner",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-12-ad-constant-contact.gif",
+      "category": "Animated GDN banner (medium rectangle / 300×250)",
+      "tagline": "A single strong-blue field, a right-aligned white benefit headline, and one warm CTA button — animation used only to reveal, not distract.",
+      "when": "GDN display, ~2020",
+      "summary": "An animated medium-rectangle flooded in Constant Contact blue: a photographic camera and printed-photo montage anchors the left, the headline 'Work smarter with automated email marketing' is set right in clean white, and a single orange 'Try email free' pill provides the one warm accent. The animation sequences elements into place rather than adding motion noise.",
+      "whatWorks": [
+        "One dominant brand color (blue) unifies the unit and makes the orange CTA unmissable — complementary contrast doing the work",
+        "Right-aligned white headline with tight leading stays legible against imagery on the left",
+        "Photographic collage (camera, printed photos) adds warmth and a human subject to a data-driven category",
+        "CTA copy is a low-risk offer ('Try email free'), not a demand",
+        "Motion is reveal-only — elements animate into place, then rest; nothing loops distractingly"
+      ],
+      "sections": [
+        { "name": "Hook", "notes": "A bold saturated-blue field plus a real camera image — a warm, tactile stopper among flat feed ads." },
+        { "name": "Message / headline", "notes": "'Work smarter with automated email marketing' — benefit-first, right-aligned white, easy to read at a glance." },
+        { "name": "Visual / hero", "notes": "Camera and printed-photo montage in the left third — human and concrete rather than abstract." },
+        { "name": "CTA", "notes": "Orange 'Try email free' pill — the single warm accent and a free-trial framing that lowers risk." }
+      ],
+      "principle": {
+        "title": "Own the frame with one brand color; reserve its complement for the CTA.",
+        "explanation": "Flooding a unit in a single brand color creates instant recognition and makes a lone complementary button the obvious click — contrast, not clutter, drives the action.",
+        "howToApply": "For a promo card or banner, fill the field with one brand hue, keep type white or neutral, and use the complementary color exclusively on the CTA."
+      },
+      "tags": ["display-ad", "animated", "color", "cta", "contrast"]
+    },
+    {
+      "date": "2026-07-12",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "A. M. Cassandre",
+        "url": "https://en.wikipedia.org/wiki/A._M._Cassandre"
+      },
+      "image": "images/2026-07-12-designer-am-cassandre.jpg",
+      "category": "Art Deco poster design / modernism",
+      "when": "1901–1968 · French (b. Kharkov)",
+      "tagline": "The poster master who engineered images for speed — bold, geometric, understood at a glance from a moving vehicle.",
+      "summary": "Cassandre reinvented the advertising poster by designing for the way people actually see one: fast, from a distance, often from a moving car or train. He fused Cubist geometry with airbrushed volume, integrated custom lettering into the image, and reduced each poster to one unmistakable idea. He also cut type (Bifur, Acier Noir, Peignot) so the words belonged to the picture rather than sitting on top of it.",
+      "whatWorks": [
+        "Design for the real viewing condition (distance, speed, glance) — let the constraint dictate boldness and reduction",
+        "Build the image on geometry: construct with circles, arcs, and axes so forms read instantly",
+        "Unify type and image — draw custom letterforms that are part of the composition, not dropped onto it",
+        "Reduce to a single idea per poster; strip everything that doesn't serve the one read",
+        "Borrow fine-art technique (Cubism, airbrush) to lift commercial work above the ordinary"
+      ],
+      "sections": [
+        { "name": "How they begin", "notes": "From the viewing condition and the single message — 'how will this be seen, and what is the one thing it must say?'" },
+        { "name": "Core method", "notes": "Geometric construction: composing with drafting tools, axes, and reduced forms for instant legibility." },
+        { "name": "Signature technique", "notes": "Airbrushed volume plus integrated custom typography, fusing word and image into one graphic statement." },
+        { "name": "Decision rules / philosophy", "notes": "The poster is a servant of the message; if a form doesn't aid the fast read, cut it." }
+      ],
+      "principle": {
+        "title": "Design for the actual viewing condition, not the studio.",
+        "explanation": "Cassandre's power came from solving for how posters are really seen — at speed, from afar — which forced bold reduction. Designing for the true context beats designing for a comfortable close-up.",
+        "howToApply": "Before finishing a layout, test it in its real condition — thumbnail size, at arm's length, a two-second glance, on a phone in sunlight — and cut whatever fails that read."
+      },
+      "tags": ["poster", "art-deco", "geometry", "typography", "reduction", "process"]
+    },
+    {
       "date": "2026-06-22",
       "source": "daily",
       "kind": "ad",
