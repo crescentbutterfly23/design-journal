@@ -4653,6 +4653,138 @@
         "process",
         "standards"
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Mercury",
+        "url": "https://mercury.com"
+      },
+      "image": "images/2026-07-13-mercury.png",
+      "category": "Fintech / business banking",
+      "tagline": "A fintech homepage that makes banking feel calm and premium by pairing crisp product UI with restrained, abstract illustration and a lot of quiet space.",
+      "summary": "Mercury sells 'radically different banking' to startups, and the page earns the claim through composure rather than noise: near-white grounds, one refined sans, and a rhythm of full-width feature blocks that each pair a real product screenshot with a single benefit line. Abstract geometric illustrations (overlapping circles, ripples, upward graphs) carry the softer 'safety and control' ideas where a screenshot would be too literal, and hard proof — 300K+ entrepreneurs, 1-in-3 startups, $20B+ monthly volume, 4.9 App Store — lands as a clean stat row before the close. The result reads trustworthy and modern without a single loud gradient.",
+      "whatWorks": [
+        "Product UI as the hero image: virtual cards, invoicing, search — real interface screenshots do the persuading instead of stock photography",
+        "Abstract illustration reserved for the intangibles (security, visibility, control) so every visual either shows the product or stands for a feeling — never decoration for its own sake",
+        "A four-number stat row (300K+, 1-in-3, $20B+, 4.9) turns positioning into evidence in one glance",
+        "Testimonials from recognizable founders (Linear, Gainful) borrow credibility from names the audience already respects",
+        "Generous vertical rhythm — one idea per screenful — keeps a feature-dense product from feeling cluttered",
+        "Accent color spent almost entirely on CTAs; the palette is otherwise white/gray so the buttons are the only thing that shouts"
+      ],
+      "sections": [
+        { "name": "Hero", "notes": "'Radically different banking' set large over an animated product-dashboard frame, with an email field + 'Open account' inline. The CTA is a form, not just a button — one step closer to signup from the fold." },
+        { "name": "Four-pillar value grid", "notes": "Banking, cards/expenses, payments/invoicing, accounting in a clean 4-column row — the whole product surface mapped before any deep-dive, so visitors self-select which feature to care about." },
+        { "name": "Founder testimonial carousel", "notes": "Portraits + quotes from known startup founders on a light ground; social proof placed high, right after the value grid, while interest is fresh." },
+        { "name": "Feature deep-dives", "notes": "Alternating image/text blocks with real UI — virtual cards, bill automation, invoicing, receipt reconciliation. Alternating white/gray grounds create rhythm without borders." },
+        { "name": "Stat / trust row", "notes": "300K+ · 1-in-3 · $20B+ · 4.9 in oversized numerals — the evidence beat that converts 'nice product' into 'serious, widely-trusted bank'." },
+        { "name": "Security & FDIC section", "notes": "20x FDIC coverage, fraud protection, spend controls, each with a small data-viz illustration — de-risks the decision right before the close." },
+        { "name": "Dual final CTA + dense footer", "notes": "Side-by-side 'business' and 'personal' offers, then a charcoal multi-column footer with FDIC/partner-bank disclosure — compact, organized, and appropriately serious for a financial product." }
+      ],
+      "principle": {
+        "title": "Split your visuals in two: screenshots for what it does, abstraction for how it feels.",
+        "explanation": "Feature-heavy products get muddy when every section tries to illustrate everything. Mercury shows the literal product with real UI and reserves abstract illustration only for intangibles (safety, visibility, control) — so no visual is mere decoration and the page stays legible.",
+        "howToApply": "Audit a product page's images: each should either be a real interface screenshot (a concrete capability) or an abstract mark standing for a feeling. Cut anything that is neither, and keep the accent color almost entirely on the CTAs so buttons stay the loudest thing on a quiet page."
+      },
+      "tags": ["fintech", "saas", "product-ui", "illustration", "social-proof", "restraint"]
+    },
+    {
+      "date": "2026-07-13",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Grammarly — mobile display unit (~258×512 portrait GDN)",
+        "url": "https://www.emaildrips.com/google-display-ad-examples/"
+      },
+      "image": "images/2026-07-13-ad-grammarly.png",
+      "category": "Display banner (portrait mobile / GDN)",
+      "tagline": "One flat illustration, a four-word promise, and a single green button — a mobile display unit that says exactly one thing.",
+      "when": "Google Display Network, ~2020–2021",
+      "summary": "This is Grammarly's mobile GDN unit reduced to essentials: green logo lockup at the top, a light-grey flat illustration in the middle (a figure walking past a speech bubble, a pen, and a growing sprout — writing + growth), then 'Instant Grammar Checker' with a one-line clarifier and a rounded green 'Try Now' pill at the bottom. Nothing competes for attention; the eye travels logo → image → headline → button in a single vertical sweep. It works because it commits to one benefit and one action and trusts white space to do the rest.",
+      "whatWorks": [
+        "One idea only: 'Instant Grammar Checker' — no feature list, no secondary offer, so the unit is legible at a glance and at thumbnail size",
+        "Strict vertical hierarchy (logo → illustration → headline → CTA) matches how a thumb scans a portrait ad",
+        "Brand green used only twice — the logo mark and the CTA pill — so the button reads as the one thing to touch",
+        "Flat, lightweight line illustration keeps file size tiny (<15KB) for fast load, and stays on-brand without a photo",
+        "Sub-headline does one job — clarify the benefit ('Correct all grammar errors and enhance your writing') — then gets out of the way"
+      ],
+      "sections": [
+        { "name": "Hook", "notes": "The instantly recognizable green Grammarly mark anchors the top; brand recognition is the scroll-stopper here rather than a shock visual." },
+        { "name": "Message / headline", "notes": "'Instant Grammar Checker' in bold near-black — a literal, benefit-first promise, no cleverness, readable in under a second." },
+        { "name": "Visual / hero", "notes": "A muted flat illustration (walking figure, speech bubble, pen, sprout) suggests writing and self-improvement without a literal screenshot — soft, friendly, low-contrast so the headline and button stay dominant." },
+        { "name": "CTA", "notes": "A rounded, high-saturation green 'Try Now' pill floated in white space at the bottom — the only saturated element, unmissable and thumb-sized." }
+      ],
+      "principle": {
+        "title": "In a small unit, say one thing and color only the button.",
+        "explanation": "A portrait mobile ad has room for exactly one message. Grammarly spends its whole hierarchy on a single benefit and reserves its brand color for just the logo and the CTA, so the action is never in doubt even at thumbnail scale.",
+        "howToApply": "When building a display/social unit, write the one benefit first, then subtract everything that isn't the logo, that benefit, or the button. Keep the creative near-monochrome and let the CTA be the only saturated element."
+      },
+      "tags": ["display-ad", "mobile", "hierarchy", "cta", "restraint", "illustration"]
+    },
+    {
+      "date": "2026-07-13",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "COLLINS",
+        "url": "https://wearecollins.com/"
+      },
+      "image": "images/2026-07-13-designer-collins.png",
+      "category": "Brand transformation studio / contemporary (Studio Monday)",
+      "when": "Founded 2008 · Brooklyn & San Francisco, USA · led by Brian Collins",
+      "tagline": "The independent studio that reframed branding as designing an optimistic future clients 'can't help but want.'",
+      "summary": "COLLINS is one of the most awarded independent brand-experience studios of the last two decades, behind transformations for Spotify, Mailchimp, Dropbox, Twitch, Robinhood, Instacart and more. Its operating model treats design as 'a benevolent agent of change' — not styling a logo, but building a compelling thesis about a client's future and then making artifacts real enough that the future feels inevitable. What holds it together is a culture hired for 'contribution, not fit' and a relentless optimism Brian Collins calls letting 'form follow the fantastic.'",
+      "whatWorks": [
+        "Start from a thesis about the future, not a moodboard: define the world the brand should create, then design backward into logo/system",
+        "Frame the work as a 'chain reaction' — one bold idea that unlocks business value, a new market, and internal culture at once",
+        "Sell inevitability: make the proposed future so compelling that saying no feels like opting out of progress",
+        "Prototype the feeling early — build vivid artifacts (films, environments, motion) so stakeholders experience the idea instead of debating a deck",
+        "Hire for 'cultural contribution, not cultural fit' to keep the studio's range wide and its ideas un-formulaic",
+        "Optimism as method: 'form follows the fantastic' — lead with wonder, then engineer the craft to justify it"
+      ],
+      "sections": [
+        { "name": "How it's structured", "notes": "A deliberately independent, mid-size studio across Brooklyn and San Francisco — big enough for ambitious transformations, small enough to stay author-driven and avoid holding-company dilution. Hybrid/flexible working; a headquarters sized for culture, not headcount." },
+        { "name": "How it takes on work", "notes": "Engages clients at inflection points — moments of growth, merger, or reinvention — as a transformation partner, not a vendor. Pairs creative ambition with commercial logic so a bold idea also has a business case." },
+        { "name": "Signature method", "notes": "The 'chain reaction': craft a thesis about the client's future, then design the identity, environments, motion and story that make that future tangible. Design 'a future people can't help but want' rather than predicting one." },
+        { "name": "What holds it together", "notes": "A stated philosophy ('design is not what we make, it's what we make possible'), Brian Collins's 101 design rules, hiring for contribution over fit, and an insistence on optimism — the shared belief that a better version is designable." }
+      ],
+      "principle": {
+        "title": "Design the future first, the logo second.",
+        "explanation": "COLLINS wins by arguing for a compelling future state and building artifacts that make it feel inevitable; the marks and systems follow from that thesis. It reframes the deliverable from 'a nicer identity' to 'a change worth believing in,' which is far harder to say no to.",
+        "howToApply": "Before touching type or color on a brand project, write one paragraph: what world does this brand help create, and why would people want it? Prototype that feeling early (a short film, a hero moment, a motion study) so the client buys the future — then let the visual system serve it."
+      },
+      "tags": ["studio", "branding", "process", "strategy", "identity", "optimism"]
+    },
+    {
+      "date": "2026-07-13",
+      "week": "2026-W29",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Fit a headline to a portrait display ad with CSS clamp()",
+      "discipline": "Layout & typesetting / Coding",
+      "tool": "CSS",
+      "time": "15 min",
+      "skill": "Building a fluid, format-locked ad unit where type scales to the box instead of overflowing it",
+      "brief": "Recreate a Grammarly-style 300×600 portrait display unit as a single responsive CSS box. The headline must always fit on two lines and the CTA must stay pinned at the bottom, whether the unit renders at full size or scaled down to a 160-wide thumbnail.",
+      "steps": [
+        "Build one .ad container fixed to a 1:2 aspect ratio (aspect-ratio: 1 / 2) with max-width 300px, so the unit keeps its format at any scale.",
+        "Lay the interior out as a 3-row grid: logo (top), illustration/placeholder (center, flex-fill), and a headline+CTA block (bottom).",
+        "Size the headline with clamp() so it scales with the box — e.g. font-size: clamp(15px, 7cqw, 24px) using container query units — and cap it to two lines with -webkit-line-clamp.",
+        "Give the CTA a full-color pill and reserve the brand color for ONLY the logo mark and the button; keep everything else near-mono.",
+        "Shrink the container to 160px wide and confirm the headline still fits two lines and the button stays pinned — fix with clamp() bounds, not media queries."
+      ],
+      "assets": [
+        { "label": "Headline", "value": "Instant Grammar Checker" },
+        { "label": "Sub-headline", "value": "Correct every mistake and sharpen your writing." },
+        { "label": "CTA", "value": "Try Now" },
+        { "label": "Palette", "swatches": ["#15C39A", "#0B1728", "#5A6B7B", "#F4F6F5", "#FFFFFF"] },
+        { "label": "Starter code (fix this — the headline overflows when scaled)", "code": ".ad{width:300px;aspect-ratio:1/2;container-type:inline-size;background:#fff;border:1px solid #e6e9e8;border-radius:8px;display:grid;grid-template-rows:auto 1fr auto;padding:18px;font-family:system-ui,sans-serif;}\n.ad__logo{color:#15C39A;font-weight:700;}\n.ad__art{background:#F4F6F5;border-radius:8px;}\n.ad__h{font-size:24px;line-height:1.15;font-weight:700;color:#0B1728;margin:0 0 6px;}\n.ad__sub{font-size:13px;color:#5A6B7B;margin:0 0 14px;}\n.ad__cta{background:#15C39A;color:#fff;text-align:center;padding:12px;border-radius:999px;font-weight:600;}" }
+      ],
+      "successLooksLike": "At 300px and at 160px the headline holds to two lines, never clips or overflows, and the green CTA pill stays glued to the bottom edge — all from clamp() + container units, zero media queries.",
+      "stretch": "Add a subtle 150ms transform:scale(1.03) hover on the CTA and a fade-up of the headline using a single @keyframes, keeping the unit under 20KB of CSS.",
+      "tags": ["css", "typography", "responsive", "clamp", "display-ad", "container-queries"]
     }
   ]
 }
