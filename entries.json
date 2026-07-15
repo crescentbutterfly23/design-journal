@@ -4785,6 +4785,338 @@
       "successLooksLike": "At 300px and at 160px the headline holds to two lines, never clips or overflows, and the green CTA pill stays glued to the bottom edge — all from clamp() + container units, zero media queries.",
       "stretch": "Add a subtle 150ms transform:scale(1.03) hover on the CTA and a fade-up of the headline using a single @keyframes, keeping the unit under 20KB of CSS.",
       "tags": ["css", "typography", "responsive", "clamp", "display-ad", "container-queries"]
+    },
+    {
+      "date": "2026-07-14",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Superlist",
+        "url": "https://www.superlist.com/"
+      },
+      "image": "images/2026-07-14-superlist.jpg",
+      "category": "Productivity SaaS",
+      "tagline": "A tasks-notes-and-plans app site that proves 'everything in one app' by letting a single running product demo carry the whole page.",
+      "summary": "Superlist sells a combined tasks + notes + plans app, and the page's whole job is to make 'one app for everything' feel true rather than claimed. It does that with a calm, near-monochrome layout that pushes the colorful product UI forward, a single declarative hero headline, and a reframing of AI as relief ('let AI do it for you') instead of a feature checkbox. Real App Store and Play reviews carry the proof.",
+      "whatWorks": [
+        "Centered hero with one declarative headline ('Tasks, notes, and plans. Finally in one app.') and a single 'Sign up for free' CTA - no competing actions.",
+        "The hero image is the real product UI, not a stock photo, so the claim is demonstrated on sight.",
+        "The AI block leads with the pain ('stop spending time organizing') and frames the feature as relief, not a spec.",
+        "Three named use-case lanes (Plan your day / Stay on top of work / Keep home in sync) let different personas self-select on one page.",
+        "Modular feature cards keep dense functionality scannable - bold feature name over one light descriptor line.",
+        "Social proof is real store reviews from both iOS and Play, quoting varied user types for credibility."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Centered single-sentence headline + one primary CTA over a real product screenshot; generous whitespace so the app UI is the color."
+        },
+        {
+          "name": "AI features",
+          "notes": "Reframes automation as relief ('let AI do it for you') - voice-to-tasks, meeting-note summaries - leading with the pain it removes."
+        },
+        {
+          "name": "Use-case lanes",
+          "notes": "Three named tracks (Plan your day / Stay on top of work / Keep home in sync) so work and home personas self-select without separate pages."
+        },
+        {
+          "name": "Feature cards",
+          "notes": "A modular grid of ~seven capability cards; bold feature name + one light line each keeps a broad feature set digestible."
+        },
+        {
+          "name": "Social proof",
+          "notes": "Testimonials pulled straight from the iOS App Store and Google Play, varied by user type and platform for breadth of credibility."
+        },
+        {
+          "name": "Footer",
+          "notes": "Platform downloads (macOS / Web / iOS / Android) grouped with company, legal and social - download-first, matching a cross-device app."
+        }
+      ],
+      "principle": {
+        "title": "Let one running product demo be the spine of the page.",
+        "explanation": "When the differentiator is 'everything in one place,' fragmented feature shots quietly contradict the pitch. A single, continuous product thread proves the cohesion the copy is claiming.",
+        "howToApply": "On a product page, thread one persistent app mock - same workspace, same data - through hero, features and use cases so every section advances the same demo instead of resetting to a fresh unrelated screenshot."
+      },
+      "tags": [
+        "saas",
+        "product-ui",
+        "layout",
+        "whitespace",
+        "social-proof",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Disney+ - 300x250 medium-rectangle display ad",
+        "url": "https://lineardesign.com/blog/display-ad-examples/"
+      },
+      "image": "images/2026-07-14-ad-disney-plus.jpg",
+      "category": "Display banner (medium rectangle / 300x250)",
+      "tagline": "A dark cinematic square where four recognizable Marvel heroes and two logos do the selling - the copy is almost incidental.",
+      "when": "GDN display, ~2019-2020 (Disney+ launch era)",
+      "summary": "This 300x250 leans entirely on owned IP: a movie-poster wall of Captain America, Black Widow, Thor and Iron Man over a dark blue gradient. The written pitch is a single line - 'The streaming home of Marvel' - with the Marvel logo doing the work of a sentence, and one blue CTA pill closing it. At thumbnail size, recognition sells faster than any headline could.",
+      "whatWorks": [
+        "Leads with recognizable IP: four beloved Marvel heroes signal the value instantly, no reading required.",
+        "Dark blue cinematic gradient makes the characters and white type glow - a movie-poster feel at 300x250.",
+        "Copy is one line; a brand lockup ('The streaming home of' + Marvel logo) replaces an explanatory sentence.",
+        "A single saturated blue 'Start Free Trial' pill is the only clickable-colored element.",
+        "Clean top-to-bottom hierarchy: faces then brand then offer then action."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A wall of four famous Marvel heroes stops the scroll on recognition alone - the unit's whole stopping power is borrowed equity."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'The streaming home of Marvel' - a logo lockup instead of a written pitch; the offer is simply a free trial."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Dark blue movie-poster collage; the Disney+ wordmark is centered as the anchor between the characters and the button."
+        },
+        {
+          "name": "CTA",
+          "notes": "One high-contrast blue rounded pill, 'Start Free Trial,' the only saturated element against the dark ground."
+        }
+      ],
+      "principle": {
+        "title": "When you own the IP, let recognition be the creative.",
+        "explanation": "Recognizable faces, characters and logos are processed faster than any headline. In a 300x250 there's no room to explain, so lead with equity you already have and let it carry the stop.",
+        "howToApply": "If a brand has recognizable assets (characters, a famous product, a known partner logo), lead the small unit with them and cut the explanatory copy to a single lockup plus one CTA."
+      },
+      "tags": [
+        "display-ad",
+        "brand-recognition",
+        "ip",
+        "dark-ui",
+        "cta",
+        "streaming"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Herbert Bayer",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Bayer"
+      },
+      "image": "images/2026-07-14-designer-herbert-bayer.jpg",
+      "category": "Bauhaus / Modernism & identity",
+      "when": "1900-1985 . Austrian-American",
+      "tagline": "The Bauhaus master who turned typography into a rational system - dropping the capital letter and treating type, photo and space as one integrated design.",
+      "summary": "Bayer ran the Bauhaus printing and advertising workshop and pushed design toward integrated, systematic thinking. His 'universal' geometric sans (1925) eliminated capitals on the logic that a single-case alphabet is faster to set and read, and he fused typography, photography and later architecture and exhibition design into one continuous practice. His value today is method, not nostalgia: question the convention, then build a reusable system.",
+      "whatWorks": [
+        "Question a convention by asking what it's for - he dropped uppercase because one alphabet is more efficient to set and read.",
+        "Design the system, not the artifact - the 'universal' type was built to run across every Bauhaus publication, not one poster.",
+        "Integrate disciplines - he treated type, photography and (later) architecture and exhibitions as one design problem.",
+        "Use photomontage to make an argument, not to decorate - image and type composed as a single message.",
+        "Reduce letterforms to geometric essentials (circle + line) so the system stays consistent and reproducible."
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "From the communication problem and its constraints, then questions the inherited rules around it - why two alphabets, why serifs, why this grid."
+        },
+        {
+          "name": "Core method",
+          "notes": "Builds a reusable system: one geometric, single-case alphabet plus a consistent style and grid applied across all print, so every artifact stays coherent."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The 'universal' geometric sans constructed from circles and straight lines, all-lowercase; and photomontage that integrates image and type into one composition."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Form serves function; efficiency and legibility over ornament; design solves problems across media rather than decorating a single surface."
+        }
+      ],
+      "principle": {
+        "title": "Interrogate the convention before you decorate the page.",
+        "explanation": "Bayer's strongest moves came from asking what an inherited rule is actually for and rebuilding from function - which yields reusable systems, not one-offs.",
+        "howToApply": "On any brand system, list the conventions you're inheriting (two type cases, a serif, a default grid) and, for each, ask 'what job does this do?'; keep only what earns its place and design the rest as a reusable rule."
+      },
+      "tags": [
+        "bauhaus",
+        "typography",
+        "systems",
+        "modernism",
+        "photomontage",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Our Place",
+        "url": "https://fromourplace.com/"
+      },
+      "image": "images/2026-07-15-our-place.jpg",
+      "category": "DTC e-commerce (cookware)",
+      "tagline": "A cookware store that sells with food, not spec sheets - lifestyle photography and set-savings math carry a huge catalog.",
+      "summary": "Our Place is a DTC cookware brand, and its page converts on appetite: styled food and kitchen photography does the persuading while a muted beige/white/black UI stays out of the way. Product cards make value literal with set-savings callouts, strikethrough pricing and color-variant swatches, and trust messaging (100-day trial, free returns, 100,000+ 5-star reviews) is repeated right where the buy decision happens.",
+      "whatWorks": [
+        "Muted beige/white/black palette so styled food and the colorful pan finishes are the only real color on the page.",
+        "The hero puts motion in a still - vegetables tossing mid-air in the wok - so cookware reads as alive and aspirational.",
+        "Every product card surfaces color variants as swatches, making finish choice part of the browse.",
+        "Value is concrete: set-savings callouts and strikethrough pricing on each card instead of a vague 'sale.'",
+        "Trust messaging (100-day trial, free returns, free shipping over $135, 100,000+ 5-star reviews) is repeated near the decision, not buried in the footer.",
+        "A category mega-menu with featured products keeps a large catalog low-friction to navigate."
+      ],
+      "sections": [
+        {
+          "name": "Header & mega-nav",
+          "notes": "White header, dark logo; category mega-menus (Cookware, Bakeware, Appliances, Tableware) each surface featured products and set savings, easing discovery across a big range."
+        },
+        {
+          "name": "Hero carousel",
+          "notes": "Rotating hero anchored by a back-in-stock product (Carbon Steel Wok) with food in motion, a bold headline and one 'Shop Now' CTA; scarcity + a chef collab add pull."
+        },
+        {
+          "name": "Promo banners",
+          "notes": "Collection features (Titanium set, 100-day trial) built from high-quality food and product photography rather than copy blocks."
+        },
+        {
+          "name": "Bestsellers grid",
+          "notes": "Four-up cards with hover states, BESTSELLER badges, set-savings and strikethrough pricing; variant finishes shown as swatches on the card."
+        },
+        {
+          "name": "Category tiles",
+          "notes": "Cropped photography tiles with category names only - minimal text, image-led routing into the main departments."
+        },
+        {
+          "name": "Trust signals & reviews",
+          "notes": "Repeated 100-day trial / free returns / free shipping band, plus '100,000+ 5-star reviews' with a portrait-photo testimonial carousel to de-risk the purchase."
+        },
+        {
+          "name": "Footer",
+          "notes": "Dense utility footer (support, policies, referral, account) closing the long merchandising scroll."
+        }
+      ],
+      "principle": {
+        "title": "Let appetite, not spec, do the selling.",
+        "explanation": "For a sensory product, styled in-use photography converts better than feature lists; the muted UI exists precisely to make that imagery and the price math pop.",
+        "howToApply": "On a DTC page, shoot the product in use (food in the pan, the object mid-action), keep the chrome muted, and make value literal with set-savings + strikethrough rather than adjectives."
+      },
+      "tags": [
+        "ecommerce",
+        "dtc",
+        "photography",
+        "product-cards",
+        "trust",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "FinalStraw - 970x250 billboard display banner",
+        "url": "https://lineardesign.com/blog/display-ad-examples/"
+      },
+      "image": "images/2026-07-15-ad-finalstraw.jpg",
+      "category": "Display banner (billboard / 970x250)",
+      "tagline": "A widescreen billboard that carries the whole unit on one joke and one rainbow product shot - white space does the rest.",
+      "when": "GDN display, ~2019 (FinalStraw collapsible reusable straw)",
+      "summary": "FinalStraw's 970x250 uses its width as a reading path: the product anchors the left, a mock-grandiose all-caps quote runs across the center, and the brand + CTA close it bottom-right. The rainbow-anodized straw and coral case are the only color against pure white, so the eye lands instantly, and the wit ('the greatest advancement in sucking technology, since, like, forever') rewards the read.",
+      "whatWorks": [
+        "Uses the 970x250 width as a left-to-right read: product anchor left, big headline center, brand + CTA right.",
+        "The product is the only color - a rainbow-anodized straw and coral case against pure white - so the eye lands on it instantly.",
+        "Humor is the hook: a mock-grandiose all-caps quote rewards anyone who actually reads it.",
+        "Generous white space signals confidence and keeps a wide format from feeling crowded.",
+        "One light-blue 'Shop Now' pill is the single colored CTA, placed bottom-right where the read ends."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The rainbow straw and coral case pop against white and stop the scan; the wide format reads like a mini-poster."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "A tongue-in-cheek grandiose quote set big in all-caps; the wit is the message, not a feature list."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The product photographed edge-on at the left as the anchor, with white space carrying the composition across the width."
+        },
+        {
+          "name": "CTA",
+          "notes": "A light-blue 'Shop Now' pill sits bottom-right, exactly where the left-to-right read finishes."
+        }
+      ],
+      "principle": {
+        "title": "Compose a wide banner as a left-to-right sentence.",
+        "explanation": "A 970x250 billboard fails if you center everything; its width is a reading path - anchor the eye left, deliver the idea in the middle, and land the CTA where the scan ends.",
+        "howToApply": "For any wide banner, place the product or hook at the left edge, run the headline across the center, and put the CTA bottom-right; let generous white space and a single color source keep it uncluttered."
+      },
+      "tags": [
+        "display-ad",
+        "billboard",
+        "humor",
+        "white-space",
+        "product-shot",
+        "composition"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "April Greiman",
+        "url": "https://en.wikipedia.org/wiki/April_Greiman"
+      },
+      "image": "images/2026-07-15-designer-april-greiman.jpg",
+      "category": "New Wave / early digital design",
+      "when": "b. 1948 . American",
+      "tagline": "The designer who embraced the Macintosh as an art tool first - inventing a layered, hybrid, unmistakably digital visual language.",
+      "summary": "Greiman brought Swiss New Wave typography to the US and then, in the mid-1980s, became one of the first designers to treat the Macintosh (and video and synthesizers) as a serious creative medium rather than a threat. Her 'typelayering' stacks type, photography, color and texture into deep, dynamic compositions, and her Design Quarterly 133 life-size digital self-portrait is a landmark of digital-native design. The lesson is her posture toward tools: curiosity over constraint.",
+      "whatWorks": [
+        "Treat a new tool as design research - she explored the Mac, video and synths to find their native look instead of mimicking print.",
+        "Layer type, image, color and texture in depth ('typelayering') to build space and dynamism, not flat composition.",
+        "Let content and medium set the form rather than a fixed modernist rulebook.",
+        "Think transmedia - refuse the 'graphic designer' box so a poster can become a room-scale fold-out or a video.",
+        "Make the tool's artifacts (pixels, low-res, video scan lines) part of the aesthetic instead of hiding them."
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "By experimenting with the medium itself - asking what a new technology can do that older tools cannot - and letting that drive the piece."
+        },
+        {
+          "name": "Core method",
+          "notes": "Layering and spatial collage: sandwiching type, photos, color fields and texture to create depth and movement ('typelayering')."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Hybrid imagery fusing photography, video stills and digital artifacts into one composition - epitomized by her life-size digital self-portrait for Design Quarterly 133."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Curiosity over constraint; embrace emerging tech rather than fear it; let the medium's native qualities show rather than smoothing them away."
+        }
+      ],
+      "principle": {
+        "title": "Adopt a new tool to find its native look, not to fake the old one.",
+        "explanation": "Greiman's edge came from probing what the Mac and video could uniquely do and building an aesthetic from it - years before most designers trusted the machine.",
+        "howToApply": "When a new tool lands (an AI image model, a motion library, a 3D engine), spend a session probing what only it can do and design from that, instead of using it to reproduce what you already make by hand."
+      },
+      "tags": [
+        "new-wave",
+        "digital",
+        "layering",
+        "experimental",
+        "transmedia",
+        "process"
+      ]
     }
   ]
 }
