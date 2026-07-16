@@ -5117,6 +5117,175 @@
         "transmedia",
         "process"
       ]
+    },
+    {
+      "date": "2026-07-16",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "charity: water",
+        "url": "https://www.charitywater.org/"
+      },
+      "image": "images/2026-07-16-charity-water.png",
+      "category": "Nonprofit",
+      "tagline": "A nonprofit that turns radical accountability into its entire design language — “Give water. Get proof. Every single time.”",
+      "summary": "charity: water's homepage is built to defeat the two things that kill donations: doubt about where the money goes, and vagueness about impact. It answers both with structure — a warm, face-forward hero, then a wall of hard counts (209,241 projects, 29 countries, 21.6M people), then an explicit “100% of your donation funds water projects” promise, then literal proof (GPS coordinates and photos of every project). The page reads less like a charity brochure and more like a receipt you can trust.",
+      "whatWorks": [
+        "Human hero: a single child looking straight down the lens holding a glass of water — one honest face beats any illustration or stock montage",
+        "Impact stated as precise odometer-style counts (209,241 not ‘200k+’) — exact numbers read as audited fact, round numbers read as marketing",
+        "The transparency promise (‘100% of your donation’) is repeated at every conversion moment, not buried in an About page",
+        "Proof as a feature: ‘Give water. Get proof.’ with GPS + photos converts an abstract donation into a verifiable transaction",
+        "A giving-pathways grid (The Spring monthly, sponsor a project, fundraise, honor someone, legacy) meets each donor at their own commitment level",
+        "Trust is closed out in the footer with real seals — Candid Platinum, Charity Navigator 4-star, BBB — plus EIN and address, the credentials skeptics look for"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Full-bleed photo of a smiling child with a glass of clean water, gazing into the camera; big confident headline ‘Bring clean and safe water to every person on the planet’ with one primary button, GIVE TODAY. Emotional but not manipulative — hope, not guilt."
+        },
+        {
+          "name": "Time-boxed campaign callout",
+          "notes": "A slim banner above the fold (‘Give by this Sunday…’) adds a deadline and a specific current campaign, creating urgency without hijacking the main story."
+        },
+        {
+          "name": "Impact statistics",
+          "notes": "A multi-column band of large, precise numbers — projects funded, countries, people served — each with an expandable ‘the details’ so the confident headline number is backed by methodology for anyone who wants it."
+        },
+        {
+          "name": "Why water / value prop",
+          "notes": "‘Clean water changes everything’ broken into health, education, women, economy — tying a single tangible gift to compounding outcomes, and restating the 100%-to-projects promise right where interest peaks."
+        },
+        {
+          "name": "Proof & accountability",
+          "notes": "‘Give water. Get proof. Every single time.’ — the differentiator: GPS coordinates and photos of funded projects. This is the section that converts skeptics; it treats verification as the product."
+        },
+        {
+          "name": "Giving pathways grid",
+          "notes": "A card grid of ~8 ways to give (The Spring monthly membership, sponsor a project, start or back a fundraiser, give in honor/memory, legacy, brand partnership). One page serves the $20/mo donor and the corporate partner without splitting the funnel."
+        },
+        {
+          "name": "Footer",
+          "notes": "Dense but ordered — four link columns, social icons, and a trust wall of charity-rating seals plus legal identity (501(c)(3), EIN, registered addresses in US/UK/NL). Closes the credibility loop for due-diligence donors."
+        }
+      ],
+      "principle": {
+        "title": "Make proof the product, not a promise",
+        "explanation": "Trust-dependent conversions (donations, high-consideration purchases, B2B signups) fail on unspoken doubt. charity: water wins by pre-empting every objection with verifiable evidence — exact counts, an unambiguous money promise, GPS-tagged photos, and third-party seals — so believing them requires no leap of faith.",
+        "howToApply": "On any page asking for trust, list the top three doubts a skeptic has and answer each with something checkable, not adjectives: precise numbers over ‘thousands’, a screenshot/receipt/coordinate over ‘transparent’, a named third-party badge over ‘trusted’. Repeat the single strongest guarantee at every CTA, not once."
+      },
+      "tags": [
+        "nonprofit",
+        "conversion",
+        "trust",
+        "photography",
+        "data",
+        "copy"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "PNC Bank — animated display banner (analogy hook)",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-16-ad-pnc-bank.gif",
+      "category": "Animated display banner (portrait / mobile half-page, ~212×414)",
+      "when": "Google Display Network, ~2020",
+      "tagline": "An animated banner that sells mobile banking sideways — through a relatable everyday analogy instead of a feature list.",
+      "summary": "Rather than lead with rates or app features, PNC opens on an unexpected premise — ‘If your phone makes it easy to monitor your dog…’ over footage of a pet cam — and lets the animation complete the thought toward effortless mobile banking. The analogy does the persuading: it borrows a familiar, pleasant everyday convenience and transfers that feeling onto a boring category. Restrained type, a single continuous visual, and a quiet brand close keep the small portrait unit from feeling cluttered.",
+      "whatWorks": [
+        "Curiosity-gap hook: the headline is an unfinished ‘If…’ sentence, so the eye stays to see the payoff — motion earns the extra second a static banner can't",
+        "Analogy over features: it never says ‘low fees’; it borrows the ease of a pet cam and lets you map it onto banking yourself",
+        "One continuous visual (a phone held in-hand showing the dog) — a single focal point, no competing product shots",
+        "Type restraint: short all-caps lines animate in sequence, so each beat is readable at mobile size before the next arrives",
+        "Quiet, confident close on the PNC lockup with an honest disclaimer (‘Available in eligible markets only’) rather than a shouting button"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The scroll-stopper is a question you can't finish in your head: ‘IF YOUR PHONE MAKES IT EASY TO MONITOR YOUR DOG…’. Ellipsis + animation = an open loop the viewer waits to close."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "The whole unit is one sentence delivered in animated beats, resolving the dog-cam premise into ‘…it should make banking just as easy.’ Persuasion by transferred feeling, not spec sheet."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A single warm lifestyle shot — a hand holding a phone streaming the dog — anchors the analogy literally. One image, one action, no clutter; the phone is both the subject and the product metaphor."
+        },
+        {
+          "name": "CTA",
+          "notes": "Understated: the payoff frame lands on the PNC Bank lockup with a small disclaimer, trusting the brand + resolved analogy to drive the click. Effective for brand recall, though a more explicit ‘Explore mobile banking’ button would likely lift direct response — the one place the unit leaves conversion on the table."
+        }
+      ],
+      "principle": {
+        "title": "Sell a boring product through a borrowed feeling",
+        "explanation": "Low-interest categories (banking, insurance, utilities) can't win attention on features. PNC transfers the warmth of an everyday convenience onto banking via analogy, and uses animation to hold the viewer through the reveal — so the ad earns emotion a feature list never could.",
+        "howToApply": "For a dull product, find a vivid, universally-loved everyday moment that shares its core benefit (ease, safety, speed), open on that moment, and let the audience complete the mapping. In motion formats, phrase the hook as an unfinished sentence so the animation has a payoff to deliver."
+      },
+      "tags": [
+        "display-ad",
+        "animation",
+        "copywriting",
+        "analogy",
+        "fintech",
+        "hook"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Margaret Calvert",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Calvert"
+      },
+      "image": "images/2026-07-16-designer-margaret-calvert.png",
+      "category": "Information design / wayfinding",
+      "when": "b. 1936 · British (born South Africa)",
+      "tagline": "Co-designed Britain's entire road-sign system — proof that the most-seen design in a country can be warm, humane, and tested against real eyes.",
+      "summary": "With Jock Kinneir, Margaret Calvert designed the signage that still governs UK roads, motorways, airports and rail — including the Transport typeface and the friendly pictograms (the schoolchildren, the farm animals). Their method was radically user-first for the 1950s: legibility tested empirically, mixed-case lettering chosen because word-shapes read faster at speed, and every symbol drawn from lived, ordinary experience. It's a masterclass in designing systems that millions must understand instantly, under stress, at 70mph.",
+      "whatWorks": [
+        "Design for the worst-case reader, not the ideal one — they optimized for a tired driver at speed, so the everyday case became effortless",
+        "Test legibility empirically: prototypes were trialed for reading distance and speed, and colour combinations chosen from research (black-on-yellow at Gatwick), not taste",
+        "Choose mixed-case over all-caps because the human eye reads word-shapes, not letters — a data-backed break from convention",
+        "Root symbols in lived experience: the farm-animals sign came from a real cow (Patience), the schoolchildren from herself — specificity makes pictograms instantly legible",
+        "Build a system, not signs: one typeface + a consistent grammar (triangles warn, circles command) so any new sign is generated by rules, not reinvented",
+        "The ‘would my aunt understand this?’ test — judge comprehension by an ordinary non-expert, not a designer"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Start from the reading conditions, not the aesthetics: who sees this, how fast, how stressed, from how far? Kinneir & Calvert defined the human performance problem (legibility at speed and distance) before drawing anything, then let those constraints generate the form."
+        },
+        {
+          "name": "Core method",
+          "notes": "Empirical, systematic iteration — build prototypes, test them against real reading distances and speeds, and standardise the winner into a reusable system: a single typeface (Transport), a fixed colour logic, and spacing rules so the whole national set stays coherent as it grows."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Humanist pictograms drawn from real, specific life (a named cow; herself as a child) rendered in the simplest legible form, paired with mixed-case type chosen because word-shapes are recognised faster than strings of capitals."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Comprehension by an ordinary person is the only success metric — the ‘would my aunt understand this’ heuristic. Innovate inside inherited protocols (European sign conventions) rather than for novelty; warmth and clarity are not opposites."
+        }
+      ],
+      "principle": {
+        "title": "Design for the reader at their worst moment",
+        "explanation": "Calvert optimized signage for a tired driver at speed — the hardest reading condition — and everything easier came for free. Pairing that with empirical legibility testing and symbols drawn from lived experience produced a system that's both humane and machine-reliable across millions of daily readings.",
+        "howToApply": "Before designing any UI or wayfinding, name the worst realistic reading condition (small screen, glance-length attention, stress, low vision) and design for that; then validate with a real non-expert instead of your own eye — pick mixed-case, tested contrast, and concrete familiar icons over clever abstract ones."
+      },
+      "tags": [
+        "wayfinding",
+        "typography",
+        "systems",
+        "accessibility",
+        "information-design",
+        "process"
+      ]
     }
   ]
 }
