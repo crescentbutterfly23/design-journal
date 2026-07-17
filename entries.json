@@ -5286,6 +5286,176 @@
         "information-design",
         "process"
       ]
+    },
+    {
+      "date": "2026-07-17",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Polestar",
+        "url": "https://www.polestar.com/us/"
+      },
+      "image": "images/2026-07-17-polestar.png",
+      "category": "Automotive / EV (e-commerce marketing)",
+      "tagline": "Scandinavian editorial restraint applied to car marketing — oversized type-as-navigation and hairline rules turn a dealer site into an object you want to scroll.",
+      "summary": "Polestar treats an automotive marketing site the way a design house treats a magazine: a strict monochrome palette, generous whitespace, thin hairline dividers, and one recurring move — huge display type used AS the navigation. The page alternates deliberately between full-bleed cinematic imagery (dark, moody car-in-context shots) and product-on-white studio frames, so the rhythm never flattens. It sells clarity by being clear; the restraint IS the brand argument for a 'clean' EV.",
+      "whatWorks": [
+        "Type-as-navigation: a stack of oversized links (“Book a test drive / View offers / Find a retailer”) with trailing chevrons replaces a button row — the headline and the CTA are the same object",
+        "Ruthless monochrome: near-black, white and grey everywhere, so the only saturated color (orange charging cables, EV-calculator parking lines) reads as functional information, not decoration",
+        "Deliberate light/dark rhythm: cinematic dark hero → product-on-white model row → white type block → airy sustainability render → dark aerial charging shot — alternation keeps a long scroll from going monotone",
+        "Hairline dividers and a strict column grid do all the sectioning; there are almost no boxes, cards, or shadows",
+        "Ghosted outline CTAs over imagery (thin 1px borders, no fill) keep the photography the hero while still offering an action",
+        "The nav bar is a single thin line of small text — the chrome recedes so the content carries the page"
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "One hairline-thin row: wordmark left, small-caps model + ownership links right, location and account icons. Almost weightless — the chrome gets out of the way so imagery and type own the viewport."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-bleed cinematic shot of the Polestar 4 on a city street at dusk, white overlay text (“Summer of Clarity Event / Lease from $579/mo”) and two ghosted outline CTAs. Sells mood and context first, spec second."
+        },
+        {
+          "name": "Two-up model row",
+          "notes": "Polestar 3 and Polestar 2 shown side-by-side as studio shots on pure white, each with a short offer line and text links. The switch from dark hero to bright white is what makes the products pop."
+        },
+        {
+          "name": "Type-as-navigation block",
+          "notes": "A white section with three enormous stacked links — Book a test drive / View offers / Find a retailer — each with a chevron. Navigation rendered at editorial-headline scale; the wayfinding is the visual."
+        },
+        {
+          "name": "Sustainability & Charging",
+          "notes": "Airy sections pairing restrained body copy with a papercraft-style renewable-city render, then a big ‘↗ Charging’ headline. Brand values get the same typographic dignity as the product."
+        },
+        {
+          "name": "EV Savings Calculator",
+          "notes": "Dark aerial photo of two cars charging in a lot, orange parking outlines guiding the eye; a single ‘Run the numbers’ CTA. The one place saturated color appears — and it's carrying meaning."
+        },
+        {
+          "name": "Footer",
+          "notes": "Newsletter subscribe prompt, then four tidy columns (Explore & buy / Shop / About / Social) over a long legal block and a country selector. Dense but ordered on the same column grid — restraint holds even in the fine print."
+        }
+      ],
+      "principle": {
+        "title": "Let type be the navigation",
+        "explanation": "When a palette is this restrained, scale becomes the only hierarchy you need. Rendering primary actions as oversized headline-scale links (not buttons) makes the wayfinding double as the visual design — fewer elements, more confidence, and the page reads as editorial rather than as a form.",
+        "howToApply": "On a landing page with a spare palette, try replacing a row of CTA buttons with a short stack of very large text links plus a trailing chevron. Keep them on white with a hairline divider above; let the size carry the emphasis instead of a colored fill."
+      },
+      "tags": [
+        "typography",
+        "minimalism",
+        "automotive",
+        "layout",
+        "monochrome",
+        "editorial"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Google Nest — 970×250 billboard display ad",
+        "url": "https://lineardesign.com/blog/display-ad-examples/"
+      },
+      "image": "images/2026-07-17-ad-google-nest.png",
+      "category": "Display banner (970×250 billboard)",
+      "tagline": "A split-panel billboard that does one job: a struck-through price, a deadline, and a single blue button.",
+      "when": "GDN display banner, ~2019–2020 (Nest Mini promotional pricing)",
+      "summary": "This is a masterclass in fitting a message to a wide, short format. The 970×250 billboard splits cleanly in two: a white left panel carries all the words, a photo panel on the right carries the product. The price does the persuading — ‘$29 $49’ with the old number struck through — and ‘ends tomorrow.’ supplies the urgency, so the copy can stay almost nothing. One product, one price, one button.",
+      "whatWorks": [
+        "Hard split-panel layout: words left, product right — the format's width is used as a divider instead of being fought",
+        "Price anchoring as the headline: ‘$29’ next to a struck-through ‘$49’ makes the discount the biggest visual, no adjectives required",
+        "One-word urgency: ‘ends tomorrow.’ does the scarcity work in two syllables",
+        "A single high-contrast blue ‘Buy now’ button is the only saturated element — the eye lands on the action last, by design",
+        "Product shot on a calm green field with soft light — the Nest Mini is unmistakable and uncluttered, no competing props",
+        "Brand lockup (Google ‘G’ + Nest) sits quiet top-left; the deal, not the logo, is the hero"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The struck-through price. In a wide banner glimpsed for a fraction of a second, a big number crossed out and replaced by a smaller one reads instantly as ‘deal’ before a single word is processed."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "‘$29 $49 ends tomorrow.’ plus a two-line subhead (‘Best deal of the year on Nest Mini.’). The offer is the headline; there is no brand slogan competing for attention."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A clean product photo of the Nest Mini on green fabric fills the right panel — one object, generous negative space, soft shadow. It shows exactly what $29 buys."
+        },
+        {
+          "name": "CTA",
+          "notes": "A rounded blue ‘Buy now’ button — the only saturated, high-contrast element in the unit, sized to be tappable and placed at the end of the reading path."
+        }
+      ],
+      "principle": {
+        "title": "Let the price be the headline",
+        "explanation": "For a transactional display unit, a struck-through price plus a deadline out-persuades any clever copy line. It's pre-attentive (a crossed-out number reads as ‘discount’ instantly), it's concrete, and it frees the rest of the unit to stay calm — one product, one button.",
+        "howToApply": "On a promo banner or pricing hero, set the deal itself at headline scale: new price large, old price struck through beside it, one short urgency phrase, and a single high-contrast CTA. Cut the descriptive tagline — the numbers are doing the selling."
+      },
+      "tags": [
+        "display-ad",
+        "pricing",
+        "layout",
+        "conversion",
+        "urgency",
+        "contrast"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Es Devlin",
+        "url": "https://en.wikipedia.org/wiki/Es_Devlin"
+      },
+      "image": "images/2026-07-17-designer-es-devlin.png",
+      "category": "Stage & installation design / contemporary",
+      "when": "b. 1971 · British",
+      "tagline": "Turns a script or a brief into a single kinetic sculpture the audience moves through — design as the emotional argument of the piece.",
+      "summary": "Es Devlin is a British stage and installation designer who reframed set design as sculpture: not scenery behind the action but the active, moving idea of the piece. She works across opera, theatre, stadium tours, and public art (the UK's Expo 2020 ‘Poem Pavilion’, Trafalgar Square's Fifth Lion), and her process — read deeply, draw obsessively, reduce to one governing object — is unusually transferable to any design discipline.",
+      "whatWorks": [
+        "Read before you draw: she immerses in the source text/subject first, so the form is an argument about meaning, not decoration",
+        "Keep a daily drawing notebook — thinking happens in the hand, and ideas are found on paper before they're built",
+        "Reduce a whole work to ONE governing object or gesture (a revolving cube, a mirrored room, a singing tree) that carries the entire concept",
+        "Design what the piece NEEDS, not what it wants — interrogate the brief for its underlying emotional requirement, not its literal ask",
+        "Make the audience a participant, not a spectator: build sets that move, respond, and invite contribution",
+        "Use light, mirror, and scale as primary materials — emotion is engineered through space, not surface detail"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With research and reading, not sketching a set. She saturates herself in the text or subject until a central metaphor surfaces, then draws constantly — the notebook is where the concept is discovered, not just recorded."
+        },
+        {
+          "name": "Core method",
+          "notes": "Distil the entire work to a single sculptural idea — ‘a dream-like constellation of things,’ in her words, where ‘the piece happens between those objects.’ She designs the spatial relationship and the emotional journey, then lets detail follow the governing gesture."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Kinetic, sculptural sets built from unexpected materials (mirror sheeting, plastic, string, projection mapping) that rotate, open, and respond to the performance — and increasingly public works that literally ask the audience to contribute (messages to space at Expo 2020)."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "‘Design what a play needs, not what it wants.’ A set must be active, never passive scenery. If an element doesn't carry meaning or move the emotion, it's cut — the test is resonance, not literal accuracy."
+        }
+      ],
+      "principle": {
+        "title": "Reduce the whole thing to one governing object",
+        "explanation": "Devlin's power move is compression: an entire opera or brand story collapsed into a single sculptural idea that everything else serves. A design with one clear central gesture is more memorable and more coherent than one with many competing good ideas.",
+        "howToApply": "Before designing a page or campaign, force the brief down to one governing image or gesture and write it in a sentence. Make every section serve that one idea; if an element doesn't reinforce it, cut it. Start in a notebook by hand before touching the tool."
+      },
+      "tags": [
+        "process",
+        "concepting",
+        "reduction",
+        "storytelling",
+        "installation",
+        "craft"
+      ]
     }
   ]
 }
