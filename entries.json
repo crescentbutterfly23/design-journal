@@ -5456,6 +5456,309 @@
         "installation",
         "craft"
       ]
+    },
+    {
+      "date": "2026-07-18",
+      "source": "daily",
+      "kind": "site",
+      "site": { "name": "Oura", "url": "https://ouraring.com" },
+      "image": "images/2026-07-18-oura.png",
+      "category": "Health / Wearable e-commerce",
+      "tagline": "A wearable brand that sells trust by staging the ring inside real daily moments, not spec sheets.",
+      "summary": "Oura's homepage treats a tiny piece of hardware as a lifestyle system. It opens on the smallest-ever ring shot in near-empty space, then moves quickly from 'what it is' to 'what it does for your day' — walking you through waking, moving, getting sick, winding down. Lifestyle photography is always paired with the actual app UI so the promise and the proof sit side by side, and FSA/HSA + payment cues de-risk the buy at the end.",
+      "whatWorks": [
+        "Hero sells the object with restraint — 'Subtle. Power.' plus one clean ring shot on empty ground; the product's smallness IS the message.",
+        "A day-in-the-life module (waking, walking, under the weather, winding down, hosting) frames features as moments, so buyers picture the ring in their own routine.",
+        "Every lifestyle photo is twinned with a real app-UI screenshot — aspiration and evidence in the same frame, never one without the other.",
+        "The membership carousel splits value into six bodies of concern (Sleep, Heart, Women's Health, Stress…) so each visitor self-selects the reason that matters to them.",
+        "FSA/HSA eligibility surfaced prominently in the payments block quietly reframes price as health spend."
+      ],
+      "sections": [
+        { "name": "Hero", "notes": "'Subtle. Power.' with 'the world's smallest smart ring is here' and one focal ring shot plus 'Explore'. Emptiness signals confidence; the CTA is soft (Explore, not Buy)." },
+        { "name": "Product showcase", "notes": "Two model cards (Ring 4, Ring 4 Ceramic Midnight) with Shop CTAs — the range shown at a glance before deep storytelling." },
+        { "name": "Membership value", "notes": "'Oura Membership gives your body a voice' — a six-scenario carousel (Sleep, Wellness/Longevity, Activity, Heart, Women's Health, Stress) letting visitors pick an entry point." },
+        { "name": "Form & function", "notes": "'Built for accuracy, designed for your everyday' — five day-in-the-life modules pairing lifestyle photography with the matching app screen and a member quote." },
+        { "name": "In the news", "notes": "A large lifestyle image plus CNN / CNBC / Cosmopolitan mentions as linked headlines — third-party credibility." },
+        { "name": "Payment & trust", "notes": "Two-column payment methods leading with FSA/HSA eligibility, then Affirm/Klarna/PayPal, wallets, and cards — de-risking the purchase." },
+        { "name": "Footer", "notes": "Compliance/legal links, privacy notice, and language selector — quiet and orderly." }
+      ],
+      "principle": {
+        "title": "Pair every aspiration with its proof in the same frame",
+        "explanation": "Lifestyle imagery sells desire but not credibility; a product screenshot sells credibility but not desire. Oura never shows one without the other, so each scroll delivers both the feeling and the evidence at once.",
+        "howToApply": "On any product page, template feature blocks as a pair: one emotive lifestyle image plus the literal UI/output it produces, side by side. Never let a mood shot stand alone or a raw screenshot float without human context."
+      },
+      "tags": ["ecommerce", "product", "photography", "trust", "health", "conversion"]
+    },
+    {
+      "date": "2026-07-18",
+      "source": "daily",
+      "kind": "ad",
+      "site": { "name": "Mailchimp — 300×600 half-page display ad", "url": "https://lineardesign.com/blog/display-ad-examples/" },
+      "image": "images/2026-07-18-ad-mailchimp.jpg",
+      "category": "Display banner (half-page / 300×600)",
+      "tagline": "A pure brand-yellow field, one serif promise, one button — the whole unit is a single confident statement.",
+      "when": "Google Display Network, ~2019–2020",
+      "summary": "This is Mailchimp reduced to its atoms: the unmistakable Cavendish yellow filling the frame, a benefit headline in their editorial serif, a single teal button, and Freddie winking at the bottom. No product shot, no clutter — brand color does the recognition work and the copy does the selling. It's a masterclass in how much a strong brand can strip away.",
+      "whatWorks": [
+        "The saturated brand yellow fills the entire unit — instant recognition before a word is read, and it stops the scroll by sheer color.",
+        "One benefit headline ('Create email campaigns that get more clicks') set in Mailchimp's serif — specific outcome, no feature list.",
+        "A single teal 'Sign Up Now' button is the only other color, so the one action is unmissable.",
+        "Freddie plus the wordmark anchor the base, locking in attribution without a logo competing with the message.",
+        "Radical restraint: no imagery, no secondary copy — proof a confident brand can win a banner on color plus one line."
+      ],
+      "sections": [
+        { "name": "Hook", "notes": "The flat Cavendish-yellow field — a color so owned by Mailchimp it works as the scroll-stopper on its own." },
+        { "name": "Message / headline", "notes": "'Create email campaigns that get more clicks.' — outcome-led, plain-spoken, in the brand serif for warmth." },
+        { "name": "Visual / hero", "notes": "No product shot at all; the yellow void IS the visual. Freddie the chimp winks at the bottom as the only illustration." },
+        { "name": "CTA", "notes": "A solid teal 'Sign Up Now' rectangle — the single non-yellow element, so the eye lands on it last and clicks." }
+      ],
+      "principle": {
+        "title": "Let an owned brand color do the work of a visual",
+        "explanation": "When a brand truly owns a color, that color alone provides recognition and stopping power — freeing the unit to spend its space on one clear line and one clear action instead of a busy hero image.",
+        "howToApply": "For a strong-brand banner, run the one-color test: fill the frame with the brand's signature hue, add a single benefit line and one contrasting button, and cut every image. If it still reads instantly, the image was decoration."
+      },
+      "tags": ["display", "branding", "color", "restraint", "typography", "cta"]
+    },
+    {
+      "date": "2026-07-18",
+      "source": "daily",
+      "kind": "designer",
+      "site": { "name": "Max Bill", "url": "https://en.wikipedia.org/wiki/Max_Bill" },
+      "image": "images/2026-07-18-designer-max-bill.jpg",
+      "category": "Concrete art / Swiss design · Ulm School",
+      "when": "1908–1994 · Swiss",
+      "tagline": "The polymath who made mathematics visible — designing objects, buildings, type and art from a single systematic logic.",
+      "summary": "Max Bill was a Bauhaus-trained architect, artist, and industrial/graphic designer who co-founded the Ulm School of Design (HfG Ulm) and championed 'concrete art' — art built from mathematical and geometric law rather than depiction. Across a stool, a wall clock, a poster and a sculpture he applied the same conviction: form should be the honest, inevitable result of a governing rule. He is the bridge from the Bauhaus to the systematic Swiss method. (Image: his 'Endless Ribbon' sculpture, a signature work.)",
+      "whatWorks": [
+        "Start from a governing mathematical rule (a progression, a geometric operation) and let the form be its output — design as the visible result of logic.",
+        "Work across media from one system — the same proportional discipline scales from typography to product to architecture.",
+        "Treat 'concrete' construction as honesty: no illusion, no ornament; every element earns its place by the rule.",
+        "Use the grid and mathematical proportion as generative tools, not just alignment aids — they produce the composition, they don't merely tidy it.",
+        "Design the whole environment (Ulm's curriculum, buildings, and products together) as one coherent, teachable method."
+      ],
+      "sections": [
+        { "name": "How they begin", "notes": "With an underlying rule or mathematical idea rather than a sketch of the final look — 'what law governs this?' — then derives form from it." },
+        { "name": "Core method", "notes": "Systematic construction: geometric progressions, ratios and grids used generatively, so composition is calculated and inevitable rather than intuitive." },
+        { "name": "Signature technique", "notes": "'Concrete art' — abstract works and objects whose form is purely the expression of mathematical/geometric relationships (e.g. his endless-ribbon and progression sculptures)." },
+        { "name": "Decision rules / philosophy", "notes": "Reject decoration and illusion; a form is right when it is the honest, economical consequence of its rule. Good design is teachable and unified across all media." }
+      ],
+      "principle": {
+        "title": "Derive the form from a rule, don't decorate a shape",
+        "explanation": "Bill's power is that composition is an output, not a taste call. When a layout or object is generated by an explicit system (a ratio, a progression, a grid logic), it gains an internal inevitability that ad-hoc arrangement can't fake — and it stays coherent across every size and medium.",
+        "howToApply": "Before styling a layout, write the rule that governs it — a modular scale, a column math, a spacing ratio — and let that rule place things. If you can't state the rule, you're decorating; find the rule first."
+      },
+      "tags": ["systems", "grid", "geometry", "swiss", "process", "concrete-art"]
+    },
+    {
+      "date": "2026-07-19",
+      "source": "daily",
+      "kind": "site",
+      "site": { "name": "Headspace", "url": "https://www.headspace.com" },
+      "image": "images/2026-07-19-headspace.png",
+      "category": "Wellness / Mental-health app",
+      "tagline": "A clinical product made approachable — soft illustration and a 'what do you need?' router turn therapy into something friendly.",
+      "summary": "Headspace has the hard job of making mental-health care feel warm and low-stakes. Its homepage does that with rounded, soft-hued illustration, a plain benefit headline, and — crucially — an intent router ('What kind of headspace are you looking for?') that lets each visitor self-select a path (stress, sleep, anxiety, therapy) instead of being pushed down one funnel. Enterprise proof and a tabbed content library follow, and an FAQ absorbs objections before the footer.",
+      "whatWorks": [
+        "An intent router of six buttons (Stress less, Sleep soundly, Manage anxiety, Process thoughts, Practice meditation, Start therapy) segments visitors by need in one tap.",
+        "'Try for $0' with HSA/FSA eligibility reframes a subscription as a health benefit and removes price friction.",
+        "Soft, rounded illustration plus calm photography set an emotional tone that matches the promise — the visual language IS the value prop.",
+        "Enterprise credibility ('Over 4,000 leading organizations') with a logo carousel placed after the emotional pitch, converting warmth into trust.",
+        "A tabbed content library previews real product depth, including the Ebb AI companion and Cocomelon partner content."
+      ],
+      "sections": [
+        { "name": "Hero", "notes": "'Stress less all with Headspace' plus 'Try for $0' with an HSA/FSA note; a secondary hero promotes insurance-accepted online therapy." },
+        { "name": "Intent router", "notes": "'What kind of headspace are you looking for?' — six need-based buttons let visitors self-select their path." },
+        { "name": "Social proof / enterprise", "notes": "'Members are enjoying happier and healthier lives', then 'Over 4,000 leading organizations choose Headspace' with a client logo carousel." },
+        { "name": "Content library", "notes": "Tabbed showcase (Featured, Popular, Sleep, Stress, Meditation) with cards — the Ebb AI companion and a Cocomelon partnership on display." },
+        { "name": "FAQ", "notes": "Nine expandable questions on basics, subscription and cancellation — objections handled inline without visual clutter." },
+        { "name": "Footer", "notes": "Four columns (Get some Headspace, Our content, About us, Support) plus app badges and legal links." }
+      ],
+      "principle": {
+        "title": "Open with an intent router, not a single funnel",
+        "explanation": "When your audience arrives with different problems, forcing one path loses the rest. A 'what do you need?' selector near the top lets each visitor route themselves, so the very next screen already feels personalized — higher relevance, higher conversion.",
+        "howToApply": "On a multi-audience landing page, add a set of need-based entry buttons just under the hero and wire each to a tailored section or page. Name them by the visitor's problem ('Sleep soundly'), not your feature ('Sleepcasts')."
+      },
+      "tags": ["app", "wellness", "ia", "conversion", "illustration", "segmentation"]
+    },
+    {
+      "date": "2026-07-19",
+      "source": "daily",
+      "kind": "ad",
+      "site": { "name": "Shopify — 300×250 medium-rectangle display ad", "url": "https://lineardesign.com/blog/display-ad-examples/" },
+      "image": "images/2026-07-19-ad-shopify.jpg",
+      "category": "Display banner (medium rectangle / 300×250)",
+      "tagline": "Logo, one universal benefit line, one green button — a square that says everything a merchant needs in three beats.",
+      "when": "Google Display Network, ~2019–2020",
+      "summary": "Shopify's square banner is textbook restraint on a small canvas: a warm off-white ground, the green bag logo up top, a single sweeping benefit ('Everything you need to sell online'), and a rounded green 'Try it free today' button. There's no product screenshot to shrink into illegibility — at 300×250 the copy and CTA get all the room, and the free framing kills risk.",
+      "whatWorks": [
+        "A single, all-encompassing promise ('Everything you need to sell online') does the work of a feature list in a space too small for one.",
+        "A warm off-white ground keeps the tiny unit calm and legible instead of shouting — contrast is spent on the button, not the background.",
+        "The rounded green 'Try it free today' button is the one saturated element and the clear focal point.",
+        "The bag-logo plus wordmark up top gives instant attribution without stealing space from the message.",
+        "'Free' in the CTA lowers the barrier — exactly the right ask for a top-of-funnel display impression."
+      ],
+      "sections": [
+        { "name": "Hook", "notes": "The clean green Shopify bag mark on calm cream — brand-forward and uncluttered, it reads as trustworthy at a glance." },
+        { "name": "Message / headline", "notes": "'Everything you need to sell online' — one benefit that contains the whole product, ideal for 300×250." },
+        { "name": "Visual / hero", "notes": "No product shot; whitespace and the logo carry it, keeping the small unit uncrowded and readable." },
+        { "name": "CTA", "notes": "A rounded green 'Try it free today' pill — the single saturated element, risk-free framing, thumb-sized." }
+      ],
+      "principle": {
+        "title": "On a small unit, sell the whole product in one line",
+        "explanation": "A 300×250 has no room for a feature list or a legible screenshot. One sweeping benefit that stands in for everything (plus a free CTA) converts better than three cramped selling points fighting for the same 250 pixels.",
+        "howToApply": "When designing small banners, write the single sentence that would make someone click if it were the only thing they read; drop the product shot if it can't be legible, and spend the saved space on whitespace and the button."
+      },
+      "tags": ["display", "ecommerce", "restraint", "cta", "typography", "conversion"]
+    },
+    {
+      "date": "2026-07-19",
+      "source": "daily",
+      "kind": "designer",
+      "site": { "name": "Alexander Rodchenko", "url": "https://en.wikipedia.org/wiki/Alexander_Rodchenko" },
+      "image": "images/2026-07-19-designer-alexander-rodchenko.jpg",
+      "category": "Russian Constructivism · avant-garde",
+      "when": "1891–1956 · Russian",
+      "tagline": "The Constructivist who fused photography, type and geometry into 'production art' — design as a tool with a job, not a picture to admire.",
+      "summary": "Rodchenko abandoned painting to become an engineer of images: posters, book covers, ad graphics and photomontage built from photography, bold geometric shapes, diagonal dynamism and hard-working typography. With the poet Mayakovsky he ran the 'Reklam-Konstruktor' studio, treating advertising as a constructive craft. He also revolutionized photography with extreme angles (the 'Rodchenko perspective') to make the everyday newly legible.",
+      "whatWorks": [
+        "Build with photography instead of illustration — real photographic fragments in montage read as modern, factual and immediate.",
+        "Use strong diagonals and geometric blocks to create movement and hierarchy on a flat page — energy from structure, not ornament.",
+        "Integrate type as a structural element (bars, arrows, size jumps) that directs the eye, not just labels the image.",
+        "Shoot from radical angles (worm's-eye, bird's-eye) to defamiliarize a subject and force fresh attention.",
+        "Treat design as 'production art' — every piece is a functional tool made for a task, judged by whether it works, not whether it's pretty."
+      ],
+      "sections": [
+        { "name": "How they begin", "notes": "From the communicative job to be done — what must this poster or cover make the viewer do or see? — then assembles from photographic and geometric parts, not a drawn composition." },
+        { "name": "Core method", "notes": "Photomontage and construction: cut, scale and layer photographic fragments with geometric shapes and type into a dynamic, purposeful whole." },
+        { "name": "Signature technique", "notes": "Aggressive diagonals plus the 'Rodchenko perspective' (extreme camera angles), and type set as bold structural bars and arrows." },
+        { "name": "Decision rules / philosophy", "notes": "Reject 'pure' art for utility — design serves a social/commercial function; a work succeeds if it communicates and mobilizes, and dynamism beats symmetry." }
+      ],
+      "principle": {
+        "title": "Compose with real fragments and diagonals, not tidy symmetry",
+        "explanation": "Rodchenko got energy and credibility by building from photographic reality and driving the eye with diagonal structure. Montaged real elements feel factual and modern, and an off-axis, dynamic layout commands attention that centered symmetry can't.",
+        "howToApply": "For a bold editorial or campaign layout, assemble from real photographic pieces rather than stock illustration, and set a strong diagonal or angular grid to lead the eye; use type as structural bars and arrows that point, not just caption."
+      },
+      "tags": ["constructivism", "photomontage", "typography", "composition", "process", "avant-garde"]
+    },
+    {
+      "date": "2026-07-20",
+      "source": "daily",
+      "kind": "site",
+      "site": { "name": "Basecamp", "url": "https://basecamp.com" },
+      "image": "images/2026-07-20-basecamp.png",
+      "category": "SaaS / Project management",
+      "tagline": "A B2B homepage written like a straight-talking letter — the founder's voice, not a feature matrix, does the selling.",
+      "summary": "Basecamp's homepage is a masterclass in voice-led B2B. Instead of a slick feature grid, it leads with a plainspoken promise, then a conversational 'Tell me if this sounds about right' section where founder Jason Fried names the customer's pain in human language. Twenty years of trust are proved with a wall of real customer quotes and staggering 'big numbers', and even the support team is sold as people with names and tenure. The design is quiet and typographic on purpose — the copy is the product demo.",
+      "whatWorks": [
+        "A founder's-voice value prop ('Tell me if this sounds about right') names the buyer's pain conversationally — empathy sells before features do.",
+        "A dense wall of short, attributed customer quotes across varied industries reads as breadth of trust at a glance.",
+        "'Big numbers. Highly-trusted' (84M accounts, 1.7B to-dos, 99.99% uptime) turns 20 years into hard, scannable proof.",
+        "Support sold as humans — 'Remember when companies cared about service?' with a named person and a 9-year average tenure — a differentiator most SaaS buries in a help center.",
+        "A deliberately quiet, typographic layout with generous whitespace keeps the opinionated copy the hero, not decoration."
+      ],
+      "sections": [
+        { "name": "Hero", "notes": "'The refreshingly straightforward project management system…' plus a 3-minute walkthrough video over a real project screenshot — clarity over spectacle." },
+        { "name": "Value proposition", "notes": "'Tell me if this sounds about right' — Jason Fried's personal letter naming the scattered-tools problem and Basecamp's 20-year answer." },
+        { "name": "Social proof", "notes": "10+ short attributed customer quotes from marketing, nonprofits, universities and churches — diverse, human, scannable." },
+        { "name": "Big numbers", "notes": "'Big numbers. Highly-trusted' — 84M accounts, 60M projects, 1.7B to-dos, 99.99% uptime as trust evidence." },
+        { "name": "Service / culture", "notes": "'Remember when companies cared about service?' with a video of Chase, Head of Support, and a 9-year average tenure." },
+        { "name": "Features", "notes": "'All these questions have the same answer: Yes!' — 21 capability questions answered in one move, linking to the full feature list." },
+        { "name": "Footer", "notes": "Extensive links, company values, and cross-links to HEY and Fizzy." }
+      ],
+      "principle": {
+        "title": "Sell in the founder's voice, not the feature matrix",
+        "explanation": "A distinctive, plainspoken voice that names the customer's pain builds trust and differentiation a spec grid never can — especially for a mature product whose edge is philosophy, not features. Copy becomes the demo.",
+        "howToApply": "On a value-prop section, write the pain in the customer's own words as if speaking one-to-one ('Tell me if this sounds about right…') before listing any capability. Keep the layout quiet and typographic so the voice carries."
+      },
+      "tags": ["saas", "copywriting", "voice", "trust", "typography", "conversion"]
+    },
+    {
+      "date": "2026-07-20",
+      "source": "daily",
+      "kind": "ad",
+      "site": { "name": "Twilio SendGrid — 160×600 skyscraper display ad", "url": "https://lineardesign.com/blog/display-ad-examples/" },
+      "image": "images/2026-07-20-ad-twilio.jpg",
+      "category": "Display banner (skyscraper / 160×600)",
+      "tagline": "A dev-infra product made charming — a specific speed claim plus a flying-mail illustration turn deliverability into delight.",
+      "when": "Google Display Network, ~2020",
+      "summary": "SendGrid takes a dry developer utility — email deliverability — and makes it likeable in a tall, narrow unit. A pale-blue sky, the Twilio SendGrid lockup, and a single concrete claim ('gets to the inbox in 2.6 seconds') sit above a playful illustration of a figure speeding through the clouds in a red car trailing envelopes. The oddly specific number does the persuading; the illustration carries the brand's warmth in a format that usually feels utilitarian.",
+      "whatWorks": [
+        "An oddly specific claim ('2.6 seconds') reads as true and technical — precision is more persuasive than a round 'fast'.",
+        "A warm, whimsical illustration humanizes an infrastructure product and fills the awkward tall skyscraper shape without stretching a photo.",
+        "The sky-blue palette with a mail metaphor makes the abstract benefit (deliverability) instantly legible as a picture.",
+        "A clean top lockup gives Twilio/SendGrid attribution while the vertical space is used as a narrative (headline up top, journey below).",
+        "The AdChoices marker and full-bleed clickable creative show it's built as a real GDN unit, not a portfolio mock."
+      ],
+      "sections": [
+        { "name": "Hook", "notes": "The pale-blue cloud sky and a red car mid-flight — an unexpected, friendly scene that stops the eye in a column of text." },
+        { "name": "Message / headline", "notes": "'Email delivery service that gets to the inbox in 2.6 seconds.' — one concrete, quantified promise." },
+        { "name": "Visual / hero", "notes": "A figure driving a red convertible through the clouds trailing envelopes — the deliverability benefit rendered as a single memorable picture, sized to fill the 160×600." },
+        { "name": "CTA", "notes": "No explicit button; the whole banner is the click target, with the specific speed claim carrying the persuasion — a reminder that a strong claim can be its own CTA." }
+      ],
+      "principle": {
+        "title": "Use an oddly specific number as your proof",
+        "explanation": "A precise figure ('2.6 seconds') is far more believable than a vague superlative ('lightning fast') — specificity signals a real measurement stands behind the claim, which is exactly what a technical buyer trusts.",
+        "howToApply": "Replace generic speed/scale adjectives in headlines with the actual measured number wherever you have one; if you don't have it, go measure it. Precision reads as honesty."
+      },
+      "tags": ["display", "developer", "illustration", "copywriting", "specificity", "branding"]
+    },
+    {
+      "date": "2026-07-20",
+      "source": "daily",
+      "kind": "designer",
+      "site": { "name": "MetaDesign", "url": "https://en.wikipedia.org/wiki/MetaDesign" },
+      "image": "images/2026-07-20-designer-metadesign.jpg",
+      "category": "Corporate identity studio · Berlin",
+      "when": "Founded Berlin, 1979/1990 · German",
+      "tagline": "The studio that industrialized identity — turning brand design into a documented, repeatable process and one of Europe's largest independent firms.",
+      "summary": "MetaDesign, shaped by co-founder Erik Spiekermann (pictured) in Berlin, made its name building rigorous, systematic corporate identities (Berlin's BVG transit system, Deutsche Bank, Audi, Volkswagen, Adobe) and codifying them into exhaustive guidelines and custom typefaces. Its operating model treated identity not as a logo but as a complete, documented system a large organization could run for decades — process and consistency over one-off flair.",
+      "whatWorks": [
+        "Design the system, not the logo — deliverables are complete identity toolkits (type, color, grid, usage rules) an organization can operate itself.",
+        "Commission or draw a custom typeface as the identity's backbone — proprietary type does more brand work than a mark alone (e.g. FF Meta, transit faces).",
+        "Document everything: exhaustive guidelines make consistency survive staff turnover and scale across a huge org.",
+        "Structure the studio around process and multidisciplinary teams so large, long-running programs are delivered repeatably, not heroically.",
+        "Solve real wayfinding/functional problems (transit maps, signage) as design — usefulness is the brief, decoration a by-product."
+      ],
+      "sections": [
+        { "name": "How it's structured", "notes": "A large, process-driven, multidisciplinary firm (Berlin-founded, later international) built to deliver big corporate-identity programs repeatably rather than depend on a single star's hand." },
+        { "name": "How it takes on work", "notes": "Engages major institutions and corporations needing a coherent system at scale — transit authorities, banks, carmakers, software — where consistency across thousands of touchpoints is the real problem." },
+        { "name": "Signature method", "notes": "Systematic identity: define a custom typeface, grid, color and usage logic, then capture it in comprehensive guidelines and asset systems the client can run for years." },
+        { "name": "Decision rules / philosophy", "notes": "Clarity and function first (Spiekermann's typographic rigor); an identity is judged by how consistently and usefully it performs in the wild, not by novelty." }
+      ],
+      "principle": {
+        "title": "Ship the system and the manual, not just the mark",
+        "explanation": "A logo is a moment; a documented system is what actually holds a brand together across a large organization and many years. MetaDesign's edge was treating the guidelines, type and asset kit as the real deliverable — so consistency survived scale and staff turnover.",
+        "howToApply": "When you design an identity, even a small one, deliver a short but real system: a type scale, color tokens, spacing/grid rules, and a one-page usage guide. Hand over the rules, not just the artwork, so it stays coherent after you leave."
+      },
+      "tags": ["studio", "identity", "systems", "typography", "process", "guidelines"]
+    },
+    {
+      "date": "2026-07-20",
+      "week": "2026-W30",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Snap a two-column article to a baseline grid in InDesign",
+      "discipline": "Layout & typesetting",
+      "tool": "InDesign",
+      "time": "15 min",
+      "skill": "Baseline-grid alignment, paragraph styles, and killing widows/orphans so body text locks to a shared rhythm across columns.",
+      "brief": "Set the supplied headline and body copy in a two-column text frame, turn on a baseline grid, and lock every line of body text to it — then fix widows and orphans with tracking and hyphenation, never with extra returns.",
+      "steps": [
+        "New Letter doc: 2 columns, 12mm gutter, 20mm margins. Set a baseline grid at 14pt increments (Preferences ▸ Grids), starting at the top margin.",
+        "Create a Body paragraph style at 9.5/14pt and enable 'Align to Grid: All Lines' so every baseline snaps to the grid.",
+        "Create a Heading style for the headline; set 'Space After' in whole grid increments (e.g. 28pt) so the body picks the grid back up cleanly below it.",
+        "Flow the body copy into both columns and confirm the baselines align rung-for-rung across the two columns.",
+        "Hunt widows/orphans: turn on Keep Options (2 lines at start/end), then fix any single-word last lines by tightening tracking (−10 to −20) or adjusting hyphenation — not by hitting Return.",
+        "Export a PNG/PDF and check: drop a ruler guide on any baseline in column 1 — it should hit the same baseline in column 2."
+      ],
+      "assets": [
+        { "label": "Headline", "value": "Form is the visible result of a rule" },
+        { "label": "Body copy", "value": "Good design rarely begins with a picture of the finished thing. It begins with a rule — a proportion, a grid, a progression — and lets that rule decide where every element goes. When the system is honest, the layout feels inevitable rather than arranged, and it holds together at any size and in any medium. Ornament is what we add when we don't trust the structure. Strip it away and the discipline shows: consistent spacing, a clear hierarchy, type that sits on a shared rhythm. The reader never notices the grid, only the calm it produces. That quiet is the whole point of setting type well." },
+        { "label": "Palette", "swatches": ["#111111", "#f4f1ea", "#c0392b"] }
+      ],
+      "successLooksLike": "A ruler dropped on any body baseline lands on a baseline in the other column too; no line of body text floats off-grid, and there are no one-word widows or single-line orphans.",
+      "stretch": "Add a pull-quote that spans both columns and still returns the following body text to the baseline grid.",
+      "tags": ["typesetting", "indesign", "baseline-grid", "hierarchy", "print"]
     }
   ]
 }
