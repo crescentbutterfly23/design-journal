@@ -5759,6 +5759,172 @@
       "successLooksLike": "A ruler dropped on any body baseline lands on a baseline in the other column too; no line of body text floats off-grid, and there are no one-word widows or single-line orphans.",
       "stretch": "Add a pull-quote that spans both columns and still returns the following body text to the baseline grid.",
       "tags": ["typesetting", "indesign", "baseline-grid", "hierarchy", "print"]
+    },
+    {
+      "date": "2026-07-21",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "It's Nice That",
+        "url": "https://www.itsnicethat.com"
+      },
+      "image": "images/2026-07-21-its-nice-that.jpg",
+      "category": "Editorial / Design publication",
+      "tagline": "A firehose of design news made navigable — every piece is filed on two axes (discipline AND topic) and hierarchy is built from scale and space, not boxes.",
+      "summary": "It's Nice That publishes at high volume, so the whole site is an exercise in making a lot of content feel curated rather than overwhelming. It leans on a disciplined two-axis taxonomy (14 disciplines plus an alphabetical tag list), an hourly-refreshed 'Nice Feed' that gives the page a living pulse, and clean colored discipline badges that act as a scannable legend across every card. Hierarchy comes almost entirely from typographic scale and whitespace rather than background panels, which keeps a dense page feeling calm and editorial.",
+      "whatWorks": [
+        "Two-axis taxonomy: every article is classified by discipline (Photography, Animation…) AND by topic tag, so the archive can be entered from either direction",
+        "Colored discipline badges give each card a consistent, scannable legend — you read category before headline",
+        "'The Nice Feed' — hourly micro-updates (thumb + headline + source + timestamp) — adds a living pulse without stealing focus from featured stories",
+        "The full-width spotlight uses a big serif headline on plain white; hierarchy is scale + space, not a colored box",
+        "Lowercase, utilitarian tag typography keeps a dense taxonomy visually quiet",
+        "Accessibility is built in (Recite Me toggle) rather than bolted on"
+      ],
+      "sections": [
+        {
+          "name": "Masthead & primary nav",
+          "notes": "Wordmark plus four broad category pairs ('Projects + Creatives', 'Insights + Opinion', 'Resources + Advice', 'Culture + Lifestyle') and search; a secondary row surfaces standing programs (Nicer Tuesdays, Ones to Watch, Visual Research Department). Grouping pairs of ideas per nav item keeps a broad remit to four choices."
+        },
+        {
+          "name": "Discipline taxonomy menu",
+          "notes": "A 14-discipline menu (Advertising → Publication) plus an alphabetical, lowercase 'popular tags' list. This is the two-axis IA in the open: browse by medium or by subject."
+        },
+        {
+          "name": "The Nice Feed",
+          "notes": "Hourly-refreshed stacked cards — small thumbnail, brief headline, publication, timestamp. Information density is deliberately high here; it reads as a live ticker of the design world."
+        },
+        {
+          "name": "Category article grids",
+          "notes": "Four sections, each showing 3–4 featured articles in a clean grid with category tags, dates, and colored discipline badges. Consistent card anatomy makes scanning across sections effortless."
+        },
+        {
+          "name": "Featured spotlight",
+          "notes": "A full-width lead story with a large serif headline and descriptive subtext; discipline/tag badges sit below. No background color — scale and spacing alone signal 'this is the big one'."
+        },
+        {
+          "name": "Footer",
+          "notes": "Multi-column, white sans on a dark ground: company info, category links, social icons, legal, plus a 'Network' block linking sister properties (Creative Lives in Progress, If You Could Jobs). The dark footer bookends the light editorial body."
+        }
+      ],
+      "principle": {
+        "title": "Give a firehose of content two ways in",
+        "explanation": "A high-volume archive drowns the reader unless each item is classified on more than one axis. It's Nice That tags every piece by discipline and by topic, so someone can enter by medium ('Photography') or by subject ('Branding') — and colored badges make the category legible before the headline.",
+        "howToApply": "On any content-heavy build (blog, docs, gallery, catalog), define two orthogonal taxonomies and expose both as filters; render one of them as consistent colored badges so category is scannable at a glance across the whole grid, and build hierarchy from type scale and whitespace instead of colored panels."
+      },
+      "tags": [
+        "editorial",
+        "taxonomy",
+        "typography",
+        "information-architecture",
+        "grids",
+        "accessibility"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Klarna — medium-rectangle / mobile display ad",
+        "url": "https://smartblogger.com/banner-ads/"
+      },
+      "image": "images/2026-07-21-ad-klarna.jpg",
+      "category": "Display banner (medium rectangle / mobile MPU)",
+      "tagline": "Two matched two-word lines carry the whole pitch; a calm pink photograph carries the mood.",
+      "when": "GDN display, ~2023",
+      "summary": "Klarna states 'buy now, pay later' in a single glance with a parallel headline — 'Shopping, done. Payments, later.' — then spends the rest of the unit on feeling, not features. A soft-pink monochrome palette ties the headline, the lifestyle photo, and the wordmark into one calm mood, and the hero is product-in-context: the phone in the scene is running Klarna's own app. The model's relaxed, eyes-closed posture literally performs the benefit (stress-free), and the CTA stays a quiet 'Try it now'.",
+      "whatWorks": [
+        "Parallel two-word headline ('Shopping, done. Payments, later.') communicates the whole BNPL value prop pre-attentively",
+        "Exactly one benefit subline spells out the mechanic ('pay in 4 interest-free payments') — and then stops",
+        "Monochrome soft-pink palette unifies headline, photo, and logo into a single calm mood",
+        "Hero is product-in-context — the phone in the scene shows Klarna's own app, so the proof is inside the lifestyle shot",
+        "The relaxed, eyes-closed model performs the emotional benefit rather than describing it",
+        "A low-pressure 'Try it now' under the wordmark matches the brand's easygoing tone"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The wash of soft pink and a person visibly at ease stops the scroll on mood — it reads as calm before you read a word."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Two symmetrical two-word fragments in bold black set the top of the unit; the parallel cadence makes the offer feel inevitable and is legible in under a second."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A relaxed model reclining, phone-in-scene running the Klarna app — lifestyle and product proof folded into one image, all in the pink family."
+        },
+        {
+          "name": "CTA",
+          "notes": "The Klarna wordmark sits low-centre with a quiet 'Try it now' beneath it — no loud button color, trusting the brand and low-friction verb to carry the click."
+        }
+      ],
+      "principle": {
+        "title": "Write the headline as two parallel beats",
+        "explanation": "'Shopping, done. Payments, later.' uses matched two-word rhythm so the value proposition lands in a single glance. Parallel structure makes copy feel inevitable and memorable, and it survives being read in the sub-second window a display ad actually gets.",
+        "howToApply": "When drafting a display unit or hero headline, try shaping the promise as two symmetrical fragments of the same length and grammar; let the repetition do the persuading, keep the palette monochrome around it, and fold your proof into the hero image instead of adding a separate element."
+      },
+      "tags": [
+        "display",
+        "copywriting",
+        "parallelism",
+        "fintech",
+        "monochrome",
+        "cta"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Wolfgang Weingart",
+        "url": "https://en.wikipedia.org/wiki/Wolfgang_Weingart"
+      },
+      "image": "images/2026-07-21-designer-wolfgang-weingart.jpg",
+      "category": "New Wave / Swiss typography",
+      "when": "1941–2021 · German-Swiss",
+      "tagline": "The hand-typesetter who broke the Swiss grid from the inside — the father of New Wave (Swiss Punk) typography.",
+      "summary": "Weingart trained as a metal-type compositor, then taught at the Schule für Gestaltung Basel from 1968 alongside his own teachers Emil Ruder and Armin Hofmann. Rather than reject Swiss typography, he interrogated it rule by rule — wide letterspacing, layering, stepped lines, reversed type, photomechanical collage — and built New Wave out of the pieces. His American students (April Greiman among them) carried the language back to the US, reshaping graphic design there.",
+      "whatWorks": [
+        "Manipulate the real material, not a mockup of it — discover form by pushing the medium's actual constraints (lead spacing, film, photostats)",
+        "Build a personal vocabulary of ~20–30 reusable moves you can recombine, instead of reinventing each layout",
+        "Invert one inherited rule at a time (spacing, grid, weight, tone) as a generative prompt",
+        "Earn the right to break a system by first mastering it by hand",
+        "Turn the tooling itself (copier, film overlays, crumpled tissue) into a source of form",
+        "Keep legibility as the tension the experiment plays against — not an obstacle to ignore"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "At the composing stick, not the sketchbook. Every experiment started hands-on in metal type and photomechanical process — he manipulated the actual material (letterspacing with lead, film positives, photostats) rather than drawing an idea of a layout."
+        },
+        {
+          "name": "Core method",
+          "notes": "Systematic rule-breaking. He took each 'law' of Swiss style (tight setting, the strict grid, a single weight) and asked what happens if you invert it — wide-spacing letters, stepping lines, layering type over image — assembling a recombinable vocabulary of moves rather than one-off tricks."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Photomechanical collage — overlapping film positives, photocopying crumpled tissue for texture, reversing type out of tonal fields. He turned the darkroom and the copier into compositional tools decades before Photoshop made layering ordinary."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Master the craft before you subvert it — his freedom rested on a typesetter's apprenticeship. Break a rule to add meaning or emotion, never for novelty, and hold legibility as the counter-tension so the disruption still reads as typography."
+        }
+      ],
+      "principle": {
+        "title": "Master the grid by hand before you break it",
+        "explanation": "New Wave wasn't chaos: it was a trained compositor subverting rules he knew intimately. The discipline underneath is exactly what kept the disruption meaningful rather than merely messy — the breakage reads as intent because the underlying order is felt.",
+        "howToApply": "Before you deviate from a design system, rebuild its rules once yourself — set the type on the grid, hit every token. Then break exactly one rule at a time as a deliberate, legible move, so an 'expressive' layout still communicates. See [[april-greiman]] for how a student carried this into digital."
+      },
+      "tags": [
+        "typography",
+        "new-wave",
+        "swiss",
+        "process",
+        "experimentation",
+        "craft"
+      ]
     }
   ]
 }
