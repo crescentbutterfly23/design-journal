@@ -5925,6 +5925,171 @@
         "experimentation",
         "craft"
       ]
+    },
+    {
+      "date": "2026-07-22",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Kinfolk",
+        "url": "https://kinfolk.com"
+      },
+      "image": "images/2026-07-22-kinfolk.jpg",
+      "category": "Editorial / lifestyle magazine",
+      "tagline": "A magazine that treats its homepage like a printed cover — one issue, two actions, and vast quiet space doing the luxury work.",
+      "summary": "Kinfolk applies print-magazine logic to the web: the landing is essentially the current issue's cover, centred on the page with only 'Buy' and 'Read' as choices, floating in an ocean of warm off-white. Below that calm hero, content arrives as restrained image-led article rows — tiny sans labels, letterspaced serif titles, honest editorial photography — punctuated by a single high-contrast black subscription bar and a greige 'free preview' block. Nothing shouts; the emptiness itself reads as premium. The one caveat is that the homepage keeps loading into a very long article feed, so the disciplined top gives way to a more ordinary scroll.",
+      "whatWorks": [
+        "Extreme negative space as the primary material: the fold is ~70% empty, which signals calm and confidence more than any decoration could",
+        "Print-cover logic — lead with ONE object (the issue cover) and only two verbs, 'Buy' and 'Read', instead of a menu of CTAs",
+        "Classic editorial type pairing: a letterspaced old-style serif for the masthead/headlines against a small quiet sans for kickers and deks",
+        "Image-led article cards where honest, un-stylised portrait/landscape photography carries the mood; text stays a whisper beneath",
+        "One deliberate high-contrast interruption — the slim black 'Subscribe Now' bar — so the single conversion moment stands out against all the white",
+        "A warm near-white (not pure #fff) plus muted greige section blocks keep the whole page soft and gallery-like"
+      ],
+      "sections": [
+        {
+          "name": "Masthead / nav",
+          "notes": "Just the letterspaced serif 'KINFOLK' wordmark top-left and a hamburger top-right — the chrome gets out of the way so the issue can be the page."
+        },
+        {
+          "name": "Hero — current issue",
+          "notes": "'ISSUE 60 / HISTORY SPECIAL' centred in serif caps above the cover image, with a 1/10 carousel and 'Buy' / 'Read' flanking it. The homepage IS the cover; symmetry + whitespace make it feel like a physical object."
+        },
+        {
+          "name": "Subscription bar",
+          "notes": "A slim full-width black band ('Discover unlimited access to Kinfolk' + outlined 'Subscribe Now'). The only loud element on the page, so the one revenue ask can't be missed."
+        },
+        {
+          "name": "Featured articles row",
+          "notes": "A horizontal run of cards (Tove Jansson home tour, Cosima Vahesar, Rebecca Solnit, a garden piece): small 'Arts & Culture, Issue 60' kicker, caps title, one-line dek. Photography leads; copy is deliberately minimal."
+        },
+        {
+          "name": "Free preview",
+          "notes": "'FREE PREVIEW — Take a look inside Issue Sixty' on a muted greige block with two large image cards (David Chipperfield, 'Finding Albion'). The tonal background gently separates it without a hard divider."
+        },
+        {
+          "name": "Newsletter + footer",
+          "notes": "A single understated line, 'Never miss out—sign up for newsletters from Kinfolk', with underline-only inputs, resolving into a dark image-led footer band. Restraint held all the way to the bottom."
+        }
+      ],
+      "principle": {
+        "title": "Make whitespace the loudest thing on the page.",
+        "explanation": "Premium and calm are communicated by what you remove, not what you add. When the fold is mostly empty and there's only one object and one or two actions, the eye has nowhere to go but the thing that matters — and the restraint itself reads as taste and confidence.",
+        "howToApply": "On a hero, strip it to one focal object plus at most two verbs, and let 60–70% of the first screen be empty warm-white. Reserve exactly one high-contrast element (a dark bar or button) for the single most important action so the quiet has one deliberate exception."
+      },
+      "tags": [
+        "editorial",
+        "whitespace",
+        "typography",
+        "restraint",
+        "print",
+        "photography"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Nintendo Switch — responsive display banner (1200×628)",
+        "url": "https://www.yellowhead.com/wp-content/uploads/nintendo-switch-display-ad.jpg"
+      },
+      "image": "images/2026-07-22-ad-nintendo-switch.jpg",
+      "category": "Display banner (responsive / paid social, 1200×628)",
+      "tagline": "One flat field of brand-red and three product states that literally show the promise — play handheld, tabletop, or on the TV.",
+      "when": "Google Display / paid social, ~2019–2021",
+      "summary": "This unit sells the single core benefit of the Switch — that it plays anywhere — by showing the exact same console in its three modes across one frame: handheld, tabletop with detached Joy-Cons, and docked to a TV. A saturated flat Nintendo-red background isolates the hardware so nothing competes with it, the headline states the benefit in five words, and a single pill CTA closes. It's textbook display craft: one idea, one colour, one action.",
+      "whatWorks": [
+        "The product IS the proof — showing three play modes in one row demonstrates 'anywhere' faster than any copy could claim it",
+        "A single flat brand-red fills the whole field so the hardware pops with zero background noise and the brand colour is unmissable",
+        "Five-word benefit headline ('Play Together Anytime, Anywhere') in bold caps — readable in the half-second a banner gets",
+        "One clear pill CTA ('Offers On Now') in white, the only enclosed shape on the frame, so the click target is obvious",
+        "Left-locked logo + centred headline + product baseline create a clean left-to-right read with a stable horizon"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The wall of saturated Nintendo-red stops the scroll on colour alone, then the trio of familiar consoles pulls the eye across the frame."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'PLAY TOGETHER ANYTIME, ANYWHERE' — bold white caps, two tight lines, benefit-first and instantly legible against the red."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The same console shown in three modes (handheld, tabletop, docked-to-TV) is the whole argument; each state is spaced so it reads as a sequence, not clutter."
+        },
+        {
+          "name": "CTA",
+          "notes": "A single white pill, 'OFFERS ON NOW', is the only outlined shape — low-key wording but unmistakable as the one thing to click."
+        }
+      ],
+      "principle": {
+        "title": "Let the product demonstrate the benefit instead of claiming it.",
+        "explanation": "A banner has a half-second to land one idea. Showing the product in the exact states that embody the promise (here, three ways to play) proves the claim visually and needs almost no reading — far stronger than an adjective-laden headline.",
+        "howToApply": "For a feature-led ad, stage the product itself performing the benefit (before/after, or the key modes side by side) on a single flat brand colour, add a five-word benefit line, and one enclosed CTA — nothing else."
+      },
+      "tags": [
+        "display-ad",
+        "product-demo",
+        "color",
+        "cta",
+        "hierarchy",
+        "gaming"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Neville Brody",
+        "url": "https://en.wikipedia.org/wiki/Neville_Brody"
+      },
+      "image": "images/2026-07-22-designer-neville-brody.jpg",
+      "category": "Editorial & type design / New Wave",
+      "when": "b. 1957 · British",
+      "tagline": "Turned magazine typography into image — building bespoke letterforms and a visual system that made 'The Face' feel like a movement.",
+      "summary": "Brody rose to fame art-directing The Face in the 1980s, where he treated type as expressive image rather than neutral information, drawing on Dada, Futurism and Rodchenko. He built custom typefaces and a recurring visual grammar for each publication, later co-founding FontShop and the experimental FUSE project. His lasting lesson is method, not style: design a system and its own alphabet, then evolve it issue to issue so the whole feels authored.",
+      "whatWorks": [
+        "Design a repeatable visual system (grid, symbols, type treatments) for a project, then vary it rather than restarting each time — consistency through evolution",
+        "Treat typography as image: letterforms can be the hero, not just the label",
+        "When existing type won't carry the idea, draw your own — a bespoke typeface (like his 'Industria' for The Face) makes a brand unmistakable",
+        "Mine unlikely sources (Dada, Constructivism, street signage) and translate their energy into a modern layout",
+        "Ignore inherited 'rules' deliberately, but keep legibility as the non-negotiable floor — experiment on top of a readable base",
+        "Build recurring symbols/marks that let readers navigate and recognise the publication at a glance"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Starts from the publication's attitude, not a template — asks what the thing should feel like, then invents a visual language (marks, type, grid) specific to it, borrowing energy from Dada, Futurism and Rodchenko."
+        },
+        {
+          "name": "Core method",
+          "notes": "Builds a system and then evolves it across issues: consistent underlying structure with deliberately changing type treatments, so the design feels authored and alive rather than fixed or generic."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Type-as-image — widely letterspaced words, type set on diagonals/curves, dramatic size contrast, and hand-built custom typefaces (Industria, Typeface Six) drawn when off-the-shelf fonts couldn't carry the idea."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'Design cannot remain neutral' — typography should express and provoke; break conventions on purpose, but never sacrifice the reader's ability to actually read it."
+        }
+      ],
+      "principle": {
+        "title": "Invent a system and its own alphabet — then evolve it, don't restart it.",
+        "explanation": "Brody's power came from authoring a visual language (grid + recurring marks + bespoke type) and then varying it issue to issue. That yields something that feels both consistent and alive, and makes a brand unmistakably its own instead of assembled from stock parts.",
+        "howToApply": "For a recurring project (newsletter, deck series, site sections), define a small kit — a grid, two type treatments, a couple of recurring symbols — and commit to remixing that same kit each time rather than redesigning; draw or heavily customise one signature type element so it can't be mistaken for anyone else's."
+      },
+      "tags": [
+        "typography",
+        "editorial",
+        "type-design",
+        "new-wave",
+        "systems",
+        "process"
+      ]
     }
   ]
 }
