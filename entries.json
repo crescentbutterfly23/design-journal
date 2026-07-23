@@ -20,18 +20,40 @@
         "Huge vertical rhythm: each idea gets its own screenful, nothing crowded"
       ],
       "sections": [
-        { "name": "Hero", "notes": "'Agentic Infrastructure' set large, three-line supporting copy, two CTAs (Deploy Now / Talk to Sales), a single centered black triangle. Emptiness reads as confidence." },
-        { "name": "Logo wall", "notes": "Blackbox.ai, Charles Schwab, DoorDash, OpenAI, Supreme, Weather Company, Polymarket in one quiet row — breadth of trust in a single glance." },
-        { "name": "Case study — Notion", "notes": "Left: real AI-chat UI screenshot. Right: 'Notion powers millions of agent conversations daily' + a mono feature list. The product UI is the hero image." },
-        { "name": "Case study — Zapier", "notes": "Full-width product screenshot with a stat row (450K+, 9,000+, 3.33M+) — numbers as proof, framed by whitespace." },
-        { "name": "Footer", "notes": "Eight-column link matrix (Agent Stack, Core Platform, Security, Tools, Frameworks, SDKs…) + theme toggle — dense but organized, reads as a serious platform." }
+        {
+          "name": "Hero",
+          "notes": "'Agentic Infrastructure' set large, three-line supporting copy, two CTAs (Deploy Now / Talk to Sales), a single centered black triangle. Emptiness reads as confidence."
+        },
+        {
+          "name": "Logo wall",
+          "notes": "Blackbox.ai, Charles Schwab, DoorDash, OpenAI, Supreme, Weather Company, Polymarket in one quiet row — breadth of trust in a single glance."
+        },
+        {
+          "name": "Case study — Notion",
+          "notes": "Left: real AI-chat UI screenshot. Right: 'Notion powers millions of agent conversations daily' + a mono feature list. The product UI is the hero image."
+        },
+        {
+          "name": "Case study — Zapier",
+          "notes": "Full-width product screenshot with a stat row (450K+, 9,000+, 3.33M+) — numbers as proof, framed by whitespace."
+        },
+        {
+          "name": "Footer",
+          "notes": "Eight-column link matrix (Agent Stack, Core Platform, Security, Tools, Frameworks, SDKs…) + theme toggle — dense but organized, reads as a serious platform."
+        }
       ],
       "principle": {
         "title": "Let restraint signal seriousness — spend your one accent sparingly.",
         "explanation": "For technical or premium products, a near-monochrome palette with a single mark reads as more confident and trustworthy than a colorful one; the real product screenshots become the color.",
         "howToApply": "On dev-facing or premium pages, try a black-on-off-white section with the brand accent reserved only for the primary CTA, and let an actual UI screenshot (not an illustration) be the hero visual."
       },
-      "tags": ["minimalism", "monochrome", "saas", "developer", "typography", "social-proof"]
+      "tags": [
+        "minimalism",
+        "monochrome",
+        "saas",
+        "developer",
+        "typography",
+        "social-proof"
+      ]
     },
     {
       "date": "2026-07-11",
@@ -54,17 +76,35 @@
         "Ruthless economy: no body copy, no secondary links"
       ],
       "sections": [
-        { "name": "Hook", "notes": "The bold near-black 'The most powerful…' headline occupying the left half stops the eye first." },
-        { "name": "Message / headline", "notes": "Benefit-led and specific — superlative ('most powerful') tied to a concrete product ('landing page builder')." },
-        { "name": "Visual / hero", "notes": "Light isometric scene of people building pages — supports the message, kept to a third of the frame." },
-        { "name": "CTA", "notes": "Blue 'SEE WHY' pill, high contrast, curiosity-framed rather than a hard 'Buy'." }
+        {
+          "name": "Hook",
+          "notes": "The bold near-black 'The most powerful…' headline occupying the left half stops the eye first."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Benefit-led and specific — superlative ('most powerful') tied to a concrete product ('landing page builder')."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Light isometric scene of people building pages — supports the message, kept to a third of the frame."
+        },
+        {
+          "name": "CTA",
+          "notes": "Blue 'SEE WHY' pill, high contrast, curiosity-framed rather than a hard 'Buy'."
+        }
       ],
       "principle": {
         "title": "In a small unit, stack the headline so it can stay big.",
         "explanation": "Banner real estate is tiny; breaking a benefit line into short stacked lines keeps type large and scannable at a glance, which is all a 300×250 gets.",
         "howToApply": "For any small ad or card, write the headline as 3–4 short lines, reserve one saturated color for the CTA, and keep imagery to about a third of the frame."
       },
-      "tags": ["display-ad", "banner", "cta", "typography", "saas"]
+      "tags": [
+        "display-ad",
+        "banner",
+        "cta",
+        "typography",
+        "saas"
+      ]
     },
     {
       "date": "2026-07-11",
@@ -87,17 +127,35 @@
         "Prototype with light and motion, judging the result (shifting shadows) over the object that produced it"
       ],
       "sections": [
-        { "name": "How they begin", "notes": "With a material or technology question — 'what can this medium do that others can't?' — rather than a fixed final image in mind." },
-        { "name": "Core method", "notes": "Relentless experimentation and interdisciplinary making: learning by doing across photography, film, sculpture, and print." },
-        { "name": "Signature technique", "notes": "The photogram (objects laid on light-sensitive paper) and kinetic light works — form generated by process, not depiction." },
-        { "name": "Decision rules / philosophy", "notes": "Reject specialization; value the idea over the hand; let new technology expand what art and design can be." }
+        {
+          "name": "How they begin",
+          "notes": "With a material or technology question — 'what can this medium do that others can't?' — rather than a fixed final image in mind."
+        },
+        {
+          "name": "Core method",
+          "notes": "Relentless experimentation and interdisciplinary making: learning by doing across photography, film, sculpture, and print."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The photogram (objects laid on light-sensitive paper) and kinetic light works — form generated by process, not depiction."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Reject specialization; value the idea over the hand; let new technology expand what art and design can be."
+        }
       ],
       "principle": {
         "title": "Design the specification, not just the artifact.",
         "explanation": "Moholy-Nagy's Telephone Pictures show that if you can specify a design precisely enough to hand it off, you've clarified the concept itself — and freed it from your own execution.",
         "howToApply": "Before building, write the spec (grid, tokens, exact rules) so tightly that a teammate — or an agent — could execute it identically; it both sharpens the idea and lets the work scale."
       },
-      "tags": ["bauhaus", "process", "experimentation", "photography", "systems"]
+      "tags": [
+        "bauhaus",
+        "process",
+        "experimentation",
+        "photography",
+        "systems"
+      ]
     },
     {
       "date": "2026-07-12",
@@ -119,19 +177,44 @@
         "Educational content (GT Academy, Variable Fonts guide) builds authority and keeps type-nerds returning"
       ],
       "sections": [
-        { "name": "Header", "notes": "Left logo, flat menu (Typefaces, Free Trials, Commissions, Blog, Information), Login — clear hierarchy, no flourish." },
-        { "name": "Featured minisite", "notes": "GT Mechanik promoted via an animated GIF banner to its own page — one hero product spotlighted at a time." },
-        { "name": "Retail list", "notes": "21 typefaces (GT Mechanik…GT Sectra) as an alphabetical text menu — the catalogue treated as a clean index." },
-        { "name": "GT In Use", "notes": "Editorial thumbnails of real brand applications (Museu Terra with GT Alpina) — proof of the type working in the wild." },
-        { "name": "Guides", "notes": "GT Academy + a Variable Fonts guide with an animated demo — teaching as a way to sell expertise and typefaces." },
-        { "name": "Footer", "notes": "Five columns (Information, Contact, full typeface listing, Swiss-tradition blurb) — everything findable, nothing shouted." }
+        {
+          "name": "Header",
+          "notes": "Left logo, flat menu (Typefaces, Free Trials, Commissions, Blog, Information), Login — clear hierarchy, no flourish."
+        },
+        {
+          "name": "Featured minisite",
+          "notes": "GT Mechanik promoted via an animated GIF banner to its own page — one hero product spotlighted at a time."
+        },
+        {
+          "name": "Retail list",
+          "notes": "21 typefaces (GT Mechanik…GT Sectra) as an alphabetical text menu — the catalogue treated as a clean index."
+        },
+        {
+          "name": "GT In Use",
+          "notes": "Editorial thumbnails of real brand applications (Museu Terra with GT Alpina) — proof of the type working in the wild."
+        },
+        {
+          "name": "Guides",
+          "notes": "GT Academy + a Variable Fonts guide with an animated demo — teaching as a way to sell expertise and typefaces."
+        },
+        {
+          "name": "Footer",
+          "notes": "Five columns (Information, Contact, full typeface listing, Swiss-tradition blurb) — everything findable, nothing shouted."
+        }
       ],
       "principle": {
         "title": "Show the work in use, not just on a pedestal.",
         "explanation": "A specimen shows what a typeface looks like; a real project shows what it can do. In-use editorial is more persuasive than any posed specimen because it answers the buyer's real question — 'will this work for me?'",
         "howToApply": "For any product or portfolio, add an 'in use' section of real applications (screenshots, case snippets) alongside the polished hero shots — and offer a genuinely free trial to remove the last objection."
       },
-      "tags": ["typography", "foundry", "editorial", "swiss", "product", "restraint"]
+      "tags": [
+        "typography",
+        "foundry",
+        "editorial",
+        "swiss",
+        "product",
+        "restraint"
+      ]
     },
     {
       "date": "2026-07-12",
@@ -154,17 +237,35 @@
         "Motion is reveal-only — elements animate into place, then rest; nothing loops distractingly"
       ],
       "sections": [
-        { "name": "Hook", "notes": "A bold saturated-blue field plus a real camera image — a warm, tactile stopper among flat feed ads." },
-        { "name": "Message / headline", "notes": "'Work smarter with automated email marketing' — benefit-first, right-aligned white, easy to read at a glance." },
-        { "name": "Visual / hero", "notes": "Camera and printed-photo montage in the left third — human and concrete rather than abstract." },
-        { "name": "CTA", "notes": "Orange 'Try email free' pill — the single warm accent and a free-trial framing that lowers risk." }
+        {
+          "name": "Hook",
+          "notes": "A bold saturated-blue field plus a real camera image — a warm, tactile stopper among flat feed ads."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Work smarter with automated email marketing' — benefit-first, right-aligned white, easy to read at a glance."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Camera and printed-photo montage in the left third — human and concrete rather than abstract."
+        },
+        {
+          "name": "CTA",
+          "notes": "Orange 'Try email free' pill — the single warm accent and a free-trial framing that lowers risk."
+        }
       ],
       "principle": {
         "title": "Own the frame with one brand color; reserve its complement for the CTA.",
         "explanation": "Flooding a unit in a single brand color creates instant recognition and makes a lone complementary button the obvious click — contrast, not clutter, drives the action.",
         "howToApply": "For a promo card or banner, fill the field with one brand hue, keep type white or neutral, and use the complementary color exclusively on the CTA."
       },
-      "tags": ["display-ad", "animated", "color", "cta", "contrast"]
+      "tags": [
+        "display-ad",
+        "animated",
+        "color",
+        "cta",
+        "contrast"
+      ]
     },
     {
       "date": "2026-07-12",
@@ -187,17 +288,36 @@
         "Borrow fine-art technique (Cubism, airbrush) to lift commercial work above the ordinary"
       ],
       "sections": [
-        { "name": "How they begin", "notes": "From the viewing condition and the single message — 'how will this be seen, and what is the one thing it must say?'" },
-        { "name": "Core method", "notes": "Geometric construction: composing with drafting tools, axes, and reduced forms for instant legibility." },
-        { "name": "Signature technique", "notes": "Airbrushed volume plus integrated custom typography, fusing word and image into one graphic statement." },
-        { "name": "Decision rules / philosophy", "notes": "The poster is a servant of the message; if a form doesn't aid the fast read, cut it." }
+        {
+          "name": "How they begin",
+          "notes": "From the viewing condition and the single message — 'how will this be seen, and what is the one thing it must say?'"
+        },
+        {
+          "name": "Core method",
+          "notes": "Geometric construction: composing with drafting tools, axes, and reduced forms for instant legibility."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Airbrushed volume plus integrated custom typography, fusing word and image into one graphic statement."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "The poster is a servant of the message; if a form doesn't aid the fast read, cut it."
+        }
       ],
       "principle": {
         "title": "Design for the actual viewing condition, not the studio.",
         "explanation": "Cassandre's power came from solving for how posters are really seen — at speed, from afar — which forced bold reduction. Designing for the true context beats designing for a comfortable close-up.",
         "howToApply": "Before finishing a layout, test it in its real condition — thumbnail size, at arm's length, a two-second glance, on a phone in sunlight — and cut whatever fails that read."
       },
-      "tags": ["poster", "art-deco", "geometry", "typography", "reduction", "process"]
+      "tags": [
+        "poster",
+        "art-deco",
+        "geometry",
+        "typography",
+        "reduction",
+        "process"
+      ]
     },
     {
       "date": "2026-06-22",
@@ -4675,20 +4795,48 @@
         "Accent color spent almost entirely on CTAs; the palette is otherwise white/gray so the buttons are the only thing that shouts"
       ],
       "sections": [
-        { "name": "Hero", "notes": "'Radically different banking' set large over an animated product-dashboard frame, with an email field + 'Open account' inline. The CTA is a form, not just a button — one step closer to signup from the fold." },
-        { "name": "Four-pillar value grid", "notes": "Banking, cards/expenses, payments/invoicing, accounting in a clean 4-column row — the whole product surface mapped before any deep-dive, so visitors self-select which feature to care about." },
-        { "name": "Founder testimonial carousel", "notes": "Portraits + quotes from known startup founders on a light ground; social proof placed high, right after the value grid, while interest is fresh." },
-        { "name": "Feature deep-dives", "notes": "Alternating image/text blocks with real UI — virtual cards, bill automation, invoicing, receipt reconciliation. Alternating white/gray grounds create rhythm without borders." },
-        { "name": "Stat / trust row", "notes": "300K+ · 1-in-3 · $20B+ · 4.9 in oversized numerals — the evidence beat that converts 'nice product' into 'serious, widely-trusted bank'." },
-        { "name": "Security & FDIC section", "notes": "20x FDIC coverage, fraud protection, spend controls, each with a small data-viz illustration — de-risks the decision right before the close." },
-        { "name": "Dual final CTA + dense footer", "notes": "Side-by-side 'business' and 'personal' offers, then a charcoal multi-column footer with FDIC/partner-bank disclosure — compact, organized, and appropriately serious for a financial product." }
+        {
+          "name": "Hero",
+          "notes": "'Radically different banking' set large over an animated product-dashboard frame, with an email field + 'Open account' inline. The CTA is a form, not just a button — one step closer to signup from the fold."
+        },
+        {
+          "name": "Four-pillar value grid",
+          "notes": "Banking, cards/expenses, payments/invoicing, accounting in a clean 4-column row — the whole product surface mapped before any deep-dive, so visitors self-select which feature to care about."
+        },
+        {
+          "name": "Founder testimonial carousel",
+          "notes": "Portraits + quotes from known startup founders on a light ground; social proof placed high, right after the value grid, while interest is fresh."
+        },
+        {
+          "name": "Feature deep-dives",
+          "notes": "Alternating image/text blocks with real UI — virtual cards, bill automation, invoicing, receipt reconciliation. Alternating white/gray grounds create rhythm without borders."
+        },
+        {
+          "name": "Stat / trust row",
+          "notes": "300K+ · 1-in-3 · $20B+ · 4.9 in oversized numerals — the evidence beat that converts 'nice product' into 'serious, widely-trusted bank'."
+        },
+        {
+          "name": "Security & FDIC section",
+          "notes": "20x FDIC coverage, fraud protection, spend controls, each with a small data-viz illustration — de-risks the decision right before the close."
+        },
+        {
+          "name": "Dual final CTA + dense footer",
+          "notes": "Side-by-side 'business' and 'personal' offers, then a charcoal multi-column footer with FDIC/partner-bank disclosure — compact, organized, and appropriately serious for a financial product."
+        }
       ],
       "principle": {
         "title": "Split your visuals in two: screenshots for what it does, abstraction for how it feels.",
         "explanation": "Feature-heavy products get muddy when every section tries to illustrate everything. Mercury shows the literal product with real UI and reserves abstract illustration only for intangibles (safety, visibility, control) — so no visual is mere decoration and the page stays legible.",
         "howToApply": "Audit a product page's images: each should either be a real interface screenshot (a concrete capability) or an abstract mark standing for a feeling. Cut anything that is neither, and keep the accent color almost entirely on the CTAs so buttons stay the loudest thing on a quiet page."
       },
-      "tags": ["fintech", "saas", "product-ui", "illustration", "social-proof", "restraint"]
+      "tags": [
+        "fintech",
+        "saas",
+        "product-ui",
+        "illustration",
+        "social-proof",
+        "restraint"
+      ]
     },
     {
       "date": "2026-07-13",
@@ -4711,17 +4859,36 @@
         "Sub-headline does one job — clarify the benefit ('Correct all grammar errors and enhance your writing') — then gets out of the way"
       ],
       "sections": [
-        { "name": "Hook", "notes": "The instantly recognizable green Grammarly mark anchors the top; brand recognition is the scroll-stopper here rather than a shock visual." },
-        { "name": "Message / headline", "notes": "'Instant Grammar Checker' in bold near-black — a literal, benefit-first promise, no cleverness, readable in under a second." },
-        { "name": "Visual / hero", "notes": "A muted flat illustration (walking figure, speech bubble, pen, sprout) suggests writing and self-improvement without a literal screenshot — soft, friendly, low-contrast so the headline and button stay dominant." },
-        { "name": "CTA", "notes": "A rounded, high-saturation green 'Try Now' pill floated in white space at the bottom — the only saturated element, unmissable and thumb-sized." }
+        {
+          "name": "Hook",
+          "notes": "The instantly recognizable green Grammarly mark anchors the top; brand recognition is the scroll-stopper here rather than a shock visual."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Instant Grammar Checker' in bold near-black — a literal, benefit-first promise, no cleverness, readable in under a second."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A muted flat illustration (walking figure, speech bubble, pen, sprout) suggests writing and self-improvement without a literal screenshot — soft, friendly, low-contrast so the headline and button stay dominant."
+        },
+        {
+          "name": "CTA",
+          "notes": "A rounded, high-saturation green 'Try Now' pill floated in white space at the bottom — the only saturated element, unmissable and thumb-sized."
+        }
       ],
       "principle": {
         "title": "In a small unit, say one thing and color only the button.",
         "explanation": "A portrait mobile ad has room for exactly one message. Grammarly spends its whole hierarchy on a single benefit and reserves its brand color for just the logo and the CTA, so the action is never in doubt even at thumbnail scale.",
         "howToApply": "When building a display/social unit, write the one benefit first, then subtract everything that isn't the logo, that benefit, or the button. Keep the creative near-monochrome and let the CTA be the only saturated element."
       },
-      "tags": ["display-ad", "mobile", "hierarchy", "cta", "restraint", "illustration"]
+      "tags": [
+        "display-ad",
+        "mobile",
+        "hierarchy",
+        "cta",
+        "restraint",
+        "illustration"
+      ]
     },
     {
       "date": "2026-07-13",
@@ -4745,17 +4912,36 @@
         "Optimism as method: 'form follows the fantastic' — lead with wonder, then engineer the craft to justify it"
       ],
       "sections": [
-        { "name": "How it's structured", "notes": "A deliberately independent, mid-size studio across Brooklyn and San Francisco — big enough for ambitious transformations, small enough to stay author-driven and avoid holding-company dilution. Hybrid/flexible working; a headquarters sized for culture, not headcount." },
-        { "name": "How it takes on work", "notes": "Engages clients at inflection points — moments of growth, merger, or reinvention — as a transformation partner, not a vendor. Pairs creative ambition with commercial logic so a bold idea also has a business case." },
-        { "name": "Signature method", "notes": "The 'chain reaction': craft a thesis about the client's future, then design the identity, environments, motion and story that make that future tangible. Design 'a future people can't help but want' rather than predicting one." },
-        { "name": "What holds it together", "notes": "A stated philosophy ('design is not what we make, it's what we make possible'), Brian Collins's 101 design rules, hiring for contribution over fit, and an insistence on optimism — the shared belief that a better version is designable." }
+        {
+          "name": "How it's structured",
+          "notes": "A deliberately independent, mid-size studio across Brooklyn and San Francisco — big enough for ambitious transformations, small enough to stay author-driven and avoid holding-company dilution. Hybrid/flexible working; a headquarters sized for culture, not headcount."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Engages clients at inflection points — moments of growth, merger, or reinvention — as a transformation partner, not a vendor. Pairs creative ambition with commercial logic so a bold idea also has a business case."
+        },
+        {
+          "name": "Signature method",
+          "notes": "The 'chain reaction': craft a thesis about the client's future, then design the identity, environments, motion and story that make that future tangible. Design 'a future people can't help but want' rather than predicting one."
+        },
+        {
+          "name": "What holds it together",
+          "notes": "A stated philosophy ('design is not what we make, it's what we make possible'), Brian Collins's 101 design rules, hiring for contribution over fit, and an insistence on optimism — the shared belief that a better version is designable."
+        }
       ],
       "principle": {
         "title": "Design the future first, the logo second.",
         "explanation": "COLLINS wins by arguing for a compelling future state and building artifacts that make it feel inevitable; the marks and systems follow from that thesis. It reframes the deliverable from 'a nicer identity' to 'a change worth believing in,' which is far harder to say no to.",
         "howToApply": "Before touching type or color on a brand project, write one paragraph: what world does this brand help create, and why would people want it? Prototype that feeling early (a short film, a hero moment, a motion study) so the client buys the future — then let the visual system serve it."
       },
-      "tags": ["studio", "branding", "process", "strategy", "identity", "optimism"]
+      "tags": [
+        "studio",
+        "branding",
+        "process",
+        "strategy",
+        "identity",
+        "optimism"
+      ]
     },
     {
       "date": "2026-07-13",
@@ -4776,15 +4962,43 @@
         "Shrink the container to 160px wide and confirm the headline still fits two lines and the button stays pinned — fix with clamp() bounds, not media queries."
       ],
       "assets": [
-        { "label": "Headline", "value": "Instant Grammar Checker" },
-        { "label": "Sub-headline", "value": "Correct every mistake and sharpen your writing." },
-        { "label": "CTA", "value": "Try Now" },
-        { "label": "Palette", "swatches": ["#15C39A", "#0B1728", "#5A6B7B", "#F4F6F5", "#FFFFFF"] },
-        { "label": "Starter code (fix this — the headline overflows when scaled)", "code": ".ad{width:300px;aspect-ratio:1/2;container-type:inline-size;background:#fff;border:1px solid #e6e9e8;border-radius:8px;display:grid;grid-template-rows:auto 1fr auto;padding:18px;font-family:system-ui,sans-serif;}\n.ad__logo{color:#15C39A;font-weight:700;}\n.ad__art{background:#F4F6F5;border-radius:8px;}\n.ad__h{font-size:24px;line-height:1.15;font-weight:700;color:#0B1728;margin:0 0 6px;}\n.ad__sub{font-size:13px;color:#5A6B7B;margin:0 0 14px;}\n.ad__cta{background:#15C39A;color:#fff;text-align:center;padding:12px;border-radius:999px;font-weight:600;}" }
+        {
+          "label": "Headline",
+          "value": "Instant Grammar Checker"
+        },
+        {
+          "label": "Sub-headline",
+          "value": "Correct every mistake and sharpen your writing."
+        },
+        {
+          "label": "CTA",
+          "value": "Try Now"
+        },
+        {
+          "label": "Palette",
+          "swatches": [
+            "#15C39A",
+            "#0B1728",
+            "#5A6B7B",
+            "#F4F6F5",
+            "#FFFFFF"
+          ]
+        },
+        {
+          "label": "Starter code (fix this — the headline overflows when scaled)",
+          "code": ".ad{width:300px;aspect-ratio:1/2;container-type:inline-size;background:#fff;border:1px solid #e6e9e8;border-radius:8px;display:grid;grid-template-rows:auto 1fr auto;padding:18px;font-family:system-ui,sans-serif;}\n.ad__logo{color:#15C39A;font-weight:700;}\n.ad__art{background:#F4F6F5;border-radius:8px;}\n.ad__h{font-size:24px;line-height:1.15;font-weight:700;color:#0B1728;margin:0 0 6px;}\n.ad__sub{font-size:13px;color:#5A6B7B;margin:0 0 14px;}\n.ad__cta{background:#15C39A;color:#fff;text-align:center;padding:12px;border-radius:999px;font-weight:600;}"
+        }
       ],
       "successLooksLike": "At 300px and at 160px the headline holds to two lines, never clips or overflows, and the green CTA pill stays glued to the bottom edge — all from clamp() + container units, zero media queries.",
       "stretch": "Add a subtle 150ms transform:scale(1.03) hover on the CTA and a fade-up of the headline using a single @keyframes, keeping the unit under 20KB of CSS.",
-      "tags": ["css", "typography", "responsive", "clamp", "display-ad", "container-queries"]
+      "tags": [
+        "css",
+        "typography",
+        "responsive",
+        "clamp",
+        "display-ad",
+        "container-queries"
+      ]
     },
     {
       "date": "2026-07-14",
@@ -5461,7 +5675,10 @@
       "date": "2026-07-18",
       "source": "daily",
       "kind": "site",
-      "site": { "name": "Oura", "url": "https://ouraring.com" },
+      "site": {
+        "name": "Oura",
+        "url": "https://ouraring.com"
+      },
       "image": "images/2026-07-18-oura.png",
       "category": "Health / Wearable e-commerce",
       "tagline": "A wearable brand that sells trust by staging the ring inside real daily moments, not spec sheets.",
@@ -5474,26 +5691,57 @@
         "FSA/HSA eligibility surfaced prominently in the payments block quietly reframes price as health spend."
       ],
       "sections": [
-        { "name": "Hero", "notes": "'Subtle. Power.' with 'the world's smallest smart ring is here' and one focal ring shot plus 'Explore'. Emptiness signals confidence; the CTA is soft (Explore, not Buy)." },
-        { "name": "Product showcase", "notes": "Two model cards (Ring 4, Ring 4 Ceramic Midnight) with Shop CTAs — the range shown at a glance before deep storytelling." },
-        { "name": "Membership value", "notes": "'Oura Membership gives your body a voice' — a six-scenario carousel (Sleep, Wellness/Longevity, Activity, Heart, Women's Health, Stress) letting visitors pick an entry point." },
-        { "name": "Form & function", "notes": "'Built for accuracy, designed for your everyday' — five day-in-the-life modules pairing lifestyle photography with the matching app screen and a member quote." },
-        { "name": "In the news", "notes": "A large lifestyle image plus CNN / CNBC / Cosmopolitan mentions as linked headlines — third-party credibility." },
-        { "name": "Payment & trust", "notes": "Two-column payment methods leading with FSA/HSA eligibility, then Affirm/Klarna/PayPal, wallets, and cards — de-risking the purchase." },
-        { "name": "Footer", "notes": "Compliance/legal links, privacy notice, and language selector — quiet and orderly." }
+        {
+          "name": "Hero",
+          "notes": "'Subtle. Power.' with 'the world's smallest smart ring is here' and one focal ring shot plus 'Explore'. Emptiness signals confidence; the CTA is soft (Explore, not Buy)."
+        },
+        {
+          "name": "Product showcase",
+          "notes": "Two model cards (Ring 4, Ring 4 Ceramic Midnight) with Shop CTAs — the range shown at a glance before deep storytelling."
+        },
+        {
+          "name": "Membership value",
+          "notes": "'Oura Membership gives your body a voice' — a six-scenario carousel (Sleep, Wellness/Longevity, Activity, Heart, Women's Health, Stress) letting visitors pick an entry point."
+        },
+        {
+          "name": "Form & function",
+          "notes": "'Built for accuracy, designed for your everyday' — five day-in-the-life modules pairing lifestyle photography with the matching app screen and a member quote."
+        },
+        {
+          "name": "In the news",
+          "notes": "A large lifestyle image plus CNN / CNBC / Cosmopolitan mentions as linked headlines — third-party credibility."
+        },
+        {
+          "name": "Payment & trust",
+          "notes": "Two-column payment methods leading with FSA/HSA eligibility, then Affirm/Klarna/PayPal, wallets, and cards — de-risking the purchase."
+        },
+        {
+          "name": "Footer",
+          "notes": "Compliance/legal links, privacy notice, and language selector — quiet and orderly."
+        }
       ],
       "principle": {
         "title": "Pair every aspiration with its proof in the same frame",
         "explanation": "Lifestyle imagery sells desire but not credibility; a product screenshot sells credibility but not desire. Oura never shows one without the other, so each scroll delivers both the feeling and the evidence at once.",
         "howToApply": "On any product page, template feature blocks as a pair: one emotive lifestyle image plus the literal UI/output it produces, side by side. Never let a mood shot stand alone or a raw screenshot float without human context."
       },
-      "tags": ["ecommerce", "product", "photography", "trust", "health", "conversion"]
+      "tags": [
+        "ecommerce",
+        "product",
+        "photography",
+        "trust",
+        "health",
+        "conversion"
+      ]
     },
     {
       "date": "2026-07-18",
       "source": "daily",
       "kind": "ad",
-      "site": { "name": "Mailchimp — 300×600 half-page display ad", "url": "https://lineardesign.com/blog/display-ad-examples/" },
+      "site": {
+        "name": "Mailchimp — 300×600 half-page display ad",
+        "url": "https://lineardesign.com/blog/display-ad-examples/"
+      },
       "image": "images/2026-07-18-ad-mailchimp.jpg",
       "category": "Display banner (half-page / 300×600)",
       "tagline": "A pure brand-yellow field, one serif promise, one button — the whole unit is a single confident statement.",
@@ -5507,23 +5755,45 @@
         "Radical restraint: no imagery, no secondary copy — proof a confident brand can win a banner on color plus one line."
       ],
       "sections": [
-        { "name": "Hook", "notes": "The flat Cavendish-yellow field — a color so owned by Mailchimp it works as the scroll-stopper on its own." },
-        { "name": "Message / headline", "notes": "'Create email campaigns that get more clicks.' — outcome-led, plain-spoken, in the brand serif for warmth." },
-        { "name": "Visual / hero", "notes": "No product shot at all; the yellow void IS the visual. Freddie the chimp winks at the bottom as the only illustration." },
-        { "name": "CTA", "notes": "A solid teal 'Sign Up Now' rectangle — the single non-yellow element, so the eye lands on it last and clicks." }
+        {
+          "name": "Hook",
+          "notes": "The flat Cavendish-yellow field — a color so owned by Mailchimp it works as the scroll-stopper on its own."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Create email campaigns that get more clicks.' — outcome-led, plain-spoken, in the brand serif for warmth."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "No product shot at all; the yellow void IS the visual. Freddie the chimp winks at the bottom as the only illustration."
+        },
+        {
+          "name": "CTA",
+          "notes": "A solid teal 'Sign Up Now' rectangle — the single non-yellow element, so the eye lands on it last and clicks."
+        }
       ],
       "principle": {
         "title": "Let an owned brand color do the work of a visual",
         "explanation": "When a brand truly owns a color, that color alone provides recognition and stopping power — freeing the unit to spend its space on one clear line and one clear action instead of a busy hero image.",
         "howToApply": "For a strong-brand banner, run the one-color test: fill the frame with the brand's signature hue, add a single benefit line and one contrasting button, and cut every image. If it still reads instantly, the image was decoration."
       },
-      "tags": ["display", "branding", "color", "restraint", "typography", "cta"]
+      "tags": [
+        "display",
+        "branding",
+        "color",
+        "restraint",
+        "typography",
+        "cta"
+      ]
     },
     {
       "date": "2026-07-18",
       "source": "daily",
       "kind": "designer",
-      "site": { "name": "Max Bill", "url": "https://en.wikipedia.org/wiki/Max_Bill" },
+      "site": {
+        "name": "Max Bill",
+        "url": "https://en.wikipedia.org/wiki/Max_Bill"
+      },
       "image": "images/2026-07-18-designer-max-bill.jpg",
       "category": "Concrete art / Swiss design · Ulm School",
       "when": "1908–1994 · Swiss",
@@ -5537,23 +5807,45 @@
         "Design the whole environment (Ulm's curriculum, buildings, and products together) as one coherent, teachable method."
       ],
       "sections": [
-        { "name": "How they begin", "notes": "With an underlying rule or mathematical idea rather than a sketch of the final look — 'what law governs this?' — then derives form from it." },
-        { "name": "Core method", "notes": "Systematic construction: geometric progressions, ratios and grids used generatively, so composition is calculated and inevitable rather than intuitive." },
-        { "name": "Signature technique", "notes": "'Concrete art' — abstract works and objects whose form is purely the expression of mathematical/geometric relationships (e.g. his endless-ribbon and progression sculptures)." },
-        { "name": "Decision rules / philosophy", "notes": "Reject decoration and illusion; a form is right when it is the honest, economical consequence of its rule. Good design is teachable and unified across all media." }
+        {
+          "name": "How they begin",
+          "notes": "With an underlying rule or mathematical idea rather than a sketch of the final look — 'what law governs this?' — then derives form from it."
+        },
+        {
+          "name": "Core method",
+          "notes": "Systematic construction: geometric progressions, ratios and grids used generatively, so composition is calculated and inevitable rather than intuitive."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "'Concrete art' — abstract works and objects whose form is purely the expression of mathematical/geometric relationships (e.g. his endless-ribbon and progression sculptures)."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Reject decoration and illusion; a form is right when it is the honest, economical consequence of its rule. Good design is teachable and unified across all media."
+        }
       ],
       "principle": {
         "title": "Derive the form from a rule, don't decorate a shape",
         "explanation": "Bill's power is that composition is an output, not a taste call. When a layout or object is generated by an explicit system (a ratio, a progression, a grid logic), it gains an internal inevitability that ad-hoc arrangement can't fake — and it stays coherent across every size and medium.",
         "howToApply": "Before styling a layout, write the rule that governs it — a modular scale, a column math, a spacing ratio — and let that rule place things. If you can't state the rule, you're decorating; find the rule first."
       },
-      "tags": ["systems", "grid", "geometry", "swiss", "process", "concrete-art"]
+      "tags": [
+        "systems",
+        "grid",
+        "geometry",
+        "swiss",
+        "process",
+        "concrete-art"
+      ]
     },
     {
       "date": "2026-07-19",
       "source": "daily",
       "kind": "site",
-      "site": { "name": "Headspace", "url": "https://www.headspace.com" },
+      "site": {
+        "name": "Headspace",
+        "url": "https://www.headspace.com"
+      },
       "image": "images/2026-07-19-headspace.png",
       "category": "Wellness / Mental-health app",
       "tagline": "A clinical product made approachable — soft illustration and a 'what do you need?' router turn therapy into something friendly.",
@@ -5566,25 +5858,53 @@
         "A tabbed content library previews real product depth, including the Ebb AI companion and Cocomelon partner content."
       ],
       "sections": [
-        { "name": "Hero", "notes": "'Stress less all with Headspace' plus 'Try for $0' with an HSA/FSA note; a secondary hero promotes insurance-accepted online therapy." },
-        { "name": "Intent router", "notes": "'What kind of headspace are you looking for?' — six need-based buttons let visitors self-select their path." },
-        { "name": "Social proof / enterprise", "notes": "'Members are enjoying happier and healthier lives', then 'Over 4,000 leading organizations choose Headspace' with a client logo carousel." },
-        { "name": "Content library", "notes": "Tabbed showcase (Featured, Popular, Sleep, Stress, Meditation) with cards — the Ebb AI companion and a Cocomelon partnership on display." },
-        { "name": "FAQ", "notes": "Nine expandable questions on basics, subscription and cancellation — objections handled inline without visual clutter." },
-        { "name": "Footer", "notes": "Four columns (Get some Headspace, Our content, About us, Support) plus app badges and legal links." }
+        {
+          "name": "Hero",
+          "notes": "'Stress less all with Headspace' plus 'Try for $0' with an HSA/FSA note; a secondary hero promotes insurance-accepted online therapy."
+        },
+        {
+          "name": "Intent router",
+          "notes": "'What kind of headspace are you looking for?' — six need-based buttons let visitors self-select their path."
+        },
+        {
+          "name": "Social proof / enterprise",
+          "notes": "'Members are enjoying happier and healthier lives', then 'Over 4,000 leading organizations choose Headspace' with a client logo carousel."
+        },
+        {
+          "name": "Content library",
+          "notes": "Tabbed showcase (Featured, Popular, Sleep, Stress, Meditation) with cards — the Ebb AI companion and a Cocomelon partnership on display."
+        },
+        {
+          "name": "FAQ",
+          "notes": "Nine expandable questions on basics, subscription and cancellation — objections handled inline without visual clutter."
+        },
+        {
+          "name": "Footer",
+          "notes": "Four columns (Get some Headspace, Our content, About us, Support) plus app badges and legal links."
+        }
       ],
       "principle": {
         "title": "Open with an intent router, not a single funnel",
         "explanation": "When your audience arrives with different problems, forcing one path loses the rest. A 'what do you need?' selector near the top lets each visitor route themselves, so the very next screen already feels personalized — higher relevance, higher conversion.",
         "howToApply": "On a multi-audience landing page, add a set of need-based entry buttons just under the hero and wire each to a tailored section or page. Name them by the visitor's problem ('Sleep soundly'), not your feature ('Sleepcasts')."
       },
-      "tags": ["app", "wellness", "ia", "conversion", "illustration", "segmentation"]
+      "tags": [
+        "app",
+        "wellness",
+        "ia",
+        "conversion",
+        "illustration",
+        "segmentation"
+      ]
     },
     {
       "date": "2026-07-19",
       "source": "daily",
       "kind": "ad",
-      "site": { "name": "Shopify — 300×250 medium-rectangle display ad", "url": "https://lineardesign.com/blog/display-ad-examples/" },
+      "site": {
+        "name": "Shopify — 300×250 medium-rectangle display ad",
+        "url": "https://lineardesign.com/blog/display-ad-examples/"
+      },
       "image": "images/2026-07-19-ad-shopify.jpg",
       "category": "Display banner (medium rectangle / 300×250)",
       "tagline": "Logo, one universal benefit line, one green button — a square that says everything a merchant needs in three beats.",
@@ -5598,23 +5918,45 @@
         "'Free' in the CTA lowers the barrier — exactly the right ask for a top-of-funnel display impression."
       ],
       "sections": [
-        { "name": "Hook", "notes": "The clean green Shopify bag mark on calm cream — brand-forward and uncluttered, it reads as trustworthy at a glance." },
-        { "name": "Message / headline", "notes": "'Everything you need to sell online' — one benefit that contains the whole product, ideal for 300×250." },
-        { "name": "Visual / hero", "notes": "No product shot; whitespace and the logo carry it, keeping the small unit uncrowded and readable." },
-        { "name": "CTA", "notes": "A rounded green 'Try it free today' pill — the single saturated element, risk-free framing, thumb-sized." }
+        {
+          "name": "Hook",
+          "notes": "The clean green Shopify bag mark on calm cream — brand-forward and uncluttered, it reads as trustworthy at a glance."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Everything you need to sell online' — one benefit that contains the whole product, ideal for 300×250."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "No product shot; whitespace and the logo carry it, keeping the small unit uncrowded and readable."
+        },
+        {
+          "name": "CTA",
+          "notes": "A rounded green 'Try it free today' pill — the single saturated element, risk-free framing, thumb-sized."
+        }
       ],
       "principle": {
         "title": "On a small unit, sell the whole product in one line",
         "explanation": "A 300×250 has no room for a feature list or a legible screenshot. One sweeping benefit that stands in for everything (plus a free CTA) converts better than three cramped selling points fighting for the same 250 pixels.",
         "howToApply": "When designing small banners, write the single sentence that would make someone click if it were the only thing they read; drop the product shot if it can't be legible, and spend the saved space on whitespace and the button."
       },
-      "tags": ["display", "ecommerce", "restraint", "cta", "typography", "conversion"]
+      "tags": [
+        "display",
+        "ecommerce",
+        "restraint",
+        "cta",
+        "typography",
+        "conversion"
+      ]
     },
     {
       "date": "2026-07-19",
       "source": "daily",
       "kind": "designer",
-      "site": { "name": "Alexander Rodchenko", "url": "https://en.wikipedia.org/wiki/Alexander_Rodchenko" },
+      "site": {
+        "name": "Alexander Rodchenko",
+        "url": "https://en.wikipedia.org/wiki/Alexander_Rodchenko"
+      },
       "image": "images/2026-07-19-designer-alexander-rodchenko.jpg",
       "category": "Russian Constructivism · avant-garde",
       "when": "1891–1956 · Russian",
@@ -5628,23 +5970,45 @@
         "Treat design as 'production art' — every piece is a functional tool made for a task, judged by whether it works, not whether it's pretty."
       ],
       "sections": [
-        { "name": "How they begin", "notes": "From the communicative job to be done — what must this poster or cover make the viewer do or see? — then assembles from photographic and geometric parts, not a drawn composition." },
-        { "name": "Core method", "notes": "Photomontage and construction: cut, scale and layer photographic fragments with geometric shapes and type into a dynamic, purposeful whole." },
-        { "name": "Signature technique", "notes": "Aggressive diagonals plus the 'Rodchenko perspective' (extreme camera angles), and type set as bold structural bars and arrows." },
-        { "name": "Decision rules / philosophy", "notes": "Reject 'pure' art for utility — design serves a social/commercial function; a work succeeds if it communicates and mobilizes, and dynamism beats symmetry." }
+        {
+          "name": "How they begin",
+          "notes": "From the communicative job to be done — what must this poster or cover make the viewer do or see? — then assembles from photographic and geometric parts, not a drawn composition."
+        },
+        {
+          "name": "Core method",
+          "notes": "Photomontage and construction: cut, scale and layer photographic fragments with geometric shapes and type into a dynamic, purposeful whole."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Aggressive diagonals plus the 'Rodchenko perspective' (extreme camera angles), and type set as bold structural bars and arrows."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Reject 'pure' art for utility — design serves a social/commercial function; a work succeeds if it communicates and mobilizes, and dynamism beats symmetry."
+        }
       ],
       "principle": {
         "title": "Compose with real fragments and diagonals, not tidy symmetry",
         "explanation": "Rodchenko got energy and credibility by building from photographic reality and driving the eye with diagonal structure. Montaged real elements feel factual and modern, and an off-axis, dynamic layout commands attention that centered symmetry can't.",
         "howToApply": "For a bold editorial or campaign layout, assemble from real photographic pieces rather than stock illustration, and set a strong diagonal or angular grid to lead the eye; use type as structural bars and arrows that point, not just caption."
       },
-      "tags": ["constructivism", "photomontage", "typography", "composition", "process", "avant-garde"]
+      "tags": [
+        "constructivism",
+        "photomontage",
+        "typography",
+        "composition",
+        "process",
+        "avant-garde"
+      ]
     },
     {
       "date": "2026-07-20",
       "source": "daily",
       "kind": "site",
-      "site": { "name": "Basecamp", "url": "https://basecamp.com" },
+      "site": {
+        "name": "Basecamp",
+        "url": "https://basecamp.com"
+      },
       "image": "images/2026-07-20-basecamp.png",
       "category": "SaaS / Project management",
       "tagline": "A B2B homepage written like a straight-talking letter — the founder's voice, not a feature matrix, does the selling.",
@@ -5657,26 +6021,57 @@
         "A deliberately quiet, typographic layout with generous whitespace keeps the opinionated copy the hero, not decoration."
       ],
       "sections": [
-        { "name": "Hero", "notes": "'The refreshingly straightforward project management system…' plus a 3-minute walkthrough video over a real project screenshot — clarity over spectacle." },
-        { "name": "Value proposition", "notes": "'Tell me if this sounds about right' — Jason Fried's personal letter naming the scattered-tools problem and Basecamp's 20-year answer." },
-        { "name": "Social proof", "notes": "10+ short attributed customer quotes from marketing, nonprofits, universities and churches — diverse, human, scannable." },
-        { "name": "Big numbers", "notes": "'Big numbers. Highly-trusted' — 84M accounts, 60M projects, 1.7B to-dos, 99.99% uptime as trust evidence." },
-        { "name": "Service / culture", "notes": "'Remember when companies cared about service?' with a video of Chase, Head of Support, and a 9-year average tenure." },
-        { "name": "Features", "notes": "'All these questions have the same answer: Yes!' — 21 capability questions answered in one move, linking to the full feature list." },
-        { "name": "Footer", "notes": "Extensive links, company values, and cross-links to HEY and Fizzy." }
+        {
+          "name": "Hero",
+          "notes": "'The refreshingly straightforward project management system…' plus a 3-minute walkthrough video over a real project screenshot — clarity over spectacle."
+        },
+        {
+          "name": "Value proposition",
+          "notes": "'Tell me if this sounds about right' — Jason Fried's personal letter naming the scattered-tools problem and Basecamp's 20-year answer."
+        },
+        {
+          "name": "Social proof",
+          "notes": "10+ short attributed customer quotes from marketing, nonprofits, universities and churches — diverse, human, scannable."
+        },
+        {
+          "name": "Big numbers",
+          "notes": "'Big numbers. Highly-trusted' — 84M accounts, 60M projects, 1.7B to-dos, 99.99% uptime as trust evidence."
+        },
+        {
+          "name": "Service / culture",
+          "notes": "'Remember when companies cared about service?' with a video of Chase, Head of Support, and a 9-year average tenure."
+        },
+        {
+          "name": "Features",
+          "notes": "'All these questions have the same answer: Yes!' — 21 capability questions answered in one move, linking to the full feature list."
+        },
+        {
+          "name": "Footer",
+          "notes": "Extensive links, company values, and cross-links to HEY and Fizzy."
+        }
       ],
       "principle": {
         "title": "Sell in the founder's voice, not the feature matrix",
         "explanation": "A distinctive, plainspoken voice that names the customer's pain builds trust and differentiation a spec grid never can — especially for a mature product whose edge is philosophy, not features. Copy becomes the demo.",
         "howToApply": "On a value-prop section, write the pain in the customer's own words as if speaking one-to-one ('Tell me if this sounds about right…') before listing any capability. Keep the layout quiet and typographic so the voice carries."
       },
-      "tags": ["saas", "copywriting", "voice", "trust", "typography", "conversion"]
+      "tags": [
+        "saas",
+        "copywriting",
+        "voice",
+        "trust",
+        "typography",
+        "conversion"
+      ]
     },
     {
       "date": "2026-07-20",
       "source": "daily",
       "kind": "ad",
-      "site": { "name": "Twilio SendGrid — 160×600 skyscraper display ad", "url": "https://lineardesign.com/blog/display-ad-examples/" },
+      "site": {
+        "name": "Twilio SendGrid — 160×600 skyscraper display ad",
+        "url": "https://lineardesign.com/blog/display-ad-examples/"
+      },
       "image": "images/2026-07-20-ad-twilio.jpg",
       "category": "Display banner (skyscraper / 160×600)",
       "tagline": "A dev-infra product made charming — a specific speed claim plus a flying-mail illustration turn deliverability into delight.",
@@ -5690,23 +6085,45 @@
         "The AdChoices marker and full-bleed clickable creative show it's built as a real GDN unit, not a portfolio mock."
       ],
       "sections": [
-        { "name": "Hook", "notes": "The pale-blue cloud sky and a red car mid-flight — an unexpected, friendly scene that stops the eye in a column of text." },
-        { "name": "Message / headline", "notes": "'Email delivery service that gets to the inbox in 2.6 seconds.' — one concrete, quantified promise." },
-        { "name": "Visual / hero", "notes": "A figure driving a red convertible through the clouds trailing envelopes — the deliverability benefit rendered as a single memorable picture, sized to fill the 160×600." },
-        { "name": "CTA", "notes": "No explicit button; the whole banner is the click target, with the specific speed claim carrying the persuasion — a reminder that a strong claim can be its own CTA." }
+        {
+          "name": "Hook",
+          "notes": "The pale-blue cloud sky and a red car mid-flight — an unexpected, friendly scene that stops the eye in a column of text."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Email delivery service that gets to the inbox in 2.6 seconds.' — one concrete, quantified promise."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A figure driving a red convertible through the clouds trailing envelopes — the deliverability benefit rendered as a single memorable picture, sized to fill the 160×600."
+        },
+        {
+          "name": "CTA",
+          "notes": "No explicit button; the whole banner is the click target, with the specific speed claim carrying the persuasion — a reminder that a strong claim can be its own CTA."
+        }
       ],
       "principle": {
         "title": "Use an oddly specific number as your proof",
         "explanation": "A precise figure ('2.6 seconds') is far more believable than a vague superlative ('lightning fast') — specificity signals a real measurement stands behind the claim, which is exactly what a technical buyer trusts.",
         "howToApply": "Replace generic speed/scale adjectives in headlines with the actual measured number wherever you have one; if you don't have it, go measure it. Precision reads as honesty."
       },
-      "tags": ["display", "developer", "illustration", "copywriting", "specificity", "branding"]
+      "tags": [
+        "display",
+        "developer",
+        "illustration",
+        "copywriting",
+        "specificity",
+        "branding"
+      ]
     },
     {
       "date": "2026-07-20",
       "source": "daily",
       "kind": "designer",
-      "site": { "name": "MetaDesign", "url": "https://en.wikipedia.org/wiki/MetaDesign" },
+      "site": {
+        "name": "MetaDesign",
+        "url": "https://en.wikipedia.org/wiki/MetaDesign"
+      },
       "image": "images/2026-07-20-designer-metadesign.jpg",
       "category": "Corporate identity studio · Berlin",
       "when": "Founded Berlin, 1979/1990 · German",
@@ -5720,17 +6137,36 @@
         "Solve real wayfinding/functional problems (transit maps, signage) as design — usefulness is the brief, decoration a by-product."
       ],
       "sections": [
-        { "name": "How it's structured", "notes": "A large, process-driven, multidisciplinary firm (Berlin-founded, later international) built to deliver big corporate-identity programs repeatably rather than depend on a single star's hand." },
-        { "name": "How it takes on work", "notes": "Engages major institutions and corporations needing a coherent system at scale — transit authorities, banks, carmakers, software — where consistency across thousands of touchpoints is the real problem." },
-        { "name": "Signature method", "notes": "Systematic identity: define a custom typeface, grid, color and usage logic, then capture it in comprehensive guidelines and asset systems the client can run for years." },
-        { "name": "Decision rules / philosophy", "notes": "Clarity and function first (Spiekermann's typographic rigor); an identity is judged by how consistently and usefully it performs in the wild, not by novelty." }
+        {
+          "name": "How it's structured",
+          "notes": "A large, process-driven, multidisciplinary firm (Berlin-founded, later international) built to deliver big corporate-identity programs repeatably rather than depend on a single star's hand."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Engages major institutions and corporations needing a coherent system at scale — transit authorities, banks, carmakers, software — where consistency across thousands of touchpoints is the real problem."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Systematic identity: define a custom typeface, grid, color and usage logic, then capture it in comprehensive guidelines and asset systems the client can run for years."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Clarity and function first (Spiekermann's typographic rigor); an identity is judged by how consistently and usefully it performs in the wild, not by novelty."
+        }
       ],
       "principle": {
         "title": "Ship the system and the manual, not just the mark",
         "explanation": "A logo is a moment; a documented system is what actually holds a brand together across a large organization and many years. MetaDesign's edge was treating the guidelines, type and asset kit as the real deliverable — so consistency survived scale and staff turnover.",
         "howToApply": "When you design an identity, even a small one, deliver a short but real system: a type scale, color tokens, spacing/grid rules, and a one-page usage guide. Hand over the rules, not just the artwork, so it stays coherent after you leave."
       },
-      "tags": ["studio", "identity", "systems", "typography", "process", "guidelines"]
+      "tags": [
+        "studio",
+        "identity",
+        "systems",
+        "typography",
+        "process",
+        "guidelines"
+      ]
     },
     {
       "date": "2026-07-20",
@@ -5752,13 +6188,32 @@
         "Export a PNG/PDF and check: drop a ruler guide on any baseline in column 1 — it should hit the same baseline in column 2."
       ],
       "assets": [
-        { "label": "Headline", "value": "Form is the visible result of a rule" },
-        { "label": "Body copy", "value": "Good design rarely begins with a picture of the finished thing. It begins with a rule — a proportion, a grid, a progression — and lets that rule decide where every element goes. When the system is honest, the layout feels inevitable rather than arranged, and it holds together at any size and in any medium. Ornament is what we add when we don't trust the structure. Strip it away and the discipline shows: consistent spacing, a clear hierarchy, type that sits on a shared rhythm. The reader never notices the grid, only the calm it produces. That quiet is the whole point of setting type well." },
-        { "label": "Palette", "swatches": ["#111111", "#f4f1ea", "#c0392b"] }
+        {
+          "label": "Headline",
+          "value": "Form is the visible result of a rule"
+        },
+        {
+          "label": "Body copy",
+          "value": "Good design rarely begins with a picture of the finished thing. It begins with a rule — a proportion, a grid, a progression — and lets that rule decide where every element goes. When the system is honest, the layout feels inevitable rather than arranged, and it holds together at any size and in any medium. Ornament is what we add when we don't trust the structure. Strip it away and the discipline shows: consistent spacing, a clear hierarchy, type that sits on a shared rhythm. The reader never notices the grid, only the calm it produces. That quiet is the whole point of setting type well."
+        },
+        {
+          "label": "Palette",
+          "swatches": [
+            "#111111",
+            "#f4f1ea",
+            "#c0392b"
+          ]
+        }
       ],
       "successLooksLike": "A ruler dropped on any body baseline lands on a baseline in the other column too; no line of body text floats off-grid, and there are no one-word widows or single-line orphans.",
       "stretch": "Add a pull-quote that spans both columns and still returns the following body text to the baseline grid.",
-      "tags": ["typesetting", "indesign", "baseline-grid", "hierarchy", "print"]
+      "tags": [
+        "typesetting",
+        "indesign",
+        "baseline-grid",
+        "hierarchy",
+        "print"
+      ]
     },
     {
       "date": "2026-07-21",
@@ -6089,6 +6544,172 @@
         "new-wave",
         "systems",
         "process"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Bang & Olufsen",
+        "url": "https://www.bang-olufsen.com/en/us"
+      },
+      "image": "images/2026-07-23-bang-olufsen.jpg",
+      "category": "Luxury e-commerce / audio hardware",
+      "tagline": "A hardware storefront that sells speakers as design furniture — cinematic product film, editorial lifestyle photography, and one electric-blue used like a spotlight against an otherwise neutral page.",
+      "summary": "Bang & Olufsen treats its homepage like a design magazine that happens to sell speakers. The palette is almost entirely neutral — off-white grounds, charcoal type, and full-bleed lifestyle photography — so the single saturated electric-blue reads as an event every time it appears (a promo band, the footer). Products are shot in real rooms and on real people rather than floating on white, which is exactly the honest, in-context imagery that makes a $2,300 object feel lived-with rather than advertised. The page closes on an oversized vertical BANG & OLUFSEN wordmark that turns the logo into architecture.",
+      "whatWorks": [
+        "One saturated brand color (electric blue) used only as periodic full-bleed punctuation, so it never dilutes and always signals 'pay attention here'",
+        "Products shot in context — a speaker on a real kitchen counter, headphones on John Legend — never isolated on sterile white",
+        "A horizontal 'Explore our bestsellers' rail with consistent name + price treatment lets luxury pricing sit calmly instead of shouting",
+        "Editorial two-up blocks pair an atmospheric lifestyle image with a short product line, so mood and merch share the frame",
+        "Generous whitespace and restrained chrome (thin nav, tiny cart) make restraint itself read as the luxury signal",
+        "An oversized vertical wordmark brackets the footer, using the logo as structural typography rather than a small lockup"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "A dark, cinematic autoplay film frames the new Beo Grace earphones shot through a car window onto a cityscape — 'Wireless sound. Connected to the moment.' A carousel pause control and a single outlined 'Learn more' button keep chrome minimal; the mood is film, not spec sheet."
+        },
+        {
+          "name": "Promo band",
+          "notes": "A full-bleed electric-blue block interrupts the neutral flow with a complimentary-powerbank gift offer in large white text. The saturated color does the work of a graphic — no image needed — and marks a clear rhythm break between hero and catalog."
+        },
+        {
+          "name": "Bestsellers rail",
+          "notes": "'Explore our bestsellers' — a horizontal scroll of six products on white, each with a clean thumbnail, name, price, and a small 'New' tag. Prices ($299–$2,300) are stated plainly and quietly; the restraint is what makes them read as premium."
+        },
+        {
+          "name": "Editorial lifestyle blocks",
+          "notes": "Alternating full-bleed and two-up sections: a Beosound 2 on a real kitchen counter, a portable speaker held against a brick wall, John Legend as brand ambassador in headphones. Copy is a single sentence; the photography carries the value."
+        },
+        {
+          "name": "Newsletter — 'The House of Bang & Olufsen'",
+          "notes": "A calm sign-up block pairs an intimate lifestyle photo with a short benefits checklist (early products, events, personalized content). The ask is framed as joining a community, not subscribing to marketing."
+        },
+        {
+          "name": "Footer",
+          "notes": "A striking electric-blue footer with tidy link columns (Customer Care, Policies, Company, Social) framed left and right by a giant vertical BANG & OLUFSEN wordmark — the logo scaled up into page architecture, a memorable last impression."
+        }
+      ],
+      "principle": {
+        "title": "Reserve one saturated color as punctuation, not paint",
+        "explanation": "A single vivid brand hue keeps its power only if the rest of the page stays neutral and photographic. Used as occasional full-bleed bands and the footer — never as everyday UI color — it marks rhythm and signals 'this matters' every time it appears, which is stronger than sprinkling the color everywhere.",
+        "howToApply": "Set the whole site in neutrals + honest photography, then deploy the brand color in just two or three deliberate full-bleed moments (a promo band, the footer). Keep buttons and body chrome neutral so the color never becomes wallpaper."
+      },
+      "tags": [
+        "color",
+        "luxury",
+        "e-commerce",
+        "photography",
+        "typography",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "The New York Times — 300×250 medium-rectangle display ad",
+        "url": "https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples"
+      },
+      "image": "images/2026-07-23-ad-new-york-times.png",
+      "category": "Display banner (medium rectangle / square)",
+      "tagline": "A type-only subscription ad that sells a conviction, not a feature list.",
+      "when": "GDN display, ~2020",
+      "summary": "This is a banner with no image at all, and that is the whole point. Against a plain white ground it runs the blackletter masthead as its logo, a bold three-line Cheltenham headline ('This is when journalism matters most.'), a single gold accent line ('Subscribe to The Times.'), and one black pill CTA. Every element is the brand's own editorial typography, so the unit feels like The Times rather than an ad for it. It proves that when a brand voice is strong enough, type alone can carry a paid unit that most advertisers would stuff with stock photography.",
+      "whatWorks": [
+        "No imagery — the recognizable masthead and editorial serif ARE the brand asset, so the ad is unmistakably NYT at a glance",
+        "Sells a belief ('when journalism matters most'), not a price or a feature, matching a value-driven purchase",
+        "A single gold accent line is the only color, pulling the eye straight from headline to the subscribe promise",
+        "One high-contrast black CTA ('SEE MY OPTIONS') — soft-framed permission phrasing, not a hard 'BUY NOW'",
+        "Tight type hierarchy (masthead → headline → accent line → button) reads top-to-bottom in one pass",
+        "Massive restraint: white space does the framing, so the small unit never feels cramped"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The blackletter New York Times masthead at the top — instant, unmistakable brand recognition that stops the scroll on authority alone, no image required."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'This is when journalism matters most.' — a bold, three-line conviction statement in the Times' Cheltenham serif. It sells the mission, not a discount, so it reads as editorial voice rather than marketing."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is deliberately no photo. The typography itself is the visual: black headline weight against white, with a single gold line ('Subscribe to The Times.') as the only color and the pivot from belief to ask."
+        },
+        {
+          "name": "CTA",
+          "notes": "A solid black rounded rectangle, 'SEE MY OPTIONS' in caps — high contrast, permission-framed (options, not a hard sell), and the single darkest mass on the unit so the eye lands on it last."
+        }
+      ],
+      "principle": {
+        "title": "When the voice is strong, make brand type the entire creative",
+        "explanation": "A distinctive masthead and editorial typeface can carry a paid unit with no image at all. Selling a conviction in the brand's own type feels like the brand speaking, not advertising it — and it sidesteps the generic stock photography that makes most display ads interchangeable.",
+        "howToApply": "For a brand with real typographic equity, try an image-free hero/banner: recognizable logotype, one belief-led headline in the brand serif, a single accent color, one high-contrast CTA. If it still reads as unmistakably you, the image was only decoration."
+      },
+      "tags": [
+        "typography",
+        "display-ad",
+        "editorial",
+        "restraint",
+        "conversion",
+        "brand-voice"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Chip Kidd",
+        "url": "https://en.wikipedia.org/wiki/Chip_Kidd"
+      },
+      "image": "images/2026-07-23-designer-chip-kidd.jpg",
+      "category": "Book-cover / publishing design · contemporary American",
+      "when": "b. 1964 · American",
+      "tagline": "The book-jacket designer who made the cover a visual haiku of the story — an invitation, never a summary.",
+      "summary": "Chip Kidd has been designing jackets at Alfred A. Knopf since 1986 and is the most recognizable book-cover designer of his generation (his 1993 Jurassic Park skeleton logo became the entire film franchise's mark). His method starts not with a visual style but with the manuscript: he reads deeply, then solves the book as a 'visual problem,' hunting for the one surprising image or typographic twist that captures its soul without spoiling it. Crucially, he refuses a signature look — believing a house style would limit the range of solutions — so his process, not his aesthetic, is the thing to steal.",
+      "whatWorks": [
+        "Read the source before touching the tools — the concept comes from the content, not from a style you already own",
+        "Frame the job as a 'visual problem' with one right-feeling answer, and let it take as long as it takes (his solutions could take months)",
+        "Find a single surprising image or twist that intrigues rather than explains — the cover is an invitation, not a summary",
+        "Refuse a signature aesthetic on purpose, so each project gets the solution IT needs instead of your habit",
+        "Let type and image do one job together — often a witty, unexpected pairing that rewards a second look",
+        "Stay humble about your role: the cover serves the book, so 'first, do no harm' — never misrepresent what's inside"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "By reading the manuscript itself and talking to the author (who keeps final approval). Inspiration comes 'from whatever the book is' — never from a pre-decided look — so every cover starts from content, not from a template."
+        },
+        {
+          "name": "Core method",
+          "notes": "He treats the jacket as a visual problem to be solved, gathering photographs, illustrations, and 'ephemeral detritus' until the right idea surfaces. He gives it real time — a solution can take up to six months — trusting the concept to arrive rather than forcing a style onto the page."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Conceptual wit: a single unexpected image or type move that captures the book's essence with a twist (the Jurassic Park T-rex skeleton, sly/creepy/smart covers). The image intrigues and rewards a second look instead of literally illustrating the plot."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "No signature style — 'the simplest and most effective solutions aren't dictated by style.' The cover must serve, not misrepresent, the book ('first, do no harm'), and he stays humble that it's 'only a small part' of whether a book connects."
+        }
+      ],
+      "principle": {
+        "title": "Design from the content, and reduce it to one surprising image",
+        "explanation": "Kidd's power comes from refusing a house style and instead deriving each solution from the material itself, then compressing it to a single idea that invites rather than explains. Intrigue beats completeness: a cover (or a hero) that says everything says nothing.",
+        "howToApply": "Before designing a landing hero or brand mark, read/absorb the actual product story, then force yourself to one surprising visual metaphor that makes someone want to look closer — and cut the urge to illustrate every feature. Resist reusing your last project's look; let this one's content dictate the form."
+      },
+      "tags": [
+        "concepting",
+        "reduction",
+        "typography",
+        "editorial",
+        "process",
+        "book-design"
       ]
     }
   ]
