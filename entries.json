@@ -6711,6 +6711,172 @@
         "process",
         "book-design"
       ]
+    },
+    {
+      "date": "2026-07-24",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Wise",
+        "url": "https://wise.com"
+      },
+      "image": "images/2026-07-24-wise.png",
+      "category": "Fintech (consumer money transfer)",
+      "tagline": "A consumer-fintech homepage that makes fee transparency the hero — a working currency calculator with live rates sits above the fold, so you use the product before you sign up.",
+      "summary": "Wise's homepage (2023 Ragged Edge rebrand) turns the industry's dirty secret — hidden FX margins — into its whole pitch. Instead of stock photos of happy travellers, the hero is an operable rate calculator showing the real mid-market rate, the exact fee, and 'most arrive in under 20 seconds.' A bright-green / deep-forest-green system, a proprietary sans, and blunt, number-led copy carry a page that stays confident and uncluttered from calculator to Trustpilot proof to the dark footer.",
+      "whatWorks": [
+        "The hero's centrepiece is a real, working tool (live currency calculator), not a screenshot or a promise — value is demonstrated, not described",
+        "A two-green system does the identity work: acid bright-green (#9fe870-ish) for action against deep forest-green (#163300), so CTAs never compete with themselves",
+        "Copy is number-first ('3.14% APY', 'under 20 seconds', '700,000 businesses') — specifics substitute for adjectives",
+        "Testimonials are flag-pair + short quote + 'View on Trustpilot' — proof is routed to a third party and made scannable at a glance",
+        "Value props are three tight cards (receive fast / save abroad / earn interest), each linking deeper rather than over-explaining on the homepage",
+        "Generous whitespace and left-aligned type give a dense fintech product an unhurried, app-like calm"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Centered headline + a live USD→EUR calculator showing the true mid-market rate, the fee, and arrival time. The product's core action is playable before signup; transparency IS the hook."
+        },
+        {
+          "name": "Value props (3 cards)",
+          "notes": "Receive money fast / save on spending abroad / earn interest — each a card with one icon or the green card image and a bold benefit header, linking to a deeper page instead of expanding inline."
+        },
+        {
+          "name": "Safe at every step",
+          "notes": "Trust block: short reassurances on regulation, safeguarded funds and anti-fraud, paired with simple icons and an atmospheric city photo — credibility without a wall of legalese."
+        },
+        {
+          "name": "Social proof",
+          "notes": "Customer quotes tagged with sender/recipient flag pairs and 'View on Trustpilot' badges; ~140-char quotes keep it skimmable and outsource credibility to a named authority."
+        },
+        {
+          "name": "Business + app",
+          "notes": "A 'Built for business too' band with a scale stat (700,000 businesses) and dual CTAs, then a QR + store badges for the app — secondary audiences handled without diluting the primary flow."
+        },
+        {
+          "name": "Currency lists + footer",
+          "notes": "Expandable flag-led lists (send-to countries, account details, hold/convert currencies) give SEO and utility depth, closing on a dark charcoal footer with grouped links and fine-print regulatory identity."
+        }
+      ],
+      "principle": {
+        "title": "Put the working product in the hero, not a picture of it",
+        "explanation": "When the value is a number or a computation, a visitor believes the tool far more than the pitch. Letting them operate the real thing (with honest data) above the fold collapses 'learn about it' and 'try it' into one act, and pre-empts the skepticism a claim invites.",
+        "howToApply": "On any quote / pricing / estimate / calculator product, embed the live tool in the hero wired to real data — show the true number including fees. Conversion then becomes 'finish what you already started,' not 'trust us and sign up.'"
+      },
+      "tags": [
+        "fintech",
+        "conversion",
+        "transparency",
+        "color",
+        "typography",
+        "trust"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Dropbox — square product-feature display unit (Dropbox Replay)",
+        "url": "https://www.creatopy.com/blog/dropbox-ads/"
+      },
+      "image": "images/2026-07-24-ad-dropbox.png",
+      "category": "Display banner (square / product-feature unit)",
+      "tagline": "The hook is a screenshot of the feature itself — the ad demonstrates the benefit instead of illustrating it.",
+      "when": "GDN display, ~2024",
+      "summary": "A square Dropbox Replay banner splits into two clean zones: the top two-thirds is a real screenshot of the Replay review UI (a video with frame-anchored comments), the bottom third is a dark charcoal panel with the product wordmark, a benefit headline, and a CTA. Copy is nine words. A single orange accent lands on one word ('frame-accurate') and again on the outlined button, drawing a short line from the promise to the click.",
+      "whatWorks": [
+        "The visual is the product doing its job — an actual Replay session — so the benefit is shown, not claimed",
+        "One accent colour used exactly twice (the key word + the CTA) builds a deliberate eye-path: hook → benefit → button",
+        "Nine-word headline names a specific, concrete capability ('frame-accurate feedback'), not a vague outcome",
+        "Two-zone layout (bright product shot over dark copy panel) gives instant hierarchy in a small square",
+        "Outlined ghost button keeps the CTA present without shouting over the one-colour system",
+        "Restraint: no logo wall, no feature list — one feature, one promise, one action"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A screenshot of the Replay UI — a real video review with a comment pinned to a moment — stops the scroll by showing the tool in use rather than a lifestyle image."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Keep collaborators aligned with frame-accurate feedback' — one concrete benefit, with 'frame-accurate' set in orange to spike the specific value word."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Bright product shot occupies the top two-thirds; the dark lower panel carries the Dropbox Replay wordmark so brand and message never fight the screenshot."
+        },
+        {
+          "name": "CTA",
+          "notes": "An orange outlined 'See how it works' button reuses the exact accent from the highlighted word, so the colour itself points the eye to the click."
+        }
+      ],
+      "principle": {
+        "title": "Use one accent colour as a path to the button",
+        "explanation": "In a small unit the eye needs a route. Repeating a single accent on the most important word and again on the CTA creates a visual thread hook → benefit → action; everything else can stay neutral so the thread reads instantly.",
+        "howToApply": "Pick one accent and spend it only twice per banner (or hero): on the value word in the headline and on the CTA. Keep product shot and body chrome neutral so the accent always means 'look here / click here.'"
+      },
+      "tags": [
+        "display-ad",
+        "color",
+        "cta",
+        "hierarchy",
+        "product-shot",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Tobias Frere-Jones",
+        "url": "https://en.wikipedia.org/wiki/Tobias_Frere-Jones"
+      },
+      "image": "images/2026-07-24-designer-tobias-frere-jones.jpg",
+      "category": "Typeface design (contemporary American)",
+      "when": "b. 1970 · American",
+      "tagline": "The type designer behind Gotham, Interstate, Whitney and Retina — a craft built almost entirely on invisible optical corrections.",
+      "summary": "Frere-Jones designed some of the most-used typefaces of the last thirty years (Interstate, Gotham, Whitney, Tungsten, Retina), first at Font Bureau, then at Hoefler & Frere-Jones, now at Frere-Jones Type. His method is unglamorous and deeply transferable: source letterforms from the real world, then bend them against the eye's own distortions until they simply *look* right. His public writing on 'typeface mechanics' makes the usually-hidden decisions teachable.",
+      "whatWorks": [
+        "Mine the vernacular: Gotham was drawn from the plain 1950s lettering on New York's Port Authority terminal — start from a real, found source, not a blank page",
+        "Correct optically, not mathematically: round shapes overshoot the flat ones, joins are thinned, so equal-looking beats equal-measured",
+        "Design for the worst case: Retina was engineered for tiny stock-listing type on cheap newsprint — let the hardest use dictate the form",
+        "Judge by reading, not by ruler — print it, shrink it, squint, iterate against how it actually reads",
+        "Build the whole system: weights, widths and italics conceived as a family so the type works across every real context",
+        "Make the invisible explicit: name and document the optical tricks so they become repeatable craft, not intuition"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Starts from a source and a function — a piece of found lettering (signage, old catalogues) plus a hard question: where will this be read, and under what abuse? The brief is a constraint, not a mood."
+        },
+        {
+          "name": "Core method",
+          "notes": "Draw, output at real size, and test relentlessly at the sizes and stocks it will actually face; refine against reading rather than against the on-screen outline. The eye, not the coordinate, is the instrument."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Deliberate optical corrections — overshoots on curves, adjusted stroke weights, ink traps, thinned junctions — distortions the reader never notices but which make letters feel even and clean."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Form is earned from function and context; a shape is 'right' when it disappears into effortless reading. Nothing is decorative-by-default — every curve answers to where the type has to survive."
+        }
+      ],
+      "principle": {
+        "title": "Correct for the eye, not the ruler",
+        "explanation": "Mathematically equal shapes look unequal; the eye distorts. Great craft is the set of deliberate, invisible corrections that make something *look* right rather than measure right — and the discipline of testing in the real, ugly conditions the work will face.",
+        "howToApply": "In UI, logo and layout work, adjust by eye: overshoot circles past the cap/baseline, optically centre (not mathematically), add size-specific tweaks, and always test type/marks at the smallest real size and worst real screen before calling it done."
+      },
+      "tags": [
+        "typography",
+        "type-design",
+        "process",
+        "optical-correction",
+        "craft",
+        "systems"
+      ]
     }
   ]
 }
