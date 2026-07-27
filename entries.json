@@ -7403,6 +7403,79 @@
         "variants",
         "buttons"
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Discord — Brand Assets",
+        "url": "https://discord.com/branding"
+      },
+      "image": "images/2026-07-27-brandguide-discord.png",
+      "category": "Public brand-assets / press kit",
+      "tagline": "A tight, on-brand public brand-assets page - it nails the logo system and usage rules, and shows exactly where a press kit stops short of a full brand guide.",
+      "summary": "Discord's branding page is a model of the public-facing slice of a brand system: logo lockups in three finishes, a symbol-only usage rule, clearspace and minimum-size diagrams, the core Blurple palette with exact values, press banners, and a legal/usage section with Do's and Don'ts - all wrapped in the playful Discord voice, plus a one-click 'View Brand Kit'. It's a great teaching case precisely because of what it deliberately leaves out: it's a press/asset kit, not the full internal guide, so it's missing typography, voice-and-tone rules, brand strategy, and application mockups.",
+      "whatWorks": [
+        "Logo shown as a real system - full logo, symbol-only, and three finishes (color / black / white) - not a single lockup",
+        "Rules are shown, not just stated: a clearspace grid diagram and a 1/3 minimum-size marker make the constraints unmistakable",
+        "Color given as named, copy-ready values (Blurple #5865F2, Light Blurple #E0E3FF, Black #000000) with a usage note",
+        "Do's and Don'ts plus a plain-English legal/trademark section set the guardrails for outsiders",
+        "The page is itself on-brand - Blurple, rounded display type, 3D mascots - so it demonstrates the identity while documenting it",
+        "One obvious action ('View Brand Kit') routes people to downloadable, ready-to-use assets"
+      ],
+      "sections": [
+        {
+          "name": "Hero / Brand Kit",
+          "notes": "'BRAND ASSETS - make sure to get our good side' with a single 'View Brand Kit' CTA. Personality up front, one clear next step."
+        },
+        {
+          "name": "Our logo",
+          "notes": "The primary logo in color, black and white - establishes approved finishes before anyone improvises."
+        },
+        {
+          "name": "Symbol",
+          "notes": "Mark-only usage, gated by a rule ('use only when the Discord brand is clearly visible or well established') - a condition, not just an asset."
+        },
+        {
+          "name": "Clearspace & minimum size",
+          "notes": "A clearspace grid diagram plus a 1/3 min-size marker and 'do not edit, distort, recolor, or reconfigure' - the misuse rules made visual."
+        },
+        {
+          "name": "Colors",
+          "notes": "Blurple #5865F2, Light Blurple #E0E3FF, Black #000000, each as a copy-ready chip with a light usage note."
+        },
+        {
+          "name": "Banners & press assets",
+          "notes": "Ready-made illustrated banners 'for discussing Discord', with a link to how to use them."
+        },
+        {
+          "name": "Legal brand guidelines + Do's/Don'ts",
+          "notes": "Plain-English trademark/permission terms and expandable Do's and Don'ts - the guardrails for third parties."
+        }
+      ],
+      "needs": [
+        "Typography - no typeface, weights, scale or pairing is specified (a full guide must define type, fallbacks and licensing)",
+        "Voice & tone - the personality is shown but not codified into writing rules with do/don't examples",
+        "Brand strategy up front - mission, values, personality and audience that explain WHY the rules exist",
+        "Imagery & illustration direction - the mascots/banners appear but there's no art-direction spec for photography or illustration",
+        "Iconography and a layout/grid system for composing on- and off-brand materials",
+        "Real-world application mockups (web, social, product, merch, presentation) beyond press banners",
+        "Accessibility guidance - contrast pairings and minimum legibility rules for the palette and logo",
+        "Rationale alongside each rule - a great guide teaches the thinking, so people extend it correctly, not just obey it"
+      ],
+      "principle": {
+        "title": "Separate the public brand-assets kit from the full brand guide - and make each complete for its job",
+        "explanation": "A press/asset page and an internal brand guide have different jobs: the kit protects the mark for outsiders (logo, clearspace, color, don'ts, downloads), while the full guide equips insiders to create (strategy, voice, type, imagery, layout, applications, rationale). Discord's page nails the first job and is honest about not being the second.",
+        "howToApply": "When you build brand docs, decide which artifact you're making: a public brand-assets kit (mark + usage + downloads, kept short and protective) or a full brand guide (strategy -> verbal -> visual -> applications -> governance, with the WHY next to every rule). Don't ship a half-built guide as if it were either."
+      },
+      "tags": [
+        "brand-guide",
+        "logo-system",
+        "usage-rules",
+        "color",
+        "governance"
+      ]
     }
   ]
 }
