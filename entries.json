@@ -6877,6 +6877,532 @@
         "craft",
         "systems"
       ]
+    },
+    {
+      "date": "2026-07-25",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Arc",
+        "url": "https://arc.net"
+      },
+      "image": "images/2026-07-25-arc.png",
+      "category": "Consumer software / product",
+      "tagline": "The Browser Company sells a browser the way a consumer brand sells a lifestyle — one electric-indigo world, product UI in every frame.",
+      "summary": "Arc's marketing page runs on a single saturated indigo that it splashs into full-bleed bands to pace a very long scroll. Instead of describing features it shows the actual product UI in browser-chrome mockups at every step, warmed by playful hand-drawn illustrations and hot-orange/pink gradient accents so a tech product still feels human. It closes on a wall of real user quotes and a single email-to-download conversion.",
+      "whatWorks": [
+        "One saturated brand indigo used structurally — full-bleed color bands (hero, a Verge press quote, the sign-up) segment the page into chapters",
+        "Every feature claim is anchored to a real product screenshot inside browser chrome, not an abstract graphic",
+        "Warm orange/pink gradients play against the cool indigo so long stretches don't read monotone",
+        "Hand-drawn peace-sign and device doodles keep a software product feeling human and playful",
+        "Social-proof wall of cream quote cards with real handles, then a single clear CTA (email -> download link)"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Light band: 'Meet Dia, the next evolution of Arc', a black pill 'Try Dia' button with app icon, and a real product screenshot of the AI browser sidebar. Product-first, one CTA."
+        },
+        {
+          "name": "Press-quote band",
+          "notes": "Full-bleed indigo block with an oversized pull quote ('Arc is the Chrome replacement I've been waiting for.' - The Verge) plus a press-logo strip. Color change alone signals a new chapter."
+        },
+        {
+          "name": "Anticipation / bento",
+          "notes": "'A browser that doesn't just meet your needs - it anticipates them.' A bento of real screenshots + photo tiles shows Spaces/organization concretely."
+        },
+        {
+          "name": "Spaces & Profiles",
+          "notes": "Warm orange-gradient browser mock: 'Space for the different sides of you' - a feature shown as a lived-in UI, not a bullet list."
+        },
+        {
+          "name": "Setup / themes",
+          "notes": "Pink-purple browser mocks for Split View & Themes, with a whimsical handheld-device illustration - personality between product shots."
+        },
+        {
+          "name": "Social proof + CTA",
+          "notes": "Cream quote cards with real user handles, then 'Enter your new home on the internet' email capture with an orange 'Get Download Link' button."
+        },
+        {
+          "name": "Footer",
+          "notes": "Minimal utility footer, product/resource columns, 'The Browser Company, New York' sign-off."
+        }
+      ],
+      "principle": {
+        "title": "Segment a long page with full-bleed color bands, not just whitespace",
+        "explanation": "On a long marketing page, whitespace alone makes sections blur together. Pulling one or two key moments (a press quote, the sign-up) into full-bleed brand-color bands gives the scroll rhythm and makes each stretch feel like a distinct chapter.",
+        "howToApply": "Pick your 2-3 highest-value moments on a long landing page and render them as full-bleed brand-color bands between the light content sections; keep the accent gradients for variety so the color never reads flat."
+      },
+      "tags": [
+        "color",
+        "layout",
+        "product-marketing",
+        "saas",
+        "rhythm"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Warby Parker - Meta feed ad (1:1 eyewear)",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&country=US&q=%22Warby%20Parker%22"
+      },
+      "image": "images/2026-07-25-ad-warby-parker.png",
+      "category": "Meta feed ad (1:1 square creative)",
+      "tagline": "A pair of sunglasses held to a summer sky - a paid unit dressed as an organic post.",
+      "when": "Meta feed, 2026 (pulled live from the Meta Ad Library)",
+      "summary": "A currently-running Warby Parker feed ad: one hand holds a pair of shades up against bright blue sky, sea horizon and green grass, sun flaring through the lens. It reads like a friend's vacation snap, not a studio ad - which is exactly why it slips past the scroller's ad-filter. The pun headline 'See summer better' ties benefit to season, and a soft 'Learn More' CTA plus free-shipping line lower the risk.",
+      "whatWorks": [
+        "Single product held against huge negative space (sky) - one unmistakable focal point",
+        "UGC-style handheld shot in natural light and a real place - feels native to the feed",
+        "Benefit-driven pun headline ('See summer better') doing double duty as product + season",
+        "Low-friction top-funnel CTA ('Learn More') with a 'Free shipping on every order' risk-reducer",
+        "Seasonal hook ('summer styles ... a refreshed palette') gives a reason to act now"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Sunglasses raised to a clear sky with sun-flare through the lens - an aspirational, scroll-stopping single image."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'See summer better' - a pun that reads as a product benefit and a seasonal invitation at once."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Handheld, natural-light, real-environment framing (sky/sea/grass). Deliberately un-studio so it blends into organic posts."
+        },
+        {
+          "name": "CTA",
+          "notes": "Soft 'Learn More' button (top of funnel) plus 'Free shipping on every order' to remove hesitation."
+        }
+      ],
+      "principle": {
+        "title": "Make the paid creative look like an organic post",
+        "explanation": "Feed scrollers have a fast ad-filter; glossy studio creative trips it. A handheld, natural-light shot of one product in a real setting blends into the feed and gets read before it gets skipped.",
+        "howToApply": "Shoot feed creative in-hand, in real light, one product, lots of sky/negative space; skip the studio sweep and let it look like something a person would post."
+      },
+      "tags": [
+        "social-ad",
+        "ugc",
+        "eyewear",
+        "copywriting",
+        "photography"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Deborah Sussman",
+        "url": "https://en.wikipedia.org/wiki/Deborah_Sussman"
+      },
+      "image": "images/2026-07-25-designer-deborah-sussman.png",
+      "category": "Environmental graphic design / supergraphics",
+      "when": "1931-2014 - American",
+      "tagline": "The designer who put graphics on buildings - and turned a whole Olympic city into a temporary brand.",
+      "summary": "Trained in the Eames Office, Sussman pioneered environmental graphic design: graphics that live in space, at architectural scale. With Sussman/Prejza she created the 'Festive Federalism' look of the 1984 Los Angeles Olympics - magenta, vermilion, chrome yellow and purple on columns, tents, sonotubes and scaffolding - branding an entire city on a modest budget through a recombinable kit of parts.",
+      "whatWorks": [
+        "Design for the moving body in space, not a static page - wayfinding, scale, sequence",
+        "Build a kit of parts (bounded palette + modular shapes) so a huge program stays coherent across many hands",
+        "Use a tight, high-chroma palette as the unifier rather than a single logo",
+        "Hit architectural scale cheaply with modular, recombinable, temporary components",
+        "Let a strict system license exuberant, playful execution"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Start from the site and the person moving through it - walk the space, study sightlines, scale and sequence. Design for the body, not the sheet."
+        },
+        {
+          "name": "Core method",
+          "notes": "Define a KIT OF PARTS: a bounded palette, a set of shapes (columns, tents, sonotubes) and modular components that many people can recombine cheaply at any scale."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Supergraphics - huge flat fields of high-chroma color and form applied to architecture and temporary structures, used systematically, never as decoration."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "It must read at building scale AND on a badge. Consistency lives in the system; that frees the execution to be joyful. From the Eameses: rigor plus play."
+        }
+      ],
+      "principle": {
+        "title": "Design a kit of parts, not a set of pages",
+        "explanation": "When work has to scale across many surfaces and be built by many hands, a bounded palette plus modular, recombinable components keeps it coherent. Consistency lives in the system; freedom lives in how the parts get assembled.",
+        "howToApply": "For any multi-surface project (site + ads + signage + social), first define the reusable kit - colors, shapes, type, components - then build every artifact by recombining it, instead of art-directing each piece from scratch."
+      },
+      "tags": [
+        "environmental-graphics",
+        "systems",
+        "color",
+        "process",
+        "supergraphics"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Rijksmuseum",
+        "url": "https://www.rijksmuseum.nl/en"
+      },
+      "image": "images/2026-07-26-rijksmuseum.png",
+      "category": "Museum / cultural",
+      "tagline": "A monumental condensed wordmark, a full-bleed Night Watch, and a whisper-quiet interface that lets the art do everything.",
+      "summary": "The Rijksmuseum site opens with its wordmark set as ultra-condensed all-caps architecture spanning the full width, laid over a dark full-bleed photo of The Night Watch with a visitor in frame for human scale. Below, the page is a stack of edge-to-edge image tiles - each an exhibition or promo with only a tiny uppercase kicker and title lower-left. The chrome is reduced to almost nothing so wildly different imagery still reads as one calm, curated system.",
+      "whatWorks": [
+        "A single ultra-condensed display wordmark used as a graphic device, not just a logo",
+        "Full-bleed artwork hero with a real visitor in frame - scale and emotion, not a flat reproduction",
+        "One consistent tile treatment (tiny uppercase kicker + title, bottom-left) unifies a Rembrandt, a Toy Story toy and a book mockup",
+        "Interface reduced to a whisper: no card borders or shadows, minimal type, edge-to-edge images",
+        "Utilitarian dark footer carries the real jobs - Book a ticket, Donate, Newsletter"
+      ],
+      "sections": [
+        {
+          "name": "Masthead + hero",
+          "notes": "Giant condensed 'RIJKS MUSEUM' over a dark full-bleed Night Watch; small-caps 'OPEN TODAY / VISIT THE HIGHLIGHTS' label and partner logos sit quietly beneath."
+        },
+        {
+          "name": "Promo tile - Disney",
+          "notes": "Full-bleed Toy Story image, kicker 'FREE FOR AGES 18 AND UNDER', title 'SUMMER BREAK WITH DISNEY'. Same overlay grammar as every other tile."
+        },
+        {
+          "name": "Split tile - Ed van der Elsken",
+          "notes": "A B&W photo tile ('Up Close') paired with a book-mockup tile ('Book now available'), showing exhibition and shop in one consistent pattern."
+        },
+        {
+          "name": "Gardens tile",
+          "notes": "Full-bleed museum-facade photo, kicker 'FREE ADMISSION', title 'CAREL VISSER - In the Rijksmuseum gardens'."
+        },
+        {
+          "name": "Footer",
+          "notes": "Dark utility footer: Visitor Information, opening hours, address, About/Press/Careers/Contact, Donate + Newsletter buttons, socials, partner logos, legal."
+        }
+      ],
+      "principle": {
+        "title": "When the content is the star, reduce the interface to a caption",
+        "explanation": "With imagery this strong, borders, cards and shadows only get in the way. Going edge-to-edge and stripping text down to a small kicker and title makes the work dominate and the whole page feel curated rather than templated.",
+        "howToApply": "On image-rich pages (museums, portfolios, editorial), go full-bleed, drop card chrome, and cap each tile's text at a small uppercase kicker + title so the imagery carries the page."
+      },
+      "tags": [
+        "editorial",
+        "typography",
+        "imagery",
+        "layout",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Casper - Meta feed / story ad (portrait, illustrated)",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&country=US&q=Casper%20mattress"
+      },
+      "image": "images/2026-07-26-ad-casper.png",
+      "category": "Meta feed / story ad (portrait, illustrated)",
+      "tagline": "A calm two-color illustration with the offer drawn right into the pixels.",
+      "when": "Meta feed, 2026 (pulled live from the Meta Ad Library)",
+      "summary": "A running Casper unit that skips photography entirely: navy line-art on cream, a sleeper on a mattress ringed by floating bedroom pieces and a little 'Zzz'. The strict two-color palette says 'calm/sleep' and is cheap to scale, while the headline and the offer are baked into the image - so the value prop survives even when the platform caption gets truncated.",
+      "whatWorks": [
+        "Strict two-color palette (navy on cream) - calm, ownable, and cheap to produce at scale",
+        "Illustration instead of photography - whimsical, on-brand, no photoshoot needed",
+        "Staccato four-noun headline 'Mattress. Foundation. Pillow. Sheets.' communicating full range",
+        "The offer/CTA ('Build your bedroom refresh & save 25%') is drawn INTO the creative",
+        "Clean top-to-bottom hierarchy: wordmark -> headline -> illustration -> CTA pill"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Cozy navy-on-cream line illustration with a sleeping figure and a 'Zzz' cloud - the calm palette itself signals 'sleep' and stops the scroll softly."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Mattress. Foundation. Pillow. Sheets.' - four words that say 'we make the whole bed', reinforcing the bundle."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A single two-color illustration of the mattress surrounded by floating bedroom items; ownable and warm, no stock photography."
+        },
+        {
+          "name": "CTA",
+          "notes": "In-image navy pill: 'Build your bedroom refresh & save 25%' - action plus a specific offer, baked in rather than left to the caption."
+        }
+      ],
+      "principle": {
+        "title": "Bake the offer into the creative, not just the caption",
+        "explanation": "On feed and story ads the platform caption truncates and is easy to skip. Drawing the hook headline and the offer/CTA inside the image guarantees the whole value prop travels with the pixel wherever it's shown.",
+        "howToApply": "Put your hook line and the offer/CTA inside the image itself; treat the platform caption as a bonus, not the load-bearing part of the message."
+      },
+      "tags": [
+        "social-ad",
+        "illustration",
+        "two-color",
+        "dtc",
+        "offer"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Michael Bierut",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bierut"
+      },
+      "image": "images/2026-07-26-designer-michael-bierut.png",
+      "category": "Identity & systems (contemporary)",
+      "when": "b. 1957 - American",
+      "tagline": "The identity designer who thinks by hand first - one running sketchbook since 1982.",
+      "summary": "A Pentagram partner in New York (after a decade with Vignelli), Bierut is as known for how he works as for what he's made. He has kept a single continuous, numbered sketchbook since 1982 - dozens filled - and starts every project in words and pencil before software. His work pairs a witty, one-sentence conceptual hook with the classical typographic discipline he learned from Vignelli.",
+      "whatWorks": [
+        "Keep one running sketchbook - think by hand, in words, before opening software",
+        "Lead with a one-sentence idea/story; let form follow the narrative",
+        "Generate many rough directions fast and cheaply by hand",
+        "Pair a witty conceptual hook with strict typographic craft",
+        "Build taste over decades through a continuous personal archive"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "In a notebook, by hand, in words - write the problem and the idea before designing. He's kept a numbered sketchbook running since 1982; the story comes first, the form second."
+        },
+        {
+          "name": "Core method",
+          "notes": "Find the narrative - the single idea you can say in one sentence - then let it drive the form. Sketch many rough directions by hand to keep thinking loose and cheap."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Idea-led identity: a simple, often witty conceptual hook you can tell as a story, executed with Vignelli-grade typographic rigor."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "If you can't say the idea in a sentence, it isn't finished. Good design tells a story and rewards a second look; taste is built by looking constantly and keeping the record."
+        }
+      ],
+      "principle": {
+        "title": "Think by hand, in words, before you open the software",
+        "explanation": "An idea that survives as one sentence and a rough sketch is an idea worth building; form should follow that story. Starting in software too early locks you into shapes before you have a point.",
+        "howToApply": "Begin each project in a notebook: write the one-sentence idea, then sketch ~10 rough directions by hand before touching Figma. Keep the notebook running as your personal taste archive."
+      },
+      "tags": [
+        "identity",
+        "process",
+        "sketchbook",
+        "concept",
+        "typography"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Hodinkee",
+        "url": "https://www.hodinkee.com"
+      },
+      "image": "images/2026-07-27-hodinkee.png",
+      "category": "Editorial commerce (watches)",
+      "tagline": "Magazine-grade editorial grammar - kicker, serif headline, byline on every story - turned a watch blog into an authority.",
+      "summary": "Hodinkee runs like a print magazine online: a serif masthead, an 'In-Depth' lead story with a full-width hero photo, then a story grid where every card carries the same triad - an uppercase category kicker, a serif headline and an author. The kicker taxonomy ('Bring A Loupe', 'Reference Points', 'Hands-On') is both navigation and house voice. A dark 'Featured Videos' band separates media type by changing the background, not just the layout.",
+      "whatWorks": [
+        "Every story labeled with the same triad: uppercase kicker + serif headline + byline",
+        "A named category system (Bring A Loupe, Reference Points, Hands-On...) that doubles as insider vocabulary",
+        "Serif display type for editorial authority against a restrained black/white/grey palette",
+        "A dark background band to separate 'Featured Videos' from articles - content type signalled by color, not just position",
+        "Rich, uncluttered product photography given room to breathe; a numbered 'Most Discussed' list for engagement"
+      ],
+      "sections": [
+        {
+          "name": "Masthead + In-Depth hero",
+          "notes": "Centered serif 'HODINKEE' wordmark and slim nav; lead story with a full-width photo of two gold Patek Philippe pocket watches, kicker 'IN-DEPTH', serif headline, byline and dek."
+        },
+        {
+          "name": "Story grid",
+          "notes": "3-up then rows of cards, each with image + uppercase kicker + serif title + author. The kickers organize the firehose and set the voice."
+        },
+        {
+          "name": "Featured Videos (dark band)",
+          "notes": "Background flips to near-black; a large video still beside a vertical list of thumbnail+kicker+title rows - a clear media-type switch by color."
+        },
+        {
+          "name": "Latest",
+          "notes": "Back to light: a big lead card then 2-up and 2-up rows, same editorial card grammar throughout."
+        },
+        {
+          "name": "Most Discussed + footer",
+          "notes": "A numbered ranked list as lightweight social proof, then the serif masthead repeated in the footer."
+        }
+      ],
+      "principle": {
+        "title": "Give every item the same three-part label - kicker, headline, byline",
+        "explanation": "A consistent kicker + headline + attribution triad signals editorial rigor and lets readers scan a dense index by section and voice. The named kicker set becomes both navigation and a recognizable house vocabulary.",
+        "howToApply": "Define 5-8 named content categories and set them as consistent uppercase kickers above every headline, with an attribution line; the taxonomy becomes scannable navigation and a brand voice at once."
+      },
+      "tags": [
+        "editorial",
+        "typography",
+        "content-design",
+        "taxonomy",
+        "serif"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Magic Spoon - Meta feed ad (appetite macro)",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&country=US&q=%22Magic%20Spoon%22"
+      },
+      "image": "images/2026-07-27-ad-magic-spoon.png",
+      "category": "Meta feed ad (product macro on brand color)",
+      "tagline": "One glossy spoonful frozen mid-drip on electric purple - the money shot as the whole ad.",
+      "when": "Meta feed, 2026 (pulled live from the Meta Ad Library)",
+      "summary": "A running Magic Spoon unit built on a single dramatic macro: a spoon lifting creamy oatmeal with a syrup drip caught mid-fall, set against a vivid purple-to-magenta gradient. The appetite-appeal texture and frozen drip create implied motion that stops the scroll, the off-food brand color makes the hero pop, and the differentiator (15g protein / 6g fiber / 1g sugar) rides in the caption.",
+      "whatWorks": [
+        "Appetite-appeal macro - glossy texture and a syrup drip as the 'money shot'",
+        "A saturated, non-food brand color (purple->magenta) makes the food pop and screams brand recognition",
+        "One hero object, zero clutter - the whole frame is the product",
+        "The frozen drip creates implied motion inside a static image",
+        "Product differentiator (macros) carried cleanly in the caption, not crowding the visual"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Extreme close-up of the spoonful with a syrup drip caught mid-fall - texture plus frozen motion stops the scroll on craving alone."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Caption leads with the differentiator: 'reimagined with the macros you expect ... 15g protein. 6g fiber. 1g sugar.'"
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A single hero spoon on a saturated brand-purple gradient; the unexpected background color makes the food read instantly as Magic Spoon."
+        },
+        {
+          "name": "CTA",
+          "notes": "Flavor availability ('Maple Brown Sugar, Apple Cinnamon, and Banana...') pulls the viewer toward the shop; the image sells the craving, the copy sells the reason."
+        }
+      ],
+      "principle": {
+        "title": "Freeze the 'money moment' - the pour, the drip, the melt",
+        "explanation": "A static food or product ad gains implied motion and craving when it captures the peak sensory instant. The mid-drip freeze does more work than a tidy styled bowl ever could.",
+        "howToApply": "For food/beverage/product creative, shoot the drip/pour/steam mid-action and drop it on a bold off-palette brand color so the hero pops in a busy feed."
+      },
+      "tags": [
+        "social-ad",
+        "food",
+        "color",
+        "photography",
+        "dtc"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Hort",
+        "url": "https://en.wikipedia.org/wiki/Eike_K%C3%B6nig"
+      },
+      "image": "images/2026-07-27-designer-hort.png",
+      "category": "Studio - design & art direction (Studio Monday)",
+      "when": "founded 1994 - Frankfurt then Berlin, German",
+      "tagline": "The studio named after a daycare - run as a playground and learning space, not a factory.",
+      "summary": "Founded by Eike Koenig in 1994 (originally 'Eikes Grafischer Hort', out of music-industry work), Hort takes its name from the German word for a nursery or sanctuary - and means it. The studio is run as a small, individual-led collective and a place to learn, deliberately balancing commercial work with self-initiated projects and teaching. Its output is hand-made, experimental and anti-template, treating every brief as a chance to try something new. (Image: Eike Koenig, centre, with Erik Kessels and Marian Bantjes.)",
+      "whatWorks": [
+        "Run the studio as a learning environment, not a production factory",
+        "Protect time for self-initiated work - it becomes the R&D that feeds client work",
+        "Choose clients who allow experimentation over pure billing",
+        "Keep it small and individual-led - a collective, not a hierarchy",
+        "Hold it together with a shared culture of play and curiosity rather than a fixed house style"
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "A studio-as-playground/atelier: kept small, a group of designers working as individuals under one roof rather than a hierarchical agency. Framed explicitly as a place to learn and feel at home ('Hort' = nursery/sanctuary)."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Selective; favors clients who allow experimentation, and balances paid work with self-initiated projects and teaching (Koenig is a professor). The personal work feeds the commercial work."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Hand-made, craft-forward, experimental image-making - collage, type, illustration and analog processes; idea-and-play first, every project a chance to try something new instead of reusing a formula."
+        },
+        {
+          "name": "What holds it together",
+          "notes": "A culture, not a house style: curiosity, play, generosity and learning. The rule of thumb - enjoy the process, protect the freedom to experiment, and share what you learn."
+        }
+      ],
+      "principle": {
+        "title": "Protect self-initiated work - it's the R&D that powers the paid work",
+        "explanation": "Hort treats personal experiments and teaching as core, not extracurricular. The freedom to play is where new methods and images come from, and those discoveries flow into the client work.",
+        "howToApply": "Ring-fence regular time for self-directed experiments (a daily design study like this journal counts), let the discoveries feed real projects, and choose clients who reward experimentation."
+      },
+      "tags": [
+        "studio",
+        "process",
+        "creative-practice",
+        "experimentation",
+        "culture"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "week": "2026-W31",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Build one button as a proper auto-layout component set",
+      "discipline": "Component design / Design systems",
+      "tool": "Figma",
+      "time": "15 min",
+      "skill": "Auto layout + variants + hug/fill so a component resizes and re-states without manual edits",
+      "brief": "Rebuild a single button as an auto-layout component with Default / Hover / Pressed / Disabled variants, so it hugs its label and switches states cleanly - no manual resizing anywhere.",
+      "steps": [
+        "Type the label, select it, press Shift+A for Auto Layout. Set padding 12 (top/bottom) x 20 (left/right), gap 8, width Hug, height Hug.",
+        "Add a 16px square as a leading icon placeholder to practice gap + vertical-centre alignment.",
+        "Convert to a Component (Ctrl/Cmd+Alt+K), then add a Variant property 'State' with values Default / Hover / Pressed / Disabled.",
+        "Style each state from the palette below: Default solid, Hover darker, Pressed darkest (nudge content down 1px), Disabled greyed with no interaction.",
+        "Set corner radius 8 and a 15/1.2 semibold text style; then swap the label to a very long string and a one-word string and confirm it still hugs correctly.",
+        "Drop 3 instances, override the labels, and verify you never had to resize a frame by hand."
+      ],
+      "assets": [
+        {
+          "label": "Button label",
+          "value": "Get the download link"
+        },
+        {
+          "label": "Palette",
+          "swatches": [
+            "#4B3BFF",
+            "#3D2FE0",
+            "#2E22B8",
+            "#FFFFFF",
+            "#E5E4F7",
+            "#A6A2C4"
+          ]
+        },
+        {
+          "label": "State recipe",
+          "value": "Default bg #4B3BFF / text #FFFFFF | Hover bg #3D2FE0 | Pressed bg #2E22B8 (content +1px down) | Disabled bg #E5E4F7 / text #A6A2C4"
+        }
+      ],
+      "successLooksLike": "Changing the label text never forces a manual width edit, and all four states switch purely by flipping the 'State' variant property.",
+      "stretch": "Add a second variant property 'Size' (S/M/L) driven only by padding tokens, so one component covers three sizes and four states.",
+      "tags": [
+        "figma",
+        "auto-layout",
+        "components",
+        "variants",
+        "buttons"
+      ]
     }
   ]
 }
