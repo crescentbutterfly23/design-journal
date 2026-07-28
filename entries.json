@@ -10166,6 +10166,252 @@
         "gateway",
         "legal"
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Vitsœ",
+        "url": "https://www.vitsoe.com/us"
+      },
+      "image": "images/2026-07-28-vitsoe.png",
+      "category": "E-commerce / furniture",
+      "tagline": "A furniture site whose restraint is the sales argument — it sells things designed to outlive you, so nothing on the page looks like it will date.",
+      "summary": "Vitsœ has made Dieter Rams' 606 shelving since 1960, and the site is built on the same premise: buy once, add to it, take it with you. The homepage opens straight into three named products photographed in real, cluttered rooms — no slogan, no carousel, no hero video — then states four beliefs (Against obsolescence, Investing for life, Transcending fashion, Honest pricing) in plain four-column type. One neutral grotesque at three sizes, one blue link colour, and photography as the only imagery; the single decorative mark on the page is a small red pair of lips above the customer quote. Product pages replace discount mechanics with longevity maths — a $840–$3,875 range framed as about $2 a week — and put a free human planner in front of the buy step.",
+      "whatWorks": [
+        "The nav IS the catalogue: Home / About us / 606 Universal Shelving System / 620 Chair Programme / 621 Table — products are named and numbered, never marketed at.",
+        "Each product opener is an asymmetric split: short left column (headline, two 2-line paragraphs, a blue \"Learn more →\") against one photograph of the product in a lived-in room.",
+        "Photography is honest and inhabited — real books, a child's drawing, an orange sofa, ordinary light — instead of white-sweep studio shots.",
+        "The \"Why Vitsœ?\" grid puts four beliefs in four equal columns of plain type, with \"Discover our ethos →\" right-aligned on the heading's baseline.",
+        "Service is designed into the page: a black-and-white photo of two planners at a table, \"free planning\" stated twice, a named relationship quoted — all before any checkout step.",
+        "Longevity replaces urgency: cost-per-week framing and \"Honest pricing\" where a competitor would put a countdown or a sale badge.",
+        "The customer quote is set at display size in the heading face, so social proof arrives as typography rather than as a testimonial widget."
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "Wordmark locked up with \"Design Dieter Rams\" as a credential, then five text links named after the actual products. Utility (search, region, login, Contact us, Voice, Careers) sits above in small type. No mega-menu, no cart badge, no promo bar — the IA says \"we make three things.\""
+        },
+        {
+          "name": "Product openers — 606 / 620 / 621",
+          "notes": "Three stacked introductions instead of a hero. 606 gets the full-width treatment (text left, wide photo right); 620 and 621 share a two-up row. Copy is functional and rhythmic — \"Start small. Add to it. Reconfigure it. Take it with you when you move…\" — which is also literally how the product works."
+        },
+        {
+          "name": "Why Vitsœ? — the belief grid",
+          "notes": "Four columns: Against obsolescence, Investing for life, Transcending fashion, Honest pricing. Each is one 3-line paragraph of body copy at the same size — no icons, no cards, no borders. \"For 65 years we have stood up to a world that deliberately designs products to have a limited useful life\" is the closest the page comes to a marketing line."
+        },
+        {
+          "name": "Lifelong service",
+          "notes": "Text left, a wide documentary black-and-white photograph right: two planners working at a table inside a 606 system on a checkerboard floor. Sells the service layer (first system, moving it, reupholstering a decades-old chair) as part of the product, with \"Meet our team of experts →\" as the only ask."
+        },
+        {
+          "name": "What our customers say",
+          "notes": "A single quote — \"There's something quietly reassuring in buying something you can be certain will outlive you.\" — set at headline scale, paired with a small red lips illustration. One customer, one sentence, no star ratings or logo wall."
+        },
+        {
+          "name": "Voice — editorial row",
+          "notes": "Four small cards linking to customer stories, a Counterprint Books founder profile, a recipe from the Vitsœ kitchen, and \"A love letter to Vitsœ\". Brand journalism that keeps a once-a-decade purchase warm without retargeting energy."
+        },
+        {
+          "name": "Footer",
+          "notes": "\"Keep in touch\" with an honest promise — \"You will only hear from us when we have something of interest to share\" — an outlined Subscribe button, then four link columns (Company / Customer care / Professionals / Resources) that include CAD assets, brochures and prices. Ends on a plain © line and cookie links; no newsletter modal, no discount bribe."
+        }
+      ],
+      "principle": {
+        "title": "Let restraint carry the product argument",
+        "explanation": "When the claim is longevity, every page decision is evidence for or against it. A countdown timer, a gradient CTA or a trend-led layout quietly contradicts \"this will outlive you\"; one typeface, one accent colour, honest photography and calm pacing corroborate it. Restraint here isn't a style preference, it's the proof.",
+        "howToApply": "On a premium or long-life product page, cut carousels, urgency badges and decorative gradients, then replace them with: one full-width photograph of the thing genuinely in use, a four-column grid of plainly-worded beliefs, a cost-over-time figure instead of a discount, and a named human service step placed before the buy button."
+      },
+      "tags": [
+        "typography",
+        "restraint",
+        "e-commerce",
+        "photography",
+        "editorial"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Microsoft — LinkedIn single-image ad (1:1, Frontier Transformation Week)",
+        "url": "https://www.linkedin.com/ad-library/detail/1469167884"
+      },
+      "image": "images/2026-07-28-ad-microsoft-frontier.png",
+      "category": "LinkedIn feed ad (single image, 1:1)",
+      "tagline": "One word — \"impact.\" — set roughly three times larger than anything else, and the whole square resolves in a glance.",
+      "summary": "A B2B event ad that behaves like a poster rather than a post. The left half is a type panel on near-white: a two-line sentence-case setup, then \"impact.\" at display scale with a full stop, the event name and dates in caption type, and a black pill button. The right half is held by an iridescent ribbon graphic and a cut-out portrait looking down at a Surface. Pulled live from the LinkedIn Ad Library (advertiser Microsoft, paid for by Zenith UK), it also shows the platform frame at work: the creative carries the brand voice, LinkedIn's own headline bar and \"Register\" button carry the click. The body copy above it (\"The gap between AI strategy and real-world execution is closing fast\") is generic B2B — the craft is all in the unit.",
+      "when": "LinkedIn feed, running July 2026 (event: Frontier Transformation Week, September 14–17)",
+      "whatWorks": [
+        "A ~3:1 type-scale jump inside a 1:1 frame: two modest setup lines, then one word at display size — hierarchy readable at feed-thumbnail size.",
+        "The full stop after \"impact.\" turns a sentence fragment into a claim.",
+        "Vertical split: type owns the left half, image the right, so neither is cropped into nonsense when the square is scaled down.",
+        "What and when in two caption lines directly under the headline (\"Frontier Transformation Week / September 14-17\") — no separate detail block.",
+        "Two deliberately different CTAs: a black pill \"Guarantee your spot\" inside the creative for voice, LinkedIn's outlined \"Register\" in the frame for the actual click.",
+        "Small brand mark top-left: when the type is doing the shouting, the logo doesn't have to.",
+        "Palette held to three notes — off-white ground, black type, one iridescent gradient accent — so the graphic reads as energy, not noise."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The iridescent blue-violet ribbon curling behind a real person's head is the only saturated thing in a near-white square — colour, not contrast-shouting, is what stops the scroll. The subject is calm and mid-thought rather than grinning at camera, which reads as credible in a B2B feed."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "\"It's time to turn your vision into real-world\" runs at body scale across two lines, then \"impact.\" drops in at roughly triple the size. The eye lands on the big word first and reads the setup second — the sentence works in either order. Event name and dates follow immediately in small plain type."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The portrait is bottom-right, cut out over the same off-white as the type panel, eyeline angled down and left toward the tablet — and therefore back into the copy. The ribbon graphic bridges the two halves at the top so the composition doesn't split into two unrelated rectangles."
+        },
+        {
+          "name": "CTA",
+          "notes": "Inside the creative: a compact black pill, \"Guarantee your spot\" — a promise, not a verb-noun label, and the only pure-black shape besides the type. In the LinkedIn frame beneath: \"Jump ahead of your Industry's Curve\" with an outlined \"Register\" button. The in-image button sets the tone; the platform button is the tap target."
+        }
+      ],
+      "principle": {
+        "title": "Make one word the whole ad",
+        "explanation": "A feed grants an ad about one word of real attention. If every line is set at a similar size, the viewer gets no word at all; if one word is set at display scale and everything else demoted to caption, the ad lands even at thumbnail size and even when scrolled past at speed.",
+        "howToApply": "For a 1:1 or portrait ad: pick the single word that IS the offer, set it ~3× the supporting line, put the event/date/detail beneath it at caption size, keep the image to one half of the frame, and let the platform's own CTA button do the converting while an in-creative button carries the brand voice."
+      },
+      "tags": [
+        "advertising",
+        "typography",
+        "hierarchy",
+        "b2b",
+        "cta"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Muriel Cooper",
+        "url": "https://en.wikipedia.org/wiki/Muriel_Cooper"
+      },
+      "image": "images/2026-07-28-designer-muriel-cooper.png",
+      "category": "Book design → digital interface (MIT modernism to the screen)",
+      "when": "1925–1994 · American",
+      "tagline": "Took graphic design off the page and into the screen by refusing to separate designing from making.",
+      "summary": "Cooper joined MIT's Office of Publications in 1952 and became its first design director, drawing the MIT Press colophon — seven vertical bars abstracted from \"mitp\" and a stack of book spines — and redesigning the 1969 Bauhaus book in Helvetica on a strict grid. In 1973–74 she co-founded the Visible Language Workshop with Ron MacNeil, a room holding silkscreen, lithography and offset presses alongside computers; in 1985 it became a founding group of the MIT Media Lab. Her last decade produced \"smart\" typography that adapts to its background and the Information Landscape — text and data you fly through in three dimensions. She never learned to code, and got there anyway by sitting alongside programmers rather than briefing them.",
+      "whatWorks": [
+        "Design in the production medium, not in a mockup of it — she put the presses and the computers in one room so students designed by running the machine.",
+        "The \"Rotation System\" drill: push the same sheet through the press again and again, changing inks each pass, and let the process reveal the form.",
+        "Train generalists, not specialists — rotate people through editorial, platemaking and digital work so nobody hands off blindly.",
+        "Build tools, not just artefacts: her group made type that reads its own background and re-pigments itself to stay legible — encode the rule instead of hand-fixing each instance.",
+        "Share the source: VLW code was passed down to each new intake, an open-source ethic before the phrase existed.",
+        "Get to new territory by collaborating with engineers as peers rather than writing specs at them."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With the material and the machine. First moves are production experiments — a press run, a screen, a piece of code — rather than sketches of a finished artefact. She described her own interest as \"beginnings and process\" rather than design theory, and treated the tools as the place where ideas are found, not where they get output."
+        },
+        {
+          "name": "Core method",
+          "notes": "A shared workshop with instant feedback between thinking and making: design, produce, look, change, repeat, with every tool in the room and disciplines deliberately mixed (architecture, art, engineering, computer science). \"Messages and Means\", her oversubscribed class, gave students the means of production first and the brief second."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Making typography intelligent. Type that knows its context — when the background colour changes, it re-pigments to stay readable — extended into depth, motion and transparency, and finally into the Information Landscape, where hierarchy is expressed by position in 3D space instead of by point size on a page."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Judge work by whether it makes information clearer and more alive, not by whether it obeys a style. Assume the boundary between design tool and reproduction tool will dissolve once information is electronic, and that specialists will have to become generalists — so learn the next medium early, on purpose, while it is still awkward."
+        }
+      ],
+      "principle": {
+        "title": "Design in the medium, not about it",
+        "explanation": "A medium's real grammar — what it does easily, what it resists, what it does that nothing else can — only shows up when you produce in it. Designing a static picture of an interactive thing hides exactly the qualities worth designing with, which is why Cooper kept the presses and the computers in the same room and let students discover form by running them.",
+        "howToApply": "Before designing a screen, an animation or a print piece, spend the first 20 minutes making a crude version in the real medium — in the browser, in the actual app, on the actual paper — and let what the medium does cheaply shape the design. On the 35353 work, that means prototyping a section in live HTML/CSS before polishing it in Figma."
+      },
+      "tags": [
+        "process",
+        "typography",
+        "digital",
+        "teaching",
+        "systems"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Uber — Co-marketing Guidelines (Brand.uber)",
+        "url": "https://brand.uber.com/document/468#/co-marketing-guidelines/uber-co-marketing-guidelines"
+      },
+      "image": "images/2026-07-28-brandguide-uber.png",
+      "category": "Partner / co-marketing guidelines — the public layer of a gated brand portal",
+      "tagline": "A brand guide written for people who do not work at Uber — so its first rule is that your logo leads and Uber comes second.",
+      "summary": "brand.uber.com is mostly gated: the Identity system and creative assets sit behind sign-in. What is public is the partner layer — co-marketing guidelines for Uber and Uber Eats, plus a 309-asset logo library — and it is unusually strong on the two things partner guides normally fumble: hierarchy in a lockup, and words. Clear space is defined as the height of the letter U and drawn as a diagram; partner lockups specify order, a divider glyph and spacing measured in the same letter; and the messaging section gives a straight approved / not approved language table, including a ban on using \"Uber\" as a noun or a verb. Governance opens the page rather than closing it: everything using the wordmark goes to Brand Desk first, with a stated 3–5 business day turnaround.",
+      "whatWorks": [
+        "States the brand hierarchy in one sentence — \"Your brand should always take the visual lead in marketing that appears on your channels\" — before any styling rule.",
+        "Encodes that hierarchy geometrically: partner logo first, line glyph between, spacing equal to the width of the \"U\", Uber second, in whichever of black or white contrasts more.",
+        "Clear space defined relative to the letterform (height of the U) and shown as a diagram over a tiled wordmark, so it needs no judgement to apply.",
+        "Approved vs Not approved language in two columns (\"Request an Uber ride\" / \"Call an Uber\"), plus fill-in-the-blank approved offer lines with [bracketed] slots.",
+        "Names what the company actually is — \"a digital platform that connects people with independent contractors\" — so partners describe the business correctly, not just spell it correctly.",
+        "Governance up front with an SLA: submit to Brand Desk, 3–5 business days, \"revisions can add to that — so please plan ahead.\"",
+        "The Uber Eats parallel doc ships CTA badges and app icons in 15 languages, plus minimum sizes in both web pixels and print inches."
+      ],
+      "sections": [
+        {
+          "name": "Purpose + approval route",
+          "notes": "Opens by saying what the guide is for and that all partner materials, copy, press releases and sites using Uber wordmarks go to Brand Desk before launch — with a response time (3–5 business days) and a \"Submit to Brand Desk\" button right there. Governance as the first screen, not an appendix."
+        },
+        {
+          "name": "Brand elements and logos",
+          "notes": "The hierarchy rule, then the wordmark shown black-on-light and white-on-dark as two side-by-side panels, three rider app icons (iOS, Android square, Android circle), and a \"Download Uber logos\" button. Every asset shown is also downloadable from the same page."
+        },
+        {
+          "name": "Core colors",
+          "notes": "Two swatches, black and white, each with HEX, RGB, CMYK and PMS. Honest about its own scope: these are stated as the colours the logo and app icons are made of, not as a brand palette — which is also the gap (see needs)."
+        },
+        {
+          "name": "Logo guidance — clear space & lockups",
+          "notes": "Clear space = the height of the letter U, drawn as a diagram over a tiled Uber wordmark with blue guides. Then partnership lockups in both horizontal and vertical form, with a placeholder \"Replace with logo here\" box making the partner-first order unmissable."
+        },
+        {
+          "name": "Messaging guidelines",
+          "notes": "The standout section. Defines the business, bans \"Uber\" as noun or verb (\"your Uber is here\", \"Let's Uber to the show\"), then two colour-coded columns of approved vs not-approved phrases, followed by approved offer-messaging templates. Verbal identity treated as a rule set with examples, not as adjectives."
+        },
+        {
+          "name": "Uber Eats co-marketing (parallel document)",
+          "notes": "Same structure for the Eats brand: logo per background including on Eats green, CTA badge and app icons available in 15 languages, minimum sizes in web px and print inches, and branded extras — delivery bags, gift cards, GIPHY stickers — with \"submit mocks to Brand Desk for approval\" attached."
+        },
+        {
+          "name": "Logo library (/logos)",
+          "notes": "309 SVG assets in 14 collections, filterable by brand, language, product, colour format and orientation, with a strict naming convention (Logo_UberBlack_English_Stacked_White) and a date on every file. The asset layer is a searchable DAM, not a zip."
+        },
+        {
+          "name": "Footer",
+          "notes": "A single \"Last modified on …\" timestamp on the document. Enough to prove the page is maintained, not enough to tell a partner what changed."
+        }
+      ],
+      "needs": [
+        "A public typography section — no typeface, scale or licensing guidance outside the gate, so partners set Uber-adjacent copy in whatever they happen to own.",
+        "A real colour system — only black and white appear publicly; no brand palette, tints, or usage ratios.",
+        "Accessibility rules — nothing on contrast minimums, approved text/background pairings, or minimum type sizes for co-branded creative.",
+        "Photography and illustration direction — the page itself uses striking imagery but gives partners no yes/no examples for their own.",
+        "Logo misuse examples — the messaging section shows do/don't beautifully, while the logo section shows only correct usage; no stretched, recoloured, boxed or low-contrast counter-examples.",
+        "A version number and changelog, not just a modified date, so a partner knows whether their approved asset from last quarter is still current.",
+        "A worked end-to-end example — one finished co-branded ad or email annotated against every rule, which would settle most Brand Desk revisions before they happen."
+      ],
+      "principle": {
+        "title": "Rank the brands before you style anything",
+        "explanation": "In co-branded work almost every misuse is a hierarchy failure, not a colour failure — the partner makes your logo too big, puts it first, or gives it equal weight. Stating the rank in one sentence and then encoding it geometrically (order, divider, spacing tied to a letterform) removes the judgement call that causes the mistake.",
+        "howToApply": "In any partner, press or co-marketing section of a 35353 guide, write the rank rule as a sentence (\"the partner brand leads; 35353 supports\"), then specify it mechanically: which logo comes first, what glyph separates them, spacing measured off a letter of the wordmark, and which colourway to pick by contrast — and ship the lockups as finished files so the rule can be followed without redrawing it."
+      },
+      "tags": [
+        "brand-guide",
+        "co-marketing",
+        "governance",
+        "verbal-identity",
+        "logo-system"
+      ]
     }
   ]
 }
