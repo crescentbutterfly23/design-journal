@@ -10412,6 +10412,256 @@
         "verbal-identity",
         "logo-system"
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Ace Hotel",
+        "url": "https://acehotel.com"
+      },
+      "image": "images/2026-07-29-ace-hotel.png",
+      "category": "Hospitality / hotel group",
+      "tagline": "A hotel group that runs its homepage as a magazine and keeps the entire booking engine compressed into one persistent utility bar.",
+      "summary": "Ace Hotel sells a scene rather than a room, and the homepage is built to argue exactly that. The whole reservation flow — location, dates, guests, promo code, Book Now — lives in a compact bar pinned to the header and is never repeated as a giant hero form; everything below it is editorial. A near-neutral shell of paper white, black and warm beige lets property photography supply all the colour, and dated live content (tonight's DJ set, Taco Tuesday in Kyoto, tarot readings in Palm Springs) sits on the homepage at the same weight as the offers. The trade-off is honest: the page is long, and a guest who arrived only to book has to trust the header rather than a big obvious form.",
+      "whatWorks": [
+        "The entire booking engine is one compact header bar — location, date grid, guest stepper, promo code, Book Now — so the conversion path exists once instead of being restated as a hero form and repeated between every section",
+        "Each location card carries a one-line character line (\"a mid-century desert oasis\", \"alongside the region's best beaches\") instead of an amenity list — the property is sold by voice",
+        "Near-neutral shell (paper white, black, warm beige) means every ounce of colour in the page comes from the photography",
+        "Two type registers doing two jobs: serif display for anything editorial, sans for anything you operate (dates, filters, form labels)",
+        "The \"Goings On\" block lists real, dated, location-filtered events — a homepage carrying live content reads as a place that is genuinely open tonight",
+        "The Ace Reader block gives editorial (a city guide, an artist piece, an essay on queer belonging through books) the same visual weight as the rate offers",
+        "The dark footer is the only inverted band on the page, so it closes the document instead of bleeding into more content"
+      ],
+      "sections": [
+        {
+          "name": "Booking / utility bar",
+          "notes": "Logo left; language selector, location chooser, check-in/out date grid, guest stepper, promo field and Book Now to the right. Kept small, sans-serif and functional — deliberately styled as an instrument rather than as brand. Keyboard-navigable date grid and an expandable guest dialog mean the whole reservation can be started without leaving the header."
+        },
+        {
+          "name": "Welcome statement",
+          "notes": "A short centred paragraph on a light ground, no image: \"a collection of international lifestyle hotels\" holding \"historical reverence hand-in-hand with considered, contemporary design.\" It positions before it sells, and its restraint sets the reading pace for the rest of the page."
+        },
+        {
+          "name": "Locations grid",
+          "notes": "A 2–3 column card grid of eight properties, each a single strong photograph (Athens poolside, Brooklyn skyline, Kyoto architecture) with the city name as an h3 and one line of character copy below. Minimal overlay text, no rate badges — the picture and the sentence do the whole job, and \"Fukuoka — coming soon\" is left in place as a signal of momentum."
+        },
+        {
+          "name": "Offers",
+          "notes": "Five rate offers (Ace Member Rate, Extra Credit, Make it Last, Pay Now and Save, Week Daze) as branded graphic cards with their own beige and animated backgrounds, each with a Book Now plus a View offer link. Named like editorial, not like discounts — the commercial section still speaks in the brand's voice."
+        },
+        {
+          "name": "Goings On (events)",
+          "notes": "Curated event cards filterable by location, each with a real time, place and short description, illustrated with the actual flyer artwork. This is the section most hotel sites skip, and it is the one that proves the brand claim: the hotel is a venue, not just a bed."
+        },
+        {
+          "name": "Ace Reader (editorial)",
+          "notes": "A featured article followed by a grid of recent pieces — local guides from named figures, artist spotlights, essays — each with a large photograph, location and date. Placed after the commercial blocks so it reads as substance rather than filler."
+        },
+        {
+          "name": "A-List signup & footer",
+          "notes": "A full-width newsletter form with a plain incentive (\"secret codes, special events, big news, and up to 15% off your next stay\") and a real privacy checkbox, then the only dark band on the page: a multi-column footer with utility links, social icons, the Seibu Prince partnership mark and an atmospheric image with text overlay."
+        }
+      ],
+      "principle": {
+        "title": "Let the booking widget be a tool, not the identity",
+        "explanation": "On any site with a dominant conversion widget — a booking engine, a property search, a quote form — the default is to blow it up into the hero and then repeat it every few sections, which turns the whole page into an interface and leaves nothing to argue the brand. Ace compresses the entire reservation flow into one persistent header bar styled as an instrument, then spends the rest of the page on photography, live events and writing. Conversion stays one click away everywhere without ever becoming the design.",
+        "howToApply": "On a 35353 or client site with a search or enquiry widget, build it once as a compact sticky utility bar with its own tighter, more functional visual language (sans type, small controls, neutral chrome), and resist restating it as a full-width block between sections. Then design the body editorially — one honest photograph per place or product, a line of character copy instead of a feature list, and at least one dated, genuinely live section so the page proves the business is active."
+      },
+      "tags": [
+        "hospitality",
+        "editorial",
+        "photography",
+        "conversion",
+        "layout",
+        "typography"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Tracksmith — Meta carousel ad (5 cards, 4:5)",
+        "url": "https://www.facebook.com/ads/library/?id=2285312748942033"
+      },
+      "image": "images/2026-07-29-ad-tracksmith.png",
+      "category": "Meta carousel ad (4:5 cards, Facebook + Instagram feed)",
+      "tagline": "Five carousel cards shot as one object on one brown ground, with zero text burned into the creative — the swipe becomes a rotation, not a channel change.",
+      "when": "Meta feed (Facebook + Instagram), running from Jul 2, 2026 — Eliot Racer launch (Ad Library ID 2285312748942033)",
+      "summary": "Tracksmith’s Eliot Racer launch runs as a product carousel in which every card is a long-exposure macro of the same shoe, lit the same way, on the same warm brown ground. Nothing is written on the image — no headline, no price, no \"NEW\" flash — so the creative gets to be photography while the Meta text block carries the entire argument, including a specific lab claim. The palette is two colours (bone white and brass) against brown, matched to the brand’s hare mark, so the ad is recognisable as Tracksmith without a logo lockup anywhere in frame. The motion blur is not decoration: it states the product claim (speed, energy return) in the medium rather than in words.",
+      "whatWorks": [
+        "Zero text baked into the creative — the copy lives in the platform’s own text block, freeing the image to be a photograph rather than a poster crammed with a headline and a badge",
+        "One ground colour, one light source and one palette across all five cards, so swiping reads as turning an object rather than flipping between separate ads",
+        "Long-exposure blur does the job a \"FAST\" headline would do — the claim is demonstrated in the photography instead of asserted in type",
+        "A strict two-colour product palette (bone + brass) tied to the brand’s gold hare, giving instant attribution with no logo lockup in frame",
+        "The card order is an argument: hero silhouette in motion → midsole and outsole macro → the drop-in insole lifted out — each card answers the objection the last one raises",
+        "Body copy earns the superlative with a measurable proof (\"outperformed every other shoe in the lab with the highest energy return to softness ratio\") rather than adjectives",
+        "The same headline and Shop Now sit under every card, so no swipe position is a dead end"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A pale shoe streaking through warm brown darkness, shot at a shutter speed slow enough to smear the trailing edge. In a feed of flat white-background product shots and text-on-image promos, an almost abstract, moody macro is the pattern interrupt — it looks like editorial photography, which is exactly why it stops the scroll."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "All words sit in the Meta text block, above the creative: \"Redefine race day with the all-new Eliot Racer. Maximum energy return meets next-level cushioning in an understated silhouette.\" Then the proof paragraph — drop-in midsole, carbon plate, and the lab result. Note the order: promise, mechanism, evidence. \"Understated silhouette\" is doing brand work too, telling a Tracksmith runner this is not a neon super-shoe."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Five 4:5 cards, each a macro of a different part of the same shoe on the identical brown ground. Card one is the silhouette in motion; card two crops hard into the midsole and gold outsole tread with the hare stamped on the foam; card three floats the drop-in insole out of the shoe with the Tracksmith script visible. The consistency is the craft — same ground, same key light, same blur language — so five images behave as one product study."
+        },
+        {
+          "name": "CTA",
+          "notes": "Repeated verbatim on every card: TRACKSMITH.COM / \"Men’s Tracksmith Eliot Racer\" / Shop Now. Rendered in Meta’s native button chrome rather than a custom button drawn into the artwork, so it inherits the platform’s tap target and looks like the feed instead of like an ad pretending to be one."
+        }
+      ],
+      "principle": {
+        "title": "In a carousel, make the cards one object — not five ads",
+        "explanation": "Carousels fail when each card is designed independently: different backgrounds, different crops, a different headline burned into each one. Swiping then feels like channel-surfing and the viewer leaves at card two. Holding one ground colour, one light source and one palette across the whole set turns the swipe into a rotation around a single subject, and the card order stops being a gallery and becomes an argument.",
+        "howToApply": "For any multi-image ad, listing carousel or gallery block, lock the background, lighting and palette before shooting and produce the whole set in one session. Then order the cards as a case — establishing shot, the detail that proves the claim, the thing the buyer cannot see in a store — keep text out of the images so the copy block can carry it, and repeat one identical CTA under every card."
+      },
+      "tags": [
+        "paid-social",
+        "carousel",
+        "product-photography",
+        "art-direction",
+        "dtc",
+        "motion"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Ladislav Sutnar",
+        "url": "https://en.wikipedia.org/wiki/Ladislav_Sutnar"
+      },
+      "image": "images/2026-07-29-designer-ladislav-sutnar.png",
+      "category": "Information design / modernist systems",
+      "when": "1897–1976 · Czech-American",
+      "tagline": "The designer who invented information design by treating a trade catalogue as a navigation problem — and gave the world the parentheses around a phone area code.",
+      "summary": "Sutnar trained in Prague, taught at the State School of Graphic Arts and designed the Czechoslovak pavilion for the 1939 New York World’s Fair — then stayed, as the war closed the way home. From 1941 he spent nineteen years as art director of Sweet’s Catalog Service, the largest trade-information publisher in America, and with research director Knud Lönberg-Holm built the first systematic model of what the two of them named \"information design.\" His grids, tabs, colour coding and cross-reference marks anticipated the navigational conventions of the web by about four decades, and his working maxim — \"the designer must think first, work later\" — is the most portable thing in this journal.",
+      "whatWorks": [
+        "Sort the content before opening the design tool — Sutnar treated structuring the information as the design work and the layout as its visible consequence",
+        "Design the spread, not the element: he made the double-page spread (today, the viewport) the unit of design, because it is what the reader actually sees at once",
+        "Build the fixed framework first — grid, type, colour roles, index — then allow variety only inside it, so a system survives thousands of pages made by many hands",
+        "Add explicit navigation devices as designed objects: tabs, arrows, heavy rules, colour bars, oversized punctuation — so a reader can traverse without reading sequentially",
+        "Judge the work by behaviour, not by appearance: did the reader find the fact and take the action?",
+        "Design upward — he refused to pander to assumed public taste, holding that the job was to \"uplift the public to an expert design level\""
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "\"The designer must think first, work later.\" Sutnar refused to draw until the data was sorted. He described himself as a Constructivist who liked to take a thing apart, find the right organising structure and rebuild it — so the first pass on any brief was analytical, not visual. An assistant recalled him untangling knotted balls of client data with apparent ease and then drawing, in one go, a layout that expressed the solution exactly. The single confident layout is the output of the thinking, never a substitute for it."
+        },
+        {
+          "name": "Core method",
+          "notes": "He designed the system, not the page. At Sweet’s the unit of design was the dynamic double-page spread — what a reader takes in at a glance — and above that sat a fixed framework of grid, typographic hierarchy, colour coding and indexing that held constant across a catalogue of thousands of pages produced by many hands. Contemporaries described the indexing as a visual Dewey Decimal system: the framework was rigid so the content could vary without the whole becoming noise."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Navigational devices treated as first-class design elements. Enlarged punctuation — commas, colons, exclamation marks blown up to graphic scale — worked as what he called linguistic traffic signs; alongside them, thumb tabs, arrows, bold rules, colour bars and cross-reference marks let a reader jump into the middle of a document and orient instantly. The same instinct produced his best-known anonymous artefact: the parentheses around US telephone area codes, designed for Bell in the late 1950s so a dialler could see at a glance which digits were the prefix."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "His definition doubles as his test: information design is \"the integration of meaning (content) and visualisation (format) into an entity that produces a desired action.\" The question is never whether a layout looks resolved but whether it produced the action — found, understood, dialled, ordered. Paired with that is a refusal to design down: taste should be raised toward expert level, not estimated and catered to. Consistency in the framework, variety within it."
+        }
+      ],
+      "principle": {
+        "title": "Sort the information before you design it",
+        "explanation": "Most pages that read as busy are not styling failures — they are unsorted content that got styled anyway. Sutnar’s \"think first, work later\" treats hierarchy, grouping and cross-reference as the actual design work; once those are settled the visual solution is close to forced, which is why he could draw a finished layout in one pass. It is also what lets a system scale: a framework decided in the analysis survives thousands of pages and many hands, while a framework improvised in the layout does not.",
+        "howToApply": "Before opening Figma on a page, brand guide or dashboard, write the content out as a plain text outline — every fact, grouped and ranked, with cross-references marked — and refuse to draw until that outline reads cleanly. Then design the navigation devices as real elements with their own specs (section labels, rules, colour coding, an index or jump list) rather than adding them as decoration afterwards, and test the result by task: can someone land mid-page and find one specific fact without reading from the top?"
+      },
+      "tags": [
+        "information-design",
+        "systems",
+        "hierarchy",
+        "wayfinding",
+        "editorial",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Deutsche Bahn — Marketingportal (Marke und Design)",
+        "url": "https://marketingportal.extranet.deutschebahn.com/marketingportal/Marke-und-Design"
+      },
+      "image": "images/2026-07-29-brandguide-deutsche-bahn.png",
+      "category": "Full brand guide — public marketing portal for a national operator",
+      "tagline": "A brand guide built for the people who actually break brands — it names a separate cut of the corporate typeface for print, for screen and for PowerPoint, and ships the files for each.",
+      "summary": "Deutsche Bahn’s Marketingportal is the public marketing and brand portal for a national rail operator, running from brand and naming strategy through logo, typography, colour, the proprietary \"Puls\" element, icons, imagery, motion branding and layout, and ending in real applications and legal terms. Its strongest quality is operational realism: it is written for thousands of staff, agencies and regional units who will make a poster, a station sign and a Word document in the same week, so the rules are specified by destination and shipped with the files. It is also unusually rigorous on accessibility — contrast ratios published per text size, a rule against colour as the sole carrier of meaning, and dark mode handled as a systematic transformation. The main caveat is that it explains almost none of its reasoning, and it is German-only.",
+      "whatWorks": [
+        "DB Type ships as three named cuts mapped to where people actually work — DB Neo for print and vehicle lettering, DB Neo Screen for digital, DB Neo Office for Word and PowerPoint — with .otf, .ttf and .woff2 supplied so nobody has to fall back to Arial",
+        "One non-negotiable stated in a sentence: DB Red is always part of the design, and text is only ever black or white — which makes almost every palette decision decidable without a judgement call",
+        "Accessibility published as numbers per text size (4.5:1 small text, 3:1 large text and graphic elements, 1.3:1 decorative) plus a colour-blindness rule that bans colour as the only means of communicating relevant content",
+        "Dark mode as a system rule rather than a screenshot: secondary colours mirror across the scale (Blue 700 becomes Blue 200) and font weight drops one step to compensate for optical bulk on dark grounds",
+        "Naming and domain strategy sit inside the brand guide, so what a new product is called and which URL it takes are treated as brand decisions rather than marketing afterthoughts",
+        "The proprietary \"Puls\" graphic element and motion branding are documented as base elements alongside logo and colour — not relegated to an appendix",
+        "Rules carry scope, not just pictures: the rainbow logo variant is permitted only in LGBTQ+ related DB communication, which is a usage boundary rather than a swatch"
+      ],
+      "sections": [
+        {
+          "name": "Strategie — Markenstrategie & Namingstrategie",
+          "notes": "Opens with positioning and how products appear under the DB brand, then naming and domain strategy. Rare and valuable: most guides never say who decides a product name or when a domain gets registered, so this closes a gap that usually leaks into ad-hoc sub-branding."
+        },
+        {
+          "name": "Logo",
+          "notes": "The mark, its variants and downloads, with legal usage terms attached. Placement guidance is about distance from edges and other elements. The rainbow variant is documented with an explicit scope limit. Correct usage is well covered; counter-examples are not."
+        },
+        {
+          "name": "Typografie",
+          "notes": "DB Type in three families — DB Neo (Adobe/print/vehicle lettering), DB Neo Screen (web and UI), DB Neo Office (MS Office and business documents) — plus DB Non Latin for other scripts. Free to use but only for Deutsche Bahn projects; installation instructions per platform; mixed case always; even the bullet glyph is specified (U+2022 in DB Red 500, with defined spacing). Presented as concise summaries plus an FAQ."
+        },
+        {
+          "name": "Farbe",
+          "notes": "DB Red and white as the iconic pair, with values across CMYK, HEX, SCSS, RGB, NCS, RAL and Pantone. Rules for which combination applies on white grounds (red mark, black text in print, Cool Gray 700 digital) and on red grounds (white mark, white text). Twelve secondary base colours, each in eight shades from 100 to 800, explicitly for campaigns and illustration rather than decoration. Then the WCAG thresholds, the colour-blindness rule and dark-mode mirroring. This is the chapter that does show right/wrong pairs."
+        },
+        {
+          "name": "Puls",
+          "notes": "The brand’s proprietary graphic accent, treated as a base element in its own right next to logo, colour and type — and folded into the colour rules (on white it is red; on red it is white), so the accent element and the palette are specified together rather than separately."
+        },
+        {
+          "name": "Icons, Bildwelt & Motion Branding",
+          "notes": "Three distinct icon sets — functional, app and illustrative — rather than one undifferentiated library, which prevents UI icons and marketing spot illustrations being used interchangeably. Photography direction and motion principles sit beside them as first-class base elements."
+        },
+        {
+          "name": "Layout, Best Practice / Anwendungen",
+          "notes": "Grid and composition rules, then a separate applications chapter showing the identity in the wild — BahnCards, station and OOH placements, digital screens. The applications chapter is dated separately (30.11.2022) from the base elements (20.01.2026), so a reader can see which parts have been refreshed."
+        },
+        {
+          "name": "Rechtliches & contact",
+          "notes": "Impressum, terms of use, font licence terms and privacy, plus two named routes: marke@deutschebahn.com for brand questions and markenrecht@deutschebahn.com for trademark questions. Splitting the brand inbox from the legal inbox is a small thing that saves a lot of misrouted requests."
+        }
+      ],
+      "needs": [
+        "Rationale. The typography chapter in particular is procedural how-to with almost no \"why\", so a team can obey the system but cannot extend it correctly to a surface the guide never anticipated.",
+        "Do/don’t examples for type the way the colour chapter has them — colour shows right and wrong pairs side by side; typography largely does not.",
+        "A verbal identity layer. A guide that covers strategy, naming, motion and iconography has essentially nothing on voice, tone or messaging pillars, so writing is the one part of the brand left ungoverned.",
+        "Logo misuse counter-examples — the stretched, recoloured, boxed, rotated and low-contrast set. Correct usage plus downloads is not the same as a misuse page.",
+        "A version number and changelog rather than a per-chapter modified date, so a partner can tell whether the asset they were approved to use last quarter is still current.",
+        "An English layer. For an operator whose agencies, suppliers and European partners are not all German-speaking, a German-only portal quietly limits who can comply with it.",
+        "One end-to-end worked example — a single campaign annotated against every rule at once — which would settle far more questions than any individual chapter."
+      ],
+      "principle": {
+        "title": "Name a typeface for every place people actually work",
+        "explanation": "Brand type systems almost never break in the studio — they break in the office. The licensed display cut cannot be installed in PowerPoint, will not render on a vehicle or in an email client, and has no web format, so people substitute Arial and the identity quietly leaks out of everything that is not a designed asset. DB solves it by shipping three cuts of one family, each named for its context and supplied in the file format that context needs, which turns a compliance problem into a download.",
+        "howToApply": "In any brand guide, list the type system by destination rather than by weight: which cut for print, which for screen and web (with woff2), which for Word, PowerPoint and email (with .ttf), and which fallback covers scripts you do not support — then attach the actual files to each line. Do the same for colour by naming the value systems the destinations need (HEX and a token name for digital, CMYK and Pantone for print) so nobody has to convert by eye."
+      },
+      "tags": [
+        "brand-guide",
+        "typography",
+        "accessibility",
+        "color-system",
+        "governance",
+        "transport"
+      ]
     }
   ]
 }
