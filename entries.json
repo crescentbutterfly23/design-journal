@@ -10662,6 +10662,478 @@
         "governance",
         "transport"
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Blue Bottle Coffee",
+        "url": "https://bluebottlecoffee.com"
+      },
+      "image": "images/2026-07-30-blue-bottle-coffee.png",
+      "category": "E-commerce — specialty coffee",
+      "tagline": "A full commerce homepage where type is never once set on top of a photograph.",
+      "summary": "Blue Bottle runs a long, hard-working e-commerce page - hero carousel, best sellers, four editorial bands, a collection grid, a subscription spec sheet, brew guides and dated reviews - without ever overlaying a headline on an image. Photographs run edge to edge and clean; every headline, subhead and button sits in a white or pale-sage panel beneath or beside them. Hierarchy comes almost entirely from case, letterspacing and vertical space in one grotesque, and the single accent colour (Blue Bottle blue) appears only in the mark and on the packaging itself. A caveat: several bands lazy-load their imagery, so a full-page capture catches a couple of empty panels.",
+      "whatWorks": [
+        "The hero is an uncropped photograph of the cold-brew set on concrete with a hard raking shadow, and carries zero type; the headline 'THE NEW COLD STANDARD', a one-line subhead, the dark 'Explore Cold Collection' button and the 01/02/03 slide counter all sit in the white band beneath it.",
+        "Every section title - BEST SELLERS, SHOP BY COLLECTION, EXPLORE OUR BREW GUIDES - is set at nearly the same size in the same wide-tracked all-caps grotesque; hierarchy is carried by case, tracking and whitespace rather than by a big type scale.",
+        "One accent, used once: Blue Bottle blue only ever appears in the bottle glyph and on real packaging in the photography. Primary buttons are solid near-black, secondary buttons are hairline outlines, so the palette never competes with the product.",
+        "Product cards rank flavour above category - name in caps with the price on the same baseline, then the tasting notes ('Blackberry, Lemongrass, Golden Raisin'), then roast type in grey - with a single small corner chip for 'New' / 'Best Seller' / 'Bundle & Save'.",
+        "The subscription block is written as a spec sheet, not a pitch: three labelled groups (YOUR DAILY RITUAL / EXTRA SAVINGS / EXCLUSIVE ACCESS) split by hairline rules, with the actual discount code sitting in the bullet list.",
+        "Social proof is product-specific and dated - each review names the exact SKU ('THREE AFRICAS - 12OZ WHOLE BEAN'), shows a thumbnail, a first-name-plus-initial byline, a 'Verified Buyer' tag and a date - in a three-up arrow carousel instead of a star wall."
+      ],
+      "sections": [
+        {
+          "name": "Announcement bar + nav",
+          "notes": "A slim warm-white bar carries one offer sentence ('Free shipping on subscriptions and orders over $45') and a country selector. The nav below is tracked uppercase (SHOP / BEST SELLERS / SUBSCRIPTIONS / LOCATIONS) with the bottle glyph alone centred - no wordmark - and search / account / bag icons right. It reads as stationery, not chrome."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-bleed still life of the cold-brew kit in raking sunlight, then a text band under it: caps headline, one sentence of copy, a filled dark button, and the slide counter right-aligned on the headline's baseline. Because nothing sits on the image, contrast is never negotiated and both halves stay independently swappable."
+        },
+        {
+          "name": "Best sellers",
+          "notes": "Four product cards on pale grey tiles with soft cast shadows, each with one small status chip, name + price on a shared baseline, tasting notes and roast. A centred hairline-outline 'Shop Best Sellers' button closes the block - the secondary CTA style is consistent everywhere it appears."
+        },
+        {
+          "name": "Editorial split bands (Matcha, Craft Instant)",
+          "notes": "Two 50/50 bands alternate the text side: a pale sage panel with caps headline, two lines of voiced copy ('nobody has done instant quite like this (really, nobody)') and a ghost button, against a macro photograph on the other half. Same component, mirrored - which is why the page stays long without feeling padded."
+        },
+        {
+          "name": "Shop by collection + membership",
+          "notes": "Four cutout product tiles on white, each with a caps name and a benefit line ('CRAFT INSTANT - Make Cafe-Quality Iced Lattes, Instantly'). The membership band uses an eyebrow ('EXPERIENCE KYOTO-STYLE ESPRESSO') above the headline plus its own 01-04 counter, so a second carousel reads as a different object from the hero."
+        },
+        {
+          "name": "Subscriptions + brew guides",
+          "notes": "The subscription block trades persuasion for specification (three labelled groups, hairline rules, exact savings). Brew guides follow as two wide image-left / text-right cards with underlined 'Learn More' text links - a third, quieter CTA tier below filled and outlined buttons."
+        },
+        {
+          "name": "Reviews + footer",
+          "notes": "Dated verified reviews per SKU, then a charcoal footer: the full lockup (wordmark plus glyph), four columns (COMPANY / LEARN / MORE / SUBSCRIBE AND STAY UPDATED), an underline-only email field with an arrow submit, and a legal row that includes an explicit 'YOUR PRIVACY CHOICES' control."
+        }
+      ],
+      "principle": {
+        "title": "Never set type on the photograph",
+        "explanation": "Overlaying a headline on an image forces three compromises at once: the photo gets cropped or darkened to protect legibility, the copy length becomes a function of the composition, and every future image swap risks breaking contrast. Blue Bottle proves a long commerce page can run entirely on adjacency - image in its own field, words in theirs - and the result reads more expensive, not less, because the photography is never scrimmed.",
+        "howToApply": "On the next 35353 or client page, build the hero and every editorial band as two stacked or side-by-side fields: an uncropped image field and a text field with the headline, one sentence, and one button. Set headlines in tracked caps at a modest size and let case plus space carry hierarchy, keep the brand accent for the mark alone, and use exactly three CTA tiers - filled, hairline-outline, underlined text link."
+      },
+      "tags": [
+        "ecommerce",
+        "typography",
+        "layout",
+        "photography",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Chanel - wide display banner (Gabrielle Chanel Essence)",
+        "url": "https://www.abyssale.com/blog/best-display-ads"
+      },
+      "image": "images/2026-07-30-ad-chanel-gabrielle.jpg",
+      "category": "Wide display banner (billboard / hero unit, ~3.6:1)",
+      "tagline": "The whole unit is graded into one amber-on-cream range so the only real contrast left is the type.",
+      "when": "Web display, Gabrielle Chanel Essence, ~2019",
+      "summary": "A 2000x550 banner split almost exactly in half: bottle left, type right. What makes it work is a colour decision - the perfume, the ribbon of chiffon around it and the background all sit inside one narrow warm-neutral range, so nothing in the image competes. The only high-contrast element in the frame is near-black type, which means the eye lands on 'GABRIELLE / CHANEL' first and the product second, exactly the order a launch needs.",
+      "whatWorks": [
+        "One colour family for the entire image: amber liquid, amber fabric, cream ground - the composition has tonal depth but no colour contrast, so the type wins by default.",
+        "Two-line stacked wordmark with the house name set larger than the product name: 'GABRIELLE' reads first as the news, 'CHANEL' lands as the payoff.",
+        "A wide empty gutter down the centre holds the halves apart, and the ribbon's tail crosses it - the only thing stitching image to type.",
+        "One descriptor line only - 'THE NEW EAU DE PARFUM' - at caption size, tracked to roughly the width of the headline above it.",
+        "The CTA is a small-caps 'DISCOVER' with a single black rule under it: no button fill, no colour, no arrow. In a luxury unit the underline is enough of an affordance.",
+        "Nothing else: no price, no offer, no badge, no logo bug repeated in a corner - which is what lets a 550px-tall strip feel like a page rather than an ad slot."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A single bottle suspended in a ribbon of warm chiffon, lit so the glass and the fabric share the same amber. There is no model, no scene and no motion - the stop comes from the tonal glow, not from an event."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'GABRIELLE' over 'CHANEL' in the house's tight caps grotesque, set flush left, with generous leading between the two lines and the second line noticeably larger. Product name first, brand as resolution - the reverse of most display ads."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Hard 50/50 split: image left, type right, with the bottle placed slightly left of its half's centre so the frame does not read as two boxes. The format's extreme width is used deliberately - the empty middle is the composition."
+        },
+        {
+          "name": "CTA",
+          "notes": "'DISCOVER' in tracked small caps with a hairline underline, positioned on the type column's left edge, well below the descriptor. It is the lowest-contrast CTA imaginable and still unmissable because it is the only underlined thing in the unit."
+        }
+      ],
+      "principle": {
+        "title": "Grade the image to one colour family, then let type be the only contrast",
+        "explanation": "Most banners fight themselves: a saturated product photo, a coloured headline and a bright CTA button all bid for the same attention inside a few hundred pixels of height. Pulling product, prop and background into a single hue range removes every competing bid, so a single near-black wordmark carries the whole hierarchy - and the unit reads as composed rather than assembled.",
+        "howToApply": "For a premium 35353 or listing-brand banner, pick one hue family for the photograph (warm stone, cool slate) and grade the subject, background and props into it, then place the type in near-black or near-white as the only high-contrast element. Cap the unit at a stacked two-line headline, one caption-size descriptor and an underlined text CTA - no filled button, no price, no badge - and let the empty middle of a wide format do the framing."
+      },
+      "tags": [
+        "display-ad",
+        "luxury",
+        "color",
+        "typography",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Emil Ruder",
+        "url": "https://en.wikipedia.org/wiki/Emil_Ruder"
+      },
+      "image": "images/2026-07-30-designer-emil-ruder.jpg",
+      "category": "Swiss / International Typographic Style - typographic education",
+      "when": "1914-1970 · Swiss",
+      "tagline": "Turned typography into a curriculum of one-variable exercises - the plane, the line, the word, rhythm.",
+      "summary": "Ruder trained as a compositor before he taught, and it shows: he treated typography as a craft with testable properties rather than a style. From 1942 at the Allgemeine Gewerbeschule Basel, and from 1947 alongside Armin Hofmann, he built a programme whose courses had waiting lists by the mid-1960s, serialised its thinking in Typografische Monatsblätter as 'Wesentliches' (1957-59) under the headings The Plane, The Line, The Word and Rhythm, and distilled it into 'Typographie: A Manual of Design' (Niggli, 1967). His lasting contribution is a method: isolate one variable, run it as a series, judge the result by reading.",
+      "whatWorks": [
+        "Isolate one variable and run it as a series - his teaching moved through the plane, then the line, then the word, then rhythm, with dozens of variants each, before any finished piece.",
+        "Enumerate the options instead of intuiting them: his nine-square grid demonstrations lay out the roughly two dozen positions and shapes a module allows, so composition becomes a choice from a known set.",
+        "Get contrast from a limited kit - one type family, few sizes, decisive weight and scale jumps - rather than from more typefaces.",
+        "Treat the unprinted surface as material you place. White is an element with a job, not the leftover after setting type.",
+        "Prefer asymmetry: an off-centre axis creates tension the eye can follow, where centring flattens sequence.",
+        "Judge by reading, not by looking - if the rhythm of the setting slows a reader down, the composition has failed regardless of how it photographs."
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "From the constraint, not the concept. Ruder starts with the properties of the material at hand - the plane he is placing on, the family he is allowed, the reading distance - and treats the brief as a communication problem with a plain duty: convey information in writing."
+        },
+        {
+          "name": "Core method",
+          "notes": "The systematic series. One element is varied across many attempts, laid out side by side, and the range is inspected before a direction is chosen. This is why his teaching transferred - the method produces evidence a student can argue from, not a taste a student must absorb."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Contrast engineered inside one family, with white space as an active counter-form: extreme size jumps, a single sans (he championed Univers precisely because its numbered system made contrast systematic), asymmetric axes, and generous unprinted areas that give the setting rhythm."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Typography exists to be read, so the reading test outranks the visual one. Rhythm - the alternation of dense and open - is the quality he judges; ornament and centring are rejected not on ideology but because they interrupt sequence. A composition should be defensible from its own structure."
+        }
+      ],
+      "principle": {
+        "title": "Change one variable at a time, in a series you can see all at once",
+        "explanation": "Designing by iteration hides your options: each version replaces the last, so you compare a memory to a screen. Ruder's method makes the range visible - fix everything but one property, produce ten or twenty variants, and pin them together. You end up choosing from evidence, and you learn what that property actually does, which is the part that transfers to the next job.",
+        "howToApply": "Before committing a 35353 hero or a brand-guide spread, pick the single variable that is actually in question (headline weight jump, position of the block on the plane, word spacing, image-to-text ratio) and build 10-20 versions that change only that. Screenshot them into one board at the same scale, choose from the board, then run the reading test - read the winner aloud at real size before it goes into the layout."
+      },
+      "tags": [
+        "typography",
+        "process",
+        "swiss-style",
+        "grid",
+        "teaching"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Red Hat - Brand Standards",
+        "url": "https://www.redhat.com/en/about/brand/standards"
+      },
+      "image": "images/2026-07-30-brandguide-red-hat.png",
+      "category": "Full brand guide - public, enterprise / open source",
+      "tagline": "'This is the source code of the Red Hat brand' - a guide that hands you pre-built colour collections instead of a swatch wall.",
+      "summary": "Red Hat publishes its whole rulebook openly, opens with a one-line thesis set in its own red, and routes you straight into the eight pages people actually need. Its strongest move is refusing to leave composition to chance: colour ships as seven named, pre-built collections rather than sixty loose values, the typefaces are open source and installed everywhere work happens, and the typographic rules are unusually decidable - sentence case always, flush left, never track manually, measure of 20-100 characters. Where it thins out is the why: the rules are stated with authority but rarely argued, and there is no verbal-identity layer behind the four personality words.",
+      "whatWorks": [
+        "Opens in the brand's own voice, in Red Hat red: 'This is the source code of the Red Hat brand', followed by a plain answer to 'why does that matter?' and a 'Get started' grid of the eight most-used pages (logo, colour, fonts, icons, templates, co-branding, product logos, hybrid handbook).",
+        "Colour is delivered as seven pre-composed collections - Core light / dark / red, Expressive light / dark, Interface light / dark - so a designer picks a collection, not individual hexes, and off-brand combinations are structurally hard to make.",
+        "Exact values across systems for the core red (#ee0000, RGB 238/0/0, CMYK 0/98/85/0, Pantone 1788C) inside an 11-family palette numbered 10-80+ from light to dark, plus auxiliary sets separated by job (information colours; warm/cool people tones reserved for skin).",
+        "Typography rules are decidable rather than aspirational: sentence case even for headlines, flush left by default, default tracking never manually adjusted, one emphasis treatment only, no italics or underlines, line height 120-150% (110% above 150px), measure 20-100 characters.",
+        "The type system is open source (SIL) and distributed to every tool people actually use - Google Fonts, GitHub, Figma, Adobe CC, Google Workspace, Miro - with Noto Sans named as the non-Latin fallback, so font substitution stops being a brand risk.",
+        "Accessibility is numeric and dual-coded: 4.5:1 for text up to 17pt, 3:1 for 18pt-plus and informative graphics, and an explicit rule never to carry meaning with colour alone.",
+        "The logo chapter is treated as an architecture problem - product, universal, initiative, event and endorsement logos each get their own rules, alongside naming, trademarks and co-branding."
+      ],
+      "sections": [
+        {
+          "name": "Brand platform & personality",
+          "notes": "Strategy first: the platform ('No one innovates alone'), the company story, and four personality words - open, authentic, helpful, brave. Present and well written, but it stops at adjectives; nothing here tells a writer how to sound."
+        },
+        {
+          "name": "The Hat & logo system",
+          "notes": "The mark is explained in plain language ('Our logo is a red hat with the words \"Red Hat\"'), with clear-space diagrams, then extended into a full architecture: product logos, universal, initiative, event and endorsement marks, plus naming and trademark rules and a co-branding page."
+        },
+        {
+          "name": "Colour",
+          "notes": "The strongest chapter. Red Hat Red (red-50) as a mandatory ingredient - 'everything from Red Hat should include it' - inside 11 numbered families, seven pre-built collections, information and people auxiliary palettes, restraint guidance ('pops of red-50', no flooding), and flat prohibitions on off-palette colour, custom gradients and orphaned secondaries."
+        },
+        {
+          "name": "Fonts & typography",
+          "notes": "Three cuts by job - Red Hat Display for large and bold, Red Hat Text for body and small sizes, Red Hat Mono for code - with Noto Sans for CJK and Cyrillic, open-source licensing, and a tight list of rules on case, alignment, tracking, emphasis, leading and measure."
+        },
+        {
+          "name": "Photography & 3D illustration",
+          "notes": "Two named image languages with distinct jobs: documentary photography of people and places, and a house 3D illustration style for abstract or technical subjects - which keeps the brand from defaulting to stock whenever a subject cannot be photographed."
+        },
+        {
+          "name": "Icons & digital badges",
+          "notes": "Separate technology and UI icon sets with construction guidance, plus digital badges (including employee resource groups) - the unglamorous assets that usually go undocumented and then drift."
+        },
+        {
+          "name": "Hybrid style handbook, templates & what's new",
+          "notes": "A whole handbook for co-created work, split by who leads (Red Hat-led versus partner-led), plus downloadable templates and a 'What's new' feed - the closest thing here to a change log."
+        }
+      ],
+      "needs": [
+        "A verbal identity: voice and tone with worked do/don't rewrites and per-channel calibration. Four personality adjectives are a brief for a writer, not a system.",
+        "Rationale beside the rules. 'Sentence case always' and 'never adjust tracking' are stated but not argued, so a team facing an unlisted case has nothing to reason from.",
+        "Motion principles - timing, easing, how the Hat behaves in animation and video - which is a real gap for a brand this heavily used in product and event media.",
+        "Approved contrast pairings shown as concrete combinations (which palette member on which surface), not only the WCAG thresholds.",
+        "A version number and a dated change log; a 'What's new' feed does not tell a reader which edition of the rules they are looking at.",
+        "Worked application mockups end to end - an ad, an email, a deck, a booth - assembled from a named collection, so the collections are proved rather than described."
+      ],
+      "principle": {
+        "title": "Ship pre-built colour collections, not a swatch wall",
+        "explanation": "A palette page with sixty values delegates the hardest decision - which of these actually go together, and in what roles - to whoever is in the biggest hurry. Naming a handful of complete collections (background, surface, text, accent, interactive, all locked together) makes the on-brand combination the path of least resistance and turns 'is this off-brand?' into a checkable question.",
+        "howToApply": "In the 35353 brand guide, define four to six named colourways - e.g. Core light, Core dark, Bold accent, Interface - each specifying page background, surface, body text, heading, accent and button colours as a locked set. Publish them as CSS custom-property sets and Figma variable modes with matching names, and write the instruction plainly: start from a collection, never from the palette."
+      },
+      "tags": [
+        "brand-guide",
+        "color-system",
+        "typography",
+        "accessibility",
+        "open-source",
+        "enterprise"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Studio Feixen",
+        "url": "https://studiofeixen.ch"
+      },
+      "image": "images/2026-07-31-studio-feixen.png",
+      "category": "Design studio / portfolio",
+      "tagline": "Three hand-drawn glyphs are the identity, the navigation and the archive filter - all at once.",
+      "summary": "A studio site with no hero copy: the first screen is a dark, near-monochrome shot of the studio's own printed matter, and the argument is made by the artefact. Below it, a dark band of five monoline-illustrated 'quick links' turns fonts, a poster shop, a workflow book and a workshop into one product family, and the newsletter sits inside that band at the same weight rather than as a popup. The main event is a five-column masonry archive of forty-plus projects - stamps, garments, chairs, app screens, posters - all shot on plain white or grey so wildly different work reads as one body. The one caveat for Natalie's taste: the category glyphs carry no visible labels, which needs accessible names to be usable.",
+      "whatWorks": [
+        "Zero hero copy. A full-bleed, heavily desaturated photograph of their own fanned publications - colour bleeding in only at the edges - occupies the first screen, with no headline, tagline or CTA anywhere on it.",
+        "Three drawn glyphs (a cube, a folded sheet, a squiggle) are the entire taxonomy, and they appear twice: in the fixed header as identity and above the works grid as the filter control - so navigation and identity are literally the same object.",
+        "Every offer is drawn, not photographed: fonts, poster shop, workflow book, workshop and 'The No Book' each get a monoline illustration in one line weight, which holds five unrelated products together as a family.",
+        "The works grid is uniform-neutral - each project photographed or mocked on plain white or light grey at a consistent scale - so a neon poster, a black chair and an app screen sit in the same field without clashing.",
+        "The newsletter form lives inside the quick-links band at the same visual weight as the products: no modal, no sticky bar, no scroll trigger.",
+        "The footer is four short columns and one sentence of positioning ('Studio Feixen is a Swiss based design company that creates good looking stuff to make the world a better place.') plus address and drawn social icons - no sitemap, no repeated nav.",
+        "The archive uses infinite scroll with a visible 'Loading Projects' state, which frames the studio's output as ongoing rather than a curated top ten."
+      ],
+      "sections": [
+        {
+          "name": "Fixed header",
+          "notes": "A slim light-grey bar: wordmark left, the three category glyphs immediately beside it, then About / Shop / Talk and search, with a right-aligned 'Studio Feixen Fonts →' link. The commercial product gets the most prominent slot in the nav - the studio is telling you it sells something."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-bleed dark image of their own printed work, fanned so you read it as volume of output rather than a single piece. Desaturated to near-black with colour surviving only at the edges, which makes the bright works grid below land harder by contrast."
+        },
+        {
+          "name": "Quick links + newsletter",
+          "notes": "A dark band of five illustrated cards, each with a monoline drawing, a name and two lines of plain description ('Do you have an empty white wall at home? Here you'll find some colors!'), with carousel arrows and two small colour dots as markers. The e-mail capture sits at the right of the same band, three fields and a Subscribe button."
+        },
+        {
+          "name": "Works grid",
+          "notes": "The word 'Works' centred in a soft rounded display face, with 'Full Overview' and 'Filter' plus the three glyphs at left, then a five-column masonry of forty-plus thumbnails. Uniform neutral backgrounds and consistent scale do the unifying; no titles or hover chrome interrupt the scan."
+        },
+        {
+          "name": "Infinite archive",
+          "notes": "The grid keeps loading with a visible spinner and label. Practically, it means the page has no 'end of work' moment - the depth of the archive is the credential, replacing the case-study and client-logo blocks most studio sites use."
+        },
+        {
+          "name": "Footer",
+          "notes": "Light grey, four small columns - About (one sentence), Follow us (icons drawn in the same monoline language), E-Mail, Address. It behaves like a business card: what, where, how to reach us, nothing else."
+        }
+      ],
+      "principle": {
+        "title": "Draw your taxonomy, then reuse it as the filter",
+        "explanation": "Most sites carry two separate systems: a visual identity, and a set of category labels bolted on for navigation. Feixen collapses them - a small set of custom drawn glyphs is the brand mark family and the archive's filter control, so every act of navigation reinforces the identity and the header needs no words. It also forces the useful discipline of deciding how few categories your work truly has.",
+        "howToApply": "For a 35353 or portfolio archive, name the three to five categories the work actually falls into, draw one glyph per category in a single stroke weight, and use that same set in the header and as the grid's filter. Then keep the grid uniform-neutral - one background, one scale - so varied work reads as one body. Non-negotiable fix on Feixen's version: give every glyph an accessible name and a visible label or tooltip, since an unlabelled icon filter is a usability failure on touch and for screen readers."
+      },
+      "tags": [
+        "portfolio",
+        "navigation",
+        "iconography",
+        "layout",
+        "archive"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Zelle x Vox - co-branded native display banner",
+        "url": "https://www.abyssale.com/blog/best-display-ads"
+      },
+      "image": "images/2026-07-31-ad-zelle-vox.jpg",
+      "category": "Wide display banner - branded-content / native unit",
+      "tagline": "A bank ad that sells a lesson: publisher voice, collage illustration, and one lime button as the only saturated thing in the frame.",
+      "when": "Branded-content display on Vox, ~2022-23 (approximate)",
+      "summary": "A 2000x697 co-branded unit for Zelle running in Vox's editorial environment, and it commits fully to the publisher's language rather than the bank's. The left half is a cut-paper collage - an acid-green 1980s brick phone, a mint speech bubble reading 'UNKNOWN CALLER' in halftone dots, a lime starburst full of dollar signs - on a flat olive-brown field. The right half is a numbered service headline in a high-contrast editorial serif. There is no app screenshot, no card, no product at all; the offer is knowledge, and the only saturated block in the unit is the CTA.",
+      "whatWorks": [
+        "The joke is legible before the words: an ancient brick phone plus an 'UNKNOWN CALLER' bubble plus a starburst of dollar signs states 'phone scam' in one glance, so the headline confirms rather than explains.",
+        "The co-brand lockup ('Vox x Zelle', publisher first, multiplication glyph between) sits above the headline at small size - the partnership is disclosed before the pitch, which is what makes the editorial voice legitimate rather than borrowed.",
+        "The headline is written as service journalism, not advertising: '3 Simple Tricks to Help Spot a Scam' - a number, a promise of usefulness, no brand name in the sentence.",
+        "Type choice does the borrowing: a high-contrast editorial serif in white, tightly leaded over two lines, is the publisher's register, not a bank's sans.",
+        "One flat olive-brown field runs behind both halves, so the collage cutouts and the type share a single surface instead of sitting in two boxes.",
+        "The lime CTA rectangle is the only saturated block in the unit and is aligned to the headline's left edge - colour is spent on the click, and nowhere else."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The collage. Duotone-green vintage handset angled across the left half, with two paper-cut speech balloons - one mint with halftone 'UNKNOWN CALLER' lettering, one lime starburst of '$$$$'. Deliberately analogue and slightly ugly, which is why it stops a scroll inside an editorial feed of photographs."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'3 Simple Tricks to Help Spot a Scam' in white editorial serif, flush left across two lines. The number front-loads the value, 'Help Spot' keeps the claim honest for a financial advertiser, and the brand is entirely absent from the sentence."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Roughly 50/50 split, collage left and type right, unified by a single flat olive-brown ground. No frame, no card, no product shot - unusual for a payments brand and the reason it does not read as an ad unit."
+        },
+        {
+          "name": "CTA",
+          "notes": "A lime-filled rectangle with 'LEARN MORE' in tracked dark caps, placed under the headline on its left edge. It is the highest-chroma element in the frame and matches a colour already present in the collage, so it reads as part of the artwork rather than a pasted button."
+        }
+      ],
+      "principle": {
+        "title": "When trust is the product, make the ad the useful thing",
+        "explanation": "For categories where the purchase is really a trust decision - payments, insurance, mortgages, real estate - a product shot has nothing to prove. Offering a numbered piece of practical knowledge in the publisher's editorial voice buys credibility instead of attention, and the brand can stay in a small co-brand lockup because the usefulness is doing the selling.",
+        "howToApply": "For 35353, build a co-branded or native unit around one numbered piece of buyer/seller knowledge ('3 ways to spot a rental scam', '4 costs first-time buyers miss'), set it in an editorial serif on a single flat ground, illustrate it with one collage or cut-paper hook rather than a listing photo, keep the brand to a small lockup above the headline, and spend the only saturated colour in the unit on the button - pulled from a colour already in the artwork."
+      },
+      "tags": [
+        "display-ad",
+        "native-advertising",
+        "illustration",
+        "editorial",
+        "fintech"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Ikko Tanaka",
+        "url": "https://en.wikipedia.org/wiki/Ikko_Tanaka"
+      },
+      "image": "images/2026-07-31-designer-ikko-tanaka.jpg",
+      "category": "Japanese modernism - poster & identity design",
+      "when": "1930-2002 · Japanese",
+      "tagline": "Put a Japanese subject on a Swiss grid and build it from the fewest flat primitives that still name it.",
+      "summary": "Tanaka studied ancient Japanese art at Kyoto City University of Arts before he designed anything modern, and that order matters: he worked from tradition outward rather than importing a style. After textile design and a newspaper job in Osaka he moved to Tokyo in 1957, worked at Nippon Design Center, opened his Aoyama studio in 1963, made the graphics for Expo '70, became creative director of Seibu in 1975, and helped define Mujirushi Ryohin (MUJI) from 1980 - a brand whose identity is the deliberate absence of one. His posters reduce Noh masks, dancers and fans to flat circles, arcs and rectangles held on a strict grid, in three to five colours.",
+      "whatWorks": [
+        "Study the source tradition first, formally. His Noh, Kabuki and Rinpa references are not motifs he sampled - he trained in them, which is why the reductions read as authoritative rather than decorative.",
+        "Combine two systems on purpose: a Western modular grid to hold the composition, a Japanese subject to fill it. The tension between them is the work.",
+        "Build subjects from primitives - a face assembled out of arcs, circles and rectangles - so the image survives any scale and any medium.",
+        "Cap the palette hard (often three to five flat colours), with no gradients and no outlines, so colour reads as structure rather than shading.",
+        "Use vertical kanji columns as compositional rules: the text is a structural line that divides the plane, not a caption dropped on top of the image.",
+        "Let restraint be the identity - for MUJI, the rule that the goods, materials and process are shown and the mark stays quiet ('no brand') is a design decision about what NOT to add."
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "From the cultural source, reduced. He starts with a traditional subject - a Noh mask, a dancer, a fan, a Rinpa screen - and asks what its irreducible geometry is, before choosing a format or a palette. His formal training in ancient Japanese art is the front end of the process, not background colour."
+        },
+        {
+          "name": "Core method",
+          "notes": "Japanese subject on a modernist grid. The plane is divided first, then the motif is constructed to fit the modules; type - often vertical kanji - is placed as another structural element in the same grid. The result is legibly modern and unmistakably Japanese at the same time."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Flat geometric construction: shapes made only of circles, arcs and rectangles, filled with flat colour, no outlines, no gradients, no shading. A face becomes an arrangement of tones and curves that the eye completes - which is why his posters work at postage-stamp and billboard scale alike."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Balance is judged, not assumed: enough tradition to be rooted, enough abstraction to be current. And for a brand, the question is what to remove - MUJI's 'no-brand quality goods' position let material and process carry the identity, with graphics reduced to plain information."
+        }
+      ],
+      "principle": {
+        "title": "Rebuild the subject from the fewest primitives that still name it",
+        "explanation": "Reduction is a test, not an aesthetic. If a subject still reads when it is made only of circles, arcs and rectangles in flat colour, you have found its structure - and the result scales to a favicon or a facade, survives one-colour printing, and can be extended by someone else without your hand. If it stops reading, you have learned which feature was actually load-bearing.",
+        "howToApply": "For 35353's icons, illustrations or a listing-brand motif, redraw each subject on a grid using no more than six primitives, flat fills only, no strokes or gradients, and cap it at four colours. Test each one at 24px and at full-bleed hero size, and treat any shape that can be removed without breaking recognition as proof it should be. Where type belongs, run it as a structural column or rule that divides the plane rather than as a caption on the image."
+      },
+      "tags": [
+        "process",
+        "geometry",
+        "identity",
+        "japanese-design",
+        "reduction"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Apple - App Store Marketing Resources & Identity Guidelines",
+        "url": "https://developer.apple.com/app-store/marketing/guidelines/"
+      },
+      "image": "images/2026-07-31-brandguide-apple.png",
+      "category": "Third-party usage guidelines - partner / developer-facing identity rules",
+      "tagline": "The strictest third-party-use guide in tech: it legislates what must be inside your screenshot, not just where the badge goes.",
+      "summary": "This is not a brand guide for making things - it has no palette, no typeface and no grid. It is a compliance instrument for everyone outside Apple who shows Apple's marks, products and UI, and as that artifact it is close to definitive: every contestable rule is a number, a product-name spelling, or a flat prohibition. Its most unusual move is regulating the content of the screen you photograph - real running UI, full status indicators, no blank screens, fictional account data - which is the part most brands forget to specify at all. What it almost never does is explain why, so a partner facing an unlisted case has nothing to reason from.",
+      "whatWorks": [
+        "Anything arguable is given a number: badge minimum height 10 mm in print and 40 px onscreen, clear space of one quarter the badge height (one tenth in very tight layouts), Apple device images no smaller than 25 mm or 200 px.",
+        "It specifies the screenshot's contents, not just the frame - show the app as it actually runs, full network / Wi-Fi / battery icons in the status bar, one push notification on the lock screen only, no blank screens, and no Home Screen unless you are showing your own widget.",
+        "Product names get a typographic spec table: iPhone's lowercase i and uppercase P, 'touch' always lowercase, Apple Watch and Apple Vision Pro as two and three words that must never break across lines and never take a preceding 'the'.",
+        "Naming grammar comes with counter-examples down to the URL level: 'App name for iPhone' not 'iPhone App name'; company.com/app/iphone is acceptable, iphoneapp.com is not.",
+        "Localization is solved for the partner rather than delegated: 50 localized badges are supplied, with the rule that the modifier ('Download on the', 'Pre-order on the') translates while 'App Store' never does.",
+        "The unauthorized-use list anticipates real abuse instead of speaking in principles - no 3D renders or illustrations of Apple hardware, no die-cut promos shaped like a device, no food packaging or disposables, no vehicle decals or bumper stickers, and no generic device drawings carrying Apple's distinctive details.",
+        "Hierarchy is stated plainly: one badge per layout or video, subordinate to the main message, black badge preferred and white only when a single badge needs to fit the layout's colours."
+      ],
+      "sections": [
+        {
+          "name": "App Store Badges",
+          "notes": "The core chapter: downloadable badge artwork for App Store, Mac App Store and Apple TV in download and pre-order variants, the preferred-black / alternative-white decision rule, one-badge-per-layout hierarchy, minimum size and clear space as numbers, no modifying / angling / animating, and a one-colour printing allowance if contrast holds."
+        },
+        {
+          "name": "Product Images",
+          "notes": "Use current-generation devices your app supports, feature them alone, and use the supplied images 'as is' - no reflections, shadows, cropping, tilting, flipping, spinning or animating, copy beside the image rather than on it, correct relative scale between multiple products, plus the explicit list of unauthorized depictions."
+        },
+        {
+          "name": "Screen content & device frames",
+          "notes": "The chapter that sets this guide apart. It governs what appears inside the screen: real running UI, latest OS, correct localized status-bar layer, the 5G icon only if the app is optimized for it, a single lock-screen notification that must open the app, Dock and menu-bar handling for Mac, and rights cleared for every asset shown with fictional rather than real personal data."
+        },
+        {
+          "name": "Photography & Video",
+          "notes": "Custom photography is allowed but constrained: authentic interaction, straight-on shots preferred, no extreme angles or altered colour / shape / size, no fantastical treatment, the logo never obscured and never used for promotional value. Video adds motion rules - establishing shot before pan or zoom, simple fades and dissolves, no Apple interaction gestures as transitions, app's own sounds only, a 'sequences shortened' disclaimer where relevant."
+        },
+        {
+          "name": "Messaging & Style",
+          "notes": "Product naming and typography: correct names over generic terms, always singular, Apple trademarks always set in English even in translated copy, a non-translatable list, the per-product casing table, approved 'works with' / 'compatible with' phrasing, and URL naming rules with acceptable and unacceptable examples."
+        },
+        {
+          "name": "Legal Requirements",
+          "notes": "Trademark symbols on first mention in US body copy only (never in headlines or badge artwork), exact credit-line wordings for US and international use, a prohibition on implying association with Apple, and the full Marketing Artwork License Agreement - limited, non-exclusive, tied to Developer Program membership, terminable on 10 days' notice with a 30-day inventory depletion period."
+        }
+      ],
+      "needs": [
+        "Any generative layer at all - no colour values, no typeface, no grid or spacing system - so a partner can comply but cannot design from it. Deliberate for this artifact type, but it means it must be paired with the partner's own guide.",
+        "Rationale next to the rules. 'Do not tilt the device' and 'no extreme angles' are stated without the brand reason, so an unlisted case (a new format, a new surface) has no principle to extend from.",
+        "Visual do / don't pairs. The prohibitions are described in prose far more than they are shown; a wall of annotated wrong examples beside the right ones would settle most disputes before they start.",
+        "Accessibility guidance - there is a black-versus-white badge decision rule based on visual weight, but no contrast requirement for badge-on-background or for copy set near it.",
+        "Coherent governance: the licence artwork carries a document stamp (EA0861, 08/15/17) while the guidelines themselves are undated and unversioned, so a reader cannot tell what changed or when.",
+        "Layout source files - a Figma or Illustrator template with badge clear-space and minimum-size guides built in - so compliance is a constraint in the file rather than a measurement task."
+      ],
+      "principle": {
+        "title": "Legislate the content of the screenshot, not just its frame",
+        "explanation": "Brands carefully specify logo clear space and then let anyone publish a screenshot of the product with a half-loaded state, an empty list, a fake-looking name, or three notification bubbles stacked for effect. Apple treats the inside of the screen as brand surface: what must be running, which indicators must be full, what must never appear, and whose data may be shown. It is the highest-leverage rule set for a product brand, because screenshots are where most people actually see the product.",
+        "howToApply": "Add a 'showing the product' page to the 35353 guide that governs screen contents, not just frames: which app or site state may be captured (populated, never empty or loading), the approved demo dataset and fictional names to use, required chrome (full status indicators, current release, correct locale), an explicit never list (blank screens, error states, real client or customer data, stacked notifications), plus export specs at 2x and a stated rule on cropping and annotation."
+      },
+      "tags": [
+        "brand-guide",
+        "governance",
+        "partner-guidelines",
+        "screenshots",
+        "trademark"
+      ]
     }
   ]
 }
