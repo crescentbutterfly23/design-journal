@@ -11662,6 +11662,204 @@
         "typography",
         "non-destructive"
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "WordPress — Graphics & Logos",
+        "url": "https://wordpress.org/about/logos/"
+      },
+      "image": "images/2026-08-01-brandguide-wordpress.png",
+      "category": "Public brand-assets page (open-source project)",
+      "tagline": "A deliberately tiny assets page whose best move is publishing the FAKE logo next to the real one, annotated with the tell.",
+      "summary": "The WordPress project keeps one short public page for its marks: six official lockups, each in vector PDF plus two PNG finishes, and a trademark-policy link. Its standout section, \"Fight the fake logo (fauxgo)\", puts the wrong W beside the right one with cap-height and serif-shape guides drawn over both and captions \"Bad. (short & squat)\" / \"Good! (tall & graceful)\" — teaching the silhouette rule that community redraws actually break. The page is itself on-brand, set in the project's serif with \"Code is poetry\" in the footer, and it closes by naming the trademark owner. It is a press kit, not a brand guide, and it does not pretend otherwise — which is also where its gaps sit.",
+      "whatWorks": [
+        "Six named lockups (all-versions source, standard, vertical, word mark, W mark, simplified) so people pick a variant instead of inventing one",
+        "Every variant offered as vector PDF plus PNG in BaseGray and white, i.e. one asset per real background situation",
+        "Editable source files (Illustrator CS5+, Sketch) published openly, acknowledging that an open-source community will rebuild the mark anyway",
+        "The \"fauxgo\" pair: the counterfeit is shown, not just prohibited, with construction guides over the letterform",
+        "A crowd-sourced enforcement route — \"if you see one of these in the wild, please suggest a change\"",
+        "Trademark ownership stated plainly in the footer, with the policy one click away"
+      ],
+      "sections": [
+        {
+          "name": "Official WordPress logo",
+          "notes": "One paragraph: use one of the following, and only in accordance with the trademark policy. Rules live in the linked policy rather than on the page — fine for a press kit, but it means the page alone cannot answer \"may I do this?\""
+        },
+        {
+          "name": "Downloads",
+          "notes": "A 3x2 grid of six logo variants, each captioned with its role (Standard / Alternative, vertical arrangement / Word Mark / W Mark / Simplified) and three download links. The grid IS the logo system: variants are shown together at one scale so relationships are legible."
+        },
+        {
+          "name": "Fight the fake logo (fauxgo)",
+          "notes": "The page's real contribution: two large Ws side by side with SERIF SHAPE and CAP HEIGHT guides ruled across them, labelled Bad (short & squat) vs Good (tall & graceful). It names the failure mode by silhouette, which is how counterfeits are actually spotted at a glance."
+        },
+        {
+          "name": "Page craft / footer",
+          "notes": "The page is set in the project's editorial serif with generous measure and a \"Code is poetry\" footer, so the artifact demonstrates the brand while dispensing it. Legal line: the WordPress trademark is the intellectual property of the WordPress Foundation."
+        }
+      ],
+      "needs": [
+        "Clearspace and minimum-size diagrams — the two rules a press kit exists to enforce, and both are absent",
+        "Colour values: no hex, RGB, CMYK or Pantone anywhere, so \"BaseGray\" is a filename rather than a specification",
+        "A typography line — even one sentence naming the wordmark face and an approved pairing for partner materials",
+        "Do/don't pairs beyond the fauxgo (recolouring, drop shadows, rotation, placing the mark on busy photography)",
+        "Application examples: avatar and social crops, favicon/app icon, co-branding lockups with plugin and host partners",
+        "A version number, date and owner on the page itself, plus a changelog — currently the only date signal is the trademark line"
+      ],
+      "principle": {
+        "title": "Publish the counterfeit, not just the correct artwork",
+        "explanation": "People rarely misuse a logo because they lack the file; they misuse it because they rebuild it from memory and get the proportions wrong. Showing the wrong version beside the right one — with the construction guide drawn over both and the error named in plain words (\"short & squat\") — teaches the silhouette rule, which is the only rule an untrained eye can actually apply in the wild.",
+        "howToApply": "Add a \"wrong marks in circulation\" board to the 35353 brand guide: collect the real bad versions already out there (stretched wordmark, re-typed number, recoloured badge, mark on a busy photo), place each beside the correct art at identical size, rule one construction guide across both, and caption each with the specific tell rather than a generic \"do not distort\"."
+      },
+      "tags": [
+        "brand-guide",
+        "logo-system",
+        "trademark",
+        "open-source",
+        "do-donts"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Skyscanner — Backpack (Design System brand layer)",
+        "url": "https://www.skyscanner.design/"
+      },
+      "image": "images/2026-08-02-brandguide-skyscanner-backpack.png",
+      "category": "Design-system brand layer (public system, SSO-gated Brand World)",
+      "tagline": "Colour defined by surface role and layer order rather than by swatch — so day/night, elevation and status all fall out of the naming.",
+      "summary": "Backpack is Skyscanner's public design system, and its brand-relevant value sits in Foundations rather than in a brand book: colour is published as canvas / surface / elevated-sheet roles instead of a palette wall, status colour splits into Spot (icons) and Fill (surfaces), and the core brand accents are explicitly a last resort \"if there isn't any other appropriate semantic colour\". Content, Accessibility and Localisation are top-level sections, not appendices, and every page carries a \"last updated\" timestamp. The catch is the brand layer itself: \"Brand world — a journey into how we look, act and feel across every touchpoint\" is SSO-gated for employees, leaving outsiders a logo Terms & Conditions page and downloadable marks. It is a strong product-facing brand layer with a locked front door.",
+      "whatWorks": [
+        "Colour named by role and layer (Canvas, Canvas Contrast, Surface, Surface Contrast, Elevated sheet) so composition decisions are made by the system, not per screen",
+        "One stated structural rule — \"there can only be one canvas per screen\" — which makes wrong layouts diagnosable",
+        "Day/Night handled as behaviour rather than a second palette: elevation is shadow in Day mode and an Elevated Sheet token in Night mode; Text on Dark/Light deliberately do not shift",
+        "Status colour split by where it lands: Spot colours for icons, Fill colours for surfaces",
+        "Brand accents demoted — Sky Blue and friends are for when no semantic colour applies, which protects the semantic layer from decoration",
+        "Icons documented per platform (Web, iOS, Android, Compose) plus accessibility and a contribution route, so the set stays one set",
+        "Every page stamped with a last-updated date and time; Contributing is a first-class section"
+      ],
+      "sections": [
+        {
+          "name": "Welcome / IA",
+          "notes": "A shortcut grid that doubles as a table of contents — Foundations, Layout primitives, Icons, Components, Content, Accessibility, Localisation, Brand world — each with a one-line description of what it governs. Icons are characterised in words (\"simple, modern, friendly, and sometimes quirky\"), which is brand personality smuggled usefully into a component page."
+        },
+        {
+          "name": "Brand ↗ (Brand world + Logo T&Cs)",
+          "notes": "Two children only. Brand world is the actual identity guide and is SSO-gated: \"Skyscanner employees can sign in via SSO\". Logo T&Cs is public and purely legal — permitted purpose (promoting partnership), downloaded form only, a required trademark-attribution sentence, no denigration or confusingly similar marks, and permission revocable at any time with immediate effect."
+        },
+        {
+          "name": "Foundations",
+          "notes": "Twelve foundations: Animation, Blur, Border, Colours, Focus indicator, Grids, Icons, Layout, Typography, Radius, Shadow, Spacing. Notable that Blur and Focus indicator are foundations at all — the system specifies the effects and states that usually get improvised."
+        },
+        {
+          "name": "Colours — Overview / Usage / Code",
+          "notes": "The strongest page. Text styles per surface; status colour as Spot vs Fill; Canvas (one per screen, Default vs Contrast for card-heavy screens); Surfaces stacked above canvas with Surface Contrast for emphasis; Elevated sheet as the top layer; \"other elements\" reserved for dividing lines and scrims; core brand accents last. Each colour ships with a usage tab and a code tab, so designers and engineers read the same rule."
+        },
+        {
+          "name": "Content / Accessibility / Localisation",
+          "notes": "Verbal identity (\"how we use words to bring designs and interfaces to life\"), accessibility, and internationalisation sit at the top level beside components — for a travel product where dates, currencies and scripts change per market, this is the right IA, and the localisation card shows the same booking card in English and Arabic."
+        },
+        {
+          "name": "Governance",
+          "notes": "Per-page \"Page last updated on <date>, <time>\" stamps, a Contributing section with a route for product design, and a versioned URL space (/latest/...). Living, if not formally versioned."
+        }
+      ],
+      "needs": [
+        "A public brand layer: partners, agencies and press cannot see logo construction, palette values, typeface or photography direction at all — only the legal T&Cs",
+        "Clearspace and minimum-size diagrams for the sunrise mark alongside the downloadable files",
+        "Semantic HEX/RGB values visible on the Usage page rather than only inside the Code tab, so non-engineers can specify a colour",
+        "Print, OOH and merchandise guidance — the system is product-only, yet the brand appears on airport signage and campaign media",
+        "Explicit semantic version numbers plus a changelog, not just last-updated timestamps",
+        "The WHY: the rules are decidable but largely unexplained, so a team outside Skyscanner can copy the taxonomy without understanding when to break it"
+      ],
+      "principle": {
+        "title": "Name colours by surface role and layer order, not by palette",
+        "explanation": "A swatch wall makes every screen a fresh negotiation: which blue is the background, which is the card, which is the button. Naming colour by role and stacking order — one canvas per screen, surfaces above it, elevated sheet on top, status as spot vs fill, brand accents last — turns those negotiations into lookups, and makes dark mode a transformation of roles rather than a second palette.",
+        "howToApply": "Restructure the 35353 colour page around roles instead of brand colours: define canvas (default and contrast), surface (default and contrast), elevated sheet, text-on-light / text-on-dark that never shift, status spot vs fill, and a short \"brand accent — only when no semantic role fits\" note. Publish each role as a token with light and dark values side by side, state the one-canvas-per-screen rule, and keep the raw palette on a separate reference page."
+      },
+      "tags": [
+        "brand-guide",
+        "design-system",
+        "color",
+        "tokens",
+        "governance",
+        "accessibility"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Gemeente Amsterdam — Stijlweb (huisstijl)",
+        "url": "https://www.amsterdam.nl/huisstijl/"
+      },
+      "image": "images/2026-08-03-brandguide-amsterdam.png",
+      "category": "Public city / government house-style guide",
+      "tagline": "A colour is not specified until every surface it must survive has a value — hex, CMYK, Pantone, RAL paint, vinyl film and reflective foil.",
+      "summary": "Amsterdam publishes its entire house style openly as \"Stijlweb\": four pillars (the brand, the ground rules, the applications, the language policy) over an A–Z index of about thirty topics, from icons and colour to podcasts, PowerPoint, forms, email signatures and construction-nuisance communication. Its two outstanding pages are colour and typography. Colour is three base values (white, red, black — white and red leading), eight full supplementary colours with no tints or gradients allowed, and three greys, each specified in CMYK, Pantone, hex, RGB, RAL lacquer, 3M film, Avery film and Oracal — including reflective foil codes for vehicles and signage, and silver reserved for ceremonial print. Then it does what almost no guide does: publishes a legibility matrix stating, per background colour, which heading and body-text colours are permitted.",
+      "whatWorks": [
+        "Colour values given per production medium — screen, print, paint, vinyl and reflective foil — so a van, a sign and a website are the same red by specification, not by eye",
+        "A stated non-negotiable: use full colours only, never rasterised tints and never gradients",
+        "A text-on-background matrix (per background: which heading colour, which body colour, and what to do on white) instead of \"ensure sufficient contrast\"",
+        "Named exceptions with thresholds: white headings on orange or light green are print-only and only from 40pt Amsterdam Sans ExtraBold",
+        "Campaign latitude with a test attached — coloured text on colour is allowed if you run an accessibility check online and an audience test offline",
+        "Typography specified by destination: print, façade lettering and wayfinding, online, MS Office, Arabic — with a request form for the licensed Amsterdam Sans",
+        "Applications reach the unglamorous surfaces most guides skip: workwear, email signatures, forms, charts and maps, podcasts, PowerPoint, social"
+      ],
+      "sections": [
+        {
+          "name": "Four pillars (Over het merk / Uitgangspunten / Middelen / Taalbeleid)",
+          "notes": "The whole guide is framed as brand and brand rights (the Andreas crosses, the city arms) → ground rules for logo, colour, icons, typography and imagery → applications from workwear to every online channel → language policy (the Schrijfwijzer, clear naming, use of other languages). Strategy, visual, applied and verbal in one sentence each."
+        },
+        {
+          "name": "Alle onderwerpen (A–Z index)",
+          "notes": "About thirty topic links in four columns, alphabetical rather than hierarchical: colours, logo, typography, icons, photography, image policy, campaigns, theme design, charts/tables/maps, clear naming, film and animation, forms, email signature, podcasts, PowerPoint, social media, websites and apps, core values, colophon. An index beats a hierarchy when the audience is thousands of municipal employees looking for one answer."
+        },
+        {
+          "name": "Kleuren (colour)",
+          "notes": "Three base colours, eight supplementary for background planes, headings and accents, three functional greys for infographics and maps. A full table gives CMYK, PMS, hex, RGB, RAL lacquer, 3M film, Avery film and Oracal per colour — Amsterdam red is #ec0000 / 0-100-100-0 / PMS 2035 / RAL 3020 / 3M 100-13 with reflective 580-72. Silver exists only for ceremonial print of the mayor and aldermen."
+        },
+        {
+          "name": "Leesbaarheid (legibility matrix)",
+          "notes": "Per background colour, the permitted heading and body-text colours plus what to do on white: on red, headings black or white and body white; on yellow and orange, black only; on purple and dark blue, white only; on blue and dark green, black body with black-or-white headings. Print uses the same combinations, with rgb for online PDFs."
+        },
+        {
+          "name": "Typografie (Amsterdam Sans)",
+          "notes": "One family as the image-defining typeface, chosen to sit with the Andreas crosses and to read equally offline and online. Licensing is explicit: city staff, amsterdam&partners and their suppliers only, via a request form. Rules then split by destination — print, façade lettering and wayfinding, online, MS Office, Arabic."
+        },
+        {
+          "name": "Governance",
+          "notes": "A named owner (\"Contact team huisstijl\"), colophon, proclaimer and a web archive of superseded guidance; even the print vendors are named, with the required ISO colour profile for one of them. The guide is written for the people who actually break brands — and tells them who to email."
+        }
+      ],
+      "needs": [
+        "Rationale: the rules are exhaustively specified but rarely explained, so external teams can obey the system without being able to extend it",
+        "Contrast published as numbers per text size (4.5:1, 3:1) alongside the colour-pair matrix, and a rule that colour alone never carries meaning",
+        "Dark-mode and digital-surface behaviour as a transformation rule — the palette is designed for print, paint and light backgrounds",
+        "Version number, date and changelog per page; the web archive implies versioning but pages are not stamped",
+        "Developer-ready distribution: the colour table as downloadable tokens (CSS/JSON/Figma variables), not a table to retype",
+        "An English edition and a licensed fallback typeface for external partners who cannot receive Amsterdam Sans",
+        "Shown do/don't pairs for photography and campaign layouts, rather than policy prose"
+      ],
+      "principle": {
+        "title": "A colour is only specified once every surface it must survive has a value",
+        "explanation": "Brand drift almost never starts on screen; it starts when someone has to make the brand red on a van wrap, a painted door, a reflective sign or an embroidered jacket and has only a hex code. Publishing CMYK, Pantone, RAL, vinyl-film and reflective-foil codes for every colour — plus a matrix of which text colours are legible on each background — removes the moment of improvisation where the identity actually breaks.",
+        "howToApply": "Extend the 35353 colour page from hex/RGB to a per-medium table: screen (hex, token name), print (CMYK, Pantone), signage/vehicle (RAL and a named vinyl film), plus an explicit \"no tints, no gradients\" line. Then add a legibility matrix — for every background colour, the permitted heading colour, body colour and the treatment on white — and state the one print-only exception with its minimum size, so the guide answers the question at the moment it is asked."
+      },
+      "tags": [
+        "brand-guide",
+        "color",
+        "typography",
+        "accessibility",
+        "government",
+        "governance"
+      ]
     }
   ]
 }
