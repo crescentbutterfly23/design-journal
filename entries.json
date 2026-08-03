@@ -11134,6 +11134,534 @@
         "screenshots",
         "trademark"
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Nothing",
+        "url": "https://nothing.tech"
+      },
+      "image": "images/2026-08-01-nothing.png",
+      "category": "Consumer tech / e-commerce",
+      "tagline": "A hardware brand whose store reads like a monochrome product index — the dot-matrix naming system '(3a)', 'phone (4a) pro' does the branding that other sites do with color.",
+      "summary": "Nothing sells phones and earbuds off a page that is almost entirely white space, product photography, and one eccentric typographic convention: every product name is set lowercase in parentheses. That single device — plus dot-matrix display type inherited from the hardware's Glyph lights — makes an otherwise austere grid unmistakably theirs. The page trusts the transparent-tech industrial design to be the color, and the copy stays to one benefit line per product, so the whole store scans like a well-set spec sheet rather than a campaign.",
+      "whatWorks": [
+        "A naming convention as identity: 'ear (3a)', 'phone (4b)' set lowercase in parentheses — a typographic rule, not a logo, carries the brand through every card",
+        "One benefit line per product card ('Call for 46 hours with our biggest battery ever') — no paragraph ever competes with the photography",
+        "Near-total monochrome UI lets the transparent hardware and its red accents be the only color on the page",
+        "Two-column product grid with identical card anatomy (photo, name, line, 'Discover') — rhythm over variety, so new SKUs slot in without redesign",
+        "Dot-matrix/LED display type is used sparingly as an accent, echoing the physical Glyph interface — the site borrows its personality from the product, not from web trends"
+      ],
+      "sections": [
+        {
+          "name": "Header / nav",
+          "notes": "Minimal black-on-white bar; the wordmark's registered-trademark '(R)' is styled as part of the identity joke. Offers and Learn links stay quiet — the nav never shouts over the grid."
+        },
+        {
+          "name": "Hero",
+          "notes": "One oversized product photograph with generous negative space and a short launch line; the hero behaves like a magazine cover for whichever product is newest, and swaps without changing the page's structure."
+        },
+        {
+          "name": "Product grid",
+          "notes": "Eight identical cards, two columns: photo on neutral ground, parenthetical name, a single concrete benefit ('Capture what you hear with Audio Snapshot'), and a 'Discover' link. Hierarchy is carried by image size and type weight alone."
+        },
+        {
+          "name": "Community / Club Nothing",
+          "notes": "Community, Club Nothing and Playground links pull the ownership experience into the store — the brand treats buyers as members, which fits its drops-and-community sales model."
+        },
+        {
+          "name": "Footer",
+          "notes": "A dense but tidy multi-column map (About, Community, Support, Business), newsletter signup, and store/language selector — the one place density is allowed, kept legible with strict column alignment."
+        }
+      ],
+      "principle": {
+        "title": "Let a typographic convention be the brand",
+        "explanation": "Nothing proves an identity can live in a rule rather than an asset: lowercase parenthetical product names and a dot-matrix accent face are cheaper than illustration systems and impossible to mistake once learned. Conventions scale to every new page and SKU automatically; logos and hero gradients don't.",
+        "howToApply": "Pick one enforceable typographic rule for a brand — a casing convention, a punctuation device, a numbering style — apply it everywhere names appear (nav, cards, invoices, ads), and strip back competing decoration until the rule is noticeable."
+      },
+      "tags": [
+        "typography",
+        "e-commerce",
+        "minimalism",
+        "product-grid",
+        "naming"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "IKEA — 300×250 rich-media display banner (Smallest Store in the World)",
+        "url": "https://www.adsoftheworld.com/campaigns/smallest-store-in-the-world"
+      },
+      "image": "images/2026-08-01-ad-ikea.png",
+      "category": "Rich-media display banner (300×250 medium rectangle)",
+      "tagline": "IKEA built a working store — 2,800 shoppable products, browsable by department — inside a single 300×250 banner, to prove any cramped space can be lived in.",
+      "when": "Display banner, Sweden, April 2012",
+      "summary": "Aimed at apartment hunters browsing real-estate listings, the unit turns the banner's own claustrophobic dimensions into the message: if IKEA can fit a whole store into 300×250 pixels, it can fit your studio flat. The creative is a mosaic of thousands of tiny product thumbnails that resolve into furniture silhouettes; hovering zooms into departments, clicking buys the real product. Placement did half the work — the tiny store sat exactly where people were shopping for tiny homes.",
+      "whatWorks": [
+        "The format constraint IS the concept — a cramped banner selling solutions for cramped apartments, so the medium proves the claim before the copy does",
+        "Media placement completes the idea: it ran on real-estate sections, in front of people actively worrying about small space",
+        "The mosaic-of-products visual works at two scales — furniture silhouettes from a distance, individual buyable SKUs up close",
+        "Full purchase utility inside the unit (browse by department → click → buy) instead of a click-through promise",
+        "Unmistakably IKEA with almost no branding budget spent: flat blue and yellow plus the catalogue's own product photography"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A whole IKEA store rendered at 'actual size' inside the ad slot — the absurd density of 2,800 products in 75,000 pixels stops the scroll on its own."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Make the most of any space' — one line that reads simultaneously as product promise and as a description of the banner itself. No secondary copy needed."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Product-thumbnail mosaic forming furniture shapes: sofa, bed, cushion. The pixel-mosaic craft rewards a second look and turns browsing into play."
+        },
+        {
+          "name": "CTA",
+          "notes": "The unit itself is the call to action — hover to enter a department, click a product to buy it on ikea.se. Utility replaces the 'Shop now' button."
+        }
+      ],
+      "principle": {
+        "title": "Make the format's constraint the concept",
+        "explanation": "The banner's tiny canvas is usually treated as a limitation to shout over. IKEA made the limitation the argument: the ad demonstrates space-efficiency instead of claiming it. When the medium itself proves the message, no copy has to.",
+        "howToApply": "Before designing any fixed-size unit, ask what the format's most annoying property is (small, skippable, muted, paused-over) and write one concept where that property demonstrates the product's benefit rather than fighting it."
+      },
+      "tags": [
+        "display",
+        "rich-media",
+        "concept",
+        "utility",
+        "placement"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Seymour Chwast",
+        "url": "https://en.wikipedia.org/wiki/Seymour_Chwast"
+      },
+      "image": "images/2026-08-01-designer-seymour-chwast.png",
+      "category": "Illustration & editorial / Push Pin style",
+      "when": "1931– · American",
+      "tagline": "Co-founder of Push Pin Studios who fused illustration, typography and satire into a single voice — and proved a studio could market itself with its own publication.",
+      "summary": "Chwast (with Milton Glaser) built Push Pin Studios into the great counter-argument to Swiss rationalism: warm, witty, drawn-by-hand design that raided art history — Victorian woodtype, Art Deco, comics — and repurposed it with a satirist's timing. His anti-war poster 'End Bad Breath' and hundreds of covers, ads and typefaces share one engine: the idea is a visual pun first, and every craft decision exists to land the joke. The Push Pin Graphic, the studio's self-published periodical, doubled as its portfolio, lab and marketing for decades.",
+      "whatWorks": [
+        "Concept as pun: he starts from a twist — two images fused into one meaning (Uncle Sam's mouth as a bomber run) — and only then chooses a style to serve it",
+        "A deliberately maintained style library: he collects historical vernaculars (woodtype, Deco, comics) and treats them as a palette to cast from per job, not influences to hide",
+        "Self-publishing as practice: The Push Pin Graphic gave the studio a deadline to experiment against and a promotional artifact, with no client's permission needed",
+        "Flat, bounded color and simplified contour drawing so the concept reads instantly at poster distance",
+        "Wit as a decision rule: if a sketch doesn't produce a smile or a wince, it isn't the sketch"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With the twist, not the layout: Chwast hunts a double meaning — an object that can stand for two things at once — sketching small and fast in pen. The drawing style is chosen after the idea, from his shelf of historical vernaculars."
+        },
+        {
+          "name": "Core method",
+          "notes": "Illustration and typography designed as one unit. Lettering is drawn as part of the picture (or the picture behaves like lettering), so the piece can't be split into 'image plus caption' — this is the signature Push Pin fusion."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Historical pastiche with a modern punchline: borrow a period style the audience half-remembers, then break it with contemporary color or a satirical subject. The familiarity gets attention; the break carries the message."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Anti-purist: 'style' is a tool, not a religion, and humor is evidence the idea works. If the concept needs a paragraph to explain, it's dead; if it survives being redrawn crudely, it's strong."
+        }
+      ],
+      "principle": {
+        "title": "Publish your own periodical — give experiments a deadline and an audience",
+        "explanation": "Push Pin's influence came less from client work than from The Push Pin Graphic: a recurring, self-assigned publication that forced the studio to invent on schedule and mailed the proof directly to the people who hire. Self-initiated work with a recurring deadline compounds into both skill and reputation.",
+        "howToApply": "Start a small recurring artifact — a monthly one-page PDF, a printed mini-zine, a themed Instagram series — with a fixed ship date and a theme per issue; use it to test styles no client is asking for yet, and send it to the clients you want."
+      },
+      "tags": [
+        "illustration",
+        "editorial",
+        "push-pin",
+        "wit",
+        "self-publishing"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Rapha",
+        "url": "https://www.rapha.cc"
+      },
+      "image": "images/2026-08-02-rapha.png",
+      "category": "E-commerce / performance apparel",
+      "tagline": "A cycling-apparel store that alternates clean white commerce blocks with cinematic road-photography and genuine editorial, so the brand sells the sport as hard as the shorts.",
+      "summary": "Rapha's homepage runs two visual registers in strict alternation: flat, white, price-and-size product grids shot on consistent mannequin setups, and full-bleed lifestyle photography of riders on real roads in real weather. Editorial isn't a blog link in the footer — 'Latest Stories' tiles (films, route guides, racing coverage) sit in the main flow beside the sale grid, and the Rapha Cycling Club section sells membership like a product. The discipline is in the photography system: commerce shots are interchangeable and neutral; story shots are atmospheric and never asked to display a price.",
+      "whatWorks": [
+        "Two photography systems with a hard wall between them: white-ground product shots for buying, cinematic ride photography for believing — neither is asked to do the other's job",
+        "Editorial in the shop flow: five 'Latest Stories' tiles (2:3 image, headline, dek) sit mid-page, giving the brand a magazine's authority without leaving commerce",
+        "Category tiles use lifestyle imagery while product cards stay clinical — navigation seduces, purchase informs",
+        "Membership (RCC) merchandised as a flagship product with its own confident claim — 'The best cycling club in the world' — rather than hidden in the nav",
+        "A text-only service band (returns, crash repair, guarantee) placed before the footer converts trust at exactly the moment of hesitation"
+      ],
+      "sections": [
+        {
+          "name": "Promo bar + nav",
+          "notes": "Stacked promotional headers (sale, new collection) above a spare horizontal nav split by Men/Women/Accessories/Club. Urgency lives in the thin bars, never inside the brand photography."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-width sale hero with centered overlay type and dual gendered CTAs — one image, two clear exits, no carousel."
+        },
+        {
+          "name": "Best of Sale grid",
+          "notes": "Four product cards with price, colorways and inline size selectors on white — buying mechanics exposed right on the card to shorten the path from browse to basket."
+        },
+        {
+          "name": "Category + LIGHTSPEED feature",
+          "notes": "Three 2:3 lifestyle category tiles, then a full-width collection feature with USA Cycling co-branding — the page breathes between grid density and single-image drama."
+        },
+        {
+          "name": "Rapha Cycling Club",
+          "notes": "Membership pitched with club imagery and editorial copy; the brand's community moat is sold with the same craft as its jackets."
+        },
+        {
+          "name": "Latest Stories",
+          "notes": "Five editorial tiles — races, routes, a Merckx film — each 2:3 photo plus headline and dek. This is the section that makes the prices upstream feel justified."
+        },
+        {
+          "name": "Service band + footer",
+          "notes": "Four plain-text trust statements (free returns, crash repair, quality guarantee), then a conventional multi-column footer with region selector."
+        }
+      ],
+      "principle": {
+        "title": "Separate the photography that sells from the photography that convinces",
+        "explanation": "Rapha never asks one image to both romanticize the sport and display the product's five colorways. Splitting the two jobs into two rigid systems — atmospheric full-bleed vs. neutral catalog — lets each be excellent, and the alternation itself gives the page rhythm.",
+        "howToApply": "For any commerce or portfolio build, define two named image specs up front (evocative: full-bleed, graded, no UI overlays; catalog: fixed ground, fixed crop, price-safe) and enforce that every image on the page belongs to exactly one spec."
+      },
+      "tags": [
+        "e-commerce",
+        "photography",
+        "editorial",
+        "membership",
+        "trust"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Adidas Originals ZX Flux — retailer display banner (Pixelllo)",
+        "url": "https://www.behance.net/gallery/66027963/Adidas-Web-Ads"
+      },
+      "image": "images/2026-08-02-ad-adidas.jpg",
+      "category": "Display banner (wide retail unit) — portfolio/spec work",
+      "tagline": "A retail sneaker banner that gets the e-commerce hierarchy exactly right: product at heroic angle, price set as the biggest type on the unit, one boxed CTA.",
+      "when": "Retailer web ad set for Pixelllo (UAE), Behance portfolio, 2018",
+      "summary": "A designer-published retail unit for the Adidas Originals ZX Flux (from a Behance banner set for UAE retailer Pixelllo — portfolio work, labeled as such). It's a textbook of the price-led retail banner: the shoe is cut out and flown at a dynamic diagonal with a soft echo copy behind it, the background is graded to the product's own coral pink, and the right column stacks name → 'AED 199' at display size → reversed 'SHOP NOW' box. Nothing competes with the two things a deal shopper needs: what it is and what it costs.",
+      "whatWorks": [
+        "Price as the headline — 'AED 199' is the largest type on the unit, because in retail prospecting the price IS the creative",
+        "Monochromatic color strategy: background, floating 3D shapes and product all live in one coral family, so the white price and CTA are the only contrast",
+        "The product is duplicated — sharp foreground shoe plus blurred echo — creating depth and motion without animation",
+        "Strict right-column information stack (product name, price, boxed CTA) keeps the reading order unambiguous at a glance",
+        "Floating brand-adjacent geometry (extruded squares) fills negative space with energy while staying quieter than the product"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A cut-out sneaker at a steep diagonal, twice normal display size, against a field graded to the shoe's own color — motion implied by angle and the blurred second shoe."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'ADIDAS ORIGINALS ZX FLUX PINK UNISEX' in compact caps — pure identification, deliberately subordinate to the price line below it."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Studio product photography with clean masking; the white sole gives the composition its one bright anchor and separates product from the tonal background."
+        },
+        {
+          "name": "CTA",
+          "notes": "'SHOP NOW' reversed out in a white keyline box, bottom-right — last in the reading order, exactly where the eye lands after the price."
+        }
+      ],
+      "principle": {
+        "title": "When price is the offer, set it like a headline",
+        "explanation": "Retail units fail when the price is a footnote under brand theater. If the deal is the reason the ad exists, the number deserves display-type treatment and the sole contrast color — everything else (name, imagery, geometry) should rank below it.",
+        "howToApply": "In any promo unit or sale card, size-test the price at 2–3× the product name, pull all supporting elements into the product's own hue family, and reserve white (or the one accent) for the price and the CTA box alone."
+      },
+      "tags": [
+        "display",
+        "retail",
+        "price-led",
+        "color",
+        "hierarchy"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Zuzana Licko",
+        "url": "https://en.wikipedia.org/wiki/Zuzana_Licko"
+      },
+      "image": "images/2026-08-02-designer-zuzana-licko.png",
+      "category": "Type design / digital-era pioneer",
+      "when": "1961– · Slovak-American",
+      "tagline": "Co-founder of Emigre who designed typefaces FOR the coarse screens and printers everyone else designed around — and turned a type foundry into a magazine-powered movement.",
+      "summary": "When the 1984 Macintosh's 72-dpi screen made traditional faces fall apart, Licko designed bitmap faces (Emperor, Oakland, Emigre) that treated the pixel grid as a medium instead of a defect. With Rudy VanderLans she built Emigre into the first great digital type foundry, its magazine acting as specimen book, manifesto and distribution channel at once. Her later Mrs Eaves — a revival of Baskerville named for Sarah Eaves — showed the same method pointed backward: re-examine the source's constraints (letterpress ink gain) and design for today's medium rather than tracing the past. (Image: her Mrs Eaves specimen — no free portrait exists on Commons.)",
+      "whatWorks": [
+        "Design for the actual output device: her bitmap faces embraced 72-dpi coarseness rather than approximating high-resolution forms that the screen would mangle",
+        "Tool-driven form-finding: she works from what the current tech does natively (pixel grids, early font editors) and lets aesthetics emerge from those rules",
+        "The foundry-plus-magazine loop: Emigre magazine set new faces in real editorial use, which sold licenses, which funded new faces",
+        "Revivals as arguments, not tracings: Mrs Eaves reinterprets Baskerville's letterpress 'gain' for offset printing instead of copying outlines",
+        "Naming and voice as part of the product — faces named with history and wit (Mrs Eaves, Filosofia) that give licensees a story to retell"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "From the constraint inventory: what can this output device actually render? Licko starts by cataloguing the medium's hard limits (pixels per em, printer dots, ink spread) and treats that list as the brief."
+        },
+        {
+          "name": "Core method",
+          "notes": "Systematic variation within self-imposed rules: fix a coarse grid or modular parameter set, generate families by varying one parameter at a time, and keep only variants that stay legible in real text settings."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Low-resolution modularity — building letterforms from repeatable units so a face scales across sizes and devices coherently; later applied conceptually in ornament systems (Whirligig) and pattern fonts."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'You read best what you read most' — legibility is habituation, not an eternal standard, so new forms deserve time rather than dismissal. Ship faces into real use (the magazine) and let reading, not taste panels, judge them."
+        }
+      ],
+      "principle": {
+        "title": "Design for the resolution you actually have",
+        "explanation": "Licko's breakthrough came from refusing to pretend the medium was better than it was. Designing to the true constraints of the current device — instead of degrading an ideal form — produces work that looks intentional today and reads as visionary later.",
+        "howToApply": "Start each project by writing down the real delivery constraints (smallest viewport, email-client CSS, 1x screens, print at 85 lpi) and design primary assets natively at those limits first — then scale up, never the reverse."
+      },
+      "tags": [
+        "type-design",
+        "emigre",
+        "bitmap",
+        "constraints",
+        "digital"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Resend",
+        "url": "https://resend.com"
+      },
+      "image": "images/2026-08-03-resend.png",
+      "category": "Developer tool / email API",
+      "tagline": "A dark, code-first email-API site that pitches with a copy-pasteable SDK snippet in the hero and treats documentation surface area as the main sales argument.",
+      "summary": "Resend sells email infrastructure to developers by behaving like the product: the hero pairs a one-line promise ('Email for developers') with real SDK code you could paste into a project, and the rest of the page is proof — SDKs in nine languages, machine-readable docs (append .md to any URL), OpenAPI specs, CLI and MCP tooling for AI agents. The visual language is late-night-terminal: near-black ground, thin keylines, restrained neon accents and monospaced type doing the illustration work. It reads as a tool made by people who use it, which is the entire trust argument for infrastructure.",
+      "whatWorks": [
+        "Code in the hero: a real, runnable SDK snippet is the first 'image' on the page — the product demo and the headline are the same element",
+        "Dark UI with monospace-as-illustration: code blocks, JSON and terminal frames provide the visuals, so decoration never outruns substance",
+        "Breadth as proof: nine official SDKs, OpenAPI specs and markdown-mirrored docs are presented as features, arguing reliability by thoroughness",
+        "Developer-ergonomics flexes ('append .md to any URL', CLI, MCP server) signal the team optimizes for the buyer's actual workflow",
+        "Restrained accent palette on near-black keeps focus on text and code, and makes the few gradient moments feel like earned brand, not wallpaper"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "One-line category claim plus a live code sample and install command — the visitor's first interaction is reading the integration they'd actually write."
+        },
+        {
+          "name": "Integrations & tooling",
+          "notes": "CLI, MCP server and agent-oriented tooling presented early; the page targets both the developer and the developer's AI tools, which is a 2026-native move."
+        },
+        {
+          "name": "Docs & specs",
+          "notes": "Documentation, OpenAPI YAML/JSON and markdown mirrors of every page offered as first-class content — the docs are merchandised, not hidden in the nav."
+        },
+        {
+          "name": "SDK wall",
+          "notes": "Nine language libraries in a uniform grid of framed cards — repetition of identical card anatomy communicates platform maturity at a glance."
+        },
+        {
+          "name": "Footer",
+          "notes": "Deep sitemap-style footer (blog, changelog, handbook, customers, security) that doubles as a credibility index — every link is another artifact of a functioning company."
+        }
+      ],
+      "principle": {
+        "title": "Make the integration the hero image",
+        "explanation": "For technical products the buyer's real first question is 'what does it take to wire this in?' Resend answers it in the hero with actual code instead of a screenshot or abstraction, collapsing evaluation time and signaling confidence — you only lead with code when the code is nice.",
+        "howToApply": "When building a page for any API-ish product, replace the hero illustration with the smallest complete working example (real endpoints, real field names, copy button), and keep it under ten lines so it reads at a glance."
+      },
+      "tags": [
+        "developer-tool",
+        "dark-ui",
+        "code-first",
+        "docs",
+        "monospace"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "KitKat × Netflix — pause-ad interstitial (concept)",
+        "url": "https://www.behance.net/gallery/232317713/Pause-Ads-KitKat-x-Netflix"
+      },
+      "image": "images/2026-08-03-ad-kitkat-netflix.png",
+      "category": "Pause ad / streaming interstitial (concept, Behance 2025)",
+      "tagline": "An ad designed to appear only when the viewer pauses Netflix — the paused episode stays on screen while KitKat claims the break it just created.",
+      "when": "Concept project by Jorge Sánchez, Behance, August 2025",
+      "summary": "A concept for Netflix's pause-ad format (portfolio work, labeled as such): when the viewer pauses Stranger Things, the frame splits — the show's paused card stays live on the left with episode metadata and time remaining, while the right two-thirds becomes a KitKat set piece: the bar snapping over a film-studio scene, a 'break' clapperboard, and the line 'Tus pausas necesitan un break, y nosotros también.' The genius is contextual: the brand whose entire equity is 'have a break' buys the exact moment a break begins, and the QR code gives the paused, phone-in-hand viewer something to do.",
+      "whatWorks": [
+        "Perfect moment-message fit: KitKat's 40-year 'break' platform mapped onto the literal pause state — the context does the persuasion",
+        "The show is respected, not covered: the paused episode remains visible with its metadata, so the ad feels like part of the UI rather than an interruption",
+        "One brand color floods the unit — KitKat red bridges seamlessly from Netflix's dark UI, and the chocolate provides the only texture contrast",
+        "The film-set art direction (softboxes, clapperboard, camera) ties the candy to the streaming context instead of a generic product-on-red shot",
+        "QR + 'scan for a break' CTA suits the actual viewing posture: TV paused, phone already in hand"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The pause itself triggers the unit — zero fight for attention because the viewer just voluntarily stopped; the split-screen reveal reads as a native UI behavior."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Tus pausas necesitan un break, y nosotros también' — one line that names the moment, lands the brand platform, and winks at the ad's own presence."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A snapped KitKat on a red podium staged as a film set, with wafer crumbs mid-air; production-design metaphor keeps it in Netflix's world."
+        },
+        {
+          "name": "CTA",
+          "notes": "A QR panel styled like a phone ('Escanea y date un break') plus a discreet 'Ad' tag — conversion routed to the second screen, where the paused viewer's attention actually is."
+        }
+      ],
+      "principle": {
+        "title": "Buy the moment your brand already owns",
+        "explanation": "The strongest media placement is one where the user's current state restates the brand promise — KitKat in the pause, not in the pre-roll. When context and platform agree, the creative only has to acknowledge the moment, not manufacture one.",
+        "howToApply": "For any campaign, list the micro-moments in the product or platform journey (pause, loading, empty state, delivery wait, checkout success) and match the brand's core promise to the one moment that literally enacts it — then design the unit to feel native to that state's UI."
+      },
+      "tags": [
+        "pause-ad",
+        "streaming",
+        "context",
+        "co-branding",
+        "concept"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Sagmeister & Walsh",
+        "url": "https://en.wikipedia.org/wiki/Sagmeister_%26_Walsh"
+      },
+      "image": "images/2026-08-03-designer-sagmeister-walsh.png",
+      "category": "Legendary studio / experimental identity & self-initiated work",
+      "when": "New York, 2012–2019 · Austrian/American founders",
+      "tagline": "A two-partner, ~25-person studio that ran self-initiated experiments — 40 Days of Dating, The Happy Film, Beauty — as its loudest marketing and its R&D lab at once.",
+      "summary": "When Stefan Sagmeister made 25-year-old Jessica Walsh a name partner in 2012, the studio doubled down on a rare operating model: stay deliberately small, keep client identity work (Function) funded and famous through headline-grabbing personal projects (Beauty — from the 'Beauty = Function' debate they publicly staged). 40 Days of Dating, Walsh's blog-turned-phenomenon, brought tens of millions of visitors and client calls without a single pitch. The studio treated craft experimentation — hand lettering, staged photography, early CGI — as content, publishing process openly and hiring through a famously competitive internship pipeline. (Image: co-founder Jessica Walsh; Stefan Sagmeister's individual practice is profiled separately, 2026-06-23.)",
+      "whatWorks": [
+        "Self-initiated projects as business development: 40 Days of Dating and The Happy Film generated global press and inbound clients — marketing spend of zero, credibility of an art practice",
+        "Deliberate smallness: two partners and a compact team meant a partner's hands touched every job, which WAS the product being sold",
+        "Publish the process: sketches, experiments and behind-the-scenes work went public continuously, turning the studio's learning into its content channel",
+        "Craft maximalism as differentiation: hand-lettering, physical sets and staged photography in an era of flat digital — the studio zigged materially",
+        "A named debate as a filter: the 'beauty vs. function' argument gave the studio an intellectual position clients could hire, not just a style"
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "Two name partners with distinct energies (Sagmeister: sabbatical-driven conceptualist; Walsh: prolific, social-native maker) over a small permanent team plus a competitive intern pipeline — small enough that authorship stays real."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Client identity and campaign work is accepted selectively and priced on the studio's fame; the fame itself is manufactured by self-initiated projects the studio fully owns. Roughly: personal work buys attention, client work buys rent."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Make the experiment public and personal — diaries, films, dating blogs, staged tableaux. The studio's inner life is the campaign; craft (lettering, set-building, photography) is executed to gallery standard so the press writes about the work, not the stunt."
+        },
+        {
+          "name": "What holds it together",
+          "notes": "An explicit intellectual platform (beauty as function) plus ruthless documentation habits. When Walsh spun off &Walsh in 2019, the model — small, loud, self-initiated — carried on, proving it was an operating system, not one partner's charisma."
+        }
+      ],
+      "principle": {
+        "title": "Run self-initiated projects as your loudest marketing",
+        "explanation": "S&W never out-spent bigger agencies; they out-published them. A personal project you fully control can demonstrate exactly the kind of work you want to be hired for, generate press no pitch deck can, and double as R&D — the studio model works at any scale, including a team of one.",
+        "howToApply": "Budget real hours (not leftovers) each quarter for one self-owned project scoped like client work — brief, deadline, launch plan — designed to showcase the exact service you want more of, and publish its process, not just its result."
+      },
+      "tags": [
+        "studio-model",
+        "self-initiated",
+        "identity",
+        "publicity",
+        "craft"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "week": "2026-W32",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Sink a headline behind a mountain with a layer mask",
+      "discipline": "Image compositing",
+      "tool": "Photoshop",
+      "time": "15 min",
+      "skill": "Non-destructive masking — placing type behind a photographed subject with a duplicated layer + layer mask, and refining the mask edge",
+      "brief": "Create the classic 'text behind subject' effect: set the word ALTITUDE across the sky of a mountain photo, then mask a duplicate of the peak back over the letterforms so the summit overlaps the type.",
+      "steps": [
+        "Open the reference image and set the headline in a heavy geometric sans (Archivo Black or similar), white, tracking +50, sized so the peak will overlap the lower third of the letters",
+        "Duplicate the photo layer, drag the copy ABOVE the type layer, and add a black (hide-all) layer mask to the copy",
+        "With a hard white brush at 100%, paint on the mask only where the summit ridge should cover the letters — zoom to 200% and follow the rock edge precisely",
+        "Switch to a 30%-flow soft brush for the atmospheric edges (snow haze) so the transition isn't a hard cut",
+        "Toggle the mask (Shift+click) and view at 100% and 25% to check the illusion reads at both sizes; nudge type opacity to ~92% so it sits IN the scene",
+        "Flatten to a copy and export a 1600px JPEG"
+      ],
+      "assets": [
+        {
+          "label": "Headline",
+          "value": "ALTITUDE"
+        },
+        {
+          "label": "Palette",
+          "swatches": [
+            "#ffffff",
+            "#0b1d33",
+            "#9db4c8"
+          ]
+        },
+        {
+          "label": "Reference image (Everest from Kala Patthar, CC BY-SA — Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Everest_kalapatthar.jpg",
+          "note": "Download full size; the ridge line against the sky is the masking edge to trace"
+        },
+        {
+          "label": "Spec",
+          "value": "Canvas 1920×1080 · type overlaps the peak by roughly one-third of cap height · no drop shadows, the mask alone sells the depth"
+        }
+      ],
+      "successLooksLike": "At full-screen the word reads instantly as sitting BEHIND the summit — the rock edge cutting the letters is pixel-clean at 200%, the hazy snow edges are soft, and nothing was erased destructively (toggling the mask restores the intact photo).",
+      "stretch": "Add a second, smaller line ('8,848 M') tucked behind a nearer ridge, and grade the whole composite with a single Curves layer clipped to a group so photo and type accept the same tone.",
+      "tags": [
+        "photoshop",
+        "masking",
+        "compositing",
+        "typography",
+        "non-destructive"
+      ]
     }
   ]
 }
