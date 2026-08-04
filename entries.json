@@ -11860,6 +11860,251 @@
         "government",
         "governance"
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "A24",
+        "url": "https://a24films.com"
+      },
+      "image": "images/2026-08-04-a24.png",
+      "category": "Film studio / entertainment",
+      "tagline": "A studio homepage built from ONE repeated module — kicker, headline, arrow — so films, vinyl, podcasts and merch read as a single catalogue instead of five different card systems.",
+      "summary": "A24's site refuses almost every convention of an entertainment homepage: no nav bar, no hero button, no cards. The header is three glyphs (MENU, the serif A24 wordmark, search) floating in white over a full-bleed film still, and the hero is pure type — six upcoming titles stacked in a big grotesque with tiny superscript years, hierarchy carried by tone rather than size. Below it the whole page is one editorial module repeated: a one-word all-caps kicker (SHOP / PODCAST / WATCH), a large headline, an arrow plus a micro-CTA, and an image half that alternates left and right — punctuated every few beats by an edge-to-edge film still with the title set small in the corner. Two honest caveats: a black newsletter panel lands on top of the hero on first visit, and the feed loops back to the top forever, so the footer is only reachable from the menu.",
+      "whatWorks": [
+        "Chrome reduced to three glyphs — menu, wordmark, search — in white over full-bleed imagery, so nothing ever competes with a film still",
+        "Hero as a type stack: six titles at the same size with 2026 in superscript, the active one white and the rest dimmed — hierarchy by VALUE, not by scale",
+        "One module for everything: kicker + headline + arrow-link, so a Blu-ray, a podcast and a soundtrack LP need no badges, cards or borders to be told apart",
+        "The single all-caps kicker word does all the labelling a card system would have needed",
+        "Every product — book, vinyl, crewneck, Blu-ray — is photographed on the same light-grey stage panel, so merch and media sit in one visual family",
+        "Arrow + tracked micro-label (SHOP NOW / LISTEN NOW) instead of filled buttons: the link reads editorial, not e-commerce",
+        "Talent and podcast portraits are black-and-white, keeping film colour the only colour on the page",
+        "Full-bleed stills interrupt the two-column rhythm every few modules — a cadence rather than a template"
+      ],
+      "sections": [
+        {
+          "name": "Header",
+          "notes": "No navigation bar at all: hamburger + 'MENU' at far left, the serif A24 wordmark centred, a search glyph at far right — all white, all sitting directly on the hero image with no background plate. It never fights the picture, and it tells you the site's only two jobs are browse and find."
+        },
+        {
+          "name": "Hero — the title stack",
+          "notes": "A full-viewport, softly out-of-focus film still (olive/gold) with six upcoming titles set left-aligned in a large neutral grotesque, each trailed by a small superscript '2026'. The active title is white, the others drop to a muted tint — so the hero is a live index, not a poster, and the whole slate is legible in one look. A down-arrow bottom-right is the only affordance. A black 'WANT MORE A24?' email panel overlays the centre on first load."
+        },
+        {
+          "name": "The repeated editorial module",
+          "notes": "The body is one component reused down the page: tiny tracked all-caps kicker (SHOP / PODCAST / WATCH), a two-to-four-line headline in the same grotesque at ~48px, then an arrow with a tracked micro-CTA. The image side is a flat light-grey panel holding either a product shot or a black-and-white portrait, and it alternates left/right module to module. No card, no border, no shadow — the grey panel IS the container."
+        },
+        {
+          "name": "Full-bleed film bands",
+          "notes": "Every few modules the two-column rhythm breaks for an edge-to-edge still ('The Death of Robin Hood', 'Mother Mary') with a barely-visible WATCH kicker and the film title in white at the lower left — no button, no synopsis. These bands are the page's punctuation and the only place the imagery is allowed to go loud."
+        },
+        {
+          "name": "Commerce, treated as editorial",
+          "notes": "Shop items get exactly the same module as a podcast episode: 'AAA24 Membership' with a chrome 3D logotype, the Sing Sing screenplay in its orange book cover, The Invite soundtrack as a yellow vinyl half-out of its sleeve, an ASYNC crewneck flat-lay. Because the ground and scale are constant, a $30 book and a $200 membership read as one shelf."
+        },
+        {
+          "name": "Infinite loop instead of an ending",
+          "notes": "The feed doesn't terminate — it restarts from the hero, framing the studio's output as ongoing rather than a curated top ten. The trade-off is real: the footer (three link groups, a second email capture, social icons on dark) is effectively menu-only, so anything a visitor needs must live in the menu."
+        }
+      ],
+      "principle": {
+        "title": "Build one module and let the pictures do the varying",
+        "explanation": "A mixed feed — films, products, podcasts, articles — usually collects a card system per content type, and each new type adds chrome: badges, borders, differently-sized tiles. A24 does the opposite: one module (kicker word, headline, arrow) carries every type, and all the variety comes from the photography inside it. The page stays quiet, the components stay few, and a new content type costs one word instead of one design.",
+        "howToApply": "For a mixed 35353 feed (new listings, market notes, neighbourhood guides, team news), design a single row: tracked all-caps kicker that names the type, a headline at one size, an arrow + micro-CTA, and an image panel on a fixed neutral ground that alternates side. Add a full-bleed photo band every third or fourth row as punctuation. Resist adding a second card style when a new content type appears — add a new kicker word instead."
+      },
+      "tags": [
+        "layout",
+        "typography",
+        "editorial",
+        "imagery",
+        "entertainment",
+        "components"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Everlane — Meta feed ad (4:5, Luxe Italian Leather Crossbody)",
+        "url": "https://www.facebook.com/ads/library/?id=2179154169548624"
+      },
+      "image": "images/2026-08-04-ad-everlane.png",
+      "category": "Meta feed ad (4:5 portrait, zero baked-in type)",
+      "tagline": "A 480×600 creative with not one word set on it — the product is the whole image, and every piece of copy is left to the platform's own chrome.",
+      "when": "Meta feed — Facebook, Instagram, Messenger and Threads; running since 1 June 2026",
+      "summary": "Pulled live from the Meta Ad Library, this is the plainest kind of well-made feed ad: a cognac leather crossbody tote shot dead straight-on, centred, on a bone ground tuned to the leather's warmth, with a soft floor shadow and generous margin. There is no headline, no logo lockup, no price flash, no sale badge — the creative contains zero type. All the words live in Meta's own chrome: the Everlane avatar and 'Sponsored' label, one line of primary text ('Discover why everyone is obsessing over these pieces.'), the link caption naming the exact SKU ('Everlane Luxe Italian Leather Crossbody In Cognac'), and a grey Shop Now button. The result is an asset that cannot break when it's re-cropped to square, story or Marketplace — and one that doubles as a catalogue image.",
+      "whatWorks": [
+        "4:5 portrait, not 1:1 — roughly 25% more vertical feed height for the same scroll",
+        "Ground colour tuned to the subject (bone against cognac) so the silhouette separates at thumbnail size, before any detail is legible",
+        "One object, straight-on, centred, with real margin — it reads as a shape first and a product second",
+        "Zero baked-in type: nothing to clip, re-flow or fail translation when the same asset is cropped into other placements",
+        "The full product name is the link caption, so the promise is a specific SKU rather than the brand",
+        "The primary text does the persuading in a single line; the creative's only job is stopping the scroll",
+        "Colour is doing the branding — no logo needed inside the frame, because the account name is already in the unit"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A tall, near-empty warm field with one object in it. In a feed of busy, text-stacked creative, emptiness is the pattern interrupt — the eye resolves the bag shape instantly because there is nothing else to parse."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Deliberately absent from the image. Meta's chrome supplies it: 'Discover why everyone is obsessing over these pieces.' — social proof phrased as curiosity, one line, no exclamation, no price. Because the platform renders it, it's live text: selectable, translatable, and rendered at the platform's own accessible size."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "480×600. Cognac full-grain leather, handles up, strap draped across the body of the bag to show it's a crossbody, tiny debossed wordmark visible on the front panel, soft contact shadow implying a real surface. It's honest catalogue photography, not a styled lifestyle scene — the same frame that would sit on the PDP."
+        },
+        {
+          "name": "CTA",
+          "notes": "Meta's own grey 'Shop Now' button, sitting under the link caption block (EVERLANE.COM → product name → brand boilerplate). Nothing in the creative competes with it, so the only clickable-looking element in the whole unit is the real one."
+        }
+      ],
+      "principle": {
+        "title": "Put no type in the creative — let the platform draw the words",
+        "explanation": "Baked-in headlines are the first thing to break when one asset has to serve feed, story, Reels, Marketplace and dynamic placements: text gets cropped, shrunk under the legibility threshold, or stranded in one language. A creative that is only subject-on-ground survives every crop, and the platform's chrome already renders the copy as live, translatable, accessibly-sized text next to a real button. The trade is honest — you lose the headline when someone screenshots or shares the image alone — so the first line of primary text has to carry the argument.",
+        "howToApply": "For 35353 paid social, ship creatives as one subject on a ground colour sampled from the subject, 4:5, ~15% margin, no type and no logo inside the frame; put every word in the ad copy fields and make the link caption the specific thing (address, neighbourhood, price band) rather than the brand. Keep baked type for formats with no chrome to borrow — display banners, OOH, email headers."
+      },
+      "tags": [
+        "advertising",
+        "paid-social",
+        "photography",
+        "color",
+        "restraint",
+        "e-commerce"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Irma Boom",
+        "url": "https://en.wikipedia.org/wiki/Irma_Boom"
+      },
+      "image": "images/2026-08-04-designer-irma-boom.png",
+      "category": "Book design / editorial (contemporary Dutch)",
+      "when": "b. 1960 · Dutch",
+      "tagline": "Designs books as three-dimensional objects — and starts every one by building five to seven tiny paper models before a single page is laid out.",
+      "summary": "Irma Boom is the most decorated book designer alive — youngest-ever winner of the Gutenberg Prize (2001), a Yale critic since 1992, with work held at MoMA — and her method is almost entirely physical. She begins each project by making miniature 3D models of the book, typically five to seven of them, which she describes as filters for her ideas; she has accumulated hundreds, and eventually published them as a book of their own, 'The Architecture of the Book' (2010). Structure comes out of content, not style: the 2,136-page SHV Thinkbook took three and a half years of research and shipped with no index, reversed chronology and an untreated white cover designed to soil with handling.",
+      "whatWorks": [
+        "Build five to seven small physical models before designing anything — and treat them as filters for ideas, not as presentations",
+        "Design the object, not the pages: thickness, weight, page edges and material are part of the composition",
+        "Let the content dictate the structure, even when that means breaking a convention (no index, reversed chronology)",
+        "Front-load research so form arrives out of the material rather than out of a style choice",
+        "Rename the relationship you need: she works for 'commissioners', not clients — equal collaborators, with trust and freedom stated up front",
+        "Let the artefact age on purpose — a cover that dirties with use makes wear part of the design",
+        "Be selective; she takes few projects, which is what makes the depth of research possible"
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "With the content, and at miniature scale. Before layout, she builds tiny three-dimensional models of the whole book — five to seven per project — to think about sequence, proportion, thickness and where the reader enters. The dummies are working tools ('filters for her ideas'), so decisions about structure get made while they are still cheap to change. Research runs first and runs long: the SHV Thinkbook meant three and a half years in archives across Amsterdam, Paris, London and Vienna."
+        },
+        {
+          "name": "Core method",
+          "notes": "Iterate in the object rather than on the screen. A book is a physical volume, so the maquette is the drawing — she keeps making small versions until the structure is inevitable, then scales up. Hundreds of these models exist; the collection itself became 'Irma Boom: The Architecture of the Book' (2010), which is the clearest statement of the method: the archive of prototypes IS the portfolio."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Designing the entire landscape of the book, including the parts most designers ignore. Page edges are a surface to print on; paper choice, embossing, die-cuts and finishing each carry logic rather than decoration. The SHV Thinkbook has 2,136 pages, no index and an anti-chronological order, with a white cover meant to dirty as it's used. The Chanel N°5 book is 300 pages of white embossing — an almost inkless, semi-invisible narrative — inside a black box. Weaving as Metaphor (2006) has deliberately ragged edges echoing textile selvedges."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "The book must be an object of beauty with quality and permanence, not a container for information — her explicit answer to the idea that print is obsolete. She refuses the word 'client' in favour of 'commissioner', on the grounds that the relationship has to be equal and built on trust for anything unconventional to survive; and she stays very selective, since depth is only possible on few projects. A decision is judged by whether it helps the reader understand the content, not by whether it looks designed."
+        }
+      ],
+      "principle": {
+        "title": "Make it small before you make it right",
+        "explanation": "Structural decisions — sequence, proportion, rhythm, where the eye enters — are the expensive ones, and they're the ones a full-size layout hides behind detail. Building the whole thing at a quarter scale, several times over, forces those decisions while they cost nothing and makes the shape of the whole visible at once. The prototype is a filter: most of the five to seven versions exist to be rejected.",
+        "howToApply": "Before designing a 35353 page, brochure or listing package, put the entire thing on one sheet at ~25% — thumbnails of every section in order, real proportions, no type detail — and make five variants that change only the sequence and the proportions. Judge rhythm and entry point from the board, print it, keep the one that survives, and only then design at full size. For print pieces, fold a physical dummy at the real paper weight before choosing anything else."
+      },
+      "tags": [
+        "process",
+        "prototyping",
+        "editorial",
+        "print",
+        "materiality",
+        "book-design"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Zalando — Brand Guidelines",
+        "url": "https://brand.zalando.com/"
+      },
+      "image": "images/2026-08-04-brandguide-zalando.png",
+      "category": "Public brand portal (post-refresh identity + writing guide)",
+      "tagline": "A public brand portal with only two top-level sections — Identity and Brand Writing — so the verbal system gets equal billing, including a 'Writing with AI' chapter that says what a model may and may not write.",
+      "summary": "Zalando published its brand refresh as an open, dark-mode portal that splits into exactly two halves: Identity (identity system, logo, typography, colour, layout, motion, visual assets) and Brand Writing (writing at Zalando, brand voice, inclusive language, writing with AI, localisation, style manual, glossary). Giving writing half the navigation is unusual and the content earns it — the voice traits are named in the brand's own subject language ('Relaxed basics', 'Contrasting patterns', 'Unexpected details', 'Flexing our voice'), and the AI chapter draws a genuinely decidable line rather than a warning. The visual side is rule-led too: the brand mark is always orange, the word mark only ever black or white, text only black or white. Its one real weakness is that a public guide never publishes an actual colour value.",
+      "whatWorks": [
+        "Two top-level sections only — Identity and Brand Writing — so the verbal system is structurally half the brand, not an appendix",
+        "Each design principle is joined by a rule line to the outcome it buys: Simple → a system that's easy to use; Dynamic → distinct assets that build recognition; Consistent → clarity of brand role; Flexible → future-proof for new channels",
+        "Voice traits named in the brand's own vocabulary — 'Relaxed basics', 'Contrasting patterns', 'Unexpected details' — so a fashion company's voice system reads on-brand as you learn it",
+        "A 'Writing with AI' chapter with a usable split: AI may analyse and re-angle what you wrote; it may not originate on-brand copy, strategy or localisation — and its output is reviewed 'the way you'd review something written by a junior colleague'",
+        "Colour written as roles, not swatches: brand mark always orange on any background, word mark only black or white and never orange, text only black or white with greys for small details",
+        "One variable typeface with a leash — Zalando Sans runs Condensed Extra Light to Expanded Black, but the instruction is to 'stick to the pre-defined styles for your category' on a 4/8-point size scale",
+        "Motion treated as a real discipline: its own introduction, choreography, core assets, a grid system for motion, motion typography and application examples",
+        "Inclusive language and localisation sit inside the writing section as standard chapters rather than as a compliance note"
+      ],
+      "sections": [
+        {
+          "name": "Our refreshed brand (hero)",
+          "notes": "A dark portal opening with the orange brand mark animating as video, plus a short paragraph on WHY the refresh happened — a start-up grown into a fashion and lifestyle platform that needed to evolve. Rationale before assets, in two sentences."
+        },
+        {
+          "name": "Visual identity (six cards)",
+          "notes": "Logo system, Typography, Colour, Layout, Motion and Visual assets as a 2×3 grid of thumbnails, each with a single-line summary and its own subtree. The card previews are real artwork — the wordmark, a 'Superfamily' type specimen, the actual colour table, a photograph on a live grid — so the grid doubles as a specimen sheet."
+        },
+        {
+          "name": "Brand positioning, identity and design principles",
+          "notes": "'BOLD / Fun / Welcoming' set over campaign photography, the positioning line ('the go-to destination for quality fashion and lifestyle shopping'), a short identity narrative ending on 'A New Style of Entertainment', then the four design principles — Simple, Dynamic, Consistent, Flexible — each ruled across to the consequence it produces. This is the guide's strongest page: principles with their payoffs attached."
+        },
+        {
+          "name": "Colour (primary / secondary)",
+          "notes": "Orange as the hero colour tied to heritage, black and white as the foundation. The rules are decidable: the brand mark is always orange regardless of background or motif; the word mark exists only in black or white and never in orange; text is only ever black or white, with grey permitted for small details. Don'ts name the specific failures — white on orange, orange on white, mixed text colours, low contrast on imagery. What's missing is any actual value."
+        },
+        {
+          "name": "Typography (Zalando Sans)",
+          "notes": "One variable superfamily spanning Condensed Extra Light to Expanded Black, Latin and Latin Extended-A, downloadable from the portal. Then the leash: use the pre-defined styles for your category, and size on 4- and/or 8-point increments. A guide that hands over a wide range plus an instruction not to roam it."
+        },
+        {
+          "name": "Brand Writing",
+          "notes": "Seven chapters — Writing at Zalando, Our brand voice (We speak Zalando → Relaxed basics → Contrasting patterns → Unexpected details → Flexing our voice → Voice examples), Inclusive language, Writing with AI, Localisation, Writing style manual, Glossary. The voice model is built as clothing vocabulary: 'basics' are the clear, friendly, informal elements used everywhere; 'contrasting patterns' is being to the point with energy and without judgement; 'unexpected details' is refusing the obvious word."
+        },
+        {
+          "name": "Bringing our identity to life + governance",
+          "notes": "An applications gallery of the identity in the wild — a street-level digital screen, packaging tape, print, the heart glyph — followed by a two-column index of every page, a named contact (brand-refresh@zalando.de) and 'Made with love in Berlin, Dublin, Hamburg & Helsinki'. There's a route to a human, but no version number and no date."
+        }
+      ],
+      "needs": [
+        "Actual colour values — Zalando orange is specified by name and by rule but published with no hex, RGB, CMYK or Pantone, so no external partner can match it",
+        "Numeric contrast pairings instead of 'WCAG standard combinations are recommended' — which ratio, at which text size, on which background",
+        "Logo clearspace and minimum-size diagrams, plus shown misuse pairs; the logo section describes mechanics in prose",
+        "A version number, date and changelog — the portal documents a refresh without stamping itself, so nobody can tell whether they're reading the current rules",
+        "Machine-readable distribution: colour and type as tokens (CSS/JSON/Figma variables) next to the font download, not values to retype",
+        "Light/dark surface behaviour as a transformation rule — the portal itself is dark, but nothing states how the palette flips between surfaces",
+        "A print and packaging layer: applications are shown photographically but there are no specs for the physical surfaces a retailer actually ships"
+      ],
+      "principle": {
+        "title": "A 2026 brand guide needs an AI clause — say what a model may write and what it may never originate",
+        "explanation": "Voice now breaks where nobody is looking: in generated first drafts, at scale, across every team with a prompt box. A guide that only lists voice adjectives leaves that decision to whoever is prompting. Zalando's answer is a split anyone can apply without judgement calls — AI may analyse and re-angle copy you already wrote, and is good at binary choices; it may not originate copy meant to sound on-brand, invent strategy or creative concepts, or handle localisation. Output is then reviewed like a junior colleague's draft: every word read, not skimmed.",
+        "howToApply": "Add a one-page 'Writing with AI' section to the 35353 brand guide with three lists. Green: tighten a paragraph you already wrote, generate options for a binary choice, check a draft against the voice traits. Red: first drafts intended to sound like us, positioning and campaign concepts, Spanish or other localisation, and any copy stating facts about a property or a market. Review rule: read every word, and cut any sentence that could belong to any other brokerage. Pair it with voice traits named in real-estate language rather than adjectives, so the traits are memorable enough to check against."
+      },
+      "tags": [
+        "brand-guide",
+        "voice",
+        "ai",
+        "typography",
+        "color",
+        "motion"
+      ]
     }
   ]
 }
