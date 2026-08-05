@@ -12105,6 +12105,252 @@
         "color",
         "motion"
       ]
+    },
+    {
+      "date": "2026-08-05",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Snøhetta",
+        "url": "https://www.snohetta.com/"
+      },
+      "image": "images/2026-08-05-snohetta.png",
+      "category": "Architecture & design practice",
+      "tagline": "A global architecture practice whose main navigation is a type list — project names in near-black with their one-line descriptors set in grey on the same line, no thumbnails at all.",
+      "summary": "Snøhetta opens with no hero image: a single two-line sentence (\"Snøhetta is a global transdisciplinary practice, working on projects of all scales.\") sits alone on warm off-white, and the first photographs arrive below it as a strip that bleeds off both edges. From there every section runs on the same editorial spine — a small grey label in the left column, the content in the right, hairline rules as the only dividers, and zero accent colour, so all colour comes from the buildings. The page's centrepiece is a text index of highlighted projects where the name is near-black and its descriptive subtitle is grey on the same line, which makes a navigation list double as copy. It is a deliberately quiet page for a practice whose work is anything but, and the restraint is what makes 40 years of wildly different projects read as one body.",
+      "whatWorks": [
+        "No hero image at all: one two-line sentence in a light weight at display size defines the practice, so the promise is read before anything is looked at — the images arrive second, as a strip.",
+        "The project filmstrip bleeds off both edges at varied heights and scales rather than sitting in a tidy carousel of equal cards, so it reads as a working contact sheet instead of a slideshow.",
+        "A label-left / content-right spine (Disciplines, Latest News, Upcoming Events, Highlighted Projects) means the page needs no section headings, no cards and no boxes — just a grey label, a hairline rule and the content.",
+        "The Highlighted Projects index sets the name in near-black and its descriptor in mid-grey on the SAME line (\"Under — Europe's First Underwater Restaurant\"), and lets the grey clause overrun the right edge instead of truncating it.",
+        "Upcoming Events is an actual table with Event / Location / Date column heads and a real dated lecture in it — a checkable, current section rather than a rotating news tile.",
+        "The two mid-page blocks (Our process / Sustainability and Responsibility) are deliberately unequal in size and vertically staggered, so a two-item row reads as an editorial spread rather than two matching cards.",
+        "The footer carries display controls — dark mode, a simplified view and low-resolution imagery — alongside the legal and transparency links, treating bandwidth and reading comfort as brand features rather than settings."
+      ],
+      "sections": [
+        {
+          "name": "Header & hero statement",
+          "notes": "The header is three items with no plate behind them: the wordmark left, the word \"Menu\", and a small mountain glyph right — no category words, no CTA, no search box. The hero is text only: one sentence broken over two lines in a light weight at roughly 48px, left-aligned on warm off-white, with nothing else on the first screen. For a practice whose work is intensely photographic, choosing to open on a sentence is a confidence move — it says the ideas come first and the pictures will keep."
+        },
+        {
+          "name": "Project filmstrip",
+          "notes": "Immediately below the sentence, a horizontal strip of project images bleeds off both the left and right edges, with the images at different heights and one scaled up and pushed lower than its neighbours. Because it is clipped rather than contained, the eye registers \"there is much more of this\" without a counter or a \"view all\" button, and the ragged top and bottom edges keep it from reading as a stock carousel."
+        },
+        {
+          "name": "Disciplines",
+          "notes": "The first labelled section: \"Disciplines\" in small grey type in the left column, and in the right column four rows separated by hairline rules — Architecture, Landscape Architecture, Interior Architecture, Product Design. It is the whole service offer in four words per line, set at heading scale with no icons and no descriptions. This is where the page establishes the label-left / content-right grammar that every following section reuses."
+        },
+        {
+          "name": "Latest News & Upcoming Events",
+          "notes": "News is a horizontal carousel of three story cards, each with a dateline above the headline and images cropped to different heights, with prev/next arrows below rather than overlaid. Events is not a carousel at all but a table — Event / Location / Date column heads, hairline rules, the lecture title in black and the speakers in grey. Putting a real dated table on the homepage is the cheapest possible proof that the practice is currently active."
+        },
+        {
+          "name": "Process & Sustainability blocks",
+          "notes": "Two prose blocks with images, but pointedly not a 2-up card row: \"Our process\" gets a small square image in the left column, \"Sustainability and Responsibility\" gets a much wider landscape image in the right column and sits lower on the page. Each has a plain bold label, three lines of body copy, and no button. The asymmetry is what makes it read as a spread instead of a component."
+        },
+        {
+          "name": "Highlighted Projects index",
+          "notes": "The page's best section and its real navigation: nine projects as lines of type, each with the name in near-black at heading scale followed inline, on the same line, by its descriptive subtitle in mid-grey — \"Norwegian National Opera and Ballet | Giving...\", \"Times Square | Putting the 'square' back in T...\", \"Under | Europe's First Underwater Restaurant\". The grey clause deliberately runs past the right edge rather than being truncated with an ellipsis, which reads as abundance rather than as a bug. It closes with a single \"→ See all of our projects\". No thumbnails, no cards — you navigate by reading."
+        },
+        {
+          "name": "Footer",
+          "notes": "Opens with two plain text columns — \"Get in touch\" and \"Policies and Governance\" — with no cards, buttons or forms, then the footer proper: the mountain mark, four link columns (General / Disciplines / More), an inline search field with a \"+\" affordance, and a bottom rule carrying © Snøhetta 2026, Current Openings, Legal Documents, Transparency Act, Cookies & Tracking and the social links. Sitting with them are display controls for dark mode, a simplified view and low-resolution imagery — an unusually generous, and unusually honest, thing to publish for an image-heavy site."
+        }
+      ],
+      "principle": {
+        "title": "Let the index be a sentence, not a thumbnail",
+        "explanation": "A grid of image cards forces every item to compete on its photograph, hides what the thing actually IS behind a title, and needs a new card style the moment the content types diverge. Setting the same list as type — name in near-black, one grey clause naming what it is, on the same line — makes the index readable at a glance, scannable by keyword, honest about items with weak photography, and free of layout debt. It also flatters the copy: the descriptor has to be written well because there is nothing else to look at.",
+        "howToApply": "On the next project, neighbourhood or listing index, build the primary list as type before you build a grid: address or name in near-black at heading scale, one mid-grey clause on the same line naming what it actually is (\"A 1920s Craftsman two blocks from the lake\"), hairline rules only, no cards. Let the grey clause overrun the container rather than truncating with an ellipsis. Keep photography in a separate edge-bleeding strip above the list, so the pictures set the mood and the type does the navigating."
+      },
+      "tags": [
+        "typography",
+        "layout",
+        "editorial",
+        "architecture",
+        "restraint",
+        "accessibility"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "StreetEasy — Reddit promoted post (free-form in-feed ad)",
+        "url": "https://www.business.reddit.com/success-stories/advertisers/streeteasy"
+      },
+      "image": "images/2026-08-05-ad-streeteasy.png",
+      "category": "Reddit promoted post (free-form in-feed single-image ad)",
+      "tagline": "A real-estate ad that opens with a market statistic and says \"YMMV\" — written in the platform's own register, and selling a decision guide rather than listings.",
+      "when": "Reddit in-feed, ~2025–26 (documented in Reddit's own advertiser case study)",
+      "summary": "The unit is a single-image promoted post from StreetEasy, Zillow's New York City listings brand, running in the Reddit feed against zip-code, community and keyword targeting. Everything unusual about it is in the copy: the primary text opens with a fact about the reader's own city (\"Two-thirds of New Yorkers rent while the remainder buys\"), uses Reddit's own shorthand \"YMMV\", and offers a rent-vs-buy guide rather than a listings search — an offer aimed one step upstream of the transaction, at someone still deciding. The creative splits rather than overlays: a flat brand-blue field carries the logo and a two-line question, and a documentary photograph of a brownstone sidewalk is inset beneath it, so no type ever sits on the image. Reddit reports the campaign ran 20% above CTR benchmark, 11% under its CPC goal, and 15% more efficient cost per incremental visit than other social platforms, with longer average session times.",
+      "whatWorks": [
+        "Opens with a number instead of a pitch: \"Two-thirds of New Yorkers rent while the remainder buys\" enters the feed as information about the reader's city, so the first line earns attention before any brand claim is made.",
+        "Written in the platform's register — \"YMMV\" is Reddit's own idiom, and the sentence structure reads like a comment; the \"Promoted\" label ends up being the only thing marking it as an ad.",
+        "Sells the decision aid, not the inventory: the offer is a guide that helps you choose rent vs buy \"which option fits your budget, goals, and lifestyle\" — correctly matched to a feed audience that is deliberating, not shopping.",
+        "The creative is split, not overlaid: brand-blue upper field for the logo and headline, photograph inset below it, so nothing competes with type and both survive at feed scale on a phone.",
+        "The headline is a question answered by its own second line — \"Rent or buy in NYC?\" / \"We'll help you decide\" — staggered right so the two lines read in sequence rather than as one block.",
+        "Honest, unstyled location photography: a real brownstone sidewalk with a green awning numbered 71, shot at eye level with a person walking through it. No rendered interior, no stock couple with keys — the street does the aspirational work.",
+        "CTA restraint: one outline \"Learn More\" pill in Reddit's own chrome plus the bare domain \"streeteasy.com\" in a white footer bar. No urgency copy, no badge, no second ask."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The u/StreetEasy handle and \"Promoted\" label sit above three lines of primary text whose first clause is a statistic, not a slogan. Because the number is about the reader's own market and the phrasing concedes uncertainty (\"YMMV\"), the unit reads as a contribution to the feed rather than an interruption of it — which is exactly the register Reddit punishes brands for missing."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Inside the creative, white type on flat brand blue asks \"Rent or buy in NYC?\" and answers itself on the next line, \"We'll help you decide\" — both right-staggered so the eye steps down and right. It is a two-beat structure: name the reader's live question, then position the brand as the referee rather than the seller. No price, no inventory count, no feature."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The frame is split horizontally: the top third is a saturated brand-blue field holding the speech-bubble building logomark and wordmark plus the headline; below it an inset documentary photograph of a tree-lined NYC block — brownstone, iron railings, green awning, a pedestrian mid-stride — offset right so the blue field frames it on the left. Insetting rather than full-bleeding the photo is what keeps the type clean and keeps the brand colour, not the picture, as the first thing recognised in the scroll."
+        },
+        {
+          "name": "CTA",
+          "notes": "A white bar under the creative with \"streeteasy.com\" small and grey on the left and a single outline-pill \"Learn More\" on the right — Reddit's native ad chrome, unmodified. The restraint is deliberate: the persuasion has already happened in the primary text, so the button only has to be the obvious next step, not a second argument."
+        }
+      ],
+      "principle": {
+        "title": "Write the ad in the platform's own register, and offer the guide rather than the listing",
+        "explanation": "On a community platform, the format that converts is the one that survives being read as a normal post — a checkable local number, ordinary sentence rhythm, and the site's own shorthand do more for credibility than any amount of polish. Pairing that voice with an upstream offer (a guide, a calculator, an explainer) also matches feed intent: people scrolling a city subreddit are deciding whether to move, not choosing between two addresses. Ask for the smaller, earlier commitment and you get the click, the longer session, and the audience before your competitors are even in the consideration set.",
+        "howToApply": "For a Lofty or 35353 paid-social unit, open the copy with one checkable local number you actually have (\"62% of Rowlett listings closed under ask last quarter\"), write it in the register of the place it will run — plain sentences, no exclamation marks, concede what you don't know — and make the offer a guide or calculator rather than \"browse homes\". Build the creative as a flat brand-colour panel carrying the logo and a two-line question-and-answer, with an honest street or exterior photo inset beneath it so no type sits on the image, and leave the platform's own CTA chrome untouched."
+      },
+      "tags": [
+        "social",
+        "real-estate",
+        "copywriting",
+        "photography",
+        "cta",
+        "native"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Lester Beall",
+        "url": "https://en.wikipedia.org/wiki/Lester_Beall"
+      },
+      "image": "images/2026-08-05-designer-lester-beall.jpg",
+      "category": "American modernism / corporate identity",
+      "when": "1903–1969 · American",
+      "tagline": "Translated the European avant-garde into plain American — then invented the standards manual so it would still be plain American after he left the room.",
+      "summary": "Beall came to design sideways, with an art-history degree from the University of Chicago and no design training, and spent the 1930s converting Constructivist and Bauhaus grammar — asymmetric layering, flat colour planes, block type, photomontage — into something a farmer in Indiana would read without hesitation. His posters for the Rural Electrification Administration are the proof: a giant white bulb on a field split red and blue, a black farmhouse silhouette, thin rays doing the work of invisible current, and the single word LIGHT. In 1937 he became the first designer given a one-man show at the Museum of Modern Art. Then he did the less glamorous and more consequential thing: from the mid-1950s he built full identity programmes for Connecticut General, International Paper, Caterpillar and Martin Marietta, and documented them in style books and graphics standards manuals — among the first fully articulated in America — because he defined the designer's job as pre-creative, creative and post-creative, and refused to stop at the mark.",
+      "whatWorks": [
+        "Split the job into three named phases — pre-creative (research and audit), creative (design), post-creative (documentation and enforcement) — and quote all three, so the standards document is scope rather than unbilled goodwill.",
+        "Write the standards deliberately loose: the Connecticut General style book fixed trademark, typeface and colour policy but left layout to judgement with limited formal rules — a rulebook people can follow beats one they route around.",
+        "Design for the room, not the desk: the REA posters had to land across a barn or a general store on a reader with no prior interest, so they were built from one symbol, two flat colours and a five-word slogan.",
+        "Draw the invisible. When the benefit cannot be photographed — current, flow, connection, reach — invent a device (arrow, ray, line) that shows it moving from A to B.",
+        "Keep the imported form, localise the words: he held on to Constructivist structure but wrote the copy in American vernacular (\"When I think back…\", \"It's fine for us\"), so a modern layout never read as foreign.",
+        "Raid a discipline outside design for your reference library — art history, in his case — and mine it for structure the trained designers around you have not already used."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With the audience's ignorance, not the brief's wish list. For the REA he was designing for households that had never had electricity, so he started from one concrete benefit at a time — light, running water, a better home, farm work — rather than from a layout or a slogan. And before form on the corporate work came what he called the pre-creative phase: understanding the company, its documents and its people well enough to know what the mark would have to survive."
+        },
+        {
+          "name": "Core method",
+          "notes": "Import a foreign visual language and re-say it in the local vernacular. Beall took the European avant-garde's asymmetric layering of word and image, flat colour planes, block type and experimental photography, and paired them with plainspoken American slogans and an unmistakably patriotic red-white-blue — so the poster felt like a familiar object using an unfamiliar grammar. He ran the REA work as three successive series, moving from pure flat symbol (1937) to photomontage bonded onto those same flat planes with colloquial captions (1939, 1941), refining rather than restarting."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The arrow and the flat field. A page split into two or three flat colour fields gives a silhouette or a photograph a stage and does the work a border would do, without a border; thin rays and arrows carry the eye and stand in for a thing that has no shape — current running from the pole to the farmhouse. Later he layered documentary photography onto those same planes, so the photomontage inherited the poster's structure instead of dissolving it."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "\"The designer's role in the development, application and protection of the trademark may be described as pre-creative, creative and post-creative.\" The mark is not finished when it is drawn — it is finished when it is documented and defensible, which is why the Connecticut General style book (1958, 500 copies, bound with his own notes on typographic design) and the International Paper standards manual (1960) exist at all. His counter-instinct is the interesting part: the standards were kept informal and few on purpose, betting on trained judgement over an exhaustive rulebook."
+        }
+      ],
+      "principle": {
+        "title": "Budget the pre-creative and post-creative phases, not just the design",
+        "explanation": "Most identity and template work is priced as if the deliverable were the artwork, so the research that makes it right and the documentation that makes it last both get done for free or not at all — and the thing degrades the first time someone else uses it. Beall's three-phase framing turns those into named, quotable phases with their own outputs: an audit before, a standards document after. It also changes what \"finished\" means, from \"the file is approved\" to \"someone who has never met me can apply this correctly next year.\"",
+        "howToApply": "On the next identity, template or section-block system, write the estimate in three lines — pre-creative (audit what exists, where it will be used, what it must survive), creative (design), post-creative (a short standards page plus the master files). Keep the standards deliberately short and enforceable, Beall-style: fix the mark, the typeface and the colour roles, then leave layout to judgement. Anything you would not be willing to enforce should not be in the document."
+      },
+      "tags": [
+        "process",
+        "identity",
+        "standards",
+        "poster",
+        "photomontage",
+        "modernism"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Australian Museum — Brand Guidelines",
+        "url": "https://australian.museum/about/organisation/media-centre/brand/"
+      },
+      "image": "images/2026-08-05-brandguide-australian-museum.png",
+      "category": "Public brand guidelines hub (museum / cultural institution)",
+      "tagline": "Nine web tiles, each illustrated with a live specimen of the component it documents — and a typographic underline specified down to the stroke weight.",
+      "summary": "The Australian Museum publishes its brand system as a public hub of nine tiles — Logo, Typography, Colour, Pattern, Descriptor, Motion, Photography, Brand Voice, Terms of Use — sitting on a page that is itself set in the brand, chevron watermark and all. What lifts it above the usual press-kit page is that every tile is illustrated with a rendered sample of the thing behind it: the logo on its construction grid, a giant orange \"Aa\", the colour bars with tints, the chevron pattern, and the word \"Descriptor\" underlined above a real headline. The specs behind those tiles are unusually exact for a public guide — clearspace of more than half the width of the \"A\" in AM, a 30mm / 100px minimum, pattern scaled so 6–8 peaks fit the longest edge, a rule that only two to three colours may be combined, and a heading underline set at 10% of font size with a 20–30% offset on the last line only. Its weak spot is the opposite of vagueness: the palette is named and downloadable but no hex, RGB, CMYK or Pantone value appears on the page, and there is no numeric contrast standard behind a five-colour secondary palette.",
+      "whatWorks": [
+        "The index teaches before you click: each of the nine tiles renders a live specimen of its component (logo on its grid, a display-scale \"Aa\", colour bars with tints, the pattern, the underlined Descriptor over a real headline) instead of an icon or a word.",
+        "The guide is set in its own system — orange and red, chevron pattern watermark behind the grid — so the page doubles as the largest application example in the document.",
+        "Small type devices are specified with numbers, not adjectives: main-heading underline at 10% of font size weight, 20–30% offset, last line only; descriptors underlined at 15%; credits all-caps at a 5.5pt floor, 120% leading, 75 tracking.",
+        "The pattern has a scale rule rather than a vibe: size it so 6–8 peaks fit the longest edge of the media, rotate only in 90° steps, crop sections rather than showing the whole thing, and never use transparency over solid colour (which would invent off-brand hues).",
+        "Colour is governed by role and count, not just by swatch — organisational communications may use only the core and neutral palettes, promotional work unlocks the secondary palette, and no more than two to three colours may be combined in any piece.",
+        "The \"Descriptor\" is an unusual and very copyable idea: a documented brand device — top-left, four words maximum, drawn from a list of 40+ approved terms, never a call to action or a URL — that tells the reader what kind of thing they are looking at before the headline does.",
+        "Brand Voice is a four-trait model (Expert, Wonder, Progressive, Specific) with explicit modulation guidance — a science strategy dials Expert and Progressive up and Wonder down — and worked examples across strategy documents, social posts, brochures, fundraising ads and education materials."
+      ],
+      "sections": [
+        {
+          "name": "Identity system index",
+          "notes": "A nine-tile grid titled \"Our Identity System\", each tile a rendered specimen plus a one-line description and a \"See more\" link, over a chevron watermark. Below it, governance is a person rather than a process: a \"Request a job\" block naming the Design Coordinator with a direct email and phone number, plus a separate Terms of Use covering IP. Warm and answerable — but there is no version number, date or changelog anywhere on the hub."
+        },
+        {
+          "name": "Logo",
+          "notes": "Print pack (PDF/EPS/JPEG, CMYK) and screen pack (PDF/SVG/PNG, RGB), each bundled with guidelines. Two mono versions with a stated rule — black against light colours and imagery, white reversed out of dark. Clearspace is expressed in the mark's own anatomy: spacing greater than half the width of the \"A\" in AM. Minimum size is given in both media — never smaller than 30mm or 100 pixels wide. Placement is tied to the grid (top-right or bottom-right, three columns wide), and co-branding is specified properly: a full \"A\" width between partner logos, equal heights where possible, half an \"A\" width either side of a divider."
+        },
+        {
+          "name": "Typography",
+          "notes": "Apercu is the marketing typeface, Arial the internal system fallback, with the hard line that all external communications must use Apercu. The hierarchy is spelled out level by level with real values: main headings in Apercu Black at 110% leading, title case or all caps with 100 tracking; subhead 1 at 2× body size; subhead 2 / CTA at body size; long-form print body at 8.5pt on 11.5pt; short-form body at 130% leading; credits all-caps Apercu Bold with a 5.5pt floor. The underline treatment — last line only, 10% of font size, 20–30% offset — is the brand's signature typographic device and it is specified as tightly as the logo."
+        },
+        {
+          "name": "Colour",
+          "notes": "Three palettes with defined jobs: Core (preferred, for anything from the museum as an organisation), Neutral (to unify and complement), Secondary (promotional latitude for exhibitions, programs and events) with nature-derived names — Cockatoo Yellow, Eucalyptus Green, Saltwater Aqua, Bluebottle Blue, Amethyst Purple. Combination guidance covers tone, contrast versus monotone, and legibility (\"consider using tints\"), capped at two to three colours per piece. An Adobe .ase/.ai swatch file is the deliverable — and, notably, the only way to get an actual value."
+        },
+        {
+          "name": "Pattern & Descriptor",
+          "notes": "The pattern is built from elements of the logomark itself, extended and repeated into a master pattern, so the identity scales from a 100px mark to a full-bleed field without a second asset. Rules are quantified (6–8 units along the longest edge, 90° rotation only, crop rather than tile the whole thing, any brand colour including tints, no transparency over solids, sits behind or in front but never competes with content). The Descriptor is the other half of the layout system: top-left, four words maximum, from an approved list of 40+ terms across Groups / Content / Activity, never a CTA or a web address, never too vague or too specific, and explicitly not for space-constrained formats like banner ads."
+        },
+        {
+          "name": "Photography & Motion",
+          "notes": "Photography is split into four named categories with distinct direction — Engagement (candid, fly-on-the-wall, subjects not facing camera, faces showing awe or wonder), Objects (white/grey/black backdrops, evenly lit, a soft cast shadow preferred; in-situ shots shallow depth of field), Portraits (natural light matched to the message; moody shadow used sparingly), Events (interaction and emotion, and explicitly not lots of backs of heads). It asks for visible diversity including people with disability, negative space in wide shots for text overlay, and a neutral grey card on shoot for colour reference. Motion has its own section plus a dedicated logo-animation guideline and downloadable resources — which most guides this size still omit entirely."
+        },
+        {
+          "name": "Brand Voice",
+          "notes": "Four traits, each with do's and don'ts: Expert (reference qualifications, let the reader infer authority, never boast), Wonder (show what is rare, never exaggerate or overstate or deceive), Progressive (real-world societal impact, don't confuse institutional progress with societal progress), Specific (name the actual specimen or statistic, don't bury the reader in jargon). Crucially it documents modulation — which traits to dial up or down per context — and shows the same voice across five channels rather than presenting one exemplary paragraph."
+        }
+      ],
+      "needs": [
+        "Actual colour values. The palette is named and downloadable as an Adobe swatch, but no hex, RGB, CMYK or Pantone appears on the page — so anyone building a web page, a slide or an email has to open Illustrator to get a number they could have copied.",
+        "A numeric contrast standard. \"Ensure sufficient tonal contrast\" and \"consider using tints\" is guidance, not a rule; a five-colour secondary palette needs a per-background legibility table (permitted heading colour, body colour, treatment on white) or stated WCAG ratios.",
+        "A digital layer. Every spec is print-first — 8.5pt on 11.5pt, 30mm, tracking in thousandths. There is no px/rem type scale, no web font licensing note beyond \"Apercu or Arial\", no link, button or form guidance, no responsive rules and no dark mode.",
+        "Iconography. There is no icon section at all, which is a conspicuous hole for an institution running gallery wayfinding, ticketing and accessibility symbols; without one, every project invents its own set.",
+        "An applications gallery. The tiles document components beautifully but nothing shows them assembled — no finished poster, banner, social post, exhibition wall, email or slide — and the grid is referenced (\"three columns wide\") without ever being drawn.",
+        "A version stamp and changelog. Governance is a named Design Coordinator with a phone number, which is warm but unversioned: nobody can tell whether the pack they downloaded last year is still current, or what changed.",
+        "Cultural protocols for imagery. The site carries an Acknowledgement of Country and the collection holds extensive First Nations material, but the brand pages surface no protocol for that imagery — consent, attribution, restricted or secret-sacred material, deceased persons — beyond a general IP Terms of Use and a casting-diversity note in Photography."
+      ],
+      "principle": {
+        "title": "Make the contents page teach — every tile a live specimen",
+        "explanation": "Most guides index themselves with icons, or with words on flat colour, so the reader has to open nine pages to discover which one they actually needed — and the people most likely to bounce are the occasional users the guide exists for. Rendering each tile as a real sample of its component (the logo on its construction grid, type at display scale, the actual colour bars, the pattern, the device in situ) turns the index into the fastest lesson in the document: you learn the system's flavour in one screen and you click already knowing what you will find. It also forces honesty, because a component with nothing worth showing gets exposed immediately.",
+        "howToApply": "On the next brand or block-library index, replace icon tiles with rendered specimens at real fidelity: set the type sample in the actual typeface at display size, show the palette as its real bars including tints, put the logo on its clearspace grid, and show any signature device applied to a real headline rather than described. Keep one line of plain-language description and one link per tile, set the index page itself in the system it documents, and if a tile has no specimen worth rendering, that is the signal the component is underspecified."
+      },
+      "tags": [
+        "brand-guide",
+        "typography",
+        "color",
+        "pattern",
+        "voice",
+        "photography"
+      ]
     }
   ]
 }
