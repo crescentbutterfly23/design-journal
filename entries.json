@@ -12351,6 +12351,1468 @@
         "voice",
         "photography"
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Tailwind CSS",
+        "url": "https://tailwindcss.com"
+      },
+      "image": "images/2026-08-06-tailwind-css.png",
+      "category": "Developer tool / open-source framework",
+      "tagline": "A marketing page where every feature section is a working demo of itself, so the product is proved rather than described.",
+      "summary": "Tailwind's homepage is one very long, very disciplined proof sequence: an almost bare hero, then a run of feature blocks where each claim (responsive design, dark mode, container queries, 3D transforms, gradients) is shown as a live rendered specimen sitting beside the exact utility classes that produced it. The page is built in the thing it sells, so its own typography — huge tracking-tighter headings, balanced text, a restrained gray-950/white core — doubles as the sample. It ends on the commercial layer (Tailwind Plus) only after the free product has been demonstrated a dozen times over.",
+      "whatWorks": [
+        "Hero does almost nothing: one long headline set tracking-tighter at display size, one explanatory sentence naming real utilities (flex, pt-4, text-center, rotate-90), and a single 'Get started' link — no product screenshot, no gradient hero art",
+        "Every feature block is a two-part unit: the rendered result and the code that produced it, side by side, so the reader never has to trust a claim",
+        "Demos use one consistent fake subject (a 'Beach House on Lake Huron' listing, a property grid) so you compare the technique, not the content",
+        "Abstract capabilities get concrete specimens — the P3 palette shipped as the full 50→950 ramp, easing shown as four cards running linear / ease-out / ease-in-out / ease-in at the same duration",
+        "Social proof is a grid of sites you already know (OpenAI, Reddit, Rivian, Shopify, The Verge, NASA/JPL) under the line 'you probably had no idea' — proof of range, not of popularity",
+        "The paid product appears once, late, as three named tiers (Templates / UI Blocks / UI Kit) rather than being braided through the free content"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Type-only: one headline at text-6xl→8xl with tight tracking and balanced line breaks, a single subhead sentence that lists actual class names, and one CTA to /docs/installation. The restraint is the credibility play — a CSS framework that needed a decorated hero would be arguing against itself."
+        },
+        {
+          "name": "Sponsors",
+          "notes": "A logo grid immediately after the hero, framed as 'what pays for full-time maintenance'. For an open-source project this is the trust section, and putting it above the features says the project is funded and alive."
+        },
+        {
+          "name": "Why Tailwind CSS? — the demo run",
+          "notes": "A dozen feature blocks in sequence: responsive design (one card at five breakpoints), filters stacked on one image, dark mode as a side-by-side pair, @theme CSS variables, the P3 colour ramp, CSS grid, transitions with four easings, cascade layers, logical properties shown as an LTR/RTL flip, container queries, gradients, 3D transforms. Each is result + code, never prose alone."
+        },
+        {
+          "name": "Ship faster and smaller",
+          "notes": "An editor mockup showing index.html next to the generated build.css — the payoff section that turns 'utility classes' from a stylistic argument into a shipped-bytes one (<10kB typical)."
+        },
+        {
+          "name": "Tailwind in the wild",
+          "notes": "Twelve familiar brand cards under 'Build whatever you want, without touching your CSS file.' Because the demos above all look like Tailwind's own aesthetic, this section exists to disprove that the framework has a look."
+        },
+        {
+          "name": "Tailwind Plus",
+          "notes": "The single commercial block: three products with one image each and one 'Explore' link, priced nowhere on this page. It reads as an upgrade path, not a paywall."
+        },
+        {
+          "name": "Footer",
+          "notes": "Four plain columns (Tailwind CSS / Tailwind Plus / Resources / Community), no newsletter capture, no repeated CTA — plus a link to the trademark policy, which is where the brand rules actually live."
+        }
+      ],
+      "principle": {
+        "title": "Prove each claim with a rendered specimen and the code beside it",
+        "explanation": "A feature list asks for trust; a specimen earns it. When the result and the exact source sit side by side in the same block, the reader verifies the claim in one glance and simultaneously learns how to reproduce it — the marketing copy and the documentation become the same artifact, which also means the page cannot drift from the product without visibly breaking.",
+        "howToApply": "On the next feature section, kill the paragraph and build a two-column unit: left, the thing actually rendered at real fidelity (component, listing row, map card, form state); right, the eight-to-twelve lines that produce it, copyable. Hold one fake subject constant across every block so the technique is the only variable, and if a claim has no renderable specimen, treat that as evidence the feature isn't ready to lead."
+      },
+      "tags": [
+        "developer-tool",
+        "typography",
+        "documentation",
+        "proof",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Armor All — 'Skin Care' portrait digital unit",
+        "url": "https://www.adsoftheworld.com/campaigns/skin-care-8576db49-c08c-4043-9fc5-832d03d0b22f"
+      },
+      "image": "images/2026-08-06-ad-armor-all.jpg",
+      "category": "Static digital unit (portrait ~3:4, also run in print)",
+      "tagline": "A macro photograph of a cracked dashboard reframed as ageing skin, with a two-word headline doing all the work.",
+      "when": "Digital + print, Peru, July 2026 — agency Fiasco, Lima",
+      "summary": "The whole unit is one extreme close-up of a sun-cracked leather dashboard, lit so the crazing reads exactly like dry skin under a beauty-ad light. Copy is four words in two lines — 'Your car deserves / Skincare' — set small, low-left, in white, with the weight shift doing the emphasis instead of a size jump. Brand and payoff sit bottom-right at badge scale. Nothing is explained; the photograph carries the analogy and the copy just names it.",
+      "whatWorks": [
+        "One focal point: a single texture at macro scale, cropped so no car is recognisable — the subject becomes 'surface', which is what the product actually treats",
+        "Headline is four words and set at maybe 4% of the frame height; the confidence of small type on a big image is the tone of the ad",
+        "Emphasis by weight, not size — 'Your car deserves' in light, 'Skincare' in semibold on the next line, same size, so the analogy lands on one word",
+        "Type sits in the darkest, least-detailed part of the photograph, so no scrim, box or stroke is needed for legibility",
+        "Brand lockup and tagline ('Protect what moves you.') are parked in the opposite corner at small scale, letting the image own the middle third",
+        "No product shot at all — the category cue is borrowed from beauty advertising, which is the entire idea"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The texture reads as skin for a beat before you resolve it as a dashboard. That one-beat delay is the whole stopping mechanism, and it works because the crop removes every car cue (no wheel, no badge, only a vent edge)."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Your car deserves Skincare' — a category swap in four words. The line does not explain the product, the finish or the SPF equivalence; it trusts the picture to have already made the argument."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Warm brown monochrome, single raking light down the crazed leather, deep falloff to near-black at the left where the type sits. Shot like cosmetics packaging rather than like automotive: soft, tactile, dermatological."
+        },
+        {
+          "name": "CTA",
+          "notes": "There isn't one, and that is the honest read: this is an awareness unit ending on brand + tagline. The unit's job is the analogy; the omission of a button is a deliberate cost, and would need adding for any performance placement."
+        }
+      ],
+      "principle": {
+        "title": "Borrow the visual grammar of the category you're comparing yourself to",
+        "explanation": "When the selling idea is an analogy ('this is skincare for your car'), the fastest way to transmit it is to shoot the ad the way that other category shoots its own — lighting, crop, colour, restrained type. The audience decodes genre before it reads words, so the borrowed grammar does the argument in a pre-verbal instant and the headline only has to confirm it.",
+        "howToApply": "Write the analogy as a sentence first ('a listing page is a magazine feature', 'title insurance is a seatbelt'), then art-direct the unit in the borrowed category's conventions rather than your own: light and crop like the reference, cap the copy at a headline that merely names the swap, place type in the frame's darkest quiet zone so it needs no box, and keep brand assets at badge scale in a corner."
+      },
+      "tags": [
+        "display-ad",
+        "photography",
+        "copywriting",
+        "analogy",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Piet Zwart",
+        "url": "https://en.wikipedia.org/wiki/Piet_Zwart"
+      },
+      "image": "images/2026-08-06-designer-piet-zwart.jpg",
+      "category": "Dutch modernism / functional typography",
+      "when": "1885–1977 · Dutch",
+      "tagline": "The architect who called himself a 'typotekt' and built advertising pages like structures — from the printer's actual inventory of parts.",
+      "summary": "Zwart came to graphic design from architecture and interiors, and never stopped working like a builder: he composed pages from the material the print shop already owned — rules, bars, wooden display letters, the typewriter, photostats — arranged on diagonals and axes that route the eye like circulation through a plan. His long run of NKF cable advertisements and his PTT work are the canonical demonstration; he later designed the Bruynzeel kitchen, which tells you how little he separated 'graphic' from 'product'. Voted Dutch designer of the century in 1999.",
+      "whatWorks": [
+        "Design from the available inventory: rules, dots, bars and existing type instead of custom-drawn ornament — constraints of the shop become the visual language",
+        "Route the reader deliberately: one dominant diagonal or axis, then a clear second and third stop, rather than a symmetrical block of text",
+        "Repetition as illustration — a cable cross-section or a single letter repeated in a receding series to explain a product property without a picture of it",
+        "Use scale contrast violently and colour sparingly: one huge element, one red, everything else black on white",
+        "Treat white space as structural, not leftover — the void holds the composition apart the way a courtyard holds a plan",
+        "Cross-train on purpose: he moved between typography, interiors, photography and product, and each discipline supplied moves to the others"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With the physical constraints, not a concept: what does this printer have, what does the press allow, what must this page do for the client's product. Because he learned in architecture, the brief arrives as a problem of structure and circulation rather than of decoration."
+        },
+        {
+          "name": "Core method",
+          "notes": "Compose with found parts on an asymmetric axis. Bars and rules divide the field, type sizes step in large jumps, and the diagonal creates a reading path with a first, second and third stop. Everything present must be doing structural work — nothing is placed for balance alone."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Making the product's property the picture: repeating a form in series, sectioning a cable, letting a photomontage collide with letterforms. Also the deliberately 'unartistic' toolkit — typewriter type, photostats, elementary shapes — which reads as engineering rather than styling."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Function first: a page is judged by whether it delivers the message quickly, not by whether it is beautiful. He rejected fixed styles and centred symmetry as inherited habits, and considered the designer's job to be organising information for a modern reader in a hurry."
+        }
+      ],
+      "principle": {
+        "title": "Design from the inventory you actually have, and let the constraint become the style",
+        "explanation": "Zwart's pages look invented because they were assembled from a strictly limited kit — the shop's rules, bars and type — rather than from an unlimited imagination. A closed kit forces structural decisions (scale, position, axis, repetition) to carry the expression, which is why the work still reads as designed rather than decorated a century later.",
+        "howToApply": "Before designing a page or a set of ads, write down the kit: two type sizes and two weights, one rule thickness, one accent colour, the components the CMS already ships. Then make the composition do the work — one dominant diagonal or axis, big scale jumps, a repeated element that explains a product property — and ban any new ornament that isn't already in the kit."
+      },
+      "tags": [
+        "typography",
+        "layout",
+        "constraints",
+        "modernism",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Stripe — Brand & press assets",
+        "url": "https://stripe.com/newsroom/brand-assets"
+      },
+      "image": "images/2026-08-06-brandguide-stripe.png",
+      "category": "Public press kit / newsroom brand-assets page",
+      "tagline": "A famously well-designed company publishes a deliberately tiny asset page — three wordmark colours, a checkout badge, executive portraits, and a licence.",
+      "summary": "Stripe's public brand page is not a brand guide and does not pretend to be one: it exists inside the newsroom to serve journalists and integrators. It gives the wordmark in exactly three colours with a one-line rule about which goes on which background, the 'Powered by Stripe' badge with a suggestion to link it to stripe.com, downloadable ZIPs, a press-photo gallery of founders and leadership, and a pointer to the Marks Usage Agreement that carries the real legal force. Everything a designer would want — hex values, clearspace, the typeface — is withheld, which is itself the position.",
+      "whatWorks": [
+        "Scope is honest: it sits under /newsroom, so the artifact announces its own job (press and integration) instead of masquerading as guidelines",
+        "The wordmark rule is one sentence a non-designer can obey: slate and blurple on light, white on dark, and nothing else",
+        "Ships the thing integrators actually need — the 'Powered by Stripe' badge as a downloadable kit, with the recommendation to link it back to stripe.com",
+        "Press imagery is treated as a brand asset: leadership and founder portraits, pre-cleared, in a gallery, so publications don't scrape screenshots",
+        "The enforceable layer is separated out and linked (Marks Usage Agreement), keeping the page short while leaving the rules legally binding",
+        "Assets are ZIPs, not per-file downloads — one click and the requester has every variant"
+      ],
+      "sections": [
+        {
+          "name": "Wordmark",
+          "notes": "Three colour versions (slate, blurple, white) with the light/dark background rule stated in a single line, plus a download for the logo kit. No mark-only version is offered, because the wordmark IS the identity."
+        },
+        {
+          "name": "'Powered by Stripe' badge",
+          "notes": "The co-branding layer, aimed at merchants: badge files plus the recommendation to hyperlink to stripe.com. This is the section doing the most work in the wild — it appears on thousands of checkouts."
+        },
+        {
+          "name": "Press imagery",
+          "notes": "Photographs and short bios for ten-plus executives and board members, plus a Collison cofounder portrait, all downloadable. It is the newsroom's real payload."
+        },
+        {
+          "name": "Legal",
+          "notes": "One paragraph pointing every asset at the Marks Usage Agreement — the page's only hard governance, deliberately kept off the visual layer."
+        },
+        {
+          "name": "Downloads",
+          "notes": "Two ZIPs (logo kit, badge kit) and a media gallery; no Figma file, no tokens, no per-platform exports."
+        }
+      ],
+      "needs": [
+        "Colour VALUES — 'slate' and 'blurple' are named but no hex, RGB, CMYK or Pantone appears anywhere, so a partner cannot match the wordmark's own colours",
+        "Clearspace and minimum-size diagrams for both the wordmark and the badge — the two assets most likely to be crushed into a checkout footer",
+        "Misuse examples shown, not implied: the wrong colours, the stretched wordmark, the badge on a busy background, captioned with the tell",
+        "Typography: Stripe's type system is one of the most imitated on the web and is entirely absent, even as a 'use your own type' instruction",
+        "A screenshot / product-imagery rule — press will illustrate stories with Dashboard UI, and nothing here says which states are approved",
+        "A version number and date, plus a named contact route for approvals beyond the legal agreement"
+      ],
+      "principle": {
+        "title": "Name the audience in the URL, then give that audience only what it needs",
+        "explanation": "Stripe's page is short because it lives in the newsroom: journalists need portraits and a wordmark, integrators need a badge, and neither needs a type scale. Filing the asset page under the audience it serves prevents the two failure modes of brand pages — a press kit bloated into a half-guide, or a full guide gutted to protect secrets — because the scope question is answered before the first asset is chosen.",
+        "howToApply": "Split brand publishing by requester: a /press page (portraits, logo ZIP, boilerplate, one-line colour rule, legal link), a /brand or partner page (lockups, clearspace, colour values, co-brand geometry, misuse pairs), and an internal guide (strategy, voice, type, applications). Say at the top of each which one it is and where the other two live — and even in the shortest version, publish the hex values, because a colour with a name and no number cannot be reproduced."
+      },
+      "tags": [
+        "brand-guide",
+        "press-kit",
+        "logo",
+        "co-branding",
+        "governance"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Are.na",
+        "url": "https://www.are.na"
+      },
+      "image": "images/2026-08-07-are-na.png",
+      "category": "Community / research tool",
+      "tagline": "A homepage that argues its product's philosophy in plain sentences and near-zero imagery, and lets a custom typeface carry the entire brand.",
+      "summary": "Are.na sells a paid research tool with a page built almost entirely from left-aligned text: two framing sentences, five one-word steps, a short manifesto against ads and algorithms, real tag examples from members' collections, a plain statement about the size of the team and where the money comes from, and four principles headed 'The Secret'. There is no hero image, no dashboard screenshot, no gradient. The only styling gestures are the measure, the vertical rhythm and Areal, the custom typeface credited in the footer's colophon — the design equivalent of the product's own no-algorithm stance.",
+      "whatWorks": [
+        "Dual positioning in two sentences: the literal ('software for saving and organizing content that is important to you') above the poetic ('a toolkit for assembling new worlds from the scraps of the old')",
+        "The process is five single words — Capture, Arrange, Search, Connect, Network — each with one line of explanation, which is faster to absorb than any diagram",
+        "Positioning by negation: an explicit 'no ads, no algorithms' block that tells you what the product refuses, not what it features",
+        "Real member tags used as the sample content ('spatial discontinuity', '1980s advertisements', 'early internet') — the taste of the community IS the product demo",
+        "Business-model transparency as trust: a five-person team, member-funded, with the subscriber count stated in the open (20,516 supporters)",
+        "A colophon crediting the custom typeface (Areal by Dinamo) — a one-line signal to exactly the audience it wants, doing the work a logo usually does"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Logo, two links (Sign up / Log in) and two sentences of positioning. No image and no product shot: the restraint filters the audience and matches a tool whose value is quiet, long-term collection."
+        },
+        {
+          "name": "How it works",
+          "notes": "Five sequential single-word steps with one-line definitions. Because the words are the product's own vocabulary (blocks, channels, connections), reading the section teaches the interface's model before you sign up."
+        },
+        {
+          "name": "No ads, no algorithms",
+          "notes": "A short manifesto block. This is the actual conversion argument for the target user — the section exists to be quoted, not skimmed."
+        },
+        {
+          "name": "Search examples",
+          "notes": "A row of genuine, weird member tags standing in for screenshots. It shows what lives inside without a single UI frame, and self-selects people who find those tags appealing."
+        },
+        {
+          "name": "Long-term / API",
+          "notes": "A plainly written note on the team's size and funding, then a developer section for the API. Together they read as durability: small, paid-for, extensible."
+        },
+        {
+          "name": "The Secret + Editorial",
+          "notes": "Four philosophical principles, then a grid of Are.na Editorial articles — the page closes on the culture rather than a pricing table, with membership mentioned only in passing."
+        },
+        {
+          "name": "Footer",
+          "notes": "Dense but ordered columns (Discover, Product, Company, Support), apps, socials, legal — and the typeface colophon, which is the site's only self-conscious flourish."
+        }
+      ],
+      "principle": {
+        "title": "Let the sample content be your screenshot",
+        "explanation": "Interface screenshots show the container; the container is rarely the reason anyone joins. Showing the actual weird, specific things members have collected communicates the culture, the depth and the use case simultaneously, and it self-selects the audience — people who like the tags will like the tool, and people who don't will bounce before signing up, which is a feature for a paid product.",
+        "howToApply": "On the next product or listings page, replace at least one UI screenshot with a set of ten to twenty real specimens rendered as plain text at reading size — actual saved searches, actual neighbourhood names, actual client questions — chosen for character rather than coverage. Set them in the brand typeface, left-aligned, no cards, and let the specificity do the persuading."
+      },
+      "tags": [
+        "typography",
+        "restraint",
+        "positioning",
+        "editorial",
+        "community"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Heymondo — 'You travel with insurance, not superpowers' wide digital unit",
+        "url": "https://www.adsoftheworld.com/campaigns/viajas-con-seguro-no-con-superpoderes"
+      },
+      "image": "images/2026-08-07-ad-heymondo.jpg",
+      "category": "Static digital unit (wide ~16:9, part of a 220-asset global set)",
+      "tagline": "A bulleted list of absurd travel risks set in acid green over an unretouched hostel photograph — insurance sold as comedy, not fear.",
+      "when": "Digital + film + static, France / Romania / UK, July 2026 — agency TURBO, photography Yosigo",
+      "summary": "The unit is a documentary-flat photograph of a chaotic hostel bunkroom with a traveller asleep mid-shoe, overlaid with a four-item checklist in the brand's acid green: 'snake bite / scorpion sting / extra life / Heymondo travel insurance', the third item's bullet drawn as an empty circle so you register that one is not covered. The tagline sits underneath in small caps. The brand logotype floats right at the same weight as the list. The insight (the Peltzman effect — people take more risks when they feel protected) is delivered as a joke rather than a warning.",
+      "whatWorks": [
+        "Reframes the category away from fear: no accident imagery, no hospital, no worried faces — the risk is played for comedy so the brand becomes likeable at the moment of consideration",
+        "The list is the layout: four short lines with dot bullets create the hierarchy and the punchline order, no headline block needed",
+        "One filled/unfilled bullet does the argument — 'extra life' is the unchecked item, so the visual system carries the gag without extra copy",
+        "Type is set in the brand's single loud green at heavy weight over a mid-tone photo; the colour is the identity element and it never appears anywhere else in the frame",
+        "The photograph is deliberately unglamorous and unretouched (clutter on the floor, sagging bunks) — honest imagery makes the joke land as recognition, not as advertising",
+        "Built as a flexible global platform: the same construction survives translation across six European markets and 220 assets, because the mechanic is a list rather than a crafted sentence"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The photo reads as a real snapshot for a beat — cluttered floor, fluorescent light, someone asleep in their clothes — so it stops the scroll by not looking like an ad, then the green list detonates on top of it."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "A four-line checklist escalating from plausible (snake bite, scorpion sting) to impossible (extra life) to the product. The tagline 'You travel with insurance, not superpowers' is set small beneath, functioning as the caption to the joke rather than as the headline."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Documentary travel photography, natural light, no colour grade beyond what the room gave; teal curtains and warm wood already sit under the green type, and the type is placed across the darkest, least busy third on the left."
+        },
+        {
+          "name": "CTA",
+          "notes": "No button — the brand logotype at right closes the unit. For a feed placement the platform's own CTA chrome carries the click, which is why the creative can spend its whole surface on the joke; a display placement would need a button added in the same green."
+        }
+      ],
+      "principle": {
+        "title": "Sell protection with a joke about the risk, not a picture of it",
+        "explanation": "Fear-based creative in insurance, security or real-estate categories triggers avoidance: people scroll past the thing they don't want to think about. Comedy about the same risk keeps attention on the frame long enough to name the product, and it flatters the audience by assuming they already know the risk — which is the actual state of a traveller who is already searching for cover.",
+        "howToApply": "Write the risk list literally, then push the last item past plausibility until it's funny, and let one visual device (an unchecked bullet, a struck-through line, a missing item) carry the punchline instead of a second sentence. Shoot or source honest, unstyled photography of the real situation, put the type in one brand colour that appears nowhere else in the frame, and keep the tagline small — the list is the headline."
+      },
+      "tags": [
+        "display-ad",
+        "copywriting",
+        "photography",
+        "humor",
+        "type-over-image"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Anton Stankowski",
+        "url": "https://en.wikipedia.org/wiki/Anton_Stankowski"
+      },
+      "image": "images/2026-08-07-designer-anton-stankowski.jpg",
+      "category": "Constructive graphic design / German post-war modernism",
+      "when": "1906–1998 · German",
+      "tagline": "Made a career of drawing invisible processes — growth, connection, rotation — and turned the results into corporate marks like Deutsche Bank's slash-in-a-square.",
+      "summary": "Stankowski trained as a painter, worked as a photographer and advertising designer in Zürich, and after the war built Stankowski + Duschek in Stuttgart on a single idea he called constructive graphic art: that a mark or diagram should express a *process* rather than depict an object. He drew systematic series — permutations of a form under one rule — as free art, then drafted from those series when a client needed an identity, which is how the 1974 Deutsche Bank mark (a rising diagonal enclosed in a square, read as growth within a stable frame) came out of decades of studio experiments.",
+      "whatWorks": [
+        "Name the invisible thing the brand does (growth, exchange, flow, connection) and draw that, instead of drawing what the company sells",
+        "Work in series: make twenty permutations of one form under a single rule, then choose — the range is the research, and it survives to become other projects",
+        "Keep the mark to a geometry a hand can redraw from memory — a diagonal, a square, a dot — so it holds at any size and in any medium",
+        "Refuse the art/design boundary: paintings and studies feed identity work, and identity constraints sharpen the paintings",
+        "Design the whole system, not the logo: signage, forms, print and colour rules shipped as one programme from the studio",
+        "Keep a personal archive of forms; the answer to a new brief is often an old study, already resolved"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "By converting the brief into a process word. Not 'a bank' but 'growth inside stability'; not 'a utility' but 'distribution'. The word becomes the drawing problem, which is why his marks tend to look like diagrams of behaviour rather than pictures of things."
+        },
+        {
+          "name": "Core method",
+          "notes": "Systematic variation. Fix one rule (rotate this element by 15°, halve the interval each step, mirror on one axis), then execute the whole series on a grid and judge the family together. The chosen mark is the strongest member of a set, not a one-off sketch."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Constructive reduction to two elements in tension — a moving form and a containing form — with flat colour and no illustrative detail. The Deutsche Bank mark is the canonical case: a slash for movement, a square for security, nothing else."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "A mark must be functional first: reproducible in one colour, redrawable, legible small, and expressive of the company's activity rather than of a designer's taste. He judged work by whether the underlying idea could be stated in a sentence and seen in the geometry."
+        }
+      ],
+      "principle": {
+        "title": "Draw the verb, not the noun",
+        "explanation": "Marks that depict what a company owns (a building, a key, a house) age badly and collide with every competitor in the category, because the noun is shared. A mark that encodes what the company *does* — grow, connect, move, protect — is unique to the business model and stays true through product changes, and it forces the geometry to stay simple because a process has to be legible as a relationship between two elements.",
+        "howToApply": "At the start of an identity or icon set, write the verb: 'we route', 'we verify', 'we hold'. Then run a real series — at least fifteen permutations under one stated rule — before choosing, and test the survivor at 16px, in one colour, and hand-drawn from memory. Keep the rejected variations in a studio file; the next brief in the same family usually already has its answer there."
+      },
+      "tags": [
+        "identity",
+        "systems",
+        "geometry",
+        "logo",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "U.S. Web Design System (USWDS)",
+        "url": "https://designsystem.digital.gov/"
+      },
+      "image": "images/2026-08-07-brandguide-uswds.png",
+      "category": "Design-system brand layer (government, multi-agency)",
+      "tagline": "A design system whose brand job is the opposite of most: make hundreds of different agencies look unmistakably, verifiably governmental.",
+      "summary": "USWDS documents design principles, 40+ components, patterns, templates, utilities and a full design-token layer for federal websites, versioned in the open (currently 3.x) with v1/v2 archives and a migration guide. Its brand contribution is unusual and worth stealing: instead of protecting one organisation's mark, it standardises the *proof of identity* — the .gov banner with the flag, the 'official website of the United States government' language, and the HTTPS/lock explanation — so that trust is a component rather than a design decision. Agency-specific identity (each department's own seal, palette, typography) is left deliberately outside the system.",
+      "whatWorks": [
+        "Trust is shipped as a component: the government banner, the flag icon, the 'Official websites use .gov' expandable copy — identical everywhere, so citizens learn one signal",
+        "Tokens are the brand layer — colour, typography, spacing, shadow, opacity and z-index are published as named tokens rather than as a swatch page",
+        "Theming is built into the token system, so an agency customises within a bounded palette rather than overriding CSS",
+        "Patterns are documented as whole user journeys (create a profile, complete a complex form, choose a language), not just components — guidance at the altitude where public services actually fail",
+        "Accessibility and Section 508 are structural, not an appendix: they appear inside each component's guidance and as a top-level page",
+        "Real governance: semantic versions, release notes, legacy docs for v1 and v2, and a published migration path for upgrading"
+      ],
+      "sections": [
+        {
+          "name": "Design principles",
+          "notes": "A short set of principles ('start with real user needs', 'earn trust', 'embrace accessibility', 'promote continuity') that every later rule references. They function as the strategy layer a brand guide would open with."
+        },
+        {
+          "name": "Design tokens",
+          "notes": "The system's foundation: colour, typography, spacing, shadow, opacity, z-index published as named tokens with a documented scale. This is where an agency's visual latitude is defined and bounded."
+        },
+        {
+          "name": "Components",
+          "notes": "40+ documented UI elements from buttons and inputs to date pickers, modals and identifier/footer blocks, each with usage guidance, accessibility notes and code. The identifier and banner components are the identity-bearing ones."
+        },
+        {
+          "name": "Patterns",
+          "notes": "Journey-level guidance for common government tasks — complex forms, name and address entry, language selection — with the reasoning for each recommendation."
+        },
+        {
+          "name": "Templates",
+          "notes": "Ready page-level layouts (landing, documentation, authentication, 404, forms) so a small agency team ships a compliant page without designing structure."
+        },
+        {
+          "name": "Utilities",
+          "notes": "Utility classes for adapting layouts and prototyping quickly 'without touching a line of CSS' — the pragmatic escape hatch that keeps teams inside the system."
+        },
+        {
+          "name": "Governance / releases",
+          "notes": "Version 3.x with release notes, archived v1 and v2 documentation, and a dedicated migration guide — a living system with a stated upgrade route."
+        }
+      ],
+      "needs": [
+        "An explicit identity layer for the thing it standardises: the banner and identifier are components, but there is no page explaining the *brand* logic of federal trust signals as a system others could extend",
+        "Verbal identity — voice and tone with do/don't rewrites; government copy is the highest-stakes writing in the system and lives in a separate plain-language handbook",
+        "Logo and seal guidance for agencies (clearspace, minimum size, how a departmental seal co-exists with the .gov banner) — currently every agency invents this",
+        "Photography and illustration art direction, so agency sites stop reaching for stock imagery that undermines the trust the banner just established",
+        "Motion principles for the interactive components (accordion, modal, in-page navigation), including reduced-motion behaviour",
+        "A worked co-branding example for the very common case of two agencies or an agency plus a contractor appearing on one page"
+      ],
+      "principle": {
+        "title": "Turn your trust signal into a component nobody may redesign",
+        "explanation": "Citizens learn to recognise legitimacy from a repeated visual pattern, not from individual sites' craft. By fixing the banner, its language and its security explanation as an unmodifiable component while leaving each agency's own look flexible, USWDS makes trust portable across hundreds of independently built sites — and removes the temptation for a designer to make the one element whose value is its sameness look 'better'.",
+        "howToApply": "Identify the element on your product or client sites whose whole job is recognisability — licence and disclosure block, agent identity, brokerage lockup, security/compliance strip — and ship it as one locked component with fixed copy, fixed spacing and no theming hooks. Document what may vary around it, and put the reasoning next to the lock so teams stop trying to restyle it."
+      },
+      "tags": [
+        "brand-guide",
+        "design-system",
+        "tokens",
+        "accessibility",
+        "governance"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Herman Miller",
+        "url": "https://www.hermanmiller.com"
+      },
+      "image": "images/2026-08-08-herman-miller.png",
+      "category": "Furniture / design classics e-commerce",
+      "tagline": "A homepage that refuses to sell anything: one line, two doors, and a footer — the audience router as a design decision.",
+      "summary": "Herman Miller's front page is three elements tall. The logo, the sentence 'Designed for everybody' set as the only heading, and two equal blocks — 'Shop for home' and 'Plan for workplaces' — each a room photograph over a short question that identifies the visitor to themselves ('Are you shopping for your own home?' / 'Are you a designer or architect specifying for a workplace?'). Then the footer, and the 'Part of the MillerKnoll collective' bar. For a brand with sixty years of icons to flash, choosing to route rather than merchandise is the whole idea: the two audiences need completely different sites, so the homepage's job is to send you to the right one before a single price appears.",
+      "whatWorks": [
+        "One heading, no subhead, no hero carousel — 'Designed for everybody' is both the brand line and the justification for the split that follows",
+        "The two doors are given exactly equal visual weight (same image size, same type, same arrow link), so neither audience is treated as the secondary one",
+        "Each door is labelled by the visitor's own task and verified with a question — 'Shop' vs 'Plan' is the actual difference between a consumer and a specifier",
+        "Photography does the qualifying: a lived-in room with Eames, Nelson and Noguchi pieces on one side; a real workplace floorplate with Sayl/Cosm chairs and monitors on the other",
+        "Set in the brand's own grotesque with tight, dark headings on plain white — the interiors supply every colour on the page",
+        "Zero promotional furniture: no email capture, no banner, no 'new arrivals'; the page ends after it has done its one job"
+      ],
+      "sections": [
+        {
+          "name": "Header",
+          "notes": "Just the red-dot Herman Miller mark, top left. No global nav, no search, no cart — the page deliberately cannot be browsed, only chosen from."
+        },
+        {
+          "name": "Statement",
+          "notes": "'Designed for everybody' at heading scale, left aligned, in near-black. It reads as brand philosophy and simultaneously licenses the two-audience split beneath it."
+        },
+        {
+          "name": "Door 1 — Shop for home",
+          "notes": "A styled but plausible living room: leather sofa, yellow moulded chair, pleated Nelson pendant, art on the wall. Caption is a question, then one sentence promising 'everything you need—from living spaces to home offices'. The arrow link is the only affordance."
+        },
+        {
+          "name": "Door 2 — Plan for workplaces",
+          "notes": "An office floor shot with height-adjustable desks and task chairs. Its sentence promises product models and a materials library — the specifier's vocabulary, which is how the door filters correctly without saying 'trade'."
+        },
+        {
+          "name": "Footer",
+          "notes": "Region selector, copyright, and a tight row of legal/accessibility links, then a full-width 'Part of the MillerKnoll collective' bar — corporate structure disclosed at the bottom rather than confusing the split above."
+        }
+      ],
+      "principle": {
+        "title": "When two audiences need different sites, make the homepage a router — and give both doors equal weight",
+        "explanation": "Trying to serve a consumer and a professional on one merchandised homepage produces a page that half-serves both: the specifier scrolls past sale pricing, the shopper scrolls past spec sheets. A two-door page costs one extra click and buys a correctly segmented journey — and equal treatment of the doors is what keeps the professional audience from feeling like an afterthought, which matters most when they place the largest orders.",
+        "howToApply": "For a site with genuinely split audiences (buyers vs sellers, residents vs investors, consumers vs agents), build a routing page: one brand sentence, two or three equal blocks, each with a real photograph of that audience's context, a label naming their task as a verb, and a question they can answer 'yes' to. Ban every other module from the page — no offers, no email capture — and let the destination sites carry the merchandising."
+      },
+      "tags": [
+        "e-commerce",
+        "information-architecture",
+        "restraint",
+        "photography",
+        "audience"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "NESCAFÉ — 'Need Focus' 4:5 social unit",
+        "url": "https://www.adsoftheworld.com/campaigns/need-focus-6183208c-1aaa-4adc-937a-2d55e6d483b1"
+      },
+      "image": "images/2026-08-08-ad-nescafe.jpg",
+      "category": "Static social feed unit (4:5, 2160×2700) — self-initiated concept",
+      "tagline": "One absent-minded mistake per frame, staged as a 3D miniature on flat brand red, with Arabic lettering as the only headline.",
+      "when": "Self-initiated / student concept for the Egyptian market, published August 2026 — creative direction and design by Mohamed Abd El-Aziz",
+      "summary": "A five-unit set where each frame shows a single lapse of concentration — throwing the phone in the bin instead of the paper, ironing inside the washing machine, the remote in the fridge — built as a CG miniature diorama on saturated NESCAFÉ red, shot from a high three-quarter angle. The type is a two-line piece of Arabic brush lettering ('Need focus, need NESCAFÉ') in white, and the only other elements are the logo top-left and a red mug bottom-right. It's a spec/self-initiated concept rather than a bought placement, but as a unit it is a clean lesson in single-idea construction: one behaviour, one colour field, one line, one product cue.",
+      "whatWorks": [
+        "One frame, one mistake: the set varies the situation and never the layout, so a scroller who sees two of them recognises the mechanic instantly",
+        "Flat brand red as the entire environment — no location, no background detail — makes a busy 3D scene read as a single silhouette in feed",
+        "The figure is posed mid-error with the wrong object leaving the hand, so the story resolves without a caption",
+        "Headline is hand-lettered in the market's own script and sized to a compact two-line block, treated as a graphic mass rather than a line of copy",
+        "Product cue is one spilling mug in the bottom corner at small scale — present but not competing with the gag",
+        "4:5 portrait with the action stacked centre-frame and generous top margin, so the platform's own copy and CTA chrome never crop the joke"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The wrong-object gesture: a hand about to drop a phone into the wastebasket. It reads at thumbnail size because the two objects are silhouetted against flat red with nothing else in the frame."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Two lines of brush-lettered Arabic — 'Need focus' / 'Need NESCAFÉ' — locked as one block at upper right, white on red. Because it's lettering rather than a typeface, it carries warmth and a hand-made cadence that a corporate grotesque wouldn't."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "CG miniature diorama: desk, chair, laptop, bin, all in a pale palette so the red field and the white shirt dominate. High camera angle, hard shadows, exaggerated hand reaching toward the lens for depth — a poster construction, not a product shot."
+        },
+        {
+          "name": "CTA",
+          "notes": "None in the creative; the mug and the logo are the only brand furniture. The set was designed to run in feed and on mall digital screens, where the environment supplies context — an honest limitation of a concept piece rather than a performance unit."
+        }
+      ],
+      "principle": {
+        "title": "Fix the layout, vary only the incident",
+        "explanation": "A set of ads whose composition, colour field, type block and product cue never move turns repetition into recognition: each new frame costs the viewer no decoding effort and adds one more piece of evidence for the same idea. It also makes production scalable and briefable — the only creative question per unit becomes 'what is the incident?', which is the part an audience actually finds funny or true.",
+        "howToApply": "Build a template with the four fixed slots (ground colour, subject position, headline block, product cue), then write ten incidents on one line each and produce the best five without touching the template. In a listings or brokerage context the incident is the specific detail — the odd staircase, the wrong-sized fridge, the 3am price drop — and the frame around it never changes."
+      },
+      "tags": [
+        "social-ad",
+        "lettering",
+        "single-idea",
+        "series",
+        "color-field"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Louise Fili",
+        "url": "https://en.wikipedia.org/wiki/Louise_Fili"
+      },
+      "image": "images/2026-08-08-designer-louise-fili.jpg",
+      "category": "Lettering & identity / American, European-influenced",
+      "when": "b. 1951 · American",
+      "tagline": "Built a lifetime practice on hand-lettering and a personal archive of European ephemera — and deliberately kept the studio small enough to draw everything herself.",
+      "summary": "Fili art-directed Pantheon Books for eleven years, producing around two thousand jackets that broke American publishing's habit of photographic covers by putting drawn letterforms first. Since 1989 her own studio has specialised in food, restaurant and packaging identities — the work most people know without knowing the name. Her method is unusually documentable: she collects European (mostly Italian) signage, packaging and menus obsessively, sketches letterforms by hand before any software, and works from a narrow, historically informed palette. She has also co-authored a shelf of books with Steven Heller that are effectively her research published as reference.",
+      "whatWorks": [
+        "Keep a personal reference archive organised by letterform and period, not by project — the archive, not the brief, is where solutions come from",
+        "Draw the words first: the identity is a piece of lettering, so type selection never becomes the whole design decision",
+        "Design custom letterforms per project instead of licensing a display face, so the mark cannot be copied by buying a font",
+        "Constrain the palette to a handful of historically coherent colours and hold it across every touchpoint (menu, tin, awning, bag)",
+        "Publish the research: turning the archive into books makes the influences legible and brings in clients who want exactly that",
+        "Stay small on purpose — a two-to-three person studio keeps the principal's hand on every drawn curve"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "In the archive and on paper. She looks for period and place first — which decade, which country, which trade the piece should feel like it came from — then pulls physical references and starts drawing letters, before any layout or software decision."
+        },
+        {
+          "name": "Core method",
+          "notes": "Lettering-led identity: the name is drawn, refined through many pencil passes, then vectorised and tuned. Everything else (palette, ornament, secondary type, packaging) is derived from the letterforms rather than chosen alongside them."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "European vernacular filtered rather than copied — Art Deco and early-20th-century Italian signage cues, subtle borders and ornament, tight and elegant spacing, one restrained accent colour. The result reads authentically old without being pastiche because it is drawn fresh at the correct proportions."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Elegance and appetite over novelty; a food identity must make you hungry and must survive being printed on a paper bag. She judges work by whether the letterforms could plausibly have existed in the period they evoke, and rejects anything that depends on a trend to look good."
+        }
+      ],
+      "principle": {
+        "title": "Build a reference archive, then draw from it — never search for style at the start of a project",
+        "explanation": "Searching for a look mid-brief produces whatever the internet is currently promoting, which is why so much work converges. A curated personal archive collected over years is a competitive asset: it is unique to you, it is organised by the thing you actually need (letterform, period, colour pairing), and it lets a project begin with a specific historical reference rather than a mood board of other people's finished work.",
+        "howToApply": "Start a filed archive of photographed lettering, signage, packaging and print — sorted by letterform type and period, not by client — and add to it weekly. On the next identity or campaign, choose the period and place before the layout, pull three physical references, and hand-draw the wordmark on paper first; let the palette, ornament and secondary type be derived from that drawing rather than chosen in parallel."
+      },
+      "tags": [
+        "lettering",
+        "identity",
+        "research",
+        "packaging",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Python Software Foundation — The Python Logo",
+        "url": "https://www.python.org/community/logos/"
+      },
+      "image": "images/2026-08-08-brandguide-python.png",
+      "category": "Open-source logo & trademark-usage page",
+      "tagline": "One of the world's most-used logos is governed by a single page of prose, a pile of file formats, and an invitation to 'ask first'.",
+      "summary": "The PSF's logo page is a permissive, deliberately non-designed artifact: it states that projects and companies are *encouraged* to use the logo to indicate they work with Python, permits the two-snakes device alone on the same terms as the combined lockup, lists every available file format (PNG, flattened PNG, Photoshop, three SVG variants, a 269×326 device-only PNG), documents the 'Python Powered' logo in wide and tall forms at named pixel sizes (200×80, 140×56, 100×40, 70×28 / 140×182, 100×130, 70×91), admits the logo font is 'Flux Regular' which it owns but cannot redistribute, and routes everything contestable to the PSF Trademark Usage Policy. Its governing sentence is the opposite of most brand pages: 'we want the logo to be used as widely as possible'.",
+      "whatWorks": [
+        "The intent is stated before the rules: wide adoption is the goal, so the page reads as an invitation rather than a warning — correct for an open-source ecosystem",
+        "The lockup and the mark-only device are explicitly granted the same permissions, removing the most common real-world question in one sentence",
+        "Formats are exhaustive and honest, including the editable Photoshop file and multiple SVG exports (generic vs Inkscape-specific) rather than one 'official' asset",
+        "The 'Python Powered' badge is published at named pixel sizes, which is the practical substitute for a minimum-size rule in a web-first ecosystem",
+        "The type is disclosed with its licensing constraint ('the PSF owns a copy but we cannot distribute it'), which is more useful than silence",
+        "Escalation is human and low-friction: derived versions and edge cases are covered by 'please ask first' plus a link to the trademark policy"
+      ],
+      "sections": [
+        {
+          "name": "The Python logo",
+          "notes": "The combined logo and the two-snakes device shown at small scale, with the permission statement and the format list beneath. The whole visual specification of the identity lives in these two images."
+        },
+        {
+          "name": "Logo files",
+          "notes": "Seven download links covering PNG, flattened PNG, PSD and three SVG variants plus a device-only PNG at a stated pixel size — the page's most substantial contribution."
+        },
+        {
+          "name": "The Python Powered logo",
+          "notes": "The community badge in wide and tall lockups, each offered at four fixed pixel sizes plus SVG. Fixed sizes act as de-facto minimum-size governance."
+        },
+        {
+          "name": "Guidelines for use",
+          "notes": "Three short paragraphs: the logo is a PSF trademark, the PSF defends it against damaging or confusing use, adoption is encouraged, and derived versions require asking first — with a link to the formal Trademark Usage Policy."
+        },
+        {
+          "name": "T-shirts and merchandise",
+          "notes": "Merch is explicitly allowed for personal use, with permission required for selling — the single most common community question, answered in two sentences."
+        }
+      ],
+      "needs": [
+        "Colour values: the yellow and blue are the most recognisable part of the identity and no hex, RGB, CMYK or Pantone appears anywhere on the page",
+        "Clearspace and minimum-size diagrams for the primary lockup (only the badge gets sizes, by accident of being offered at fixed dimensions)",
+        "Misuse examples shown side by side — recoloured snakes, stretched lockup, device on a busy photograph — captioned with the tell, in the style of WordPress's 'fauxgo' section",
+        "A dark-background version and a rule for which asset to use on dark surfaces; nothing here addresses inverse use",
+        "A substitute-typeface instruction: since Flux Regular cannot be distributed, the page should name what to set adjacent wordmarks in",
+        "Version, date and owner — the page reads as static and undated, while the trademark policy it depends on lives elsewhere and evolves"
+      ],
+      "principle": {
+        "title": "State the permission posture in the first paragraph",
+        "explanation": "Most usage pages open with prohibition and leave the reader guessing whether their honest, well-meant use is allowed — so they either don't use the mark or use it wrongly and quietly. Declaring the posture up front ('we want this used as widely as possible, here is the line') turns the page into a decision tool: the reader knows within one sentence whether they are inside the intended use, and only edge cases consume anyone's time.",
+        "howToApply": "Open any brand-assets or partner page with one sentence naming who the assets are FOR and what outcome you want (wide co-branding, strict protection, credit only), then the two or three hard limits, then the files. Grant the obvious cases explicitly — mark-only use, credit lines, personal merch, linking — so the inbox only receives the genuinely ambiguous requests, and pair it with a named human route for those."
+      },
+      "tags": [
+        "brand-guide",
+        "logo",
+        "open-source",
+        "trademark",
+        "governance"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Patagonia",
+        "url": "https://www.patagonia.com"
+      },
+      "image": "images/2026-08-09-patagonia.png",
+      "category": "Outdoor apparel / activist retail",
+      "tagline": "Sells a sale from a navy panel next to a real photograph, then closes the page with five sentences about responsibility instead of a promo block.",
+      "summary": "The page is honest about being a shop and unembarrassed about being an argument. The hero is a split: a genuine expedition photograph on the left (a rider on a glacial shoreline, with a photo-credit button on the image) and a flat navy panel on the right carrying 'Need Clothes?' plus four sale pills. Beneath it, category carousels use in-situ athlete photography instead of studio product shots, a full-bleed 'Let it go' band promotes Worn Wear trade-in *before* any new-product push, stories follow, and the page ends on five plain promises — guarantee, footprint, grassroots activism, gear kept in play, profits to the planet — each linking to the programme that backs it. Commerce comes first in sequence; the values row is what you leave on.",
+      "whatWorks": [
+        "Hero split of photograph + flat colour panel: the photo never has type burned into it, so imagery stays honest and the offer stays legible",
+        "Every image carries a photo-credit affordance (a small camera button) — the brand treats photography as authored work, which is itself a trust signal",
+        "Category tiles are shot in the field with the product being used at distance, not on a model against seamless; you're buying the activity",
+        "Resale is merchandised like a product ('Let it go — trade in your used Patagonia gear for credit', one white pill CTA on a full-bleed image) rather than buried in the footer",
+        "The closing row is five one-sentence commitments, each an explicit link to proof (Ironclad Guarantee, Our Footprint, Action Works, Worn Wear, profit commitment) — claims with receipts",
+        "Sale is handled with restraint: a small top ribbon, one hero panel, and one red 'Sale' nav item, with no countdowns or percentage badges on tiles"
+      ],
+      "sections": [
+        {
+          "name": "Utility bar + nav",
+          "notes": "Activism, Stories and Worn Wear sit to the LEFT of the logo in the utility row — before commerce navigation — while the main nav is a plain category list with only 'Sale' in red. Ordering is the argument."
+        },
+        {
+          "name": "Hero",
+          "notes": "Left: full-bleed documentary photograph with a photo-credit button. Right: flat navy panel with 'Need Clothes?' at display scale, one line of terms, and four outlined pills for Men's / Women's / Kids' & Baby / Packs & Gear. Two audiences of shopper routed in one screen."
+        },
+        {
+          "name": "Category carousel",
+          "notes": "New Arrivals, Daypacks, Rainwear, Capilene tees, Kids' — each tile a landscape action photograph with a plain bold label and two or three sub-links, arrow-advanced. No prices, no badges."
+        },
+        {
+          "name": "Worn Wear band",
+          "notes": "Full-bleed image of a trail runner mid-scree with 'Let it go.' in white and a single 'Get Started' pill. Placing the resale programme at mid-page, at hero scale, is the most quietly radical layout decision on the site."
+        },
+        {
+          "name": "Latest Stories",
+          "notes": "A row of editorial cards (film and long-form) with the same photographic treatment as commerce tiles, so content and product read as one publication rather than a blog bolted on."
+        },
+        {
+          "name": "Five commitments",
+          "notes": "'We guarantee everything we make. / We take responsibility for our impact. / We support grassroots activism. / We keep your gear in play. / We give our profits to the planet.' Each is a link. This replaces the conventional newsletter-and-promo footer stack."
+        },
+        {
+          "name": "Footer",
+          "notes": "Newsletter signup with an explicit privacy and financial-incentive notice, a Need Help column that leads with repair and trade-in, then dense company links including the Progress Report and climate risk disclosures."
+        }
+      ],
+      "principle": {
+        "title": "Put the offer on a colour panel beside the photograph, never on top of it",
+        "explanation": "Burning promotional type into a photograph forces you to grade, darken or scrim the image until it stops being a real picture, and it guarantees the crop breaks on mobile. A split of full-bleed image and flat brand panel keeps the photography honest and authored, gives the offer perfect contrast at any size, and lets the two halves be re-ordered or stacked responsively without re-exporting art.",
+        "howToApply": "Build hero and campaign bands as a two-cell layout: one cell is an uncropped photograph credited to its photographer, the other a flat brand colour holding the headline, one line of terms and the CTAs as outlined pills. Keep every promotional word inside the panel, keep type off the image entirely, and reserve full-bleed image-with-type for a single mid-page band where the message is three words or fewer."
+      },
+      "tags": [
+        "e-commerce",
+        "photography",
+        "activism",
+        "layout",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Thank You Farmer — 'Sun Cover' wide digital unit",
+        "url": "https://www.adsoftheworld.com/campaigns/sun-cover"
+      },
+      "image": "images/2026-08-09-ad-thank-you-farmer.jpg",
+      "category": "Static digital unit (wide ~16:9, also run in print)",
+      "tagline": "A car under a white cover in an empty summer car park, captioned in two half-sentences that meet across the frame.",
+      "when": "Digital + print, Greece, July 2026 — agency 'maybe,', photography Iason Pachos",
+      "summary": "One photograph, shot flat and dry in real Mediterranean midday light: a sedan wrapped in a white cover in an empty parking lot, mountains behind, fence and cranes in the distance. The copy is split — 'We protect' floats at the left edge of the car, 'what we want to last.' at the right — so reading the line requires crossing the whole image, which is also how long it takes to notice the cover is doing sunscreen's job. The product (an SPF 50+ sun stick) sits bottom-left at thumbnail scale with three lines of name, and the wordmark closes bottom-right. The insight is stated in the campaign notes and never in the ad: you already cover your car; your skin gets the same sun every day.",
+      "whatWorks": [
+        "The analogy is a found behaviour, not an invented metaphor — covering a parked car is a real habit in hot countries, so the ad feels observed rather than concocted",
+        "Copy split across the frame turns reading into looking; the two fragments only resolve as a sentence once your eye has travelled the length of the car",
+        "Type is small, white, unstyled and placed on the pale sky/asphalt boundary — no scrim, no box, no drop shadow",
+        "Real location photography with the ugly bits left in (chain-link fence, shipping containers, faded parking lines) buys the credibility the idea needs",
+        "The product appears once, tiny, with the actual SKU name and 'SPF 50+' in the only saturated colour in the frame (a red accent), so the offer is unmistakable without competing",
+        "Wide 16:9 crop with the subject dead centre and empty margins — the composition survives being letterboxed into a banner or cropped to 4:5"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The white shrouded car in an otherwise empty lot: a familiar object made slightly strange. It works because the shape is ambiguous for a half-second before it resolves as a covered car."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'We protect … what we want to last.' Split across the image, set in a plain light sans at maybe 2% of frame height. The restraint implies confidence and forces engagement; the line also does double duty as a brand statement about preservation rather than sunburn."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Documentary-flat colour photography — hard overhead sun, pale blue sky, bleached asphalt, no grade or glamour. The whiteness of the cover is the only bright value in the frame, which is what pulls the eye to the centre."
+        },
+        {
+          "name": "CTA",
+          "notes": "None; the unit closes on a product thumbnail with its name and SPF, plus the wordmark. For a performance placement it would need a button, but the product lockup functions as the recognition cue in a category where the pack is the CTA."
+        }
+      ],
+      "principle": {
+        "title": "Find an existing behaviour that already proves your point, then just photograph it",
+        "explanation": "Invented metaphors have to be explained; observed behaviours only have to be pointed at. Using a habit the audience already performs (covering the car, double-locking the door, checking the school district) makes the argument feel like recognition rather than persuasion — and it lets the creative be a single honest photograph, which is cheaper to produce and far harder to disbelieve than a constructed illustration.",
+        "howToApply": "Before art-directing, list the protective or preparatory habits your audience already has in the situation you're selling into, and pick the one that is visually specific. Shoot it in real light, on a real location, with the unflattering context left in; split a short line of copy across the frame so reading it takes the eye across the evidence, and keep the product to a corner thumbnail carrying the one spec that matters."
+      },
+      "tags": [
+        "display-ad",
+        "photography",
+        "analogy",
+        "copywriting",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Bradbury Thompson",
+        "url": "https://en.wikipedia.org/wiki/Bradbury_Thompson"
+      },
+      "image": "images/2026-08-09-designer-bradbury-thompson.jpg",
+      "category": "Editorial design & typography / American mid-century",
+      "when": "1911–1995 · American",
+      "tagline": "Turned a paper company's promotional magazine into a 61-issue laboratory, designing with the printing process itself as his medium.",
+      "summary": "Thompson designed Westvaco Inspirations for Printers from 1939 to 1962 — a free magazine sent to printers and designers that existed to show what paper and presses could do, and which he used as an open-ended experiment in colour separation, overprinting and type-as-image. His most famous move was to build spreads from engravings and process plates the printer already owned, re-inking and re-registering them into new images; his most radical was Alphabet 26, a proposal for a single unified alphabet that replaced the dual upper/lowercase system. He later art-directed for major magazines, taught at Yale for decades, and designed the Washburn College Bible with line breaks set to speech phrasing.",
+      "whatWorks": [
+        "Get yourself a recurring vehicle with a real audience and use it to experiment — a house publication beats a portfolio because it has a deadline and a print run",
+        "Design with the production process as material: separations, overprints, misregistration and screens become the visual idea rather than defects",
+        "Mine existing assets — old engravings, stock plates, previously used art — and recompose them instead of commissioning new imagery",
+        "Let type be the picture: enormous letterforms, cropped characters and colour-separated words carry the page where an illustration would normally sit",
+        "Test the alphabet's rules themselves (Alphabet 26) — sometimes the deepest craft question is the convention, not the layout",
+        "Set line breaks for the reading voice, not for the measure — the Washburn Bible breaks lines on phrases, which is a typographic decision about speech"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "From the manufacturing constraint outward: which papers, how many inks, which plates exist, what the press can hold in register. The brief for Inspirations was literally 'demonstrate the material', so the medium was always the starting subject."
+        },
+        {
+          "name": "Core method",
+          "notes": "Systematic experiment inside a fixed format. Each issue tackled one idea — a colour-separation trick, a scale contrast, an alphabet study — executed with the printer's real constraints, so every experiment was also a usable specimen for the sales rep who delivered it."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Re-using and re-registering existing engravings and process plates, deliberately shifting the separations to make new colour images; combined with type at poster scale, tightly cropped, integrated into the artwork rather than sitting above it."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Clarity is the point of the experiment, not the casualty of it: a spread has to be legible and printable at scale. He judged typography by how it reads aloud and how it survives the press, and he treated design education and practice as the same activity."
+        }
+      ],
+      "principle": {
+        "title": "Make the production constraint the creative material",
+        "explanation": "Constraints from the medium — ink limits, register tolerance, compression artefacts, email-client CSS, ad-unit weight caps — are usually treated as taxes to be minimised. Designing *with* them produces work that could not have been made another way and that is guaranteed to survive production, because the effect and the limitation are the same thing. It also gives a series its identity: the constraint is the family resemblance.",
+        "howToApply": "On the next constrained deliverable, write the limit down as an ingredient and build the idea from it: a 150KB banner becomes a two-colour flat-vector unit, a 1x email header becomes a type-only lockup, a compression-heavy platform becomes an excuse for hard-edged flat colour. Then run a short series of experiments inside one fixed format — same size, same grid, one variable per piece — and publish them, so the experiments accumulate into a recognisable body of work."
+      },
+      "tags": [
+        "typography",
+        "print",
+        "editorial",
+        "experimentation",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "TEDx — Your TEDx Logo (Organizer Guide)",
+        "url": "https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/logo-and-design/your-tedx-logo"
+      },
+      "image": "images/2026-08-09-brandguide-tedx.png",
+      "category": "Licensee brand guide (thousands of independent organisers)",
+      "tagline": "A guide written for volunteers who will build their own logo tonight — so it ships a generator, one mandatory typeface, and a hex value.",
+      "summary": "TEDx has to keep tens of thousands of independently organised events recognisable as TED without any of them having a designer. The guide answers that by making the logo constructible: 'TEDx + your unique event name + when applicable, the event type modifier', Helvetica mandatory with Inter Light as the open-source substitute, tracking locked at 0 (kerning allowed), TEDx always red at #EB0028 / Pantone 185, location name only black or white, backgrounds only solid white or black, event name left-aligned and matched to the height of 'TEDx', maximum four lines at roughly 22 characters, modifiers (Women, Youth, Salon, Studio) in bold — plus a hosted Logo Generator that outputs the correct file, and .eps templates for print. The 2023 revision is versioned by licence date: new events must follow it, pre-2023 events may keep their old logo.",
+      "whatWorks": [
+        "The rules are all decidable numbers or binaries — one hex, one Pantone, tracking 0, four lines max, ~22 characters, two permitted background colours — so a volunteer cannot 'interpret' them",
+        "It ships a tool, not just a spec: the Logo Generator builds the lockup from the licensed event name, which removes the single biggest source of drift",
+        "The typeface problem is solved twice — Helvetica ('comes pre-installed on most computers') with Inter Light named as the open-source fallback, so nobody substitutes Arial by default",
+        "Naming is governed with the logo, because for TEDx the name IS the lockup: single-word locations set solid (TEDxBoston), multi-word locations break to lines with spaces",
+        "Prohibitions are concrete and cover the actual failure modes: never 'TEDx' or 'TED' alone, never all-caps or equal-size location names, never recolour the red or the x, never place on colour, photographic or patterned backgrounds",
+        "Governance by licence generation — 'mandatory for events licensed from 1 January 2023, optional for earlier ones' — which is how you version a rule across a volunteer network without invalidating existing assets"
+      ],
+      "sections": [
+        {
+          "name": "Lockup construction",
+          "notes": "The anatomy: TEDx + event name (+ optional modifier). Rules for one-word vs multi-word locations, line breaks, four-line maximum and the ~22-character measure, with the event name left-aligned and cap-height matched to 'TEDx'."
+        },
+        {
+          "name": "Typeface",
+          "notes": "Helvetica required ('an integral part of our visual identity'), Regular weight for Neue-family users, Inter Light as the open-source alternative, tracking fixed at 0 with individual kerning permitted."
+        },
+        {
+          "name": "Colour",
+          "notes": "TEDx always red — #EB0028, Pantone 185 — with spot colour preferred in print and 4-colour process accepted; location name only black or white; backgrounds only solid white or black."
+        },
+        {
+          "name": "Clear space & placement",
+          "notes": "A required buffer around the whole lockup that no other graphic or logo may enter, stated in prose rather than as a measured diagram."
+        },
+        {
+          "name": "The Logo Generator",
+          "notes": "A hosted tool that takes the licensed event name and modifiers and returns a correctly constructed PNG in Inter; .eps templates are provided via Dropbox for high-resolution and print adaptation."
+        },
+        {
+          "name": "Prohibitions",
+          "notes": "An explicit never-list: no TEDx or TED alone, no all-caps or equal-sized event names, no colour changes to the red or the x, no other typefaces, no logos on colour/photo/pattern grounds, no unnecessary multi-line layouts."
+        },
+        {
+          "name": "Version & tagline change",
+          "notes": "Guidelines mandatory for events licensed on or after 1 January 2023; the old 'x = independently organized TED event' tagline is no longer required in the logo."
+        }
+      ],
+      "needs": [
+        "Measured clearspace and minimum-size diagrams — the buffer is described in words while every other rule is a number, which is the one gap a volunteer will fill by guessing",
+        "A dark-mode / photographic-background solution: banning photo backgrounds is realistic for the logo but leaves organisers with no sanctioned lockup for the poster they will inevitably make over an image",
+        "A secondary palette and type scale for everything that is NOT the logo — signage, slides, tickets, social — so the surrounding design has rules rather than only prohibitions",
+        "Worked co-branding geometry for local sponsors, the most common organiser problem after the logo itself",
+        "Accessibility guidance: #EB0028 on white and on black both need stated contrast behaviour at title and body sizes",
+        "A visible version number and changelog on the page itself, rather than versioning implicitly by licence date"
+      ],
+      "principle": {
+        "title": "If non-designers must build the asset, ship a generator — not a spec",
+        "explanation": "Every rule you write is a chance for a volunteer to improvise. A tool that takes their inputs and emits the correct artwork converts an entire class of judgement calls into a form field, which is why TEDx logos are consistent across tens of thousands of events run by people who have never opened Illustrator. The written spec then only has to serve the rare high-resolution or print case.",
+        "howToApply": "Wherever the same lockup or template will be assembled repeatedly by people outside the design team (agent cards, listing banners, event or office sub-brands), build the smallest possible generator — a form or a Figma template with locked layers that outputs correct PNG/SVG — and reserve the written guidance for the print exceptions. Pair it with a hard never-list aimed at the four or five ways it will actually be broken."
+      },
+      "tags": [
+        "brand-guide",
+        "logo",
+        "licensing",
+        "tooling",
+        "typography"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Ramp",
+        "url": "https://ramp.com"
+      },
+      "image": "images/2026-08-10-ramp.png",
+      "category": "Fintech / spend management SaaS",
+      "tagline": "Black, white and one acid yellow, with live counters instead of adjectives — the whole page argues in numbers.",
+      "summary": "Ramp's homepage is a very long proof stack held together by extreme colour discipline: near-black type on white, product UI in greyscale, and a single acid yellow reserved for primary buttons and nothing else. The hero is four words ('Time is money. Save both.'), one clarifying line, and an inline email field where a hero image would normally go; above it a live ticker states the share of US corporate payments processed by Ramp, and below the hero a second strip counts what its agents did today (receipts processed, accounting fields coded, expenses reviewed, invoices processed). Every section after that is a claim attached to a figure — 70,000 customers growing 3.2x faster than average, 27M hours saved, 75% faster close, a Notion tile reading '$1M+ saved on global spend' — before the page finally lands on three plain pricing tiers and an implementation checklist.",
+      "whatWorks": [
+        "One accent colour, used only for the primary action: with black/white/grey everywhere else, the yellow button is unmissable without any size or motion trick",
+        "Live counters instead of adjectives — a running percentage of US corporate payments and a real-time 'agents at work today' strip make scale feel observed rather than claimed",
+        "The hero's conversion element replaces the hero image: email field plus 'Get started for free' inline, so the first screen is a form, not a poster",
+        "Product UI is shown as overlapping real panels (invoice, bill details, approvals, a physical card) rather than one flat screenshot — it reads as a working system mid-task",
+        "Logo grid earns its place by including one tile that is a case study (Notion, '$1M+ saved on global spend') so proof-of-logo becomes proof-of-outcome",
+        "Every product section names the mechanism, not the benefit — OCR extraction, policy enforcement, contract parsing, ERP sync — which is what a finance buyer needs to evaluate",
+        "Type is a single tight grotesque at two or three sizes; hierarchy comes from weight and colour (black statement + grey continuation on the same line), never from a second typeface"
+      ],
+      "sections": [
+        {
+          "name": "Announcement + nav",
+          "notes": "A thin dark bar carrying one genuinely new thing ('AI Token Spend Management') with a 'Learn more' link, then a plain nav with two CTAs — outlined 'See a demo' and yellow 'Get started' — establishing the colour rule in the first 60px."
+        },
+        {
+          "name": "Hero",
+          "notes": "A small all-caps kicker holding the live payments-processed figure, then 'Time is money. Save both.' at display scale, one line of product scope ('Cards, expenses, bill payments, and banking – in the blink of AI'), and the inline email + yellow button. No hero art above the fold except the form."
+        },
+        {
+          "name": "Product collage + agent ticker",
+          "notes": "Overlapping greyscale UI panels and a black card, overlaid by a live ticker of today's agent activity with six counters. It answers 'what is it' and 'is it real' in one band."
+        },
+        {
+          "name": "Customer proof",
+          "notes": "'Join 70,000 of the world's most ambitious companies growing 3.2x faster than the average American business' with a Read-the-report link, then a bordered logo grid (Visa, Stripe, Perplexity, Anduril, CBRE, Discord, Twilio, Webflow, Glossier, Shopify) where one cell is a photographed customer story with a dollar figure."
+        },
+        {
+          "name": "Platform / product run",
+          "notes": "'One platform for all of finance. Agents for every workflow, working 24/7.' followed by eight product sections in order — cards, expenses, AP, travel, procurement, Ramp Intelligence, accounting automation, banking — each with its mechanism and a metric."
+        },
+        {
+          "name": "Outcome metrics + case studies",
+          "notes": "27M+ hours saved, 75% faster close, 3x more efficient intake-to-pay, a 30-day implementation guarantee, then named customers with specific savings (Poshmark's 50% faster month-end close, Advisor360°'s $80K+)."
+        },
+        {
+          "name": "Pricing + implementation",
+          "notes": "Three tiers stated plainly (Free $0, Plus $15/user, Enterprise custom), 200+ integrations, and an administrator setup checklist — unusually, the page teaches the switch before asking for it."
+        },
+        {
+          "name": "Footer",
+          "notes": "Dense but ordered: products, solutions, resources, customers, legal, plus Docs / Help Center / Trust Center links that were also surfaced at the very top for evaluators."
+        }
+      ],
+      "principle": {
+        "title": "Spend your only saturated colour on the action, and let live numbers do the adjectives",
+        "explanation": "A monochrome page with one reserved accent removes the need for badges, glows or size escalation to signal the primary action — attention goes where the colour is, every time. And a counter that moves converts a marketing claim into an observation: the reader isn't asked to believe 'we process a lot', they watch it happen, which is far harder to discount than a superlative.",
+        "howToApply": "Pick one accent and forbid it everywhere except primary buttons and one kicker; build every other element from near-black, grey and white so product screenshots sit in the palette naturally. Then replace at least two adjectives on the page with a live or dated figure — properties listed this week, average days on market, closings this month — displayed as a small all-caps kicker above the headline rather than in a stat card."
+      },
+      "tags": [
+        "saas",
+        "color",
+        "conversion",
+        "typography",
+        "proof"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Gozo — 'Routes of Reverence' 4:5 festive social unit",
+        "url": "https://www.adsoftheworld.com/campaigns/routes-of-reverence"
+      },
+      "image": "images/2026-08-10-ad-gozo.jpg",
+      "category": "Static social feed unit (4:5, 1080×1350), 3-part festive series",
+      "tagline": "City road geometry redrawn as a Durga Puja symbol, with a single car as the moving dot — a mobility brand whose map becomes the icon.",
+      "when": "Digital, India, September 2025 — agency Three Fourth Solutions",
+      "summary": "Each unit in this three-part set takes the visual language of a navigation map — white route lines, black cross-streets, a car glyph, a circular waypoint — and bends it into an icon associated with a specific day of Durga Puja; in this frame the routes trace a ceremonial mace/weapon form, with the car sitting at the base of it as though it drew the shape. The field is a single flat festive orange with a woven-texture fill, edged by a narrow lotus-motif border; the wordmark sits top-right and a two-part headline ('This Ashtami / Courage, devotion, and joy guide you.') anchors the lower left in a warm display serif above a plain sans line. It is a clean lesson in making a brand's own functional vocabulary do the festive work instead of dropping in generic celebration graphics.",
+      "whatWorks": [
+        "The metaphor is built from the product's own UI vocabulary — route lines, waypoint circles, a car glyph — so the greeting is unmistakably from a mobility brand",
+        "One flat culturally coded colour field with a subtle woven texture keeps the frame readable at thumbnail size while avoiding the flat-vector sterility of most festive posts",
+        "A thin lotus-motif border does all the 'festival' signalling, leaving the centre free for the idea (far better than gold gradients and diyas over everything)",
+        "Typographic pairing carries the tone shift: a warm high-contrast display serif for the occasion name, a neutral sans for the wish — two voices, two jobs",
+        "Composition is diagonal and off-centre with real empty space, so the eye travels the route lines from the car up to the symbol before reading the copy",
+        "The series varies only the symbol and the day name, which makes a multi-day festival calendar producible without a new concept each time"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The recognisable map abstraction on a saturated orange field stops the scroll, and then the second read — that the roads form a ceremonial symbol — is the reward. Two-stage recognition inside one static frame."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'This Ashtami' in a display serif with 'Courage, devotion, and joy guide you.' beneath in sans. The word 'guide' is the hinge that ties a devotional wish to a navigation product without a sales line."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Flat festive orange with woven texture, white route strokes with rounded caps, thin black cross-streets, one small white car in plan view, circular waypoints. Lotus border framing. No photography, no gradient, no drop shadows."
+        },
+        {
+          "name": "CTA",
+          "notes": "None inside the creative — brand mark only. Correct for a festive-greeting placement where the goal is affinity; the platform copy field carries any offer, and the unit stays a greeting rather than a promotion."
+        }
+      ],
+      "principle": {
+        "title": "Make festive and seasonal posts from your own functional vocabulary",
+        "explanation": "Seasonal creative is where brands lose their identity fastest: everyone reaches for the same stock symbols and the post could belong to any company. Constructing the seasonal image out of the elements your product already owns — routes, pins, floor plans, keys, price graphs, contract lines — means the greeting still performs brand recognition while it performs the sentiment, and it forces a real idea instead of decoration.",
+        "howToApply": "List the graphic primitives your product genuinely owns (map routes and pins, floorplan walls, key silhouettes, chart lines, signature lines). For the next holiday or milestone post, draw the occasion's symbol using only those primitives on one flat culturally appropriate colour, signal the occasion with a narrow motif border rather than an overlay, and pair a display serif occasion name with a plain sans wish — then vary only the symbol across the series."
+      },
+      "tags": [
+        "social-ad",
+        "seasonal",
+        "iconography",
+        "series",
+        "brand-vocabulary"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Chermayeff & Geismar",
+        "url": "https://en.wikipedia.org/wiki/Chermayeff_%26_Geismar_%26_Haviv"
+      },
+      "image": "images/2026-08-10-designer-chermayeff-geismar.jpg",
+      "category": "Identity studio / American, 1957–present",
+      "when": "Founded 1957 (as Brownjohn, Chermayeff & Geismar); Chermayeff & Geismar & Haviv since 2013 · New York",
+      "tagline": "Six decades of marks that are still in service — Chase, Mobil, NBC, National Geographic, PBS — produced by a studio that deliberately never grew.",
+      "summary": "The studio's operating model is the lesson: a tiny partnership where the principals do the drawing, no account layer, no house style, and one obsessive standard — a mark must be simple, appropriate and distinctive enough to survive fifty years. Ivan Chermayeff and Tom Geismar's 1960 Chase Manhattan mark was effectively the first abstract corporate symbol in America, and the pattern repeated: Mobil's circle-in-'o', the NBC peacock, the National Geographic yellow rectangle, PBS, Pan Am, Barneys, Smithsonian, Library of Congress. Sagi Haviv joined as partner in 2013 on the same terms — partners work on the work.",
+      "whatWorks": [
+        "Keep the studio small enough that the person who signs the work draws the work; no pyramid of juniors, no account managers between the client and the designer",
+        "Judge every mark against three words — appropriate, distinctive, simple — and use them as the review vocabulary rather than personal taste",
+        "Design in one colour, at small size, first: if the mark fails as a black shape at 12mm, it fails, regardless of how it looks on a presentation board",
+        "Refuse a house style: each identity should look like the client, which is only possible if the studio has no signature to protect",
+        "Aim explicitly for longevity — draw for fifty years of service, which rules out anything dependent on a current effect or trend",
+        "Sell the reasoning, not the reveal: the presentation explains why the geometry is right for this business, so the client can defend it internally for decades"
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "A partnership of two, later three, with a handful of designers. Partners lead their own projects end to end and present their own work. The deliberate absence of scale is what protects the standard — there is no capacity to take on work the partners can't personally draw."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "Long-horizon identity problems for institutions that will keep a mark for decades — banks, broadcasters, museums, publishers. The engagement is framed as designing a system that outlives the current management, not as a campaign."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Abstract reduction: find the one geometric relationship that encodes the business (interlocking segments for a merged bank, a circle inside a letter for a fuel brand, a fanned spectrum for colour television), then refine it until nothing can be removed. Everything is tested small, in one colour, and in motion where relevant."
+        },
+        {
+          "name": "What holds it together",
+          "notes": "The three-word test (appropriate, distinctive, simple), the insistence that partners execute, and an institutional memory of what has actually survived in the wild — the studio can point to sixty years of marks still in use as evidence for its own rules."
+        }
+      ],
+      "principle": {
+        "title": "Test the mark as a small black shape before you test it as a design",
+        "explanation": "Most identity failures are not aesthetic, they are dimensional: the mark dies as a favicon, on an embroidered polo, in a fax-quality contract header, or in a single-colour sign. Judging the shape in one colour at tiny size first eliminates those failures while they are cheap to fix, and it forces the geometry to carry the meaning — which is exactly what makes a mark last fifty years.",
+        "howToApply": "Before any colour, gradient or lockup work, print the candidate marks as black shapes at 12mm and 24px, photograph them on a phone screen at arm's length, and try drawing each from memory after ten seconds. Kill anything that needs colour, detail or explanation to be recognised, and review the survivors out loud against three words — appropriate, distinctive, simple — with the client in the room."
+      },
+      "tags": [
+        "identity",
+        "logo",
+        "studio-model",
+        "longevity",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "LEGO — Fair Play (trademark & fan-use guidelines)",
+        "url": "https://www.lego.com/en-us/legal/notices-and-policies/fair-play/"
+      },
+      "image": "images/2026-08-10-brandguide-lego-fair-play.png",
+      "category": "Trademark / fair-use guidance for fans and third parties",
+      "tagline": "The famous grammar rules — LEGO is an adjective, never a noun, never a plural — published as brand governance for a fan economy.",
+      "summary": "Fair Play is not a visual guide; it is a written-language and trademark artifact aimed at the millions of people who talk about LEGO online. Its rules are unusually quotable: say 'models built of LEGO bricks', never 'LEGOs'; set the word in the same typeface as the surrounding text and never isolate or emphasise it; attach the ® symbol; never place the red logo on an unofficial site; never build the trademark into a domain name because a domain implies source; carry a disclaimer such as 'LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.' It then permits non-commercial fan use of the word marks and limited excerpts of copyrighted material with attribution — a permission structure designed to keep an enormous fan-content economy legal without policing it.",
+      "whatWorks": [
+        "Governs the brand where it actually lives — in sentences typed by other people — which no logo-clearspace diagram can reach",
+        "Rules are memorable and testable: adjective not noun, no plural, no possessive, same typeface as body text, ® present",
+        "The reasoning is stated ('a domain name identifies source', 'the logo must stay distinctive'), so fans can extend the rule to cases the page never lists",
+        "Draws a bright line where confusion actually happens — the logo and the domain — while being permissive about the word mark in fan discussion",
+        "Supplies the exact disclaimer sentence to copy, which is the single highest-compliance move on the page",
+        "Distinguishes clearly between non-commercial fan use, which is broadly allowed, and commercial use, which is not — the distinction fan creators most need"
+      ],
+      "sections": [
+        {
+          "name": "Using the LEGO name in text",
+          "notes": "The core rules: adjective only ('LEGO bricks', 'LEGO set'), never a noun or plural, never possessive; typeset in the same face as surrounding text with no isolation, highlighting or special treatment; ® on use."
+        },
+        {
+          "name": "The logo",
+          "notes": "An absolute prohibition on the red logo appearing on unofficial sites, framed by the argument that its distinctiveness is the asset being protected."
+        },
+        {
+          "name": "Domain names",
+          "notes": "The trademark may not be incorporated into an internet address, because a domain reads as source identification and therefore implies sponsorship."
+        },
+        {
+          "name": "Attribution / disclaimer",
+          "notes": "A supplied sentence for unofficial sites to carry, naming the LEGO Group and explicitly disclaiming sponsorship, authorisation and endorsement."
+        },
+        {
+          "name": "Permitted non-commercial use",
+          "notes": "Fan sites may use the word marks (not the logo) to discuss products so long as the use is not 'unduly emphasized' and cannot mislead a viewer about sponsorship; limited excerpts of copyrighted material are allowed for non-commercial information exchange with a copyright notice."
+        }
+      ],
+      "needs": [
+        "Shown do/don't pairs: every rule here is prose, and 'LEGOs' beside 'LEGO bricks' — or the logo on a fan page beside a compliant text credit — would teach faster than a paragraph",
+        "Colour, typography and any visual specification at all: there is no hex for LEGO red, no typeface, no clearspace, so a licensed partner learns nothing about making something look right",
+        "A sanctioned asset for fan creators — a small 'built with LEGO bricks' text lockup or badge would channel the demand the logo ban creates (Blender and Python both solve this with community badges)",
+        "Platform-specific guidance for where fan content actually lives: YouTube thumbnails, marketplace listings, print-on-demand, app names",
+        "AI-era clauses: prompt-generated LEGO-style imagery and model renders are now the most common trademark collision and are unaddressed",
+        "A version number and revision date, plus a named contact route for permission requests rather than only prohibition"
+      ],
+      "principle": {
+        "title": "Write the rules for the sentence, not just the logo",
+        "explanation": "For most brands the mark appears in third-party text far more often than in third-party artwork, and the damage from a genericised name (a trademark used as a plural noun) is permanent in a way a squashed logo never is. Codifying grammar — part of speech, plurality, capitalisation, typeface parity, the ® — gives partners, journalists and fans a rule they can actually follow while typing, with no design tool involved.",
+        "howToApply": "Add a 'writing the name' page to the brand guide with five lines: the part of speech ('Ridgeline is a proper adjective — Ridgeline listings, not Ridgelines'), never plural or possessive, always sentence-consistent typeface with no bold or caps treatment, the ® or ™ placement, and one supplied disclaimer sentence partners can paste. Then show one wrong-and-right pair per rule, and name a human to ask."
+      },
+      "tags": [
+        "brand-guide",
+        "trademark",
+        "voice",
+        "governance",
+        "fan-content"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Bellroy",
+        "url": "https://bellroy.com"
+      },
+      "image": "images/2026-08-11-bellroy.png",
+      "category": "Carry goods / DTC e-commerce",
+      "tagline": "Navigates by intent instead of category — 'Get organized with Transit', 'Market runs to beach days, sorted' — so the shopper picks a situation, not a SKU.",
+      "summary": "Bellroy opens on a full-bleed action photograph (a man mid-leap between a concrete wall and blank blue sky, bag on back) carrying three heavy condensed lines — CARRY SMART. MOVE FREE. GO FAR. — and one small orange Bestsellers button. What follows is the interesting part: instead of a category grid, a row of eight thumbnail tiles captioned as intents and situations ('Keep things Lite', 'Get organized with Transit', 'Gear up for travel season', 'Duffels for plans big or small', 'Market runs to beach days, sorted'), then Trending now, then collection families each with a personality descriptor, then a values block leading with B Corp certification and hard numbers (25M bottles upcycled, 100% Gold-rated leather sourcing) and the durability argument 'Better with age'. The search field sits above the hero, acknowledging that many visitors arrive knowing the product name.",
+      "whatWorks": [
+        "Intent-first navigation: tiles are labelled by the situation and the outcome ('Market runs to beach days, sorted') rather than by product type, which is how people actually shop for carry",
+        "Hero photography shows the product in motion and mid-use at distance — the bag is on a body doing something, never floating on seamless",
+        "Type does the brand voice: heavy condensed caps for the manifesto lines, a light humanist sans for everything functional, so the loud voice appears exactly once per screen",
+        "One orange accent for CTAs and the promo bar, against greys and photographic colour — the same discipline Ramp uses, applied to retail",
+        "Collections are given personalities rather than specs (Transit, Lite, Venture, Cinch, Tokyo, Classic, Laneway), turning a large range into a set of characters a shopper can identify with",
+        "Sustainability leads with certification and countable facts (B Corp, 25M bottles) plus 'Better with age', tying environmental claim to the product's actual value proposition — durability",
+        "Search is placed above the fold and phrased as a question ('What are you looking for?'), respecting the large share of visitors who arrive with a known model in mind"
+      ],
+      "sections": [
+        {
+          "name": "Promo bar + minimal header",
+          "notes": "A thin orange bar with one offer and an email-capture link, then just the wordmark, a mail icon and a cart — the nav itself is a mega-menu that stays out of the way until asked for."
+        },
+        {
+          "name": "Search",
+          "notes": "A wide plain search field directly above the hero. Unusual placement, and a correct read of a catalogue where product names (Transit Workpack, Lite Sling) are the actual search terms."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-bleed photograph split by a hard vertical edge — grey wall against blue sky — with three condensed white lines set in the flat grey half and one small orange Bestsellers button. Type sits entirely on the quiet side of the frame."
+        },
+        {
+          "name": "Intent tiles",
+          "notes": "Eight small image tiles with two-line captions written as jobs and occasions rather than categories, each linking into a filtered range. This row replaces the conventional 'Shop by category' block."
+        },
+        {
+          "name": "Trending now / featured",
+          "notes": "A carousel of current products and new releases with minimal copy, letting the intent row above do the qualifying and this row do the merchandising."
+        },
+        {
+          "name": "Collection families",
+          "notes": "Six or seven ranges presented with short personality descriptors, so a repeat customer can navigate by the family they already own."
+        },
+        {
+          "name": "Values / B Corp",
+          "notes": "A dedicated block with certification, upcycled-bottle and leather-sourcing figures, and the 'Better with age' durability argument — claims that are countable rather than atmospheric."
+        },
+        {
+          "name": "Footer",
+          "notes": "Four ordered columns (Help, Shop, About, Company) with warranty and repair links prominent, socials and an email signup — the after-sale promise placed where a carry buyer looks for it."
+        }
+      ],
+      "principle": {
+        "title": "Label the entry points by the situation, not the category",
+        "explanation": "Category labels ('Bags', 'Wallets', 'Tech') ask the visitor to translate their problem into your taxonomy, and a shopper who can't translate leaves. Situation labels ('Get organized with Transit', 'Market runs to beach days, sorted') let them recognise themselves in one read, and they carry merchandising intelligence — the tile can point at a curated filtered set rather than a whole department.",
+        "howToApply": "Rewrite the primary entry tiles as five to eight situations your audience will recognise, each phrased as an outcome and pointing at a pre-filtered set — for property, that means 'First place, walkable, under $500k' or 'Room for a workshop' instead of 'Single family / Condo / Land'. Keep the taxonomy in the nav for people who want it, put the situations on the page, and give each tile one honest photograph of that situation."
+      },
+      "tags": [
+        "e-commerce",
+        "information-architecture",
+        "typography",
+        "photography",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "oraimo — 'Democracy Day' 4:5 social unit",
+        "url": "https://www.adsoftheworld.com/campaigns/democracy-day-8b5f4a53-e37b-4a77-8e2e-290135ad180e"
+      },
+      "image": "images/2026-08-11-ad-oraimo.jpg",
+      "category": "Static social feed unit (4:5, 1080×1350), topical/occasion post",
+      "tagline": "A double meaning of 'power' staged as a flat-lay: earbuds beside a ballot paper on a green-white-green ground.",
+      "summary": "For Nigeria's Democracy Day, oraimo built a top-down flat-lay on three vertical bands of dark green, grey and green — the national flag rotated into a background texture — with its Spacebuds 2 case open on the left and an illustrated ballot paper on the right, three empty boxes beside three illustrated candidate portraits. Two half-lines of copy sit either side of the gap ('You can choose immersive Sound…' / '…& choose immersive peace.'), and the payoff runs along the bottom: 'The power is in your hands. Happy Democracy Day.' with the product name and an 'AI-Powered' chip at right. It's a clean example of an occasion post that earns its place by finding a genuine pun in the product's core benefit rather than pasting a flag over a product shot.",
+      "whatWorks": [
+        "The pun is in the product truth: a power bank / audio brand talking about civic 'power' is a real double meaning, not a borrowed sentiment",
+        "National colours are used as an abstract striped ground with visible grain texture, so the flag is present without being a flag graphic pasted on top",
+        "Copy is split across the two objects so the sentence structure mirrors the choice being described — two halves, one decision",
+        "Green highlight applied only to the two words that carry the pun ('immersive Sound', 'Happy Democracy Day'), with everything else in white — colour as emphasis, not decoration",
+        "The illustrated ballot avoids photographic realism, which keeps the unit from reading as political material while still being instantly legible",
+        "Product is shown open and lit as the hero object at flat-lay scale, with the model name and one feature chip ('AI-Powered') as the only spec — enough to make the post shoppable later"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A top-down flat-lay on a hard green/grey/green split reads instantly in feed, and the ballot paper is the unexpected object that makes you stop on a consumer-electronics post."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Split copy across the two objects, then the payoff line 'The power is in your hands.' The construction lets the pun land twice — once as product benefit, once as civic message — without a single explanatory sentence."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Studio flat-lay: open charging case with green-marbled lid and earbuds, illustrated ballot card with three portraits in traditional dress, textured concrete-and-green ground, soft top light with contact shadows so both objects sit on the same surface."
+        },
+        {
+          "name": "CTA",
+          "notes": "None; the brand mark sits top-left and the product name plus feature chip bottom-right. Correct for an occasion post, where a hard CTA would read as trading on a national holiday."
+        }
+      ],
+      "principle": {
+        "title": "Earn an occasion post by finding the pun inside your product's core benefit",
+        "explanation": "Most holiday posts are brand tax: a logo over a flag, no idea, no memory. A genuine double meaning between the occasion's language and the product's actual function ('power', 'connection', 'moving', 'closing', 'home') gives the post a reason to exist and makes it recognisably yours — and it disciplines the layout, because a pun needs exactly two objects and one line.",
+        "howToApply": "List the words your product owns literally (power, signal, keys, close, move, home, cover) and check them against the occasion's vocabulary before designing anything; if no honest overlap exists, skip the occasion. When one does, stage exactly two objects — one product, one occasion object, illustrated rather than photographed if the subject is sensitive — split the line across them, and use the accent colour only on the two words carrying the pun."
+      },
+      "tags": [
+        "social-ad",
+        "topical",
+        "copywriting",
+        "flat-lay",
+        "color"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Gerd Arntz",
+        "url": "https://en.wikipedia.org/wiki/Gerd_Arntz"
+      },
+      "image": "images/2026-08-11-designer-gerd-arntz.jpg",
+      "category": "Pictorial statistics / Isotype · German-Dutch modernism",
+      "when": "1900–1988 · German (worked in Vienna and The Hague)",
+      "tagline": "Drew about 4,000 pictograms for Isotype and set the rule that made data pictures honest: repeat the symbol, never resize it.",
+      "summary": "Arntz was the draughtsman of the Vienna Method of pictorial statistics, working with Otto Neurath from 1928 and later in The Hague, producing the roughly 4,000 signs that became Isotype — the direct ancestor of every wayfinding and interface pictogram in use today. His achievement is as much systemic as graphic: a closed vocabulary of silhouettes, each reduced to an outline that stays unambiguous at any size, plus a strict grammar for combining them (a base figure plus attributes; one symbol equals a fixed quantity, so more means more symbols, never a bigger symbol). He came to it from politically committed woodcut printmaking, which is why the figures have weight and stance rather than the blandness of later icon sets.",
+      "whatWorks": [
+        "Repeat units to show quantity instead of scaling one symbol — the rule that keeps a chart from lying about area",
+        "Build a closed vocabulary first, then compose from it: a base figure plus a small set of attributes covers thousands of specific cases",
+        "Reduce to a silhouette that survives without interior detail, and test recognition at the smallest size the system will ever print",
+        "Keep style constant across the whole set so differences in a chart read as data, not as drawing variation",
+        "Design for translation: pictures carry meaning across languages and literacy levels, which was the entire political point of the project",
+        "Bring a craft discipline with you — woodcut training gave the figures their stance, weight and confident negative space"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "From the statement the data has to make, agreed with the statistician before drawing: what is being counted, in what unit, and what comparison the reader must be able to make. The visual work starts only once the unit is fixed."
+        },
+        {
+          "name": "Core method",
+          "notes": "Build the sign as a flat black silhouette on a strict shared baseline and proportion, with no interior modelling; then extend the vocabulary combinatorially — the same worker figure gains a tool, a hat, a colour to become a specific occupation — so the set grows without new drawing conventions."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Countable rows: quantities expressed as repeated identical signs on a grid, with a stated key ('one figure = 1 million'). Where a partial unit is needed, the sign is cut, not shrunk. Colour is flat and used categorically."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Clarity over expression, and honesty over impact: the chart exists to make an ordinary reader see a social fact, so any device that flatters the designer or exaggerates the comparison is disqualified. Ambiguity in a silhouette is a defect, not a style."
+        }
+      ],
+      "principle": {
+        "title": "Show quantity by repeating the unit, never by scaling the symbol",
+        "explanation": "Scaling a symbol to represent a bigger number distorts perception, because the reader judges area while the data encodes length — a house drawn twice as tall reads as four times as much. Repeating an identical unit keeps the comparison countable and exact, and it forces you to declare the unit itself, which is the discipline that makes an infographic trustworthy rather than merely attractive.",
+        "howToApply": "For the next stat block or market-data graphic, pick one unit (one house = 10 sales, one figure = 100 residents), state the key on the graphic, and show quantities as repeated identical glyphs on a shared baseline — cutting a glyph for partial units instead of scaling it. Draw the glyph set as flat silhouettes from one closed vocabulary so every future chart reuses the same parts, and check each at 16px before it enters the set."
+      },
+      "tags": [
+        "iconography",
+        "data-visualization",
+        "systems",
+        "pictograms",
+        "process"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Blender Foundation — Logo & usage guidelines",
+        "url": "https://www.blender.org/about/logo/"
+      },
+      "image": "images/2026-08-11-brandguide-blender.jpg",
+      "category": "Open-source logo page with an explicit fan-art carve-out",
+      "tagline": "Publishes hard rules for credit and prominence — then says modifying the logo is 'part of your own artistic freedom' and it will never act against tributes.",
+      "summary": "Blender's logo page does three things well and unusually. It gives real values (PMS 716 / #e87d0d, PMS 647 / #265787, white) and a downloadable logo kit. It states five numbered usage conditions for third parties — the logo may only point to Blender or give credit; your own branding must be more prominent; promotional merchandise is fine only as a secondary brand; the logo must be used unaltered, in original colours, original typography and always complete; commercial use requires explicit written permission with a picture of the intended use. Then it draws a deliberate line between rules and tolerance: an 'On artwork and community websites' section acknowledges the logo has been reworked hundreds of times as tribute, calls that artistic freedom, and promises the Foundation will never act against it — 'just don't expect us to officially approve of it'. Finally it ships a separate Community Badge (PNG and SVG) for tutorial makers, with its own three rules.",
+      "whatWorks": [
+        "Colour is actually specified — two Pantones with hex equivalents plus white — which most open-source logo pages omit entirely",
+        "The prominence rule is written as an outcome test, not a measurement: 'it has to be clear for an average viewer that this is not an official Blender website, publication or product'",
+        "Rules are numbered and short (general usage, prominence, products, modification, commercial use), so a community member can cite '#4' in a discussion",
+        "Ships a purpose-built Community Badge for exactly the use the logo rules would otherwise block — crediting Blender in tutorials, videos and books — in PNG and SVG with its own three rules and a shown in-context example",
+        "Credit guidance distinguishes two cases with named examples: type the words out (not the logo) when saying a project was made with Blender, or place the logo among other logos, never in isolation",
+        "It states its own legal footing plainly — the logo and the name are trademarks and are NOT covered by the GNU GPL, the single most misunderstood fact about the project",
+        "The fan-art carve-out is honest governance: it separates what the Foundation will enforce from what it merely won't endorse, which stops a rule nobody can enforce from undermining the rules that matter"
+      ],
+      "sections": [
+        {
+          "name": "Logo & permitted purpose",
+          "notes": "The mark shown with its one-line purpose — official Foundation projects and content; third parties may use it only to credit Blender or to link to blender.org — plus the Download Logo Kit button and a pointer to the trademark policy."
+        },
+        {
+          "name": "Colour",
+          "notes": "Three chips with real values: PMS 716 / #e87d0d, PMS 647 / #265787, WHITE / #ffffff, with a note that the variations are for simple or plain-colour backgrounds."
+        },
+        {
+          "name": "Usage guidelines (1–5)",
+          "notes": "General usage (link must point to blender.org), Prominence (Blender only ever a secondary brand), Products (merch allowed as secondary brand), Modification (unaltered, original colours and typography, always complete: mark + wordmark), Commercial use (explicit permission, with a picture of the intended use; film credits are not commercial)."
+        },
+        {
+          "name": "On artwork and community websites",
+          "notes": "The tolerance clause: hundreds of reworkings are treated as honest tribute, modification is 'part of your own artistic freedom', the Foundation will never act against it, and no official approval is implied."
+        },
+        {
+          "name": "Usage in credits",
+          "notes": "Two worked cases with linked examples (Spring, Sintel): type the credit as words rather than using the logo, or include the logo alongside other logos — never in isolation."
+        },
+        {
+          "name": "Community Badge",
+          "notes": "A separate badge for content creators in PNG and SVG, with three rules (indicate Blender was used, never use as your own logo, use as-is unaltered and complete) and an example of it applied to a video thumbnail."
+        },
+        {
+          "name": "History",
+          "notes": "A closing link to an Internet Archive history of the logo — small, but it frames the identity as something that has evolved and will again."
+        }
+      ],
+      "needs": [
+        "Clearspace and minimum-size diagrams: 'always complete' and 'unaltered' are stated, but nothing tells a user how much air the lockup needs or how small it may go",
+        "Misuse examples shown at the same size as the correct mark, captioned with the tell — the page describes modification bans in prose while cheerfully linking to a gallery of modifications",
+        "Typography: the wordmark's typeface is never named, and there is no guidance for setting 'Blender' in adjacent text",
+        "A dark-background rule beyond 'simple or plain colour' — which of the three variants belongs on dark UI, and what happens on photographic grounds",
+        "A version number, revision date and owner for the page; the trademark policy it defers to lives elsewhere and changes independently",
+        "Contrast and legibility guidance for #e87d0d, which fails as small text on white and is the colour most likely to be reused by the community"
+      ],
+      "principle": {
+        "title": "Separate what you will enforce from what you merely won't endorse",
+        "explanation": "A brand page that forbids everything gets ignored wholesale, because the community can see that most of it is unenforceable. Naming the small set of rules you will actually defend (never as a primary brand, never for commercial products, never altered in official credit contexts) and explicitly tolerating the rest converts the page from a bluff into a working agreement — and it protects the rules that matter by not spending credibility on the ones that don't.",
+        "howToApply": "In the next brand or partner page, split usage into three named tiers: Required (the two or three rules you will chase — prominence, no commercial resale, no implied endorsement), Provided (the sanctioned asset for the most common community use — a 'built with' badge, a co-brand lockup, a credit line to type out), and Tolerated (what you won't police but won't approve). Say which tier each rule belongs to, and give the tolerated tier a sentence in plain language."
+      },
+      "tags": [
+        "brand-guide",
+        "logo",
+        "open-source",
+        "community",
+        "governance"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "week": "2026-W33",
+      "source": "daily",
+      "kind": "exercise",
+      "title": "Build a three-frame 300×250 animated banner in pure CSS",
+      "discipline": "Motion / advertising craft",
+      "tool": "CSS (HTML + CSS only, no JS, no libraries)",
+      "time": "15 min",
+      "skill": "Frame timing and hold discipline in a fixed ad unit: sequencing three messages with correct dwell times, one shared easing, and a final frame that holds with the CTA visible",
+      "brief": "Build a single 300×250 medium-rectangle banner that plays three frames — hook, benefit, offer + CTA — and then stops on frame three. All animation in CSS keyframes, total runtime under 15 seconds, last frame holds forever (animation-fill-mode: forwards), and the CTA is visible in the final state without any hover.",
+      "steps": [
+        "Set a 300×250 container with overflow:hidden and position:relative; stack three absolutely positioned .frame divs inside it.",
+        "Give every frame the same animation duration (e.g. 12s) and use percentage keyframes to schedule each one: frame 1 visible 0–30%, frame 2 30–60%, frame 3 60–100% and held.",
+        "Animate only opacity and a small translateY (8–12px) — no scale, no blur — with one shared easing (cubic-bezier(.2,.7,.2,1)) so all three frames move with the same personality.",
+        "Overlap each transition by about 4% so a frame starts appearing just before the previous one is gone; hard cuts look broken at banner scale.",
+        "Put the CTA button in frame 3 only, and confirm the final state after the animation ends still shows logo + offer + button (no element left at opacity 0).",
+        "Wrap the animation rules in @media (prefers-reduced-motion: no-preference), and make the default state frame 3 fully visible so a reduced-motion user sees the complete offer immediately."
+      ],
+      "assets": [
+        {
+          "label": "Frame 1 (hook)",
+          "value": "Still paying rent in 2026?"
+        },
+        {
+          "label": "Frame 2 (benefit)",
+          "value": "See what your monthly payment could buy."
+        },
+        {
+          "label": "Frame 3 (offer + CTA)",
+          "value": "Free 10-minute buying-power check  ·  CTA: Check my number"
+        },
+        {
+          "label": "Palette",
+          "swatches": [
+            "#101418",
+            "#f5f2ec",
+            "#c8492c",
+            "#8c9a8e"
+          ]
+        },
+        {
+          "label": "Starter code (fix and finish this)",
+          "code": "<div class=\"ad\">\n  <div class=\"frame f1\"><p>Still paying rent in 2026?</p></div>\n  <div class=\"frame f2\"><p>See what your monthly payment could buy.</p></div>\n  <div class=\"frame f3\">\n    <p>Free 10-minute buying-power check</p>\n    <a class=\"cta\" href=\"#\">Check my number</a>\n  </div>\n</div>\n\n<style>\n.ad{position:relative;width:300px;height:250px;overflow:hidden;\n    background:#f5f2ec;color:#101418;font:16px/1.25 system-ui,sans-serif}\n.frame{position:absolute;inset:0;padding:20px;display:flex;\n       flex-direction:column;justify-content:flex-end;gap:10px;opacity:0}\n.cta{align-self:start;background:#c8492c;color:#fff;text-decoration:none;\n     padding:8px 14px;border-radius:2px;font-size:13px;font-weight:600}\n\n/* TODO 1: one duration, three schedules — f1 0-30%, f2 30-60%, f3 60-100% held */\n/* TODO 2: animate opacity + translateY(10px) only, shared cubic-bezier(.2,.7,.2,1) */\n/* TODO 3: animation-fill-mode: forwards so frame 3 stays put */\n/* TODO 4: default (no-motion) state = frame 3 visible; wrap animations in\n   @media (prefers-reduced-motion: no-preference) */\n</style>"
+        }
+      ],
+      "successLooksLike": "The banner plays hook → benefit → offer in under 15 seconds, never loops, and the resting state is a complete, readable offer with the CTA button visible. Transitions feel like one system (same easing, same distance). With reduced motion enabled, the final frame is shown immediately and nothing moves.",
+      "stretch": "Duplicate the markup and re-time the same three frames for a 728×90 leaderboard: the copy must be trimmed, not just resized, and the frames will need shorter dwell times because a leaderboard is read in passing.",
+      "tags": [
+        "css",
+        "motion",
+        "advertising",
+        "timing",
+        "accessibility"
+      ]
     }
   ]
 }
