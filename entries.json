@@ -13813,6 +13813,252 @@
         "timing",
         "accessibility"
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Dishoom",
+        "url": "https://www.dishoom.com/"
+      },
+      "image": "images/2026-08-12-dishoom.png",
+      "category": "Restaurant / hospitality group",
+      "tagline": "A twelve-site restaurant group whose homepage is genuinely written — Bombay-cafe prose in every section — while the only two things a guest actually needs stay one tap away.",
+      "summary": "Dishoom's site reads like a piece of writing that happens to take bookings. Each block opens with narrative copy in the brand's Bombay Irani-cafe voice (“Each Dishoom is a love letter to Bombay”), set warm cream-on-dark with a serif display face over sans body, and illustrated with a deliberate mix of heritage reference photography and hot, close food shots. The utility never gets buried underneath the romance: View Menus and Book a Table sit in the hero, a three-tile hub repeats them mid-page, and the cafe list is a plain scannable set of place names rather than a map widget. The page is long, but almost none of it is scaffolding — recipes, the store, awards and the meal-donation count each give a non-booking visitor a reason to be there.",
+      "whatWorks": [
+        "The hero carries exactly two CTAs — View Menus and Book a Table — which are the only two jobs a restaurant visitor arrives with; everything else on the page is discovery.",
+        "Copy does the branding work: period-accurate, warm, specific prose (dish names, a 1914 cafe, chai rituals) instead of adjectives about authentic dining.",
+        "Heritage and archive imagery sits beside appetite photography, so provenance and hunger are argued in the same eyeline rather than in a separate About page.",
+        "Twelve-plus locations are published as a horizontally scanning list of plain place names (with Permit Rooms as their own category) — faster than a map for a group whose guests already know their city.",
+        "Recipe and store carousels use one fixed card grammar (category badge, dish image, title, arrow), so heterogeneous content still reads as one system.",
+        "The proof block states facts with issuers attached — Sunday Times Best Places to Work 2025, 25 million meals donated, B-Corp — rather than unattributed superlatives."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Full-width band with a Hindi welcome and an illustrated SVG device over a warm ground; one line of scene-setting prose, then the two CTAs (View Menus / Book a Table). The sticky header repeats the Book button so the booking door never leaves the screen."
+        },
+        {
+          "name": "Mission — a love letter to Bombay",
+          "notes": "Large display type states the brand idea in one sentence, illustrated with heritage photography (B. Merwan, 1914; bun maska). This is where the brand argues for itself, and it sits above the commerce rather than hidden in an About page."
+        },
+        {
+          "name": "Three-tile hub — Menus / Reservations / Store",
+          "notes": "A three-column grid of image tiles with arrow affordances repeats the primary tasks mid-scroll, so a reader who came for the story can convert at the moment the story lands."
+        },
+        {
+          "name": "Cafe explorer",
+          "notes": "A prose lead-in (“Take refuge with a warming cup of chai…”) then a plain horizontal list of the twelve-plus cafes and the Permit Rooms. No map, no cards — names as links, which is the shortest path when the visitor already knows their neighbourhood."
+        },
+        {
+          "name": "Bombay comfort food + recipes",
+          "notes": "Descriptive copy walks breakfast through to dinner naming real dishes, backed by a four-image carousel; below it a recipe carousel with a fixed card grammar turns the brand into something you use at home, not only visit."
+        },
+        {
+          "name": "Store, awards & impact",
+          "notes": "“For all persons and purses” sells gifts in the same voice, then a plain bulleted awards list, the 25-million-meals figure and the B-Corp badge supply checkable proof without a testimonial slider."
+        },
+        {
+          "name": "Newsletter & footer",
+          "notes": "Signup asks for name, email, optional birthday and home cafe — each field earns its place — under casual copy (“First-dibs on new launches”). The six-column footer separates Visit Us / Explore / Shop / Cafe Support / Store Support so the two businesses, restaurants and retail, never tangle."
+        }
+      ],
+      "principle": {
+        "title": "Write the site in the brand's own voice — and never let the story bury the two doors",
+        "explanation": "Most hospitality and property sites split into a beautiful brand page nobody converts on and a utilitarian booking page with no voice. Dishoom refuses the split: every section is written prose in a specific period voice, and the two utility actions are repeated at the top, in the middle and in the sticky header. The narrative is what makes the brand worth choosing; the always-visible doors mean choosing costs one tap.",
+        "howToApply": "On the next hospitality or listing-group page, write each section's lead as a sentence a person would actually say (name the street, the year, the dish, the neighbourhood) instead of a feature label — then pick exactly two actions for the whole page, put both in the hero, repeat them once mid-scroll as an image-tile hub, and keep one of them in the sticky header. Publish locations as a plain list of names before reaching for a map."
+      },
+      "tags": [
+        "hospitality",
+        "editorial",
+        "copywriting",
+        "conversion",
+        "photography",
+        "navigation"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Samsung — Google Display Network banner set (160×600 / 300×600 / 728×90 / 300×250)",
+        "url": "https://www.behance.net/gallery/103162611/Samsung-Google-Display"
+      },
+      "image": "images/2026-08-12-ad-samsung-google-display.jpg",
+      "category": "Display banner set — Google Display Network, multi-format (skyscraper, half-page, leaderboard, medium rectangle)",
+      "tagline": "One product idea rebuilt — not rescaled — for every slot in the GDN size matrix, with the CTA pill held at a constant size so the click target reads identically everywhere.",
+      "when": "Google Display Network, Spanish-language (Samsung LatAm), c. 2022 — presented by designer Carolina Kis on Behance",
+      "summary": "Three Samsung product lines (premium monitors, gaming monitors, the Flip 2 board) run across the standard IAB display sizes, and the craft is in what changes between formats. The verticals stack logo, product photograph, headline, CTA; the leaderboards run the same four elements left to right with the photograph cropped to a strip; the medium rectangle overlaps a black copy panel onto the image. Copy never exceeds a product name plus a three-word benefit fragment, and the only theming is a black/white inversion — a white card for the gaming line, black for premium and Flip 2. Because the source is a designer's portfolio presentation, treat the browser mockup as packaging; the units inside it are the real artefact.",
+      "whatWorks": [
+        "The composition is re-laid per aspect ratio rather than scaled: verticals stack the four elements, horizontals sequence them, so nothing lands at an unreadable size in the narrow slots.",
+        "The MÁS INFO pill keeps a near-constant height across every format, so the click target has the same visual weight in a 728×90 as in a 300×600.",
+        "Copy is capped at a product name plus a benefit fragment (“Monitores Premium / Trabajo optimizado.”), which is what survives being read in passing.",
+        "One inversion is the entire theming system — white ground for the gaming line, black for premium and Flip 2 — so the set reads as a family without a second palette.",
+        "The SAMSUNG wordmark is locked to the same corner in every size, giving the set a fixed anchor before the eye reaches the message.",
+        "Photography shows the monitors in real workspaces and in use — a designer at the Flip board, a retail floor on screen — rather than floating renders on a gradient."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The wordmark plus a full-bleed product photograph carries the first read; no headline competes at the top of the unit, so the eye lands on the hardware before the words."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Two lines maximum, always in the same order: product name at display weight, then a lowercase benefit fragment at roughly half the size. The line break is deliberate (“Trabajo en equipo, / simplificado.”), not a wrap."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "One monitor or board, photographed in a working environment, cropped to whatever the format allows — a full scene in the 300×600, a strip in the leaderboard, a corner overlap in the 300×250. The subject stays the same; only the crop changes."
+        },
+        {
+          "name": "CTA",
+          "notes": "An outlined pill reading MÁS INFO, white on black or black on white, placed at the end of the reading path in every format — bottom in the verticals, right in the horizontals — and held at a consistent size across the whole set."
+        }
+      ],
+      "principle": {
+        "title": "Re-compose per format, never rescale — and hold the CTA at a constant size",
+        "explanation": "A banner set fails when one master artwork is squeezed into every slot: type drops below reading size in the leaderboard and the CTA becomes a target only a mouse could hit. Rebuilding the same four elements per aspect ratio keeps each unit legible on its own terms, while pinning the CTA's physical size and the mark's corner position makes the set read as one campaign even though no two units share a layout.",
+        "howToApply": "For the next ad set across the six standard sizes (768×1024, 1024×768, 480×320, 970×250, 320×480, 300×600): define four elements only — mark, photograph, two-line message, pill CTA — then lay out each size from scratch, stacking in the portraits and sequencing left-to-right in the landscapes. Fix the pill height and the mark's corner across all six, cap the message at a name plus a three-word fragment, and use a single black/white inversion instead of a second colourway."
+      },
+      "tags": [
+        "display",
+        "banner",
+        "multi-format",
+        "cta",
+        "typography",
+        "hierarchy"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Karl Gerstner",
+        "url": "https://en.wikipedia.org/wiki/Karl_Gerstner"
+      },
+      "image": "images/2026-08-12-designer-karl-gerstner.png",
+      "category": "Swiss / programmatic design, typography & advertising",
+      "when": "1930–2017 · Swiss (Basel)",
+      "tagline": "The Swiss designer who stopped designing artefacts and started designing the programme that produces them.",
+      "summary": "Gerstner trained as a typographer in Basel, worked for Geigy, and in 1958 co-founded Gerstner+Kutter — which became GGK, one of Europe's most influential agencies. His 1964 book Designing Programmes argued that a designer's real output is a rule-set: define the parameters of the problem, generate the family of solutions those rules allow, then choose. He proved it with the mobile grid for Capital magazine, a field system that resolves into several different column counts, and with Gerstner-Programm, a typeface generated as a systematic matrix of widths and weights rather than drawn one style at a time. Not every brief wants this much machinery, but for anything that must keep producing work after you leave, it is the most transferable method in this journal.",
+      "whatWorks": [
+        "Restate the brief as parameters before sketching: which variables actually move, and what values each may take.",
+        "Build a morphological box — list every variable with its options, then work through the combinations — so the range gets explored systematically instead of by inspiration.",
+        "Design a grid that is mobile: one field system that legitimately resolves into two, three, four or more column arrangements, so variety comes from the system rather than from breaking it.",
+        "Treat type and layout as one matrix, deriving weights, widths and sizes from a stated procedure so the family is consistent by construction, not by eye.",
+        "Judge a programme by whether another designer can operate it correctly without you in the room.",
+        "Prefer the solution that answers the whole family of problems over the one that answers today's instance beautifully."
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "By describing the problem rather than picturing the answer — for Gerstner the description of the problem is already part of its solution. The first work on a brief is enumerating its parameters and constraints (formats, languages, quantities, who will operate it) until the brief is a set of variables rather than an adjective."
+        },
+        {
+          "name": "Core method — the design programme",
+          "notes": "Instead of producing one artefact he defines the rules that generate the permissible artefacts: a morphological box of variables and their options, combined systematically, from which a solution is selected. The programme, not the poster, is the deliverable — which is why the work survived being made by an agency of other hands."
+        },
+        {
+          "name": "Signature technique — the mobile grid and the type matrix",
+          "notes": "His grid for Capital divides the page into a field system readable as several different column counts, so an editor can run a wide photograph, a dense table and a narrow column in one issue without leaving the system. Gerstner-Programm applied the same thinking to type: a matrix of related widths and weights generated by procedure rather than drawn ad hoc."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Integral, not intuitive: a solution is right when it follows from the stated rules, and a rule earns its place when it produces good results in hands other than yours. Where a purely intuitive designer asks whether this is beautiful, Gerstner asks whether the programme still holds at the next instance, in the next language, at the next size."
+        }
+      ],
+      "principle": {
+        "title": "Design the rule, then run it — the deliverable is the programme, not the artefact",
+        "explanation": "Anything that has to keep being produced — listing collateral, an ad set, a template library, a magazine — will eventually be made by someone other than its designer. If the output is a beautiful one-off it decays on the second use; if the output is a stated rule-set with its variables named, every later instance is a run of the programme rather than a fresh act of taste.",
+        "howToApply": "Before designing the next recurring deliverable, write the programme on one page: the variables (format, photo count, headline length, price present or not, language), the permitted values of each, and the composition rule that maps them to a layout. Build one grid that resolves into two, three and four columns so long copy, galleries and data can all sit in it. Then produce three instances from the rules alone — if you have to break a rule to make instance three look right, fix the programme, not the instance."
+      },
+      "tags": [
+        "systems",
+        "grid",
+        "typography",
+        "process",
+        "swiss",
+        "programmatic"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "source": "daily",
+      "kind": "brandguide",
+      "site": {
+        "name": "Destination Canada — Brand Hub",
+        "url": "https://brand.destinationcanada.com/en-ca"
+      },
+      "image": "images/2026-08-12-brandguide-destination-canada.png",
+      "category": "Public brand hub — national tourism brand, partner- and agency-facing",
+      "tagline": "A national tourism brand that governs its tagline market by market — including which countries are legally required to run it in the local language — and bans AI-generated imagery outright.",
+      "summary": "Destination Canada publishes its “Canada, naturally” platform openly: strategy first (belief, ambition, promise, two realness pillars, a voice called Canadian Candour), then a full identity section covering the consumer logo, the corporate logo and the federal Canada wordmark, colour, typography and imagery, followed by real applications, an events chapter, a visual library and downloads. It is unusually decidable for a tourism brand — clearspace measured in units of the logo's own letterforms, ten named misuse cases, horizontal and vertical tagline lockups with different tolerances, and partner co-branding stated as parity (“our logo must match the size and visual impact of all other logos”). Its most distinctive chapter is the market-by-market tagline table, which names the approved wording per country and whether English or the local language leads, with China flagged as a legal requirement. Where it stops short is the digital layer: no contrast numbers, no tokens, no version stamp.",
+      "whatWorks": [
+        "Strategy is published before assets — belief, ambition, promise, the Human and Physical realness pillars and the audience — so a partner can tell what the rules are for.",
+        "Tagline governance runs per market with the reason attached: Mandarin required by law in China, French only in France, English preferred in Japan, Korea and Mexico, each with approved wording supplied.",
+        "Clearspace is expressed in the logo's own geometry (one and a half squares above and below, two either side; corporate protection based on the height of the C) rather than in millimetres that break on rescale.",
+        "Co-branding is stated as parity plus a colour rule — match size and visual impact, keep red primary, use Suisse Int'l where possible — which a partner with no design training can check.",
+        "Colour is named and valued (Canadian Flag Red #E60013, PMS 032, C0 M100 Y100 K0) with a hard ratio rule: red always leads, and never more than two secondary colours at once.",
+        "Art direction takes a 2026 position and writes it as a rule: candid over staged, people in frame even at landscape scale, dusk and dawn light, subtle pops of red — and no AI-generated images."
+      ],
+      "sections": [
+        {
+          "name": "Brand Story",
+          "notes": "Belief (“travel is a force for good”), ambition, and the promise “Canada connects you with what is real”, with two pillars — Human Realness and Physical Realness — and the audience named. The platform line “Canada, naturally” is explained rather than merely displayed."
+        },
+        {
+          "name": "Logo",
+          "notes": "Three marks governed together: the consumer logo (type forming a heart with the maple leaf), the corporate logo, and the federal Canada wordmark. Reverse version specified, clearspace in letterform units, corporate minimum 25 mm / 1 in, and ten explicit misuse cases — distort, angle, drop shadow, reproportion, rearrange, outline, clashing or patterned grounds, boxing, busy photographs."
+        },
+        {
+          "name": "Tagline lockups & markets",
+          "notes": "The horizontal lockup (preferred) requires at least one logo-width of separation with no maximum; the vertical lockup is fixed and may not be adjusted at all. Then the market table: approved tagline wording per country with the language rule for each, including the Chinese legal requirement."
+        },
+        {
+          "name": "Tone & Manner",
+          "notes": "“Canadian Candour” — refreshingly real, down-to-earth, conversational — defined as much by what it is not: not too try-hard, too earnest, too folksy or too slapstick. Useful because the failure modes named are the ones this brand actually risks."
+        },
+        {
+          "name": "Colour",
+          "notes": "Canadian Flag Red #E60013 / PMS 032C-032U / C0 M100 Y100 K0 / RGB 230-0-19 leads everything, flagged by black and white. Seven named secondaries (Prairies Yellow #FADA46, Great Lakes Blue #B9DDF5, Maple Red #500603, Aurora Purple #D5D8EF, Forest Green #062F23, Sunset Pink #F4D2D8, Pacific Teal #AADACA) with a hard cap of two at a time, used as minor accents."
+        },
+        {
+          "name": "Typography",
+          "notes": "Canada Bold for headlines — uppercase, single weight, leading at 90% of font size, primarily left-aligned to a margin with centring allowed only in portrait or vertical formats — and Suisse Int'l for body copy and data visualisation, chosen for long passages."
+        },
+        {
+          "name": "Imagery",
+          "notes": "A real art-direction chapter: what to shoot (people and Indigenous communities, natural wonders, wildlife, landmarks from unexpected angles, shared meals, cities), how to shoot it (dusk and dawn, close framing, camera inside the action, people even as small figures), and the don'ts — nothing staged, no heavy filtering, no posed eye contact, no clichés, no AI-generated images, and don't overuse the red."
+        },
+        {
+          "name": "Brand Examples, Events, Visual Library & Downloads",
+          "notes": "Applications across print, digital and video; a dedicated events chapter; and a separate visual library plus downloads section so partners leave with assets rather than screenshots."
+        }
+      ],
+      "needs": [
+        "No numeric contrast pairings — a #E60013 red and seven pastel secondaries are published with no ratios and no per-background legibility table.",
+        "No digital layer: no px/rem type scale, no spacing system, no buttons or components, no dark-mode transformation, despite the brand living mostly in feeds and on screens.",
+        "No font licensing or fallback guidance — Suisse Int'l is a commercial licence and Canada Bold is bespoke, so a partner has no legal route to set the brand correctly and no named substitute.",
+        "No motion principles, even though video applications are shown and the events chapter implies screen work.",
+        "No iconography section — a system this heavy on wayfinding-style applications will grow icons whether or not they are governed.",
+        "No version number, date or changelog and no named approval route, so partners cannot tell whether they hold the current rules."
+      ],
+      "principle": {
+        "title": "Govern the brand line market by market — and attach the reason, especially when it's legal",
+        "explanation": "A tagline is the one asset that gets translated by people who will never read the guide. Publishing approved wording per market, plus whether English or the local language leads and why — a legal requirement in China, cultural preference elsewhere — converts an endless approval queue into a lookup, and stops well-meaning local teams inventing a translation the brand then has to live with.",
+        "howToApply": "In the next brand guide or partner kit, add a one-row-per-market table before the applications chapter: market, approved wording, which language leads, and the reason in four words (“required by law”, “local preference”, “English tested better”). Apply the same pattern to any phrase that must not be improvised — a compliance line, a licence disclosure, a bilingual property descriptor — and pair it with a clearspace rule expressed in the logo's own letterforms so it survives every rescale."
+      },
+      "tags": [
+        "tourism",
+        "co-branding",
+        "localization",
+        "art-direction",
+        "colour",
+        "governance"
+      ]
     }
   ]
 }
