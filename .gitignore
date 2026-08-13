@@ -2,9 +2,12 @@
 # (they reference local absolute paths and drive the daily automation)
 daily-prompt.md
 catchup-check.cjs
+catchup-check.py
 serve.bat
+serve.sh
 compress-images.py
 publish.bat
+publish.sh
 
 # Temp/merge scratch files
 _*.json
