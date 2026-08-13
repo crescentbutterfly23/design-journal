@@ -14059,6 +14059,177 @@
         "colour",
         "governance"
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Superhuman",
+        "url": "https://superhuman.com"
+      },
+      "image": "images/2026-08-13-superhuman.png",
+      "category": "Productivity SaaS / multi-product family",
+      "tagline": "Three products sold on one page, each given its own colour chapter — and every screenshot caught mid-action rather than sitting at rest.",
+      "summary": "Superhuman has to pitch three things (Go, Mail, Docs) on one homepage, and it solves that with a repeated chapter template: product lockup, a headline that mixes light and bold weight in a single line, a one-sentence subhead, a purple pill CTA beside a quiet 'Learn more ›', then a bento of product-UI cards on a tinted panel. The whole page runs on a warm off-white ground so the tinted chapters — dark teal for Go, purple for Mail, warm sand for Docs — act as wayfinding: you know which product you're in from the hue alone. The strongest move is the imagery: none of the screenshots show a resting interface, they all show the product doing something (the hero has Go flagging '14 months → 16 months' with 'Knowledge Checker · 3 sources' inside a real Google Doc). One honest weak spot: five different primary CTA verbs (Try Go / Get Mail / Try Docs / Request a demo / Get started), and the marquee testimonial is attributed to 'Enterprise Retail Company' rather than a named brand — the proof softens exactly where it should harden.",
+      "whatWorks": [
+        "Every product shot is caught mid-action, not at rest: the hero shows Go correcting a claim inside a live Google Doc — '…pays for itself in 14 months. 16 months.' with 'Knowledge Checker · 3 sources' — so the mechanic is visible instead of described",
+        "Headline emphasis carried by weight, not colour or a second size: 'Bring AI inside every app and tab with Superhuman Go' runs light-then-bold on one line, so claim and product name share a single type size",
+        "Each product owns a hue — Go dark teal, Mail purple, Docs warm sand, enterprise deep aubergine — so scroll position tells you which pitch you are reading without a sticky label",
+        "Card copy is two-part: a small quiet eyebrow that names the feature ('Inline suggestions', 'Split Inbox', 'Docs MCP') over a full benefit sentence — the label is scannable, the sentence does the selling",
+        "Fragment copy where a sentence would flatten: 'As you type, your agents underline what needs your attention. Mid-sentence. Mid-argument. Mid-mistake.' — three beats, decreasing length",
+        "Logo bar sits in a hairline-ruled six-cell grid with every mark flattened to black (OpenAI, Figma, Rivian, Brex, Zapier, DoorDash), so credibility arrives without importing six brand palettes",
+        "Small brand warmth in structural places: a nav item literally called 'Love' for customer stories, and a huge low-contrast SUPERHUMAN watermark closing the footer"
+      ],
+      "sections": [
+        {
+          "name": "Announcement bar + hero",
+          "notes": "A lavender strip ('Looking for Superhuman Mail? Learn more →') catches the legacy-product visitor before the hero can confuse them. The hero itself is a split: left is a dark teal panel holding a three-row product switcher — Go / Mail / Docs, each an icon plus a one-line descriptor ('The agent that works everywhere you work') — with the headline and 'Try Go' pill anchored at the bottom; right is a browser-framed Google Doc with Go's sidebar and a live correction popover. The switcher doubles as the page's table of contents, so the hero explains the product family and the lead product at once."
+        },
+        {
+          "name": "Trust bar",
+          "notes": "'Trusted by the most innovative organizations in the world' over six logos in a bordered grid, hairline dividers between cells, all marks reduced to flat black. Placed immediately under the hero so the abstract 'agent' claim gets grounded before any feature talk."
+        },
+        {
+          "name": "Chapter I — Superhuman Go",
+          "notes": "Opens with the lockup, a centred two-weight headline ('Get help from agents right where you work'), one subhead line, then the CTA pair. Below it a bento: one wide card for 'Inline suggestions' with the doc screenshot bleeding off the right edge, then two half-width cards ('Context-aware chat', 'Go app'). A tab row (Featured / Prep for meetings / Write and edit / Automate your emails / Build agents) then swaps in three integration cards with pastel rounded-square icon tiles — the tabs let a long use-case list occupy one screenful instead of five."
+        },
+        {
+          "name": "Proof band",
+          "notes": "A full-bleed lavender band with one large quote set in the same headline face, the payoff clause bolded inside the sentence — 'Go helps me stay in one tab and actually finish things.' — followed by name, role and a 'View all customer stories ›' link. Bolding the clause rather than pull-quoting it keeps the testimonial conversational; the anonymised company is the weak link."
+        },
+        {
+          "name": "Chapters II & III — Mail and Docs",
+          "notes": "The exact same template re-runs twice, which is what makes a very long page feel short. Mail leads with a number ('Save 4+ hours every week on email and scheduling') and cards for Auto Drafts, Share Availability and Split Inbox; Docs leads with 'Align your team with collaborative AI documents' and cards for Docs, Docs AI and Docs MCP. Behind the UI panels sit soft mesh gradients and one cloud photograph — decoration is confined to the backdrop, never on the interface itself."
+        },
+        {
+          "name": "Enterprise + final CTA",
+          "notes": "The enterprise block breaks the centred rhythm deliberately: deep purple, left-aligned, small eyebrow ('Superhuman for enterprise'), 'Designed for humans, built for enterprise', a white ghost button, and a screenshot showing a red strikethrough rewriting vague copy into '$2.1M in net-new ARR' — the one place the page argues in numbers. Then a full-bleed blurred blue-green gradient band with 'Make it your best workday yet' left and an outlined 'Get started' right: one line, one button, no form."
+        },
+        {
+          "name": "Footer",
+          "notes": "Deep aubergine, wordmark plus a positioning line ('Builders of Superhuman Platform apps'), then five link columns split Products / Company / Legal / Connect — with Trust, Status and Community given the same weight as marketing pages. Closed by an oversized SUPERHUMAN watermark at maybe 8% contrast, which fills dead footer space with brand instead of padding."
+        }
+      ],
+      "principle": {
+        "title": "Screenshot the mechanic, not the resting state",
+        "explanation": "A clean screenshot of an idle interface proves only that the thing exists. A screenshot caught mid-action — the suggestion being accepted, the wrong number struck through and replaced, the source count showing — proves the thing works, and it does it faster than the paragraph next to it. It also forces honesty: you cannot fake a mid-action frame without inventing the behaviour behind it.",
+        "howToApply": "Before shipping any product or process section, ask of each image: 'what is happening in this frame?' If the answer is 'nothing', reshoot it at the moment of change — cursor placed, popover open, before-and-after visible in the same crop, the real number showing. On a listing or service page the equivalent is the same: show the search returning results, the form mid-fill, the annotated floorplan — not the empty state."
+      },
+      "tags": [
+        "saas",
+        "layout",
+        "typography",
+        "color",
+        "product-ui",
+        "information-architecture"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Hinge — 'No Ordinary Love' social / OOH key visual",
+        "url": "https://www.adsoftheworld.com/campaigns/no-ordinary-love-838ee95c-32b4-46ed-96ed-088ae94eecb4"
+      },
+      "image": "images/2026-08-13-ad-hinge.png",
+      "category": "Social / OOH campaign key visual (documentary portrait)",
+      "tagline": "An ad with no headline, no logo and no CTA in frame — the casting is the whole hook.",
+      "when": "Launched August 2026 — third chapter of Hinge's 'No Ordinary Love' campaign, this year built around a free audiobook of five real couples' stories, with OOH in New York and London and social on TikTok/Instagram",
+      "summary": "This is the key visual for Hinge's 2026 chapter of 'No Ordinary Love': a documentary portrait of a real couple who met on the app, photographed side-on at eye level in flat overcast daylight on a park bridge. There is no type, no lockup and no CTA anywhere in the frame — every conversion element is deferred to the caption and the audio. What stops the scroll is specificity: black leather, studs and fishnet against soft green willow and weathered stone, chipped nail polish, a scuffed olive shoulder bag, a tartan skirt. No stock couple can fake that, which is exactly the point for a category drowning in idealised pairs.",
+      "whatWorks": [
+        "Cast for specificity, not aspiration — subculture styling makes this couple unmistakably these two people, which is the one thing a generic 'happy couple' shot can never buy",
+        "Flat overcast daylight and no retouching: shine on skin, a crumpled jacket and wind-flat hair read as documentary rather than campaign",
+        "The wardrobe-versus-setting contrast does the concept work (black leather in a manicured English park), so the picture says 'unlikely, and real' with zero copy",
+        "The stone balustrade runs as a hard horizontal band across the lower third, pinning the figures so the busy foliage cannot swallow them",
+        "Subjects sit left of centre with the river receding through the middle, leaving the right third empty — deliberate room for a headline or lockup in OOH and 1:1 crops",
+        "Zero brand furniture in frame: the ad earns attention as a photograph first and is identified second, which is what lets it live as editorial across feed, OOH and a Substack"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Pure casting and colour clash. In a feed of soft-lit, colour-graded couples, a goth pair in a National-Trust-looking park reads as a mistake for half a second — and that half second is the stop. Eye-level, side-on framing puts the viewer beside them rather than looking at them."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Withheld on purpose. The image asserts only 'these are two real people, and this actually happened'; the claim about expressing feelings early lives in the caption, the audiobook and the couple's own recorded voiceover. Restraint like this only works when the picture is specific enough to carry the burden alone."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Composition is doing quiet work: hands are the emotional focus (her palm flat on his chest, his hand at her waist), placed almost dead centre where the eye lands after the faces. Cool greens and greys everywhere except the one saturated magenta dress, which becomes the only colour accent in the frame."
+        },
+        {
+          "name": "CTA",
+          "notes": "None in the creative. The ask — listen free on Spotify or Libby — sits entirely in caption and audio, so the unit behaves like a photo essay and the conversion step arrives after interest rather than before it. Honest caveat: without the caption this frame is unattributable, so it depends completely on placement."
+        }
+      ],
+      "principle": {
+        "title": "Cast for specificity, not aspiration",
+        "explanation": "Idealised imagery is instantly legible as advertising, and the brain discounts it on sight. A subject with odd, true, un-art-directed detail — a worn bag, chipped polish, a wardrobe nobody would have chosen for a brand deck — reads as evidence instead of claim, and evidence is what a sceptical category actually needs.",
+        "howToApply": "When choosing between shots, pick the frame with the one true detail rather than the flawless one: the owner's dog in the doorway, the worn reading chair, the actual mug on the counter. Shoot in flat daylight, skip the retouch pass, and compose with one third left empty so the headline or logo can drop in later without recropping."
+      },
+      "tags": [
+        "photography",
+        "casting",
+        "art-direction",
+        "copywriting",
+        "restraint",
+        "social"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Bruno Munari",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Munari"
+      },
+      "image": "images/2026-08-13-designer-bruno-munari.jpg",
+      "category": "Industrial & graphic design, visual research and design education · Milan",
+      "when": "1907–1998 · Italian",
+      "tagline": "Wrote design down as a repeatable method — and turned play into a research tool rather than a warm-up.",
+      "summary": "Munari worked across almost every surface a designer can touch: Futurist collage in the 1920s, the hanging 'useless machines', products for Danese (the Cubo ashtray, the Falkland lamp), sixty-odd children's books, the wordless Libri illeggibili (1949–95), and decades of teaching. What holds it together is not a look — it is a method. In 'Da cosa nasce cosa' (1981) he wrote the design process out as an ordinary sequence of steps and illustrated it with a recipe for green rice, deliberately deflating inspiration into procedure. He is the rare great whose actual legacy is transferable process rather than a signature style.",
+      "whatWorks": [
+        "Restate the brief as a written problem before touching form — if your sentence already names a solution, it is the wrong sentence",
+        "Break the problem into sub-problems small enough that each one has an obvious answer, solve them separately, and treat the recomposition as the creative act",
+        "Gather data before ideas: what already exists, what the material and budget permit, what has been tried and failed",
+        "Run material experiments with no deliverable attached — and keep the results; the accident you file today is the technique you use next year",
+        "Exhaust the variations of one primitive (square, circle, triangle; one grid; one crop ratio) before choosing which to keep",
+        "Prototype with your hands to test rather than to present — 'understanding through the hands' applied to yourself, not just to children"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "Not with form, and never with a style reference. The first move is to write the problem down and interrogate whether it is the real problem — for Munari the problem contains the elements of its own solution, so a badly stated brief guarantees a badly formed answer. Only then does he collect data: precedents, materials, production constraints, what has already been attempted."
+        },
+        {
+          "name": "Core method",
+          "notes": "The 'metodo progettuale' from 'Da cosa nasce cosa' (1981): problem → definition → break into components → gather data → analyse data → creativity → materials and technology → experiment → model → verify → drawings → solution. The point of the decomposition is that sub-problems have answers where the whole problem only has opinions. He illustrated the sequence with a cooking recipe on purpose: the method is meant to be dull, repeatable and teachable, with creativity operating inside the constraints rather than arriving from outside them."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Play as research. The Libri illeggibili carry no text at all, so paper weight, cut, fold and colour have to do the narrating — a self-imposed constraint that turns into a discovery machine. He treated the photocopier the same way in the 'Giocare con la fotocopiatrice' workshops (1991), dragging originals across the glass mid-scan to produce marks the machine was never built for, and his 'Giocare con l'arte' children's workshops from the late 1970s were structured as guided material experiments, not craft lessons. The output of play is a catalogue of techniques, kept for later."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'Complicating is easy, simplifying is difficult' — the test applied to every version is whether anything can come out. He rejected personal style outright: the solution should emerge from the problem, which is why his lamp, his books and his teaching materials look unrelated to each other. And the ethical floor: things that are good to look at and bad to use should not exist, so beauty never excuses a thing that fails in the hand."
+        }
+      ],
+      "principle": {
+        "title": "Decompose the brief until every piece has an obvious answer",
+        "explanation": "Most design paralysis is a scoping error, not a talent error: 'make this beautiful' has no decidable answer, so you circle it. Split it into components — type scale, crop ratio, legible price at arm's length, where the legal line sits — and each one becomes a question you can actually settle, often in minutes. The creativity moves into how you recompose the settled pieces, which is a far more reliable place to keep it than at the blank page.",
+        "howToApply": "On the next template or page, spend the first ten minutes writing the problem as one sentence and listing its sub-problems as a checklist, before opening any tool. For an Aperture listing layout that reads: photo aspect ratios, headline character ceiling, price legibility at arm's length, fair-housing line placement, what happens when the description runs long. Settle each in isolation, then assemble — and keep the checklist as the template's spec sheet for the next listing."
+      },
+      "tags": [
+        "process",
+        "method",
+        "education",
+        "experimentation",
+        "simplification",
+        "systems"
+      ]
     }
   ]
 }
