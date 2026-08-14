@@ -14230,6 +14230,169 @@
         "simplification",
         "systems"
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Wander",
+        "url": "https://www.wander.com"
+      },
+      "image": "images/2026-08-14-wander.png",
+      "category": "Travel booking",
+      "tagline": "A vacation-rental marketplace that answers the price objection inside every card — total for the stay, plus how much less it is than other sites.",
+      "summary": "Wander sells stays the way a storefront sells goods: one full-bleed photograph of a real property, the entire search form folded into the nav bar above it, and then row after row of named, editorialised inventory instead of one undifferentiated grid. The card is where the design thinking is — name and rating, then \"4 beds · $2,502 for 3 nights\" (total, not per night), then a green \"~$220 less than other sites\" that is the only saturated colour in the whole card set. A single black \"Wander difference\" band interrupts the browsing to make six one-sentence promises, and the footer registers the tagline itself as a mark. Honest caveat: the rows get dense fast, and the whole first screen rests on one photograph being good enough to carry it.",
+      "whatWorks": [
+        "The search form lives inside the nav bar (Where / When / Who + a black \"Search\" pill), so it never sits on top of the hero photo; the rest of the nav is reduced to a wordmark, \"List on Wander\", and a hamburger.",
+        "The hero occupies roughly the top 45% of the viewport, so the first row of properties peeks above the fold — the page reads as browsable inventory rather than a brochure.",
+        "The subhead does a bullet list's job in one line by stacking period-separated fragments: \"Guest-first travel. Only the best homes. 24/7 concierge. No fees or markups.\"",
+        "Rows are named like an editor's picks — \"Lakefront life\", \"Mountain adventures\" — and the first row is geolocated (\"Stay near Clifton\"), so the same inventory reads as curation rather than search results.",
+        "Every card follows a strict three-line hierarchy: name + star rating / beds · total price for N nights / the green savings delta. Total-stay pricing removes the per-night-plus-fees surprise before the click.",
+        "The dark band uses a two-tone headline at one size — \"The way travel should be.\" in white, \"Great homes, service and prices.\" in grey — then breaks its own polish with three loose, un-art-directed snapshots (a door numbered 0175, a desert plant) as texture against the glossy listing photography.",
+        "Browsing ends with one quiet \"See more properties\" pill instead of pagination, so the page has a clear bottom rather than an endless tail."
+      ],
+      "sections": [
+        {
+          "name": "Nav + hero",
+          "notes": "A full-bleed dusk photograph of an actual Wander home (lit cabin, pool, forest) with the booking form docked in the nav strip above it. The headline \"Find your happy place\" sits centred and low in a warm geometric sans, over the naturally dark bottom third of the photo rather than a heavy scrim, with the four-claim subhead beneath. Nothing competes: no badges, no secondary CTA."
+        },
+        {
+          "name": "Curated inventory rows",
+          "notes": "Five-up horizontally scrollable rows, each with a plain-language title and a pair of small arrows at the right of the row header. \"Stay near Clifton\" personalises the first row by location; \"Lakefront life\" and \"Mountain adventures\" turn the rest into moods. This is the same catalogue three ways — the naming, not the layout, is what makes it feel curated."
+        },
+        {
+          "name": "The listing card",
+          "notes": "4:3 photo with a glassy \"Luxury\" badge top-left and a heart top-right, then three tightly ranked lines of copy. The savings line (\"~$310 less than other sites\") is the only green on the page, so the eye lands on the differentiator last and remembers it. Ratings are shown as a single number next to a star rather than a five-star row, which keeps the line short."
+        },
+        {
+          "name": "\"The Wander difference\" (black band)",
+          "notes": "A full-width dark break after the browsing: eyebrow, two-tone headline, and a 2×3 grid of rounded icon tiles with a title and one sentence of proof each (Only the best homes, Exceptional amenities, 24/7 Concierge service, Meticulous cleaning, Stunning views, Safety and security). Every claim is answered in one sentence — no expandable copy — and the colour inversion gives the long page a spine."
+        },
+        {
+          "name": "Footer",
+          "notes": "A social row that spells out platform names as text links (\"Follow us @wander · X (Twitter) · Instagram · TikTok · LinkedIn · YouTube\") instead of icon-only buttons, then four columns split by audience: Company, Resources, Operators, Partners — with a small \"New\" chip beside \"Get WanderOS\". The bottom bar reads \"Find your happy place ® © 2026 Wander.com, Inc.\", treating the tagline as the trademark."
+        }
+      ],
+      "principle": {
+        "title": "Answer the price objection inside the card, not in the hero",
+        "explanation": "A trust claim in a hero is read as marketing and forgotten by the time someone is choosing; the same claim printed in the decision unit is read as information. Wander does two things at once — prices the whole stay for the real dates instead of a per-night teaser, and prints the delta against other sites in the single accent colour on the page — so the \"could I get this cheaper elsewhere\" doubt is settled at the moment of the click rather than banked in a promise at the top.",
+        "howToApply": "On the next listing or service card, move the reassurance down to the unit being chosen: show the all-in number for the real period (total for the stay, total for the package, not a per-night or per-month hook), and put one short differentiator under it in a colour used nowhere else — \"~$310 less than comparable listings\", \"includes photography + floorplan\". Keep that accent reserved for the money line so it reads as fact, not decoration."
+      },
+      "tags": [
+        "conversion",
+        "pricing",
+        "cards",
+        "e-commerce",
+        "photography",
+        "layout"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "KFC Myanmar — \"No Other Crunch Is Needed\"",
+        "url": "https://www.adsoftheworld.com/campaigns/no-other-crunch-is-needed"
+      },
+      "image": "images/2026-08-14-ad-kfc-myanmar.png",
+      "category": "Social / digital key visual (portrait feed unit, ~10:11)",
+      "tagline": "The whole idea is one strikethrough: the Burmese word for “toppings” crossed out at headline scale, with a single bowl proving why.",
+      "when": "Launched August 2026 (Myanmar) — the unit dates itself “AVAILABLE ON AUG 6”; posted to Ads of the World in August 2026",
+      "summary": "KFC Myanmar dropped popcorn chicken onto lahpet htamin, the national tea-leaf rice dish whose convention is that the more toppings you pile on, the better. Rather than claim superiority, the layout crosses the convention out: the word for the usual assortment of toppings is set large and struck through in one red rule, so the argument is won before you read a word. Beneath it, one branded bowl shot straight on, chicken heaped above the rim, with a basket of raw tea leaves at the corner doing the work of an explanatory sentence. It is a crowded frame — safety certification, a “Global Quality” seal, a limited-time flag and the price all fight for room — and it holds together only because the struck-out headline outweighs everything else in the composition.",
+      "whatWorks": [
+        "The claim is executed rather than stated: the category's default (“all the usual toppings”) is set at headline size and struck through with a single red rule — a negation legible in under a second, in any language.",
+        "Colour codes the multilingual headline instead of a second type size: “GLOBAL QUALITY” in red, the dish name in green, connective Burmese in black, so a three-part lockup still resolves in one glance.",
+        "One hero object, shot at eye level: the KFC bowl dead-centre and nearly full-frame, chicken piled above the rim so the topping — the whole point of the ad — is unmistakable at thumbnail size.",
+        "Proof props replace copy: the bamboo basket of raw tea leaves at the lower left certifies the base is real lahpet without a line of explanation.",
+        "The offer is pushed into the corners — “8,800 KS”, “AVAILABLE ON AUG 6”, the limited-time flag — keeping the centre for product and idea. In a feed post the offer, not a button, is the CTA.",
+        "Branding is structural, not decorative: the KFC red stripes bleed off the top edge and the bucket logotype rides on the bowl itself, so the frame is unmistakably KFC even with no logo in the headline zone."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Red bars bleeding off the top edge pull the eye up, then the struck-through word stops it. The strike is a graphic event, not typography — it reads as a gesture (someone crossed this out) which is why it survives being scrolled past at speed."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "“No other crunch is needed”, staged as negation: name the convention, kill it, then name the replacement (“GLOBAL QUALITY” + the dish). Framing the product as a substitution rather than an addition also makes it culturally polite — it respects the traditional dish instead of claiming to improve on it."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Clean studio lighting, white ground, no steam or gloss tricks; the bowl is centred with the chicken breaking the rim silhouette so the crunch reads as texture. Scattered lime and chilli and the tea-leaf basket frame the bowl without crossing in front of it."
+        },
+        {
+          "name": "CTA / offer",
+          "notes": "Price in heavy red numerals with the currency as a superscript, a launch date top-right, and a limited-time flag near the product — an offer stack that gives the post a reason to be acted on today, kept out of the idea's way. The weak spot: four badges (FSSC 22000, Global Quality seal, limited-time, price) is one or two too many for a single frame."
+        }
+      ],
+      "principle": {
+        "title": "Cross out the category's assumption instead of arguing with it",
+        "explanation": "A superiority claim reads as advertising; a struck-out convention reads as an argument already settled, and it works pre-literately — the eye registers the negation before it decodes the words, which matters most in a feed and in any market where your reader's first language isn't the headline's. It also forces a sharper brief: you have to name the exact default you are replacing, which is harder and more useful than “we're better”.",
+        "howToApply": "When an offer beats a default, set that default in type at headline size and strike it — “no staging fee”, “no 6-month lock-in”, “no per-night teaser price” — then show one image that proves the replacement. One strike per frame; if it needs two, the idea isn't sharp yet. Works on a hero headline as readily as on a social unit."
+      },
+      "tags": [
+        "advertising",
+        "typography",
+        "negation",
+        "food",
+        "localization",
+        "hierarchy"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Willem Sandberg",
+        "url": "https://en.wikipedia.org/wiki/Willem_Sandberg"
+      },
+      "image": "images/2026-08-14-designer-willem-sandberg.png",
+      "category": "Modernist typography / museum design",
+      "when": "1897–1984 · Dutch",
+      "tagline": "Ran the Stedelijk Museum and designed its 300-plus catalogues himself — in the evenings, on the cheapest paper he could find.",
+      "summary": "Willem Sandberg was director of Amsterdam's Stedelijk Museum from 1945 to 1962 and, at the same time, its designer: he laid out some 320 catalogues, posters and invitations, mostly at night after the museum day was over. His vocabulary was forged in hiding during the war, in the nineteen booklets of the Experimenta Typographica, and it never lost that origin — torn paper letterforms, lowercase asymmetry, one loud flat colour on brown wrapping stock, and the misregistrations of cheap printing left visible. “I don't like luxury in typography,” he said, and he meant it as a working rule, not a slogan. The lesson is the loop he built: he chose the exhibitions, wrote the point of view, and made the artefacts, so nothing was translated through a brief.",
+      "whatWorks": [
+        "Keep a body of unbriefed work. The Experimenta Typographica booklets had no client and no deadline; they became the vocabulary he then spent across three hundred real jobs. Practice first, apply later — the opposite of inventing a look under deadline.",
+        "Choose the material before the layout. He picked the stock — unbleached kraft, whatever scarcity allowed — and let its coarseness set the register, so the design started from a physical fact rather than a blank artboard.",
+        "Tear instead of draw. Hand-torn letters and shapes put a human hand inside a modernist composition and produce a form that polish cannot imitate.",
+        "Treat the press's limitations as the aesthetic: coarse screens, one flat spot colour, visible misregistration — designed with, never designed around.",
+        "Work in series. A continuous, recognisable catalogue format across hundreds of pieces built consistency out of volume, without a brand manual to enforce it.",
+        "Shorten the loop between point of view and artefact — he was curator, client and designer at once — and protect the making time by defending a fixed slot for it (his was every evening)."
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "From the exhibition and the paper, not the page. Because he was also the curator, the brief started as an argument about the work being shown; the first design decision was material — which cheap stock, how many inks, what the press could actually hold — and the layout followed from that constraint rather than preceding it."
+        },
+        {
+          "name": "Core method",
+          "notes": "A private R&D practice feeding a public production line. The Experimenta Typographica (19 booklets, made while in hiding, 1943–45) were experiments in letterform, tearing, layering and text-as-image with nothing to sell; the museum's 320-odd catalogues were where those findings got spent. He kept the two separate but connected: no experiments on a client's deadline, no blank-page starts on a real job."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Torn-paper collage typography: lowercase, asymmetric, hand-torn letters and shapes over brown wrapping paper, one saturated colour, occasionally a photograph half-hidden behind translucent tracing stock. The rough edge is the identity — it carries warmth into otherwise austere modernist composition, and it dates the work to a moment when materials were scarce."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "“I don't like luxury in typography” — polish that costs directness is a downgrade, so he judged by warmth and immediacy rather than finish. Imperfection in printing was a motivation, not a defect. And the institution had one voice: posters, catalogues, labels, invitations and the galleries themselves were all treated as the same designed object, which is why a Sandberg Stedelijk piece is recognisable across two decades."
+        }
+      ],
+      "principle": {
+        "title": "Pick the humblest material first and let its flaws carry the identity",
+        "explanation": "Deciding the ground, the ink limit and the reproduction method before any layout gives a piece a spine that styling cannot supply afterwards, and it makes the work hard to copy: gloss is available to everyone, a specific rough edge is not. It also converts constraints from a problem into the design's most memorable feature, which is the cheapest kind of distinctiveness there is.",
+        "howToApply": "On the next piece, set the ground before the type: choose one honest material or limitation — an uncoated/kraft texture, a single spot colour, a hand-torn or hand-scanned element, photography with its grain left in — and design so that one imperfection is the thing people remember, instead of reaching for gradients, glows and drop shadows. On a print listing piece that means one warm uncoated stock, one accent, a torn-edge photo crop; on screen, one textured ground and one colour that does all the emphasis."
+      },
+      "tags": [
+        "process",
+        "typography",
+        "materials",
+        "craft",
+        "modernism",
+        "museum"
+      ]
     }
   ]
 }
