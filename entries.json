@@ -14393,6 +14393,176 @@
         "modernism",
         "museum"
       ]
+    },
+    {
+      "date": "2026-08-15",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Ableton Live",
+        "url": "https://www.ableton.com/en/live/"
+      },
+      "image": "images/2026-08-15-ableton-live.png",
+      "category": "Creative software / product page",
+      "tagline": "A very long product page that earns its length by letting you hear, watch and jump to every feature instead of just reading about it.",
+      "summary": "Ableton sells a music-making tool, and the Live 12 page behaves like one: nearly every feature block carries an embedded audio demo or a short film of someone actually using the software at a real desk. The visual system is unusually disciplined for a page this long — paper white and a pale sage green alternate as section panels, photography is honest lived-in studio clutter (cables, drum kits, tape), and one blue is reserved exclusively for links and CTAs. An in-page 'Jump to:' table of contents names the three feature chapters up front, so a 40,000-pixel scroll never feels unmapped. Caveat: the page is heavy, and on slow connections the lazy-loaded media makes the tail of the scroll pop in late.",
+      "whatWorks": [
+        "Hero headline with one rotating word in a white pill — 'Find your rhythm / thing / spark again and again in Ableton Live' — the variable word IS the value prop, and the pill makes the mechanic visible",
+        "Audio demos embedded beside each new instrument (Meld, Roar, Granulator III): proof in the product's own medium, not adjectives about sound",
+        "One interactive colour: a single blue used only for links and the Buy button, so every affordance is findable on white or sage panels",
+        "Honest studio photography — real desks, coiled cables, a mug on a book stack — the product shown inside a musician's actual mess, not a rendered void",
+        "'Jump to:' mini table of contents under the highlights film names the three chapters (Play freely / Surprise yourself / Work more intuitively) before asking you to scroll them",
+        "The 12.4 free-update banner sits on its own green panel directly under the hero — existing customers get their news without diluting the buy pitch"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Full-bleed photo of a modest home studio, headline set over it with the rotating word in a white pill, single blue 'Buy now', plus a corner tab for rent-to-own — the financing objection handled in the hero without a second CTA competing."
+        },
+        {
+          "name": "Live 12.4 update banner",
+          "notes": "Pale green panel: 'Live 12.4 is here. A free update for all Live 12 users…' with one 'See what's new' link. Serves current owners in one stripe so the rest of the page can sell to newcomers."
+        },
+        {
+          "name": "Highlights film + jump links",
+          "notes": "A captioned overview video, then 'Find out what's possible in Live 12' with a 'Jump to:' row naming the three feature chapters — an in-page TOC that maps the long scroll before it starts."
+        },
+        {
+          "name": "Play freely with ideas",
+          "notes": "Sage panel, giant geometric-sans chapter title, then MIDI Transformations/Generators shown as two-column text blocks under a demonstration film; UI screenshots appear only after the environment photo establishes context."
+        },
+        {
+          "name": "Surprise yourself with sounds",
+          "notes": "New instruments and packs, each with an inline audio player — you audition Meld and Roar on the page. Pack cards sit in a responsive grid with consistent 'Go to pack' links."
+        },
+        {
+          "name": "Work more intuitively",
+          "notes": "Workflow improvements (stacked views, browser tagging, Sound Similarity Search) shown as before/after style UI captures with short captions; ends with 'See all new features' as the bridge for people who want the exhaustive list elsewhere."
+        },
+        {
+          "name": "Footer",
+          "notes": "Newsletter capture, education/community columns, socials, language and location selectors, and 'Made in Berlin' as the sign-off — the brand's provenance used as the closing line."
+        }
+      ],
+      "principle": {
+        "title": "Prove the feature in the product's own medium",
+        "explanation": "A screenshot only proves a feature exists; a demo in the medium the product actually outputs proves what it does. Ableton doesn't describe what Roar sounds like — it plays it. The claim and the evidence collapse into one element, which is why the page can run this long without feeling like marketing.",
+        "howToApply": "Match the proof format to the deliverable: selling print collateral, embed a page-flip or a zoomable PDF spread; selling video tours, autoplay a muted 5-second loop; selling a workflow, show the before/after in one crop. If the proof isn't in the output medium, it's an adjective."
+      },
+      "tags": [
+        "product-page",
+        "audio",
+        "photography",
+        "color",
+        "long-scroll",
+        "navigation"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Uber Germany — 'oder aber Uber' (D)OOH",
+        "url": "https://www.adsoftheworld.com/campaigns/order-an-uber"
+      },
+      "image": "images/2026-08-15-ad-uber-oder-aber.png",
+      "category": "OOH / DOOH billboard (integrated TV + digital campaign)",
+      "tagline": "A two-colour sentence template where the brand name is always the punchline: '[your tedious habit] … oder aber — Uber.'",
+      "when": "Launched May 18, 2026 in Germany — Serviceplan's first campaign as Uber's new lead agency; posted on Ads of the World August 2026",
+      "summary": "Serviceplan built Uber Germany's whole platform out of one grammatical joke: 'oder aber' is a redundant German connector meaning 'or alternatively', and it almost rhymes with Uber. Each execution sets the tedious status quo in green ('Hop on hop off hop on hop off hop on…'), then resolves in white: 'oder aber — Uber.' The billboard shown was placed where actual hop-on-hop-off sightseeing buses pass, so the context supplies the first half of the argument. No photography, no product shot — black field, two type colours, and a sentence structure that can generate a new ad for any situation and any city.",
+      "whatWorks": [
+        "The line is a template, not a slogan — swap the green half ('Late to the game…', 'Hop on hop off…') and the campaign scales infinitely without redesign",
+        "Colour does the argument's work: green = the painful habit, white = the resolution, so the structure reads before the German does",
+        "The brand name is the last word and the answer — you can't remember the joke without remembering the product",
+        "Contextual placement completes the ad: the billboard sits beside the real sightseeing bus it mocks, letting the street be the visual",
+        "Total restraint — black background, one typeface (Uber Move), no imagery, one tiny legal line — nothing competes with the sentence",
+        "The em-dash pause ('oder aber — Uber') builds in the comic beat; the typography times the delivery"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The green first line names a tedious routine in its own droning rhythm — 'Hop on hop off hop on hop off' literally loops like the bus ride does — and the real bus driving past the billboard is the co-star."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'oder aber' — a deliberately redundant German connector — sets up the alternative; the redundancy itself mirrors the wasted effort of the habit being replaced."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is no hero image: black field, Uber Move type in green and white, generous bottom whitespace. The sentence IS the visual, and the two-colour split is the layout."
+        },
+        {
+          "name": "CTA",
+          "notes": "No button, no URL — the brand name in white functions as the call to action, with only a small legal disclaimer beneath. On DOOH the resolution lands as the loop's final frame."
+        }
+      ],
+      "principle": {
+        "title": "Write one sentence template where the brand is always the punchline",
+        "explanation": "A slogan is one ad; a sentence structure is an ad factory. By fixing the second half ('oder aber — Uber') and leaving the first half as a fill-in-the-blank for any tedious situation, the campaign gets endless executions, contextual placements, and a mnemonic that ends on the product's name every single time.",
+        "howToApply": "For a brand line, build the format '[the painful default] … or — [brand/offer]' with a fixed colour split: muted colour for the problem clause, brand colour or white for the resolution. Test it by writing ten first-halves in ten minutes — if they all work without touching the layout, the template holds."
+      },
+      "tags": [
+        "ooh",
+        "typography",
+        "copywriting",
+        "wordplay",
+        "restraint",
+        "contextual"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Corita Kent",
+        "url": "https://en.wikipedia.org/wiki/Corita_Kent"
+      },
+      "image": "images/2026-08-15-designer-corita-kent.png",
+      "category": "Pop art / screenprinting / design pedagogy",
+      "when": "1918–1986 · American",
+      "tagline": "The pop-art nun who turned supermarket slogans into serigraphs — and turned looking itself into a teachable method.",
+      "summary": "Sister Mary Corita Kent ran the art department at Immaculate Heart College in Los Angeles, where her classroom became an avant-garde magnet (John Cage and the Eameses passed through). Self-taught in screenprinting from a mail-order kit, she appropriated vernacular advertising — Wonder Bread dots, General Mills' 'the big G stands for goodness' — and recombined it with scripture and poetry until the slogans meant something else entirely. Her fluorescent serigraphs were printed cheap and sold cheap on principle. The image here is her 1971 Rainbow Swash on a Boston gas tank — still the largest copyrighted artwork in the world — since no freely licensed portrait of her exists.",
+      "whatWorks": [
+        "Carry a 'finder' — an empty cardboard frame or slide mount — and crop the ordinary world into compositions before ever sitting down to design",
+        "Assign volume before quality: 200 drawings, or hours of drawing without looking down — quantity is the price of one good eye",
+        "Physically maul the source material: tear, crumple, and re-photograph found type so it stops being a logo and becomes a shape with a history",
+        "Recontextualize instead of inventing — put an ad slogan next to a scripture line and let the collision produce the meaning",
+        "Separate making from judging as a scheduled discipline, not a mood — create first, analyze in a different session",
+        "Choose media that keep the work cheap to multiply; accessibility is a design decision, not a distribution afterthought"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not at the desk — on the street with a finder. Kent and her students cropped billboards, gas-station signage and grocery lettering through a small empty frame, harvesting fragments of the vernacular as raw compositional material before any brief-specific work started."
+        },
+        {
+          "name": "Core method",
+          "notes": "Appropriation and recombination: take commercial language everyone already knows, physically manipulate it (tear, warp, re-photograph), then splice it with scripture, Rilke or newspaper text so the familiar words are forced to carry a second meaning. The audience's existing memory of the slogan does half the communicative work."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Flat fluorescent serigraphs with hand-wrenched type — colour laid in saturated unmixed fields, letterforms bent and crowded until they read as image first, text second. Screenprinting kept editions cheap, fast to iterate, and affordable to own."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Codified in the famous Immaculate Heart Art Department Rules: 'The only rule is work — if you work it will lead to something,' 'Consider everything an experiment,' and the crucial Rule 8 — 'Don't try to create and analyze at the same time. They're different processes.' Judgment is real but scheduled; it never sits in the room while the making happens."
+        }
+      ],
+      "principle": {
+        "title": "Crop the world with a finder before you design",
+        "explanation": "Kent's compositions started as acts of looking, not drawing: a cheap cardboard frame isolated fragments of the everyday until they became layout. Sourcing raw material from the environment — cropped, decontextualized, collected in volume — means you never start a layout from a blank artboard or a stock-asset search.",
+        "howToApply": "Build a fragment library the way Kent did: crop tight, fixed-ratio details out of your own project photography — door hardware, tile joints, signage letters, fabric edges — and keep them as a swipe file. When a page needs texture or a hero needs a graphic element, pull from the cropped fragments of the actual subject instead of decoration invented from nothing."
+      },
+      "tags": [
+        "screenprinting",
+        "pop-art",
+        "pedagogy",
+        "vernacular",
+        "color",
+        "process"
+      ]
     }
   ]
 }
