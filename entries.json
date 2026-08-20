@@ -15079,6 +15079,173 @@
         "typography",
         "art-direction"
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "The Ocean Cleanup",
+        "url": "https://theoceancleanup.com/"
+      },
+      "image": "images/2026-08-20-the-ocean-cleanup.png",
+      "category": "Nonprofit",
+      "tagline": "A cause homepage built as one continuous argument, where every headline emphasises its own operative words in a heavier weight instead of shouting the whole line.",
+      "summary": "The Ocean Cleanup's homepage is a single descending scroll rather than a stack of sections: the aerial hero photograph dissolves into a deep navy field, and mission, problem and goal are three statements set on that same field with enormous vertical air between them. The typographic system is the whole design — one geometric sans, used light for the sentence and bold-plus-cyan for the words that carry the claim, so “WE AIM TO CLEAN UP 90% OF FLOATING OCEAN PLASTIC POLLUTION BY 2040” reads twice: once as a skim of bold fragments, once as a sentence. Everything else is deliberately plain — a single cyan circular-arrow link component reused from hero to news card, text-only testimonials, numbers instead of adjectives. The honest caveat: the long navy stretch leaves half the viewport empty and leans on scroll-linked imagery that a static capture flattens, so the top third is better live than in a screenshot.",
+      "whatWorks": [
+        "Prove scale by shrinking the subject: the hero is an aerial where the cleanup barrier is a hairline arc and the two support vessels are specks — the ocean is the hero, the hardware is the evidence.",
+        "Emphasis lives inside the headline. Operative words go bold (and cyan), the rest stays light, at the same size on the same line — so the argument is scannable without a deck, kicker or callout box.",
+        "One link component everywhere: a small cyan circle with a white arrow plus a short label, used as the hero CTA, the three card link rows and the news card “Read the update”. The nav's navy DONATE NOW pill is the only thing allowed to look different.",
+        "Sections dissolve instead of stacking: the hero photograph fades into the navy field it sits on, so mission, problem and goal read as one continuous dive rather than three slabs with edges.",
+        "Numbers do the arguing — 100,000,000 kg, 1000 rivers, 80% of riverine pollution, 90% by 2040 — and each sits in the bold/cyan emphasis, so the figure is what the eye lands on.",
+        "Testimonials are text-only: a sentence and a small attribution line (Chris Martin, Coldplay; NBC Nightly News; Marc Benioff), with no headshots, logo lockups or star ratings."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Full-bleed aerial drone photograph of System 002 in the Great Pacific Garbage Patch, shot from high enough that the U-shaped barrier is a thin white curve and the vessels are dots. “JOIN THE LARGEST CLEANUP IN HISTORY” sits low-left in light-weight all-caps; the only CTA is a small cyan circular arrow labelled “Help clean” — quieter than the DONATE NOW pill in the sticky white nav, which lets the photograph carry the fold."
+        },
+        {
+          "name": "The argument scroll: mission → problem → goal",
+          "notes": "Three statements on one uninterrupted navy field, each introduced by a short cyan rule, each headline mixing bold-cyan and light-white words in the same line (“A PLANET-SIZED PROBLEM”), each followed by one paragraph held to roughly a 45-character measure in the left column. The vertical gaps are enormous and the right half stays empty — restraint that reads as confidence on desktop, though it is where the page leans hardest on live scroll imagery."
+        },
+        {
+          "name": "Two systems, given equal weight",
+          "notes": "A 50/50 full-bleed split — “CLEANING THE OCEAN” and “INTERCEPTING IN RIVERS” — with identical centred type, one paragraph carrying one hard number each (100,000,000 kg of plastic; 1000 rivers, 80% of riverine pollution), and one cyan LEARN MORE button apiece. Because the treatment is identical, the two programmes read as equal halves of one strategy rather than a flagship and a footnote."
+        },
+        {
+          "name": "Join the cleanup",
+          "notes": "The palette inverts to a full cyan band holding three white cards — Help remove plastic / Work with purpose / Stay in the loop — each with a circular icon medallion straddling the card's top edge. Card links are bottom-aligned above a hairline rule so unequal copy lengths never break the row, and every link is the same cyan circle-arrow used in the hero."
+        },
+        {
+          "name": "Partners and endorsements",
+          "notes": "White ground, four partner logos under “GLOBAL MISSION PARTNERS” with one line of plain framing copy, then a horizontal card carousel of quotes attributed by name and role. No portraits, no publication logos, no pull-quote decoration — just the sentence and a small navy attribution — which keeps famous names from turning the section into a celebrity wall."
+        },
+        {
+          "name": "The latest news",
+          "notes": "Four dark cards, each a photograph with a bottom gradient scrim carrying a small date, a two-line headline, and “Read the update” with the same circle-arrow pinned to the card bottom on a hairline. It works as live proof of operation — dated, specific, refreshed — rather than a static “impact” section."
+        },
+        {
+          "name": "Footer",
+          "notes": "Navy, four link columns (Projects and updates / About us / Help / Legal), social icons as outlined circles, and a newsletter field whose only persuasion is a proof line: “Join our 80,000+ strong community”. Trademark and reCAPTCHA notices sit in small type at the base."
+        }
+      ],
+      "principle": {
+        "title": "Emphasise inside the headline, not around it",
+        "explanation": "Most pages add hierarchy by adding elements — a deck, a kicker, a highlighted stat block, a callout. The Ocean Cleanup gets two reading speeds out of one line instead: the operative words are set in the bold weight and the accent colour while the rest of the sentence stays light, at the same size on the same baseline. A skimmer collects the bold fragments (“PLANET-SIZED”, “90%”, “OCEAN PLASTIC”) and already has the argument; a reader gets a proper sentence. Nothing extra had to be drawn to achieve it, which is why the page can afford so much empty space.",
+        "howToApply": "On the next Aperture or listing page, delete the deck and the stat chips and rewrite the section headline as one full sentence, then bold only the two or three words that are the claim — “Sold in 11 days at 4% over ask in Highland Park”. One typeface, two weights, one accent colour used only on the bolded words; then squint at the page until only the bold reads, and confirm that skim is still the pitch."
+      },
+      "tags": [
+        "typography",
+        "hierarchy",
+        "color",
+        "nonprofit",
+        "photography"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Toyota — ‘Please Hilux Responsibly’ (film: cinema → TV / digital / social)",
+        "url": "https://www.adsoftheworld.com/campaigns/please-hilux-responsibly"
+      },
+      "image": "images/2026-08-20-ad-toyota-hilux.png",
+      "category": "Still from a 60-second video ad (pan-European film with digital and social cutdowns)",
+      "tagline": "The endline is a compliance warning — “PLEASE HILUX RESPONSIBLY” — so the safety notice and the durability brag are the same sentence.",
+      "when": "Launched Summer 2026 across Europe, anchored by a 60-second spot in UK cinemas; published on Ads of the World in August 2026",
+      "summary": "T&P and Toyota built the new Hilux launch around a mock public-service announcement aimed at the truck's own overconfident owners, who have spent years posting extreme feats online. The line borrows the exact grammar of “please drink responsibly” — a sentence European audiences have read a thousand times on labels and end-cards — and drops the product name into the verb slot, so the format's borrowed authority does the work a durability claim would otherwise have to argue. Directed by Martin Werner via Papaya Films, the film runs eight scenarios (a jungle river crossing past a hazard sign, snow peaks, a lava field, a dust storm rolling through a wind farm) shot with the handheld and drone grammar of owner footage rather than car-commercial gloss. It closes without a claim card: the Toyota wordmark simply appears over a live sunset landscape above the clouds where the truck has parked.",
+      "whatWorks": [
+        "Borrow a sentence people already obey. “Please [X] responsibly” arrives pre-understood, so the joke and the product claim land in a single read with no setup line.",
+        "Use the brand name as a verb. Putting “Hilux” in the verb slot asserts category ownership grammatically — you don't drive it, you Hilux it — which no adjective could claim as cheaply.",
+        "Cast the customer's actual behaviour as the insight: the ad is about owners filming reckless feats, and the logged frame is exactly that — a passenger standing in the bed filming an erupting volcano.",
+        "Put the brand mark in the scene before it appears as a logo: the TOYOTA tailgate wordmark fills the lower third of the frame as part of the truck, not as an overlay.",
+        "Show the claim as consequence, not capability — a hazard warning sign standing beside the truck at the river crossing does more for “indestructible” than a spec line would.",
+        "End on the world, not a black slate: the wordmark dissolves over the live location, so the last image is still the story rather than a packshot."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Opens mid-jeopardy with no product beauty shot — a dust storm barrelling across a wind farm with the truck a speck on a track below, framed from behind rocks as if the camera were hiding. Jeopardy first, brand later."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "“PLEASE HILUX RESPONSIBLY” — a regulatory formula with the brand as the verb. Because the audience can complete the sentence pattern before it finishes, the line reads simultaneously as a warning, a joke and a boast about durability, and it scales down cleanly to a social caption or a display end-frame."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Eight distinct scenarios — jungle river, snow peaks, volcano lava field, desert dust — shot handheld and by drone in the visual language of the owner clips the campaign is teasing. The still logged here is the campaign in one frame: the yellow tailgate reading TOYOTA across the lower third, a passenger standing in the bed filming, an eruption at frame left."
+        },
+        {
+          "name": "CTA",
+          "notes": "There isn't one, and that is the discipline: no URL, no offer, no configurator card. The film resolves on the Toyota wordmark superimposed over the live mountaintop above the clouds, letting the endline be the only thing the viewer carries away."
+        }
+      ],
+      "principle": {
+        "title": "Put your brand in the slot of a sentence people already obey",
+        "explanation": "Borrowed formats arrive pre-installed in the audience's head. “Please drink responsibly”, “terms and conditions apply”, “not suitable for children under three” — each carries an authority and a tone the viewer accepts without checking, and each is short enough to survive as a caption, an end-frame or a text-only story. Dropping the brand into the verb slot of one of those sentences buys three things in five words: instant comprehension, a joke, and a claim you never had to defend, because the format itself implies the product is potent enough to need a warning.",
+        "howToApply": "Before writing a headline, list the fixed sentences your audience already reads without resistance — “subject to inspection”, “open house, all welcome”, “terms apply”, “please drink responsibly” — and try the brand or the offer in the verb or object slot. Keep only the version that still says something true (Toyota's warning is a durability claim); reject the ones where the joke and the claim point in different directions. Test it as a caption on a phone with no image attached."
+      },
+      "tags": [
+        "copywriting",
+        "brand-voice",
+        "humour",
+        "film",
+        "endline"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Henryk Tomaszewski",
+        "url": "https://en.wikipedia.org/wiki/Henryk_Tomaszewski_(poster_artist)"
+      },
+      "image": "images/2026-08-20-designer-henryk-tomaszewski.png",
+      "category": "Polish Poster School / conceptual poster design",
+      "when": "1914–2005 · Polish",
+      "tagline": "The father of the Polish Poster School, who taught design as philosophy rather than formula — the brief restated as a phrase to interpret, answered with one hand-made image.",
+      "summary": "Tomaszewski trained at the Warsaw Academy of Fine Arts (1934–39) and from 1947 designed film posters for Poland's state film agency, where postwar shortages of ink, paper and star photography pushed him away from Western-style product advertising and toward flat colour, abstract shape and wit. That scarcity became a school: his conceptual posters eluded both Soviet socialist realism and Western advertising convention, won five gold medals in Vienna in 1948 and first prize at the São Paulo Biennial in 1963, and made him the acknowledged father of the Polish Poster School. As a professor at the Warsaw Academy from 1952 to 1985 he shaped three decades of designers by refusing to teach technique — he set assignments as aphorisms (“Always the other”, “Life is but a span”, “Interpret”, “Yesterday/Today/Tomorrow”) and asked students to surprise the viewer. Lettering was never a delivery mechanism for him: text was drawn, not set — deformed, rescaled and composed as a parallel means of expression, as in his celebrated Henry Moore exhibition poster.",
+      "whatWorks": [
+        "Restate the brief as a phrase you must interpret, not a product you must promote — an aphorism generates images, a spec generates layouts.",
+        "Set the bar at surprise, not clarity: the test is whether the viewer has to complete the image, not whether they were told the facts.",
+        "Draw the words. Treat lettering as a second image — scaled, deformed, hand-made — rather than choosing a typeface at the end.",
+        "Let scarcity choose the medium: when photography and inks were unavailable, flat colour and abstraction became the style rather than the compromise.",
+        "Refuse formula, including your own — his output is recognisable by intelligence rather than by a signature look, which is why it never dated into a style.",
+        "Keep judging separate from making: three decades of studio crits were about the thinking behind the image, not its execution."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not with the product, the poster size or the type. He begins with a sentence — in the studio, literally an aphorism handed to students in place of a client brief (“Always the other”, “Interpret”, “Yesterday/Today/Tomorrow”). The first move is to translate the commission into a phrase open enough to be interpreted, so the work starts as a question about meaning rather than a request for arrangement."
+        },
+        {
+          "name": "Core method",
+          "notes": "Reduce the interpretation to one metaphor, then find the simplest hand-made mark that carries it. Because the postwar Polish poster could not lean on star portraits or process photography, the image had to be invented — a synthetic shape, a gesture, a joke — and the limit of two or three flat colours forced the idea to be legible as pure form before anything was rendered."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Hand-drawn lettering used as a parallel image: letters scaled against each other, deformed, positioned disruptively, composed asymmetrically alongside a simplified figure — the Henry Moore poster being the canonical example, where the monumentality of the drawn letters answers the sculpture. Text is never applied to a finished picture; it is drawn as part of it."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Does it surprise? Does the viewer have to finish it? Is it a formula — anyone's, including mine? Wit and metaphor are the currency and explanation is failure. He judged students on the intellect behind the image rather than on depictive skill, on the belief that a competent creative practitioner is made by thinking, not by technique."
+        }
+      ],
+      "principle": {
+        "title": "Rewrite the brief as a phrase you have to interpret",
+        "explanation": "A brief written as a specification (“four-page flyer, three photos, price, agent headshot, QR code”) can only be arranged, and arranging produces layouts that look like everyone else's. Tomaszewski's studio method was to convert the task into a short phrase with room in it — an aphorism — because a phrase demands interpretation and interpretation produces images. The phrase is not decoration: it becomes the thing you judge the work against, so you can tell at a glance whether a rough is an idea or just a tidy arrangement of the required parts.",
+        "howToApply": "Before opening the template on the next listing or campaign, write the job as one interpretable phrase on a sheet of paper — “the last house on the hill”, “sold before the sign went up”, “a room that only works at 4pm” — and make three roughs that answer the phrase rather than the asset list. Pin them beside a straight version built from the spec; if the straight version wins you have lost nothing, and if a phrase-driven one wins you now have the one image the listing will be remembered by. Keep the phrase visible on the artboard as the acceptance test."
+      },
+      "tags": [
+        "process",
+        "concepting",
+        "typography",
+        "posters",
+        "teaching"
+      ]
     }
   ]
 }
