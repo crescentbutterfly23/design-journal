@@ -15246,6 +15246,174 @@
         "posters",
         "teaching"
       ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Playdate",
+        "url": "https://play.date/"
+      },
+      "image": "images/2026-08-21-playdate.png",
+      "category": "Consumer hardware / product launch",
+      "tagline": "The whole site is one ~720px column on a violet field — desktop gets no extra layout, just the toy sold at toy scale.",
+      "summary": "Panic sells a $229 black-and-white handheld by refusing to behave like a hardware brand. The entire page is a single narrow column that never widens on desktop, stacked as coloured blocks — grey hero, yellow feature essays, black Season Two, light-grey Catalog, teal education, violet pricing, near-black specs, violet footer — so hue is the only chapter marker you get: no dividers, no sticky section labels, no eyebrows. Headings are two-word noun phrases with a full stop (\"The System.\" \"The Design.\" \"The Crank.\" \"The Season.\" \"The Idea.\"), and the body copy argues with a sceptic in plain speech (\"Yes, the crank. Is it a gimmick? Nah.\") instead of listing capabilities. One caveat: the Season One block is a 3-up grid of 24 image-only game covers, so that section says nothing at all until the art loads.",
+      "whatWorks": [
+        "One column, one width, every viewport — the desktop page IS the mobile page, so there is no second layout to design, test or keep in sync.",
+        "Section = colour block. Six full-bleed grounds (grey, yellow, black, teal, violet, near-black) do all the wayfinding; the only element allowed to break the column is one edge-to-edge marquee of game art in the Catalog block.",
+        "Two-word headings with a full stop. \"The System.\" \"The Crank.\" \"The Idea.\" The period makes each one land as a statement, and skimming the set gives you the table of contents the page never prints.",
+        "Copy names the objection before making the claim: \"Yes, the crank. Is it a gimmick? Nah. Does it charge Playdate's battery? Nope. Is it really fun? Yes yes yes.\"",
+        "One CTA component — a pill with a tiny icon — recoloured to sit on whatever block it lands in (violet on grey, yellow on violet, teal on teal), always with the number in the label: \"Order now for $229.\", \"Order now for $34.\"",
+        "Credibility is drawn, not tabulated: the spec panel pairs hand-drawn category icons with orthographic technical wireframes of the device bleeding off both edges, and the footer runs front/side/back product views instead of a logo wall.",
+        "Every gallery image carries real written alt text (\"Hands holding a Playdate and opening its cover.\", \"Playdate resting on a wooden tray next to some dice.\") — accessibility handled as copywriting."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Grey ground; small nav (Games / Dev / Education / Help / Sign In) with a \"Buy Now!!\" pill. The device floats in three-quarter view with \"Hello.\" on its screen, then three short lines of plain sentence — \"It's a new, tiny handheld game system with a bunch of brand-new games. We made Playdate just for fun.\" — then the giant yellow \"play / date\" wordmark stacked in two lines, then one violet pill: \"Order now for $229.\" The price is on the fold and the wordmark is used as the graphic, not the logo."
+        },
+        {
+          "name": "The System. / The Design. / The Crank.",
+          "notes": "Yellow ground, three short prose essays rather than feature cards; each is two tight paragraphs with only the operative phrase set bold inline (\"very special black and white screen\", \"an analog controller that flips out from the side\"). The Design credits Teenage Engineering in the copy. The crank essay embeds the device photo with a \"Watch the game!\" button sitting on its screen, so the demo lives inside the product shot instead of beside it."
+        },
+        {
+          "name": "The Season. → Season Two → Catalog",
+          "notes": "The actual proposition in plain numbers — two new games a week for 12 weeks, 24 free games — followed by a 3-up grid of 24 covers guarded by a speech-bubble aside: \"Wait! No spoilers, please!\" The ground then flips to black for the Season 2 badge and a fanned pile of covers, then to light grey for Catalog, whose full-bleed scrolling strip of game art is the only thing on the page that leaves the column."
+        },
+        {
+          "name": "Playdate for education",
+          "notes": "Teal ground and an alternate lockup (\"playdate for education\"), three short paragraphs on project-based learning, the 15% institutional discount stated as a sentence rather than a badge, and a teal-on-teal pill. A separate audience gets its own colour and its own lockup instead of its own page."
+        },
+        {
+          "name": "All for just $229. + Playdate Cover",
+          "notes": "Violet block. Price as the heading, then what's included (\"the full Season One of games – 24 original Playdate games, delivered weekly, at no extra charge\") and, unusually, what isn't (\"Does not include shipping. But you do get a very nice yellow USB-C to USB-A cable.\"). The $34 Cover gets the same treatment and its own pill — accessory upsell without a second template."
+        },
+        {
+          "name": "The Specs.",
+          "notes": "Near-black panel, two columns of icon → label → value (battery, CPU, storage, size, wireless, sound, display, inputs, included, cost) with ghosted orthographic engineering drawings bleeding off the left and right edges. The nerd detail is quarantined here so the nine sections above it can stay conversational."
+        },
+        {
+          "name": "The Idea. / Who Made It? / Footer",
+          "notes": "The founding question is set inside a grey thought-bubble — \"If we made hardware, and built a tiny little game system that came with lots of surprise games, would that make people happy?\" — then Panic's credits (Firewatch, Untitled Goose Game), a bare email field with a yellow \"Notify Me!\" pill, and a help pill. The footer returns to violet with three orthographic device views, the Panic mark, the Portland address, EU responsible party and a four-column link list."
+        }
+      ],
+      "principle": {
+        "title": "Say the objection out loud, then answer it in three words",
+        "explanation": "A product page's real reader is arguing with it — about price, about whether the thing is a gimmick, about what's missing. Printing their doubt in their own words costs one line and buys the claim that follows: you stop sounding like a brochure and start sounding like someone who has heard the question before. Playdate does it structurally (\"Is it a gimmick? Nah.\" / \"Does not include shipping. But you do get…\"), which is also how it gets away with a 720px page and no comparison table.",
+        "howToApply": "Before laying out a listing or spec section, write the two questions a buyer would ask a friend rather than the agent — \"Is that terrace real or a ledge?\", \"Is the HOA a dealbreaker?\", \"Why has it been listed twice?\" — set them at body size in the section's own voice, answer each in one short sentence directly beneath, and only then place the photograph. Same move for the price block: state what the number does not include in the same breath as the number."
+      },
+      "tags": [
+        "layout",
+        "copywriting",
+        "color",
+        "product",
+        "cta"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Bodyform / Libresse — #wombstories (campaign film, YouTube + social)",
+        "url": "https://www.youtube.com/watch?v=JZoFqIxlbk0"
+      },
+      "image": "images/2026-08-21-ad-bodyform-wombstories.png",
+      "category": "Campaign film — YouTube / social",
+      "when": "Launched summer 2020 (June–July, UK and global) — AMV BBDO, directed by Nisha Ganatra, animation coordinated by Framestore",
+      "tagline": "Six interior lives, six different animation media — the material changes every time the narrator does.",
+      "summary": "AMV BBDO's film for Libresse/Bodyform opens and closes on a photoreal uterus lit like a nebula — pink tissue against a red-violet starfield — and in between cuts between live-action women and six animated \"inner worlds\", each built by a different team in a different medium (2D cel, stop-frame puppetry, oil paint on glass). First periods, endometriosis, IVF, miscarriage and menopause each get their own visual register, which is how one three-minute film moves between joy and grief without either flattening into a single brand mood. There is no product demo, no absorbency claim and no white trousers; the close is a hashtag, not an offer. It ran past 100M views and Bodyform UK reported a 200% lift in social following as people posted their own stories.",
+      "whatWorks": [
+        "The hook is the taboo image itself, art-directed as landscape: the organ rendered photoreal and lit as a nebula reads as beautiful a beat before it reads as anatomy, which is what buys the next ten seconds.",
+        "One medium per story. Switching animation technique marks a change of narrator more clearly than any caption, name card or cut could.",
+        "Animation is used for exactly what live action can't show — pain, dread, longing — instead of for the usual euphemism (blue liquid, a poured beaker).",
+        "Category conventions are cut wholesale: no product in use, no performance claim, no smiling reassurance. The brand's absence for three minutes is the credibility.",
+        "The CTA is a participation prompt (#wombstories), so the proof of the ad is the replies it collects rather than a click-through.",
+        "Live-action faces are intercut at each emotional beat, anchoring the animated worlds to real people and stopping the film from reading as illustration."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A single uterus floating in a red-violet cloud of stars, photoreal and softly lit, with one tiny animated figure visible inside it. It is the one image the category never shows, made gorgeous — strange enough to stop a scroll without a caption, and it returns at the end as a field of uteri standing for the whole audience."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "No claim and no headline card until the last frame. The argument is the sequence itself — first period, endometriosis, IVF, miscarriage, menopause — and the only line asked to carry it is the hashtag that names all of them at once. The film argues by accumulation rather than by proposition."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Six animated interior worlds, each in a different medium and by a different team, intercut with live action; the medium switch IS the transition device, so the viewer feels a new narrator arrive before they understand the story. Framestore's invisible VFX keeps the live-action passages continuous with the animated ones."
+        },
+        {
+          "name": "CTA",
+          "notes": "#wombstories — an invitation to post, not to buy — with the Libresse/Bodyform lockup held back to the final frame, so the piece never declares itself a spot until it has already been watched."
+        }
+      ],
+      "principle": {
+        "title": "Change the medium when the speaker changes",
+        "explanation": "When one piece has to carry several voices or several very different feelings, a single unified visual language flattens them into one mood — and it averages to the safest one. Giving each voice its own material (a different animation technique, a film-vs-flat-illustration split, a type-only card) lets a piece travel from joy to grief without the whole thing having to compromise, and the switch itself does the labelling work that captions usually do.",
+        "howToApply": "On any multi-voice deliverable — a mixed-use listing with very different units, a set of client testimonials, the Magazine's caption spreads — assign each voice its own register (one shot on film, one flat illustration, one type-only card) and keep the frame constant: same ratio, same margins, same logo position, same typeface. The consistency lives in the chassis so the switch reads as intent rather than as an inconsistent set."
+      },
+      "tags": [
+        "animation",
+        "storytelling",
+        "brand",
+        "taboo",
+        "social"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Jacqueline Casey",
+        "url": "https://en.wikipedia.org/wiki/Jacqueline_Casey"
+      },
+      "image": "images/2026-08-21-designer-jacqueline-casey.png",
+      "category": "Institutional design / American International Typographic Style",
+      "when": "1927–1992 · American",
+      "tagline": "Ran MIT's design office for three decades and turned lecture notices — the least glamorous brief there is — into a museum-collected poster system.",
+      "summary": "Casey joined MIT's Office of Publications in 1955 and directed it (later Design Services) from 1972 to 1989, producing posters for department lectures, symposia and exhibitions with Swiss discipline and an American appetite for the visual pun. Her posters run at two speeds: one arresting or puzzling image to stop a student walking past, then the whole message in small type for whoever stopped. She worked from the International Typographic Style — Müller-Brockmann, Hofmann, Gerstner — alongside Ralph Coburn and Dietmar Winkler, and built MIT's visual character out of announcements nobody was obliged to read. RIT holds 99 of her posters at her own request; more are at MoMA and the Library of Congress.",
+      "whatWorks": [
+        "Interview the expert before designing: she sat with faculty to understand the lecture or the research, treating each job as something to learn rather than something to style.",
+        "Treat the glance and the read as two separate jobs in one artefact — a big element that carries no information, and small type that carries all of it and is never enlarged to compete.",
+        "Hunt for the pun in the subject's own language: a typographic wordplay can't be detached from the words, so the idea and the information stay the same object.",
+        "Design against the corridor, not the client: the test is whether someone with no reason to stop, stops.",
+        "Run the output as one continuing series — same office, same formats, decades of it — so consistency comes from volume and each new poster is read against the last.",
+        "Hold both halves to account. Her own formulation: the \"American interest in visual metaphor\" plus the \"Swiss fascination with planning, fastidiousness, and control over technical execution\" — a clever idea sloppily made fails, and so does an immaculate grid with nothing to notice."
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "With the subject rather than the format. Early in her MIT years she interviewed the faculty whose lecture or research she was announcing, treating every poster as an education in a field she didn't know — so the visual idea came out of one specific true thing about that talk, not a generic notion of \"science\" or \"architecture\"."
+        },
+        {
+          "name": "Core method",
+          "notes": "A two-speed hierarchy, stated by her outright: \"My job is to stop anyone I can with an arresting or puzzling image, and entice the viewer to read the message in small type.\" The big element is bait and deliberately withholds information; the informational type stays small, complete and calm. Nothing in the middle is allowed to blur that split."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Typographic wordplay in Swiss dress — letters cropped, repeated, mirrored, rotated or made into the thing they name — set on a strict grid in a tightly limited palette, so the pun reads as inevitable rather than as a joke. The visual metaphor is built out of the announcement's own words instead of an illustration placed beside them."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Judged against the passer-by and against craft simultaneously: if it doesn't arrest, it has failed regardless of how well it's made; if it arrests but the execution is loose, it has also failed. Working inside an institution for 34 years, she also judged each piece as part of a series — does it belong to, and extend, everything this office has already put on the wall?"
+        }
+      ],
+      "principle": {
+        "title": "Go learn the subject before you style it",
+        "explanation": "The arresting image can't be invented out of the brief — it comes from one specific fact you had to go and get. Casey's puzzles work because she interviewed the faculty first, which is also why three decades of lecture posters never repeat themselves: the research supplied the variety that a house style can't. Design is downstream of finding out.",
+        "howToApply": "Before designing a listing, spend fifteen minutes with the agent or the owner and write down five facts you could not have guessed from the MLS sheet — the architect's name, what the odd back room was built for, the neighbour's fig tree, who the previous owner was. Pick the one thing only this property has, make it the arresting image, and put every other fact in small type underneath at a size you never enlarge."
+      },
+      "tags": [
+        "process",
+        "research",
+        "typography",
+        "posters",
+        "hierarchy"
+      ]
     }
   ]
 }
