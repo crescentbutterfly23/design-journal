@@ -229,6 +229,15 @@
   .shot-bar a:hover{ text-decoration:underline }
   .shot-bar .hint{ margin-left:auto; color:var(--ink-soft); font-size:.76rem; letter-spacing:.02em }
 
+  .guide-doc{ display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin:0 0 24px;
+    padding:12px 15px; border:1px solid var(--accent-soft); border-left:3px solid var(--accent);
+    border-radius:10px; background:var(--accent-soft); font-size:.9rem }
+  .guide-doc .gd-label{ font-size:.7rem; letter-spacing:.14em; text-transform:uppercase;
+    font-weight:700; color:var(--accent) }
+  .guide-doc a{ color:var(--ink); font-weight:600; text-decoration:none;
+    border-bottom:1.5px solid var(--accent); }
+  .guide-doc a:hover{ background:var(--surface) }
+
   .entry .summary{ font-size:1.12rem; margin:0 0 26px }
 
   dl.sections{ margin:0 0 30px; display:grid; gap:16px }
@@ -407,16 +416,18 @@ function renderEntry(e, i){
   const shotSrc = e.image || liveShot;
   const sections = (e.sections||[]).map(s=>`<div class="srow"><dt>${esc(s.name)}</dt><dd>${esc(s.notes)}</dd></div>`).join("");
   const needs = (e.needs||[]).map(w=>`<li>${esc(w)}</li>`).join("");
-  const visitTxt = isDesigner ? "Learn more ↗" : (e.kind==="ad" ? "Visit ad ↗" : (isGuide ? "Open the guide ↗" : "Visit site ↗"));
+  const visitTxt = isDesigner ? "Learn more ↗" : (e.kind==="ad" ? "Visit ad ↗" : (isGuide ? (e.guide?.url ? "Open the brand hub ↗" : "Open the guide ↗") : "Visit site ↗"));
   const secHeading = isDesigner ? "Their process" : (e.kind==="ad" ? "Anatomy of the ad" : (isGuide ? "What's inside" : "Section by section"));
   const worksHeading = isDesigner ? "What to take from them" : (isGuide ? "What this guide nails" : "What works");
   const imgAlt = isDesigner ? `Portrait or work — ${e.site?.name||"designer"}` : (isGuide ? `Cover of ${e.site?.name||"the brand guide"}` : `Screenshot of ${e.site?.name||"the site"}`);
+  const guideDoc = e.guide?.url ? `<p class="guide-doc"><span class="gd-label">The guide itself</span><a href="${esc(e.guide.url)}" target="_blank" rel="noopener">${esc(e.guide.label||"Read the brand guide")} ↗</a></p>` : "";
   return `<article class="entry" id="entry-${i}" data-site="${esc(e.site?.name||"")}">
     <p class="date">${esc(fmtDate(e.date))}${e.source==="manual"?` · <span class="src">added by you</span>`:(e.source==="daily"?` · <span class="src">daily pick</span>`:"")}</p>
     <h2>${e.site?.url ? `<a href="${esc(e.site.url)}" target="_blank" rel="noopener">${esc(e.site?.name||"Untitled")}</a>` : esc(e.site?.name||"Untitled")}</h2>
     ${e.tagline?`<p class="tagline">${esc(e.tagline)}</p>`:""}
     ${e.when?`<p class="when">${esc(e.when)}</p>`:""}
     <div class="chips">${e.kind==="ad"?`<span class="chip adbadge">Digital ad</span>`:""}${isDesigner?`<span class="chip adbadge">Designer</span>`:""}${isGuide?`<span class="chip adbadge">Brand guide</span>`:""}${chips}</div>
+    ${guideDoc}
     ${shotSrc ? `<div class="shot">
       <a class="shot-frame" href="${esc(shotSrc)}" target="_blank" rel="noopener" title="Open full image in a new tab">
         <img loading="lazy" src="${esc(shotSrc)}" alt="${esc(imgAlt)}"
@@ -424,6 +435,7 @@ function renderEntry(e, i){
       </a>
       <div class="shot-bar">
         ${e.site?.url?`<a href="${esc(e.site.url)}" target="_blank" rel="noopener">${visitTxt}</a>`:""}
+        ${e.guide?.url?`<a href="${esc(e.guide.url)}" target="_blank" rel="noopener">Read the guide ↗</a>`:""}
         <a href="${esc(shotSrc)}" target="_blank" rel="noopener">Full image ↗</a>
         <span class="hint">click to expand · scroll to preview ↕</span>
       </div>

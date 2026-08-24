@@ -7412,6 +7412,10 @@
         "name": "Discord — Brand Assets",
         "url": "https://discord.com/branding"
       },
+      "guide": {
+        "label": "Discord branding guidelines (developer docs)",
+        "url": "https://docs.discord.com/developers/discord-social-sdk/design-guidelines/branding-guidelines"
+      },
       "image": "images/2026-07-27-brandguide-discord.png",
       "category": "Public brand-assets / press kit",
       "tagline": "A tight, on-brand public brand-assets page - it nails the logo system and usage rules, and shows exactly where a press kit stops short of a full brand guide.",
@@ -7485,6 +7489,10 @@
         "name": "NASA — Brand Center",
         "url": "https://www.nasa.gov/nasa-brand-center/"
       },
+      "guide": {
+        "label": "NASA Graphics Standards Manual (PDF)",
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf"
+      },
       "image": "images/2026-06-17-brandguide-nasa.png",
       "category": "Institutional identity guide",
       "tagline": "A brand hub that leads with law rather than layout - it tells you what you may not do with the Insignia before it shows you a single swatch.",
@@ -7555,6 +7563,10 @@
       "site": {
         "name": "Asana — Brand Guidelines",
         "url": "https://asana.com/brand"
+      },
+      "guide": {
+        "label": "Asana Brand Guidelines (PDF)",
+        "url": "https://assets.asana.biz/asset/a4bdc79a-88a2-463f-8243-38fe90b79c88/Asana-Brand-Guidelines-FY27.pdf"
       },
       "image": "images/2026-06-18-brandguide-asana.png",
       "category": "Public brand-assets / press kit",
@@ -7627,6 +7639,10 @@
         "name": "BBC — Global Experience Language (GEL)",
         "url": "https://www.bbc.co.uk/gel"
       },
+      "guide": {
+        "label": "BBC GEL — the full guidelines library",
+        "url": "https://www.bbc.co.uk/gel/guidelines"
+      },
       "image": "images/2026-06-19-brandguide-bbc-gel.png",
       "category": "Standards manual",
       "tagline": "The only guide in this batch that publishes its reasoning as by-lined editorial - every guideline card credits a named designer, so rules arrive with an author.",
@@ -7698,6 +7714,10 @@
       "site": {
         "name": "Mailchimp — Brand Assets",
         "url": "https://mailchimp.com/about/brand-assets/"
+      },
+      "guide": {
+        "label": "Mailchimp Content Style Guide",
+        "url": "https://styleguide.mailchimp.com/"
       },
       "image": "images/2026-06-20-brandguide-mailchimp.png",
       "category": "Public brand-assets / press kit",
@@ -7975,6 +7995,10 @@
         "name": "Shopify — Using Our Brand",
         "url": "https://www.shopify.com/brand-assets"
       },
+      "guide": {
+        "label": "Shopify brand guide (PDF)",
+        "url": "https://cdn.shopify.com/static/Shopify-Guide_PDF.pdf"
+      },
       "image": "images/2026-06-24-brandguide-shopify.png",
       "category": "Public brand-assets / press kit",
       "tagline": "Spells out the exact four circumstances in which the Shopping Bag may stand alone - most kits leave symbol-only use to guesswork.",
@@ -8114,6 +8138,10 @@
       "site": {
         "name": "Stanford — Identity Guide",
         "url": "https://identity.stanford.edu"
+      },
+      "guide": {
+        "label": "Stanford visual identity guidelines",
+        "url": "https://identity.stanford.edu/visual-identity/"
       },
       "image": "images/2026-06-26-brandguide-stanford.png",
       "category": "Institutional identity guide",
@@ -8319,6 +8347,10 @@
         "name": "Dropbox — Branding Guidelines",
         "url": "https://www.dropbox.com/branding"
       },
+      "guide": {
+        "label": "Dropbox Brand Guidelines — the full guide",
+        "url": "https://brand.dropbox.com/"
+      },
       "image": "images/2026-06-29-brandguide-dropbox.png",
       "category": "Public brand-assets / press kit",
       "tagline": "A trademark-protection page organized entirely by the asker's real-world scenario - and written like a human, not a lawyer.",
@@ -8455,6 +8487,10 @@
         "name": "Olympics — Olympic Brand & Identity",
         "url": "https://olympics.com/ioc/olympic-brand"
       },
+      "guide": {
+        "label": "Olympic Brand Centre — assets & guidelines",
+        "url": "https://brand-centre.olympic.org/assets_guidelines"
+      },
       "image": "images/2026-07-01-brandguide-olympics.png",
       "category": "Institutional identity guide",
       "tagline": "A redesign presented as a century of continuity - a 1913-1957 rings timeline earns the new system before a single new element is shown.",
@@ -8585,6 +8621,10 @@
       "site": {
         "name": "Wikipedia — Brand Portal",
         "url": "https://meta.wikimedia.org/wiki/Brand"
+      },
+      "guide": {
+        "label": "Wikimedia visual identity guidelines",
+        "url": "https://foundation.wikimedia.org/wiki/Visual_identity_guidelines"
       },
       "image": "images/2026-07-03-brandguide-wikipedia.png",
       "category": "Institutional identity guide",
@@ -8853,6 +8893,10 @@
       "site": {
         "name": "Netflix — Brand Site",
         "url": "https://brand.netflix.com"
+      },
+      "guide": {
+        "label": "Netflix logo & brand-asset guidelines",
+        "url": "https://brand.netflix.com/en/assets/logos/"
       },
       "image": "images/2026-07-07-brandguide-netflix.png",
       "category": "Public brand-assets / press kit",
@@ -9314,6 +9358,10 @@
         "name": "MIT — Brand Guide",
         "url": "https://brand.mit.edu"
       },
+      "guide": {
+        "label": "MIT Brand Guide — downloads & guides",
+        "url": "https://brand.mit.edu/downloads"
+      },
       "image": "images/2026-07-14-brandguide-mit.png",
       "category": "Full brand guide",
       "tagline": "Sells the refreshed identity in three words - Optimized, Bold, Unified - with real merch, poster, and vehicle mockups before you ever hit a rule.",
@@ -9445,6 +9493,10 @@
       "site": {
         "name": "Instagram - Brand Identity",
         "url": "https://about.instagram.com/brand"
+      },
+      "guide": {
+        "label": "Instagram brand guidelines (Meta Brand Resource Center)",
+        "url": "https://about.meta.com/brand/resources/instagram/instagram-brand/"
       },
       "image": "images/2026-07-16-brandguide-instagram.png",
       "category": "Full brand guide",
@@ -9588,6 +9640,10 @@
         "name": "GitHub — Brand Toolkit",
         "url": "https://brand.github.com"
       },
+      "guide": {
+        "label": "GitHub Brand Guidelines 2026 (PDF)",
+        "url": "https://brand.github.com/GitHub-BrandGuidelines-2026.pdf"
+      },
       "image": "images/2026-07-18-brandguide-github.png",
       "category": "Full brand guide",
       "tagline": "A dark, searchable brand site whose sidebar taxonomy - Brand identity, Foundations, Graphic elements, Brand in action, Motion identity - is itself a lesson in how to structure a guide.",
@@ -9728,6 +9784,10 @@
         "name": "University of Cambridge — Our Brand",
         "url": "https://www.cam.ac.uk/brand-resources"
       },
+      "guide": {
+        "label": "Cambridge brand guidelines",
+        "url": "https://www.cam.ac.uk/brand-resources/guidelines"
+      },
       "image": "images/2026-07-20-brandguide-cambridge.png",
       "category": "Institutional identity guide",
       "tagline": "A federated university's brand hub that leads with permission - 'Who can use our brand' is the hero image caption, before a single visual rule appears.",
@@ -9858,6 +9918,10 @@
       "site": {
         "name": "Meta — Brand Resource Center",
         "url": "https://about.meta.com/brand/resources/"
+      },
+      "guide": {
+        "label": "Meta company brand guidelines",
+        "url": "https://about.meta.com/brand/resources/meta/company-brand/"
       },
       "image": "images/2026-07-22-brandguide-meta.png",
       "category": "Public brand-assets / press kit",
@@ -10111,6 +10175,10 @@
       "site": {
         "name": "Slack — Media Kit",
         "url": "https://slack.com/media-kit"
+      },
+      "guide": {
+        "label": "Slack Brand Guidelines (PDF)",
+        "url": "https://a.slack-edge.com/0f43e/marketing/img/media-kit/Slack-Brand-Guidelines.pdf"
       },
       "image": "images/2026-07-26-brandguide-slack.png",
       "category": "Public brand-assets / press kit",
@@ -10592,6 +10660,10 @@
       "site": {
         "name": "Deutsche Bahn — Marketingportal (Marke und Design)",
         "url": "https://marketingportal.extranet.deutschebahn.com/marketingportal/Marke-und-Design"
+      },
+      "guide": {
+        "label": "Marke und Design — Basiselemente",
+        "url": "https://marketingportal.extranet.deutschebahn.com/marketingportal/Marke-und-Design/Basiselemente"
       },
       "image": "images/2026-07-29-brandguide-deutsche-bahn.png",
       "category": "Full brand guide — public marketing portal for a national operator",
@@ -11671,6 +11743,10 @@
         "name": "WordPress — Graphics & Logos",
         "url": "https://wordpress.org/about/logos/"
       },
+      "guide": {
+        "label": "WordPress Foundation trademark policy",
+        "url": "https://wordpressfoundation.org/trademark-policy/"
+      },
       "image": "images/2026-08-01-brandguide-wordpress.png",
       "category": "Public brand-assets page (open-source project)",
       "tagline": "A deliberately tiny assets page whose best move is publishing the FAKE logo next to the real one, annotated with the tell.",
@@ -12039,6 +12115,10 @@
         "name": "Zalando — Brand Guidelines",
         "url": "https://brand.zalando.com/"
       },
+      "guide": {
+        "label": "Zalando identity guidelines",
+        "url": "https://brand.zalando.com/identity"
+      },
       "image": "images/2026-08-04-brandguide-zalando.png",
       "category": "Public brand portal (post-refresh identity + writing guide)",
       "tagline": "A public brand portal with only two top-level sections — Identity and Brand Writing — so the verbal system gets equal billing, including a 'Writing with AI' chapter that says what a model may and may not write.",
@@ -12285,6 +12365,10 @@
       "site": {
         "name": "Australian Museum — Brand Guidelines",
         "url": "https://australian.museum/about/organisation/media-centre/brand/"
+      },
+      "guide": {
+        "label": "Australian Museum logo guidelines & downloads",
+        "url": "https://australian.museum/about/organisation/media-centre/brand/logo/"
       },
       "image": "images/2026-08-05-brandguide-australian-museum.png",
       "category": "Public brand guidelines hub (museum / cultural institution)",
@@ -12987,6 +13071,10 @@
         "name": "Python Software Foundation — The Python Logo",
         "url": "https://www.python.org/community/logos/"
       },
+      "guide": {
+        "label": "PSF Trademark Usage Policy",
+        "url": "https://www.python.org/psf/trademarks/"
+      },
       "image": "images/2026-08-08-brandguide-python.png",
       "category": "Open-source logo & trademark-usage page",
       "tagline": "One of the world's most-used logos is governed by a single page of prose, a pile of file formats, and an invitation to 'ask first'.",
@@ -13216,6 +13304,10 @@
       "site": {
         "name": "TEDx — Your TEDx Logo (Organizer Guide)",
         "url": "https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/logo-and-design/your-tedx-logo"
+      },
+      "guide": {
+        "label": "TEDx logo template guide (PDF)",
+        "url": "https://www.dropbox.com/s/jm61qa79knvez2r/TEDx_LogoTemplate_Guide_Primary.pdf"
       },
       "image": "images/2026-08-09-brandguide-tedx.png",
       "category": "Licensee brand guide (thousands of independent organisers)",
@@ -13460,6 +13552,10 @@
         "name": "LEGO — Fair Play (trademark & fan-use guidelines)",
         "url": "https://www.lego.com/en-us/legal/notices-and-policies/fair-play/"
       },
+      "guide": {
+        "label": "LEGO Fair Play guidelines (PDF)",
+        "url": "https://www.lego.com/cdn/cs/legal/assets/blt1a4c9a959ce8e1cb/LEGO_Fairplay_Nov2018.pdf"
+      },
       "image": "images/2026-08-10-brandguide-lego-fair-play.png",
       "category": "Trademark / fair-use guidance for fans and third parties",
       "tagline": "The famous grammar rules — LEGO is an adjective, never a noun, never a plural — published as brand governance for a fan economy.",
@@ -13693,6 +13789,10 @@
       "site": {
         "name": "Blender Foundation — Logo & usage guidelines",
         "url": "https://www.blender.org/about/logo/"
+      },
+      "guide": {
+        "label": "Blender trademark & logo policy",
+        "url": "https://www.blender.org/about/trademark-policy/"
       },
       "image": "images/2026-08-11-brandguide-blender.jpg",
       "category": "Open-source logo page with an explicit fan-art carve-out",
@@ -13991,6 +14091,10 @@
       "site": {
         "name": "Destination Canada — Brand Hub",
         "url": "https://brand.destinationcanada.com/en-ca"
+      },
+      "guide": {
+        "label": "Destination Canada brand identity guidelines",
+        "url": "https://brand.destinationcanada.com/en-ca/en/brand-identity"
       },
       "image": "images/2026-08-12-brandguide-destination-canada.png",
       "category": "Public brand hub — national tourism brand, partner- and agency-facing",
@@ -15413,6 +15517,177 @@
         "typography",
         "posters",
         "hierarchy"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Oxide Computer",
+        "url": "https://oxide.computer/"
+      },
+      "image": "images/2026-08-24-oxide-computer.png",
+      "category": "Enterprise hardware / developer infrastructure",
+      "tagline": "Sells a rack of server hardware with the visual manners of a lab manual — numbered figures, mono captions, and real console screenshots instead of abstract tech illustration.",
+      "summary": "Oxide is selling something almost nobody can see in person — a whole cloud computer in a rack — so the site is built to read as documentation rather than marketing. The ground is near-black, there is exactly one accent (a signal green borrowed from the rack's own status LEDs), the display type is a plain neutral grotesque in sentence case, and every piece of micro-labelling is uppercase mono: \"POWERING THE BEST TEAMS\", \"ELASTIC COMPUTE ▸\", \"FIG. 1 OXIDE CLOUD COMPUTER\". The result is a page where each claim sits next to a numbered artefact — a terminal mid-login, a console table of running instances, a draggable compute sled — so the tone is engineering evidence rather than adjectives. One caveat: it is a long page and the payoff sections repeat the same dark card at similar contrast, so the middle third can blur on a fast scroll; the numbered figures are what keep your place. (Note: the full-page capture stops at the management section — the closing CTA and four-column footer are below the crop.)",
+      "whatWorks": [
+        "One accent, sourced from the product: the only saturated colour on the page is the same green as the rack's status LEDs, so buttons, state chips and code highlights all feel like readouts rather than decoration",
+        "Uppercase mono is used exclusively for labels, eyebrows and captions, and never for reading copy — it does the work of a second typeface without adding one",
+        "Every product image is a real interface at real density: instance names, vCPU counts, RUNNING/STOPPED chips, actual firewall rules — no lorem dashboards, no floating glass cards",
+        "Figures are numbered and captioned (FIG. 1 rack, FIG. 2 web console, FIG. 3 compute sled), which turns a long scroll into a spec sheet you can navigate by evidence",
+        "Hierarchy inside a single paragraph: the claim is white, the enumeration greys back, the payoff line returns to white — three levels with no kicker, no stat chips, no rules",
+        "The hero pairs the abstract promise with two concrete artefacts side by side — a live CLI card and the photographed rack, joined by a thin connector line — so \"on-prem that feels like cloud\" is illustrated, not asserted"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Headline \"On-prem that feels like the public cloud\" set in two calm sentence-case lines on the left, while the right half is filled by a photographed rack whose green LED columns bleed off the edge. Above it, a small terminal card (tabs: CLI / API / CONSOLE) runs `oxide auth login`, wired to the rack by a single hairline. The label FIG. 1 OXIDE CLOUD COMPUTER sits top-right in mono. The fold therefore carries the promise, the hardware and the developer surface at once."
+        },
+        {
+          "name": "Proof band",
+          "notes": "A low-contrast strip — \"POWERING THE BEST TEAMS\" in mono small caps over monochrome logos (Switch, Stoke Space, Lawrence Livermore National Laboratory, Jump Trading). Deliberately quiet: the logos are all reduced to one ink so the band reads as a fact rather than a trophy case, and the two national-lab names do the credibility work."
+        },
+        {
+          "name": "\"One integrated platform\" + photo triptych",
+          "notes": "A single paragraph does the whole positioning job by colour alone: \"One integrated platform.\" in white, \"Compute, storage, networking, software…\" greyed, then \"The cloud you own.\" back in white. Beneath it, a full-bleed three-image band — a sign-in console, racks in a row, an empty machine room — gives the product physical scale before any feature is named."
+        },
+        {
+          "name": "Capability row + the two-option argument",
+          "notes": "Four mono-labelled columns (ELASTIC COMPUTE ▸ / ELASTIC NETWORKING ▸ / EFFICIENT POWER DESIGN ▸ / ELASTIC STORAGE ▸), each with a cropped screenshot of the actual UI that delivers it, and hard numbers where they exist (12× cooling efficiency, 55% less total power). It then frames the market as a forced choice — traditional on-prem (8+ vendors) versus public cloud (no ownership, unpredictable bills) — so the product arrives as the third option rather than a better version of either."
+        },
+        {
+          "name": "Four proof cards",
+          "notes": "Secure by default / API-driven developer velocity / Predictable, lower costs / 2-hour setup, as dark hairline-bordered cards. What makes them work is that each card's illustration is the evidence for that specific claim: a root-of-trust panel, a Terraform snippet, an itemised included/not-included list, a terminal provisioning a rack. The claim and its proof are the same element."
+        },
+        {
+          "name": "FIG. 2 — the web console, at full width",
+          "notes": "\"The biggest forward leap in on-prem in decades\" over one large, unretouched console screenshot with a modal open mid-task. This is the page's centre of gravity: it shows the thing you actually buy the product to use, at a density that implies it is finished software. A one-line newsletter strip (field + green SUBSCRIBE) closes the band without a full-width interruption."
+        },
+        {
+          "name": "Workloads grid → 3D explorer → CTA & footer",
+          "notes": "\"Purpose-built for frontier workloads\" fans out into six named use cases (cloud repatriation, VMware exit, AI/ML, HPC, sovereign cloud, CI/CD) and three industry cards with schematic illustrations. Then the one true toy on the page: a draggable \"2nd Gen platform\" explorer labelled FIG. 3 OXIDE COMPUTE SLED, with numbered hardware specs beside it — interaction spent on inspection, not on scroll effects. The close is plain: \"Modernize your infrastructure / Talk to our team\", two buttons, and a four-column footer that repeats the tagline \"The cloud you own\"."
+        }
+      ],
+      "principle": {
+        "title": "Number your evidence like a manual",
+        "explanation": "Oxide's page feels rigorous before you read a word of it, and the mechanism is small: each significant image carries a mono caption in the form FIG. n — WHAT IT IS, numbered in order down the page. Numbering does two things at once. It implies the images were chosen as evidence for specific claims rather than dropped in for texture, and it gives a very long page a spine you can skim by artefact instead of by heading. It also disciplines the author: if a figure can't be captioned with a concrete noun, it probably shouldn't be on the page.",
+        "howToApply": "On the next property or product page, caption every image in a small mono label — \"FIG. 1 — SOUTH TERRACE, 4PM\", \"FIG. 2 — FLOOR PLATE, UNIT 401D\", \"FIG. 3 — BUILDING SECTION\" — numbered sequentially top to bottom, and use one accent colour for the label only. Then read the captions alone: if that list doesn't tell the whole story of the property, the images are wrong, not the copy."
+      },
+      "tags": [
+        "typography",
+        "dark-ui",
+        "monospace",
+        "product-ui",
+        "hierarchy",
+        "enterprise"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Surreal — 'Serena Williams eats our cereal*' (digital OOH + social)",
+        "url": "https://www.creativebloq.com/news/surreal-cereal-billboards"
+      },
+      "image": "images/2026-08-24-ad-surreal.png",
+      "category": "Digital OOH panel / social key visual",
+      "tagline": "Buys the celebrity endorsement it can't afford by finding a non-famous person with the same name — and puts the confession in the asterisk.",
+      "when": "March 2023 (UK); the fake-endorsement idea ran in waves through 2022–2023",
+      "summary": "A bus-stop digital panel in Surreal's brand cyan: four lines of heavy black caps reading \"SERENA WILLIAMS EATS OUR CEREAL*\", and beneath it, in a quiet light weight, \"*She's a student from London and we paid her to eat it but the point still stands.\" The headline borrows all the borrowed-fame mechanics of a real endorsement ad, and the footnote hands it straight back — which is the joke, and also the reason it's legally clean and endlessly repeatable (Dwayne Johnson the bus driver, Michael Jordan from St Albans). There is no URL, no QR code and no CTA; the only branding is the pack itself, shot straight on a white sweep in the lower third. It works because the format is honest about being a stunt while still delivering the two things the ad needs: a famous name and a photograph of the product.",
+      "whatWorks": [
+        "The hook is a name, set at maximum size with nothing competing — no logo lockup at the top, no strapline, no badge",
+        "The reveal lives in the asterisk line, in the smallest type on the panel, so the reader has to lean in and finish the joke themselves",
+        "Type does all the design work: one heavy grotesque in caps for the claim, one light weight for the confession, no third style anywhere",
+        "One flat brand colour edge to edge; the only imagery is the pack and the product, lit plainly, so the panel still functions as a product ad",
+        "Zero CTA — no URL, no QR, no discount code. The pack shot is the call to action, which is the right call for a supermarket impulse buy",
+        "The structure is a template, not a one-off: swap the name and the footnote and you have the next twenty executions with no new design"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A celebrity name at billboard scale on flat cyan. It exploits the two seconds of recognition you'd give a real endorsement poster — and the asterisk hanging off \"CEREAL*\" is the only hint that something is off."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "\"SERENA WILLIAMS EATS OUR CEREAL*\" — a complete sentence, present tense, no adjectives about the product. Then the footnote: \"*She's a student from London and we paid her to eat it but the point still stands.\" The gag and the disclosure are the same sentence, so the brand reads as cheeky rather than deceptive."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Lower third: the pack (SURREAL wordmark, cocoa variant, high-protein claim down the side) beside a bowl of cereal with chocolate chunks spilling onto a white sweep. Deliberately plain packshot photography — the surrounding copy is doing the entertaining, so the product only has to be legible and appetising."
+        },
+        {
+          "name": "CTA",
+          "notes": "None, and that's the point: no site, no code, no QR. The panel spends its whole budget on being remembered and recognised at shelf. Distribution does the rest — the format is screenshot-shaped, so the digital OOH panel becomes the social post for free."
+        }
+      ],
+      "principle": {
+        "title": "Put the twist in the small print",
+        "explanation": "Most ads bury the caveat because they assume it weakens the claim. Surreal inverts it: the headline makes the biggest claim it can honestly make, and the footnote — the smallest type in the layout — delivers the reveal. That does three jobs at once. It earns trust (nothing is hidden), it makes the reader an accomplice (they complete the joke), and it turns the disclaimer into the most-read line on the panel. The mechanic only works if the small print is written in the same voice as the headline, not in legal language.",
+        "howToApply": "Whenever a claim needs a qualifier, stop hiding it. Write the strongest true version as the headline, then write the qualifier as one plain, human sentence in the smallest type, in the brand's own voice — \"*Two of the four bedrooms are on the lower level\", \"*The roof terrace is shared with three other units\". Set it directly under the headline rather than in the footer, and give it the same margins so it reads as part of the sentence."
+      },
+      "tags": [
+        "copywriting",
+        "typography",
+        "ooh",
+        "humour",
+        "brand-voice",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Studio.Build",
+        "url": "https://www.studio.build/"
+      },
+      "image": "images/2026-08-24-designer-build.png",
+      "category": "Independent brand & typographic design studio",
+      "when": "Founded 2001 · London, then Leeds · British",
+      "tagline": "A two-founder studio that runs on a stated quality bar — \"it'll do, won't do\" — and a publicly numbered archive of everything it has ever looked at.",
+      "summary": "Build (Studio.Build) was founded in 2001 by Michael C. Place and Nicola Place, after Michael left a decade at The Designers Republic — where he helped shape the visual language of 1990s electronica, including Warp Records sleeves and Sony's WipEout — went travelling, and came back wanting to work differently. The studio stayed deliberately small while working for Google, Nike, Instagram, RIBA and the British Film Commission, and its output is typographic, systematic and production-obsessed: identity toolkits, custom type, flexible graphic devices built to be extended rather than reissued. What makes it worth studying as a model is that almost all of its process is visible from the outside — the work is filed, numbered and tagged in public.",
+      "whatWorks": [
+        "Questions before aesthetics: \"we'll always ask questions and delve deeper first\", on the stated basis that \"how something looks is just one piece of the puzzle\"",
+        "A single spoken quality bar — \"it'll do, won't do\" — short enough that anyone in the studio can apply it out loud to a piece of work",
+        "A numbered, coded archive (\"Scraps\": #00001 onward, tagged SB-WRK, SB-TYP, INSP, ART, ARC, READ, SYS) that keeps their own output and their references in one retrievable system",
+        "Build systems that extend: for Nike Track & Field they added one new flexible device — the \"acceleration graphic\" — to an existing identity instead of restarting it",
+        "One long-term production partner (a decade-plus with Generation Press) so ideas can be tested in real print without re-explaining the studio's standards each time",
+        "Deliberately small: clients speak to the designer doing the work, and hiring weighs personality fit alongside craft — \"we're a small studio, we need to make sure your personality fits too\"",
+        "Public honesty about pace: Michael Place left the industry's it's-all-rosy pose behind after burnout, and says so — the studio is run to be survivable"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With the client's world, not the moodboard. They go in with \"no preconceived idea of the outcome\", learn the business, and try to \"see the world through their eyes\"; the first work is questions and writing, not marks. Because the studio is small, the person asking the questions is the person who will design the answer, so nothing is lost in a handover."
+        },
+        {
+          "name": "Core method",
+          "notes": "Design the system, then prove it. Their deliverable is typically a robust identity toolkit — visual and verbal, often with custom type — rather than a set of finished artefacts, and they judge it by whether someone else can extend it. The Nike Track & Field work is the pattern: don't replace what exists, add one flexible device that lets the existing system reach new configurations."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The archive as a working tool. \"Scraps\" is a running, numbered file (#00001, #00002 …) where every entry is coded by type — SB-WRK for their own work, SB-TYP for type experiments, INSP / ART / ARC / READ / SYS for what they're looking at, from Otl Aicher to Donald Judd. It is inspiration turned into a retrievable index instead of an unsorted feed, and it doubles as the studio's public evidence of taste. Michael's Letraset catalogue collecting is the same instinct: study the source material, then apply it."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "\"It'll do, won't do\" — a bar inherited from The Designers Republic and stated as studio motto: work that would merely pass is rejected out loud. Alongside it, two beliefs about judgement itself: that a piece can't be fairly judged on its visual outcome alone (critics \"are not privy to the discussions with the client\"), and that the point is \"doing great work, with great people\" — meaning the client relationship and the studio's own health are treated as part of the quality of the work, not overheads outside it."
+        }
+      ],
+      "principle": {
+        "title": "Number and tag your references so they can be found again",
+        "explanation": "Build keeps a public archive where every input and output is given a serial number and a type code — their own work, their type experiments, architecture, artists, reading. That single act converts \"inspiration\" from a scroll you can't search into a library you can cite. It also raises the standard of what gets saved: assigning a code forces you to decide what kind of thing this is and why it earned a number, which is exactly the decision most saved images never survive.",
+        "howToApply": "Start one file for the Design Journal's own inputs and give every item a number and a three-letter code — REF for a site or campaign, TYP for a type pairing, PHO for a photography approach, SYS for a layout or grid system, OWN for your own past work. Add one sentence per entry saying what the borrowable move is. When a new listing or build starts, search the codes instead of the memory: pull three numbered entries and design against those, so the reference is cited rather than half-remembered."
+      },
+      "tags": [
+        "process",
+        "studio-model",
+        "systems",
+        "typography",
+        "archive",
+        "craft"
       ]
     }
   ]
