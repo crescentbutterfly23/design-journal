@@ -15689,6 +15689,180 @@
         "archive",
         "craft"
       ]
+    },
+    {
+      "date": "2026-08-25",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Monzo",
+        "url": "https://monzo.com"
+      },
+      "image": "images/2026-08-25-monzo.png",
+      "category": "Fintech / consumer banking",
+      "tagline": "A very long retail-bank homepage that stays readable because every claim carries its own qualifier and every statistic carries its own date.",
+      "summary": "Monzo sells eight product families on one page — current accounts, savings, investments, credit, travel, mortgages, pensions, business — and survives the length by never letting a section improvise: one white ground, Hot Coral as the only saturated accent, a rounded-card chassis in coral or near-navy, and short two-register headlines ('Payday, the Monzo way', 'Humans on hand, 24/7'). Depth is folded into tabbed modules rather than added as more scroll — 'Free features / Paid features' in one block, 'Save / Invest / Retire' in another — so the page reads as three or four decisions instead of twenty pitches. What raises it above a competent marketing page is the proof layer: a 'Did you know?' row of oddly specific numbers (£131 extra saved a year on roundups, £8.5bn in Instant Access Pots, £4.56m cashback in 2024, ~1,000 fraud attempts caught a month) each stamped 'Published August 2026', and below it the independent service-quality survey printed as a bar chart that names Starling, Nationwide, First Direct and Chase with their scores next to Monzo's 79%. The caveat is honest: past the accounts grid the page keeps going, and the regulatory blocks at the bottom are read by almost no one.",
+      "whatWorks": [
+        "One accent, used as a surface not a highlight: Hot Coral appears as whole card grounds alternating with near-navy, so the palette is two filled shapes rather than coloured text and buttons scattered over white",
+        "Every card wears a small grey label chip above its sentence ('24/7 support', 'No hidden fees', 'FSCS protected', 'Deposit cash and cheques') — the chip is the scannable layer and the sentence is the proof",
+        "Fine print sits inside the block it qualifies, at one line: '£500 minimum deposit', 'You could get back less than you invest', the rate dropping to 2.60% after two withdrawals — no footnote pile at the bottom of the page",
+        "Statistics are un-round and dated: £131, £4.56m, ~1,000 a month, all under 'Published August 2026', which makes them read as an audited figure rather than a marketing number",
+        "Third-party proof is printed as a chart with competitors named and scored, not as a badge — Monzo 79%, Starling 76%, Nationwide and First Direct 75%, Chase 68%",
+        "Depth is tabbed, not stacked: 'Free features / Paid features' and 'Save / Invest / Retire' keep three product families inside one section chassis so the visitor compares instead of scrolling"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "'Monzo for all your money' over a lifestyle frame of someone on a sofa holding the Hot Coral card, one primary CTA ('Open a free bank account'), and immediately beneath it three regulatory trust marks — Which? Recommended Provider, Current Account Switch Guarantee, FSCS. A bank's fold has to answer 'is my money safe' before 'is this nice', and putting the three seals in the fold retires that question in one row."
+        },
+        {
+          "name": "Rate offer + 'Tell me about…' topic row",
+          "notes": "A single savings rate gets its own block ('Earn up to 3.65% AER (variable) with Select Access') with the deposit minimum in one line under the CTA, then the nav problem is solved sideways: a row of seven cards named as the visitor's own request — Bank accounts, Savings and ISAs, Investments, Credit, Travel, Mortgages, Pensions — each with a flat custom icon (coral card, piggy bank, umbrella, plane, house). Entry points are labelled by what the visitor wants to ask, not by how the product line is filed."
+        },
+        {
+          "name": "'Manage your money today' (tabbed free / paid)",
+          "notes": "One module with a Free features / Paid features toggle: four benefits per tab, each a short headline plus a sentence plus either app UI or a hand paying with the coral card. Tabs are doing real work here — the paywall becomes a comparison the visitor performs themselves instead of a pricing table argument, and the section stays one screen tall no matter how many features exist."
+        },
+        {
+          "name": "'Build your money for tomorrow' (Save / Invest / Retire tabs)",
+          "notes": "The same chassis reused for the three long-horizon products, with the risk language sitting in the block that earns it ('You could get back less than you invest', '18+, Monzo current account required'). Imagery switches to still-life props — a watering can, a tilted coin, a coin jar with leaves — which keeps three abstract financial products visually distinct without three new layouts."
+        },
+        {
+          "name": "Trust block: 'A regulated bank with 24/7 support'",
+          "notes": "A four-card grid, coral and navy alternating diagonally, with the headline and one CTA centred in the gap between them; each card is a label chip plus two lines of plain fact (in-app chat, no monthly fees, PayPoint/Post Office cash deposits at £1, FSCS to £120,000). The centred headline in a hole in the grid is the page's one structural flourish, and it works because the cards around it are all the same size."
+        },
+        {
+          "name": "Accounts grid + Which? recognition",
+          "notes": "Eight account cards carrying name, one value sentence, the fee or APR spelled out (Perks £9/mo, Extra £3/mo, Max £19/mo, Flex 29% APR representative) and a 'Learn more' link — type only, no imagery, so price comparison is the whole job of the section. It is immediately followed by 'Which? recommended 2 years in a row' with both dated badges and '16 million people already banking with Monzo'."
+        },
+        {
+          "name": "'Did you know?' stats + independent service quality survey",
+          "notes": "The proof floor of the page: six stat cards with un-round numbers and small illustrated icons, stamped 'Published August 2026', then the FCA-mandated service-quality charts for Great Britain and Northern Ireland with named competitors and percentages, stamped 'Published February 2026', plus the APP fraud rankings and a link to the PSR report. A block most brands would treat as compliance is used as the strongest evidence on the page."
+        },
+        {
+          "name": "App download, web fallback, footer",
+          "notes": "Conversion ends practically rather than emotionally — literal install instructions with both store badges, then 'No phone? No problem.' explaining laptop login if the phone is lost, over a warm orange-to-red gradient. The footer is five honest columns (Products / Company / Using Monzo / Help & Security / Site & App Info) with the FCA registration number, company number and registered address set plainly rather than hidden."
+        }
+      ],
+      "principle": {
+        "title": "Date-stamp your numbers and keep them un-round",
+        "explanation": "A statistic with no date and a suspiciously tidy value ('over 500 homes sold', 'thousands of happy clients') reads as a claim; the same fact given to the pound or the day, with the month it was calculated, reads as a record someone could audit. Monzo's proof row works because £131 and £4.56m and '~1,000 a month' are obviously counted rather than composed, and because 'Published August 2026' tells you when they were true — which also gives the number a shelf life, so it gets refreshed instead of quietly ageing on the page.",
+        "howToApply": "On Aperture pages and collateral, replace every round brag with a counted one and stamp it: '112 days average time on market in Lakewood, Jan–Jun 2026', 'list-to-sale 98.4% across 37 closings in 2025', 'photographed within 6 days of signing, last 12 listings'. Put the source in the same small line, keep the stat block to one row, and set a quarterly reminder to re-date it — an un-refreshed stamp is worse than no stamp."
+      },
+      "tags": [
+        "fintech",
+        "color",
+        "proof",
+        "information-architecture",
+        "copywriting",
+        "trust"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "PlayStation — 'It Happens on PS5' (hero film + global social, digital and OOH)",
+        "url": "https://blog.playstation.com/2026/08/17/new-it-happens-on-ps5-campaign-highlights-the-biggest-moments-of-play/"
+      },
+      "image": "images/2026-08-25-ad-playstation-ps5.jpg",
+      "category": "Brand film + social/digital key frames",
+      "tagline": "A campaign of impossible worlds whose payoff frame is a normal living room seen through a door standing alone in a desert.",
+      "when": "Launched 17 August 2026, global — Sony Interactive Entertainment with adam&eve\\TBWA; a hero film plus social, digital, out-of-home, creator partnerships and local installations (Marvel's Wolverine challenge pods in France, Berserker Mode in Australia, Sentinel head installations in the UK, Canada and Spain), timed to the Wolverine launch on 15 September",
+      "summary": "The film is a run of large, expensive, obviously impossible images — cars hanging in mid-air over a plaza in front of a stadium built in the shape of the PlayStation logo, classical statues at golden hour holding a book embossed with the four PlayStation symbols, a high-speed jet ski chase — but the frame the campaign keeps returning to is a wooden door standing on its own in a purple dune field under a starfield, opened onto a warm, ordinary living room where someone is sitting with a controller. The spectacle is the promise; the small lit rectangle is the product. It also hides its branding in the world rather than locking it up in a corner: the mark is a building, an embossed cover, a shape in the architecture, so the logo is discovered rather than presented.",
+      "whatWorks": [
+        "One aperture, two temperatures: a warm tungsten interior rectangle set inside a cold purple-blue exterior — the colour contrast alone tells you which side you are meant to want",
+        "The impossible object is boring in construction (a plain panelled door, hinges, a handle) so the surrounding surrealism reads as real rather than rendered",
+        "The product moment is deliberately unglamorous — a normal room, a rug, a wall shelf, a person seen from behind — so the fantasy resolves into something the viewer can actually occupy",
+        "No logo lockup in the frame: the brand appears as world-building (a stadium in the shape of the mark, the four symbols embossed on a statue's book), which survives cropping to any social ratio",
+        "Sightline composition: the door is off-centre and the light spills toward the camera, so the eye lands on the screen inside the room, which is the only detail small enough to require a second look",
+        "The line does the CTA's job by naming the place rather than the action — 'It Happens on PS5' — and the game slate carries the urgency instead of an offer"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A door with nothing attached to it, standing in an empty dune field under a Milky Way sky. The scroll stops on the impossibility of an interior object in an exterior with no building — and unlike a big action frame, it poses a question ('a door to where?') that only resolves if you keep watching."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'It Happens on PS5' — a locative, not a claim: no adjective, no comparison, no spec. It lets an anthology of unrelated worlds (Wolverine, 007, God of War, GTA VI) sit under one line, and it puts the emphasis on the room the console is in rather than on the hardware."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The composition is a warm rectangle inside a cold field. Interior light does the pointing, the door frame does the cropping, and the human is small, seen from behind, and doing nothing photogenic. Branding is embedded in the world elsewhere in the campaign — the mark as a stadium, the four symbols embossed on a book held by a statue — so the frame never needs a lockup."
+        },
+        {
+          "name": "CTA",
+          "notes": "There is no button; the release calendar is the call to action (Marvel's Wolverine on 15 September, then the rest of the slate), extended physically by local installations — challenge pods, a Berserker Mode activation, Sentinel heads — so the ask is 'come and stand in it' rather than 'click'."
+        }
+      ],
+      "principle": {
+        "title": "Make the ordinary room the payoff, framed by the spectacle",
+        "explanation": "Aspirational imagery fails when the viewer cannot find themselves in it: a perfect frame with no ordinary detail is admired and forgotten. Putting the mundane, occupiable thing at the end of a spectacular setup gives the fantasy somewhere to land — the vastness is the promise, the small warm rectangle is the thing being sold, and the contrast between them is what makes the ordinary thing feel earned rather than modest.",
+        "howToApply": "Shoot the listing hero at dusk from the dark side: stand outside in the cool blue of the garden, terrace or street and frame the warm lit interior through a doorway, window or arch, with one lamp on and a person or two seated inside doing nothing staged. Let the aperture crop the room instead of shooting the room wide, keep the exterior deliberately empty and cold, and skip the logo in the frame — the caption can carry it."
+      },
+      "tags": [
+        "composition",
+        "photography",
+        "color",
+        "framing",
+        "brand-marks",
+        "film"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Alvin Lustig",
+        "url": "https://en.wikipedia.org/wiki/Alvin_Lustig"
+      },
+      "image": "images/2026-08-25-designer-alvin-lustig.jpg",
+      "category": "American mid-century modernism / book jackets, interiors, identity",
+      "when": "1915–1955 · American",
+      "tagline": "Designed over seventy New Directions jackets by reading each book and restating its feeling as one abstract mark — and, once blind, by dictating the layouts in picas.",
+      "summary": "Lustig was the American designer who refused to stay in one medium: book jackets for New Directions' New Classics series, interiors, a chair, textiles, signage, magazine art direction (visual research director at Look in 1944, work for Fortune), taught by nobody in particular and shaped instead by three months at Frank Lloyd Wright's Taliesin in 1935 and a print shop he ran at the back of a Brentwood drugstore. His jacket method was to read the text, take the author's private, subjective drive and objectify it — sometimes as an obvious symbol lifted from the subject, sometimes as a purely atmospheric characterisation of the book's emotional content — and each jacket commits to one or the other. Diabetes left him effectively blind by 1954 and he kept working by dictating layouts to assistants in exact measurements ('indent 12 picas, flush left'), with Ivan Chermayeff apprenticing beside him; he died at 40 in December 1955, and Elaine Lustig Cohen carried the practice on. Pictured is his cover for Perspektiven no. 5 (S. Fischer Verlag) rather than a portrait — there is no freely licensed photograph of him.",
+      "whatWorks": [
+        "Read the actual content before designing: his stated method was to get the feel of the author's creative drive, then restate it in graphic terms — not to illustrate the plot",
+        "Decide per piece whether it needs a literal symbol taken from the subject or an atmospheric equivalent of its feeling, and commit to one",
+        "Build the image from the material already on hand — his first New Directions jacket was assembled from pieces of type metal pulled from the cases of his own print shop, not from commissioned illustration",
+        "Make every decision nameable in measurements, so the design can be dictated, handed to someone else's hands, and reproduced exactly",
+        "Treat a jacket, a room, a chair and a letterhead as the same problem at different scales — the same visual argument should survive the change of medium",
+        "Refuse to design down: assume the audience can read an abstract mark, and let the small type carry the literal information"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "With the text, not the format. He read the book, looked for the author's creative drive rather than the story's events, and named the feeling he was going to translate. The brief was therefore always about equivalence — what does this book feel like, and what shape is that — which is why seventy-odd jackets in one series never settle into a formula."
+        },
+        {
+          "name": "Core method",
+          "notes": "Objectify the subjective: take the private, internal content and project it outward as one visual statement. He was explicit that the symbols were sometimes obvious and taken straight from the subject, and sometimes evasive, characterising the emotional content instead — a fork in the road he chose on purpose each time rather than blending both into one crowded cover."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Making pictures out of typographic material. Working from his own experimental print shop (1937–1944, much of it for Ward Ritchie Press) he composed non-representational images from standard geometric type ornaments and pieces of type metal, which gave him abstraction that a letterpress could actually print. The constraint was the style: shapes limited to what sat in the cases, colour limited to what the press could hold."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "A design should be specifiable, not gestural — the proof is that from 1954, blind, he kept producing work by dictating instructions in picas and alignments. He held that the audience did not need designing down to, so the arresting element could be genuinely abstract while the small type stayed complete and legible. And he judged the work across media: if the idea only survived as a jacket, it was decoration rather than an idea."
+        }
+      ],
+      "principle": {
+        "title": "Choose a symbol or an atmosphere — never both",
+        "explanation": "Most weak layouts are two designs fighting: a literal emblem of the thing (the arch, the key, the coastline) sitting on top of a mood (the gradient, the film grain, the golden light), each halving the other's force. Lustig's jackets are decisive because he picked the register first — this one is a symbol taken from the subject, that one is a characterisation of its feeling — and then spent the whole surface on that one choice. Naming the register before you start also gives you a test you can apply to every element afterwards: does this serve the symbol, or does it serve the mood?",
+        "howToApply": "Before laying out a cover, flyer or ad, write one word on the artboard: SYMBOL or ATMOSPHERE. If SYMBOL, find the one object only this property has (the spiral stair, the olive terrace, the arched window), shoot or draw it clean against a flat ground, and forbid yourself any mood treatment — no gradient, no vignette, no warm filter. If ATMOSPHERE, commit to light and colour (the 5pm room, the fog off the water) and forbid any emblem or icon, letting the small type carry every fact. Then check each element against the word and delete what serves the other one."
+      },
+      "tags": [
+        "process",
+        "typography",
+        "book-design",
+        "abstraction",
+        "craft",
+        "constraints"
+      ]
     }
   ]
 }
