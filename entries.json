@@ -14668,177 +14668,177 @@
         "process"
       ]
     },
-  {
-    "date": "2026-08-17",
-    "source": "daily",
-    "kind": "site",
-    "site": {
-      "name": "The Modern House",
-      "url": "https://www.themodernhouse.com"
+    {
+      "date": "2026-08-17",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "The Modern House",
+        "url": "https://www.themodernhouse.com"
+      },
+      "image": "images/2026-08-17-the-modern-house.png",
+      "category": "Estate agency / property editorial",
+      "tagline": "A property agency homepage that opens with today's story instead of a search box, and lets four facts and one photograph sell each house.",
+      "summary": "The Modern House sells design-led UK homes, and the site is built like a magazine that happens to transact. There is no search bar, no map, no filter panel above the fold — the fold is a single dated editorial slot ('Today at The Modern House') pointing at one hand-picked house. Below it, three galleries (Prime, New, Featured) present properties as photograph plus four data points — house name, place, price, tenure — with no badges, no agent headshots and no 'Enquire' buttons on the cards, so the photography and the naming carry all the persuasion. The whole palette is paper white, warm cream and black; every drop of colour in the page comes from the property photography itself. Caveat: buyers who arrive knowing they want three beds in Hackney under £1m have to go hunting — the search affordance is a single word in the top-right corner.",
+      "whatWorks": [
+        "The homepage hero is a dated editorial slot, not a search box: eyebrow 'TODAY AT THE MODERN HOUSE' over one serif headline ('Tale of Two: an exceptional house beside Highgate Cemetery in north London') and a single outlined 'VIEW SALES LISTING' button — one house, chosen today, treated as news",
+        "Listing cards carry exactly four facts in two lines — name + place on the left, price + tenure right-aligned opposite them ('Heriot / Haslemere, Surrey' → '£2,650,000 / Freehold') — no badges, no beds/baths icon row, no CTA; the restraint is what makes them read as objects rather than inventory",
+        "Every house has a NAME set in serif above its location — Seven Whistlers, Chestnut Cottage II, The Old Vicarage — so the grid scans as a collection of characters instead of addresses",
+        "Two type roles only, used with total discipline: a transitional serif for names, prices, headlines and press quotes; widely letterspaced sans small caps for nav, section labels ('PRIME', 'NEW', 'FEATURED', 'PAST SALES') and every button",
+        "Zero brand accent colour — paper white, warm cream panels and black. Section changes are signalled by swapping the ground, and one band's edge is cut on a diagonal, so the page has rhythm without a single tinted button",
+        "The seller pitch is interleaved between buyer galleries as full-width black quote bands — '“One of the 100 Best Things in the World” — GQ' above 'HOW MUCH IS MY HOME WORTH?' — borrowing press credibility to ask for the appraisal instead of asserting it themselves",
+        "Sold work is shown, not hidden: a 'PAST SALES' gallery with a SOLD corner label where the price would be, which turns the archive into proof of the kind of house they get"
+      ],
+      "sections": [
+        {
+          "name": "Nav",
+          "notes": "Three intents on the left (BUY / SELL / PRIME), centred letterspaced wordmark, and JOURNAL / NEWSLETTER / ALERTS / SEARCH on the right. The editorial arm sits at the same level as the transactional one, and 'ALERTS' quietly does the lead capture that a filter panel would."
+        },
+        {
+          "name": "Hero — today's house",
+          "notes": "Split layout: a full-bleed interior photograph (a dark reflective splashback, bookshelves, tulips — a detail, not a wide-angle room) occupies about two thirds, with a cream panel beside it holding the dated eyebrow, a three-line serif headline and one outlined button. Choosing a house per day makes the homepage worth revisiting and signals curation before any copy claims it."
+        },
+        {
+          "name": "Prime / New / Featured galleries",
+          "notes": "Three near-identical three-up rows, each with a small centred label and a right-aligned outlined 'VIEW ALL …' button. Same card template throughout, so the only variables are the photograph and the four facts — the segmentation (Prime = top of market, New = fresh, Featured = editor's pick) is doing merchandising work that filters would otherwise have to do."
+        },
+        {
+          "name": "Black press band + seller CTA",
+          "notes": "A full-width black stripe with a one-line press quote in serif and an outlined 'HOW MUCH IS MY HOME WORTH?' button, its lower edge sliced on a diagonal into the next cream section. The tonal flip plus the angled cut makes the one commercial ask on the page impossible to scroll past without registering it."
+        },
+        {
+          "name": "Past sales",
+          "notes": "Same card grid, images tagged SOLD in the top-left, and the word 'Sold' replacing the price in the right-hand column — no numbers, no bragging. It reads as portfolio, and it's the strongest argument to a seller on the page."
+        },
+        {
+          "name": "Testimonial stack over full-bleed photography",
+          "notes": "Two press quotes with attributions in italic (Evening Standard, then Gentleman's Journal) — the second set in white over a full-bleed kitchen photograph with 'ABOUT US' beneath. Quote → CTA, quote → CTA: proof and ask are paired rather than pooled in a logo strip."
+        },
+        {
+          "name": "Footer",
+          "notes": "Black, four columns — ABOUT, CONTACT, newsletter subscribe with an explicit consent checkbox, and FOLLOW US icons. Trust marks (The Property Ombudsman, Trading Standards Approved Code, Zoopla, Rightmove) sit on the bottom line, and a link points to their sister brand Inigo for period houses — regulated-industry credentials and portfolio cross-sell handled without disturbing the editorial tone above."
+        }
+      ],
+      "principle": {
+        "title": "Open the homepage with today's pick, not the search box",
+        "explanation": "A search field says 'we have inventory, go dig.' A dated editorial slot — one property, chosen today, written up like a story — says someone with taste has already done the digging, and it makes the homepage worth returning to tomorrow. Curation is claimed by every agency and proved by almost none; a visible date is the cheapest proof there is.",
+        "howToApply": "On the Aperture homepage, give the fold a single dated slot — eyebrow 'Today at Aperture', one photograph, the house's name and a one-line reason it's worth seeing, one outlined button to the listing — and push search to a word in the top-right nav. Rotate it on a weekday cadence you can actually sustain, and keep the collection grids beneath it on one card template: name, place, price, one fact, nothing else."
+      },
+      "tags": [
+        "editorial",
+        "real-estate",
+        "typography",
+        "restraint",
+        "layout",
+        "photography"
+      ]
     },
-    "image": "images/2026-08-17-the-modern-house.png",
-    "category": "Estate agency / property editorial",
-    "tagline": "A property agency homepage that opens with today's story instead of a search box, and lets four facts and one photograph sell each house.",
-    "summary": "The Modern House sells design-led UK homes, and the site is built like a magazine that happens to transact. There is no search bar, no map, no filter panel above the fold — the fold is a single dated editorial slot ('Today at The Modern House') pointing at one hand-picked house. Below it, three galleries (Prime, New, Featured) present properties as photograph plus four data points — house name, place, price, tenure — with no badges, no agent headshots and no 'Enquire' buttons on the cards, so the photography and the naming carry all the persuasion. The whole palette is paper white, warm cream and black; every drop of colour in the page comes from the property photography itself. Caveat: buyers who arrive knowing they want three beds in Hackney under £1m have to go hunting — the search affordance is a single word in the top-right corner.",
-    "whatWorks": [
-      "The homepage hero is a dated editorial slot, not a search box: eyebrow 'TODAY AT THE MODERN HOUSE' over one serif headline ('Tale of Two: an exceptional house beside Highgate Cemetery in north London') and a single outlined 'VIEW SALES LISTING' button — one house, chosen today, treated as news",
-      "Listing cards carry exactly four facts in two lines — name + place on the left, price + tenure right-aligned opposite them ('Heriot / Haslemere, Surrey' → '£2,650,000 / Freehold') — no badges, no beds/baths icon row, no CTA; the restraint is what makes them read as objects rather than inventory",
-      "Every house has a NAME set in serif above its location — Seven Whistlers, Chestnut Cottage II, The Old Vicarage — so the grid scans as a collection of characters instead of addresses",
-      "Two type roles only, used with total discipline: a transitional serif for names, prices, headlines and press quotes; widely letterspaced sans small caps for nav, section labels ('PRIME', 'NEW', 'FEATURED', 'PAST SALES') and every button",
-      "Zero brand accent colour — paper white, warm cream panels and black. Section changes are signalled by swapping the ground, and one band's edge is cut on a diagonal, so the page has rhythm without a single tinted button",
-      "The seller pitch is interleaved between buyer galleries as full-width black quote bands — '“One of the 100 Best Things in the World” — GQ' above 'HOW MUCH IS MY HOME WORTH?' — borrowing press credibility to ask for the appraisal instead of asserting it themselves",
-      "Sold work is shown, not hidden: a 'PAST SALES' gallery with a SOLD corner label where the price would be, which turns the archive into proof of the kind of house they get"
-    ],
-    "sections": [
-      {
-        "name": "Nav",
-        "notes": "Three intents on the left (BUY / SELL / PRIME), centred letterspaced wordmark, and JOURNAL / NEWSLETTER / ALERTS / SEARCH on the right. The editorial arm sits at the same level as the transactional one, and 'ALERTS' quietly does the lead capture that a filter panel would."
+    {
+      "date": "2026-08-17",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Etagi — 'Go home!' (branded red cards in live football)",
+        "url": "https://www.adsoftheworld.com/campaigns/go-home-6f9f8e2b-c897-4c6c-9f67-3d1a6eff829d"
       },
-      {
-        "name": "Hero — today's house",
-        "notes": "Split layout: a full-bleed interior photograph (a dark reflective splashback, bookshelves, tulips — a detail, not a wide-angle room) occupies about two thirds, with a cream panel beside it holding the dated eyebrow, a three-line serif headline and one outlined button. Choosing a house per day makes the homepage worth revisiting and signals curation before any copy claims it."
+      "image": "images/2026-08-17-ad-etagi-go-home.png",
+      "category": "Ambient media / branded content inside a live sports broadcast (+ social amplification)",
+      "tagline": "The real-estate brand printed its message on the referee's red card — an object whose existing meaning is already 'go home'.",
+      "when": "Launched May 2026 in Russia, during the WINLINE Media League football season; posted to Ads of the World in August 2026",
+      "summary": "Agency Soda found a piece of media nobody was selling: in football, a red card sends a player home, and 'home' is the product of the real estate agency Etagi. They partnered with the WINLINE Media League and reprinted the referees' red cards with 'GO HOME!' plus the Etagi logo and etagi.com — so every send-off, and then every highlight reel, commentary clip and outraged fan post about it, carried the ad. The case board claims over 6,000,000 views, 30+ media and Telegram mentions and 5,000+ reactions on a 500,000₽ production budget, with no media buy at all. The honest caveat: the frequency is in the referees' hands, so this is a stunt that borrows attention rather than a channel you can plan.",
+      "whatWorks": [
+        "The medium already carries the message: the raised-card gesture means 'you're going home' before a single word is read, so the brand line needs no set-up",
+        "Two words do everything — 'GO HOME!' is simultaneously the referee's ruling and a property ad, and the pun only works on this exact object",
+        "The buy is a prop, not an impression: money went into printing cards instead of buying the commercial break, and the placement is unskippable because it's inside the play",
+        "It lands at peak attention — a send-off is the loudest moment in a match, when every camera and every phone is already pointed at the card",
+        "It self-distributes: highlights, screenshots and arguments about the decision re-run the ad for free, which is why 6M views cost 500,000₽",
+        "The creative is one flat red field, condensed white caps and the logo with the URL under it — anything more would be illegible at broadcast distance"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The referee's arm goes up. The stadium and the broadcast are already staring at the card — the campaign didn't create the attention moment, it rented one that recurs a few times a night and never gets skipped."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'GO HOME!' — the sport's meaning and the advertiser's offer are the same two words, which is the whole idea. The case film stretches it into a chant ('GO HOOOME!'), matching how the crowd actually says it."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is no layout to speak of: the standard-issue red rectangle, white condensed caps, the etagi wordmark and etagi.com beneath. Held at arm's length on a 4K broadcast, legibility is the only design requirement, and the familiar red is the brand recognition."
+        },
+        {
+          "name": "CTA",
+          "notes": "Just the URL on the card. The real call to action is the gesture itself — the recall device is a thing viewers will see again next match, with or without the brand present."
+        }
+      ],
+      "principle": {
+        "title": "Brand the object that already means your message",
+        "explanation": "Most ads have to build the meaning they need before they can sell against it, which is what the first three seconds are usually spent on. If you can find an object or ritual already inside your audience's attention whose meaning IS your pitch, the set-up is free — and because the object is part of the event rather than a break in it, nobody can skip it or scroll past.",
+        "howToApply": "List the physical objects already present at the moment your buyer decides — the open-house sign-in card, the key tag, the SOLD rider, the lockbox, the champagne label at closing — and pick the one whose existing meaning is your offer. Brand that object with two words and a URL, at a size that reads in a phone photo, before commissioning any new creative."
       },
-      {
-        "name": "Prime / New / Featured galleries",
-        "notes": "Three near-identical three-up rows, each with a small centred label and a right-aligned outlined 'VIEW ALL …' button. Same card template throughout, so the only variables are the photograph and the four facts — the segmentation (Prime = top of market, New = fresh, Featured = editor's pick) is doing merchandising work that filters would otherwise have to do."
-      },
-      {
-        "name": "Black press band + seller CTA",
-        "notes": "A full-width black stripe with a one-line press quote in serif and an outlined 'HOW MUCH IS MY HOME WORTH?' button, its lower edge sliced on a diagonal into the next cream section. The tonal flip plus the angled cut makes the one commercial ask on the page impossible to scroll past without registering it."
-      },
-      {
-        "name": "Past sales",
-        "notes": "Same card grid, images tagged SOLD in the top-left, and the word 'Sold' replacing the price in the right-hand column — no numbers, no bragging. It reads as portfolio, and it's the strongest argument to a seller on the page."
-      },
-      {
-        "name": "Testimonial stack over full-bleed photography",
-        "notes": "Two press quotes with attributions in italic (Evening Standard, then Gentleman's Journal) — the second set in white over a full-bleed kitchen photograph with 'ABOUT US' beneath. Quote → CTA, quote → CTA: proof and ask are paired rather than pooled in a logo strip."
-      },
-      {
-        "name": "Footer",
-        "notes": "Black, four columns — ABOUT, CONTACT, newsletter subscribe with an explicit consent checkbox, and FOLLOW US icons. Trust marks (The Property Ombudsman, Trading Standards Approved Code, Zoopla, Rightmove) sit on the bottom line, and a link points to their sister brand Inigo for period houses — regulated-industry credentials and portfolio cross-sell handled without disturbing the editorial tone above."
-      }
-    ],
-    "principle": {
-      "title": "Open the homepage with today's pick, not the search box",
-      "explanation": "A search field says 'we have inventory, go dig.' A dated editorial slot — one property, chosen today, written up like a story — says someone with taste has already done the digging, and it makes the homepage worth returning to tomorrow. Curation is claimed by every agency and proved by almost none; a visible date is the cheapest proof there is.",
-      "howToApply": "On the Aperture homepage, give the fold a single dated slot — eyebrow 'Today at Aperture', one photograph, the house's name and a one-line reason it's worth seeing, one outlined button to the listing — and push search to a word in the top-right nav. Rotate it on a weekday cadence you can actually sustain, and keep the collection grids beneath it on one card template: name, place, price, one fact, nothing else."
+      "tags": [
+        "ambient",
+        "media-placement",
+        "copywriting",
+        "real-estate",
+        "restraint",
+        "earned-reach"
+      ]
     },
-    "tags": [
-      "editorial",
-      "real-estate",
-      "typography",
-      "restraint",
-      "layout",
-      "photography"
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "source": "daily",
-    "kind": "ad",
-    "site": {
-      "name": "Etagi — 'Go home!' (branded red cards in live football)",
-      "url": "https://www.adsoftheworld.com/campaigns/go-home-6f9f8e2b-c897-4c6c-9f67-3d1a6eff829d"
+    {
+      "date": "2026-08-17",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Base Design",
+        "url": "https://www.basedesign.com"
+      },
+      "image": "images/2026-08-17-designer-base-design.png",
+      "category": "Branding studio network — studio operating model (Studio Monday)",
+      "when": "Founded 1993 · Brussels — now New York, Brussels, Geneva, Melbourne and Saigon",
+      "tagline": "A studio that refused to become one big studio — five small ones instead — and that redesigned its own company the way it redesigns a client's.",
+      "summary": "Base was started in Brussels in 1993 by Thierry Brunfaut, Dimitri Jeurissen and Juliette Cavenaile, and grew into what it calls 'one network, five studios, a company of cultures' — Brussels, New York, Geneva, Melbourne, Saigon, plus a digital team — doing cultural and commercial identity work with a stated bias toward substance: 'less decoration, more meaning', brands built as 'living systems: resilient, adaptive'. The part worth stealing is not the work but the operating model. Brunfaut is candid that the partners 'made ALL the possible mistakes you can make while running a creative business' before deciding to redesign Base itself, installing deliberate processes and rituals; his 5-Minute Poster series — roughly fifty typographic maxims, each made in a maximum of 300 seconds — is the same instinct at personal scale. Their public homepage is a live FEED that mixes client work, unfinished internal 'BASE_TEST' experiments and press clippings in one grid.",
+      "whatWorks": [
+        "Treat your own practice as a client: write the brief for how the studio works (rituals, hand-offs, who talks to the client) and redesign it deliberately instead of letting it accrete",
+        "Timebox the idea before you craft it — 300 seconds, type only, one thought per poster — so weak concepts die cheap and the good one has to survive without technique",
+        "Keep a running public feed where tests and unfinished experiments sit beside finished projects; the archive becomes the marketing and the studio's thinking stays visible",
+        "Put the makers in the room: 'You work directly with the makers — strategists, designers, technologists. No middle layers'",
+        "Stay small on purpose and multiply instead of scaling — several small studios that learn from each other beat one large one that averages out",
+        "Design identities as adaptive systems with rules for change, not a locked logo sheet — the deliverable is behaviour under new conditions",
+        "Collect the maxims as you work: Brunfaut jots the lines that surface in meetings and while designing, and those notes become the posters"
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "Five permanent studios plus a digital team, each partner-led and culturally local, described as 'a network that learns from itself' rather than head office and branches. Growth happened by opening another small studio instead of enlarging the first one, which keeps every office at a size where the partners still touch the work."
+        },
+        {
+          "name": "How they take on work",
+          "notes": "Direct contact between client and makers — no account layer between the brief and the people executing it — and a strategy step framed as cultural reading: get 'to what makes it real, then give it form with honesty and personality'. Cultural clients (museums, festivals, institutions) sit deliberately alongside commercial ones, and each keeps the other honest."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Reduction under a clock. The 5-Minute Poster series is the purest form: a hard 300-second limit, black type on white, one piece of design wisdom per sheet. Working that fast forces the concept to carry the piece, and the constraint makes producing fifty of them possible — volume and reduction from the same rule."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'Less decoration, more meaning' is used as a test, not a slogan — if an element is not carrying meaning it comes off. Identities are judged on whether they stay iconic while adapting, so the question at review is 'does this survive being stretched, animated, translated and handed to someone else?' rather than 'is this beautiful today?'. And when the studio itself stops working, that's a design problem with a brief."
+        }
+      ],
+      "principle": {
+        "title": "Timebox the concept, then judge it before you craft it",
+        "explanation": "Craft hides weak ideas — an hour of typesetting can make an empty thought look considered, and then you're attached to it. A hard five-minute limit produces something honest: black type, one thought, no technique to hide behind. It also makes volume possible, and volume is what lets you throw the first six away.",
+        "howToApply": "Before designing any page or piece of collateral, set a 5-minute timer and make one type-only slide stating the single idea — no images, no colour, one line of copy. Do five, pin them side by side, and only start real layout on the one that still reads as an idea at that size. Keep a running note of the sharp lines that come out of client calls; they're the next batch of prompts."
+      },
+      "tags": [
+        "process",
+        "studio-culture",
+        "concepting",
+        "constraints",
+        "identity-systems"
+      ]
     },
-    "image": "images/2026-08-17-ad-etagi-go-home.png",
-    "category": "Ambient media / branded content inside a live sports broadcast (+ social amplification)",
-    "tagline": "The real-estate brand printed its message on the referee's red card — an object whose existing meaning is already 'go home'.",
-    "when": "Launched May 2026 in Russia, during the WINLINE Media League football season; posted to Ads of the World in August 2026",
-    "summary": "Agency Soda found a piece of media nobody was selling: in football, a red card sends a player home, and 'home' is the product of the real estate agency Etagi. They partnered with the WINLINE Media League and reprinted the referees' red cards with 'GO HOME!' plus the Etagi logo and etagi.com — so every send-off, and then every highlight reel, commentary clip and outraged fan post about it, carried the ad. The case board claims over 6,000,000 views, 30+ media and Telegram mentions and 5,000+ reactions on a 500,000₽ production budget, with no media buy at all. The honest caveat: the frequency is in the referees' hands, so this is a stunt that borrows attention rather than a channel you can plan.",
-    "whatWorks": [
-      "The medium already carries the message: the raised-card gesture means 'you're going home' before a single word is read, so the brand line needs no set-up",
-      "Two words do everything — 'GO HOME!' is simultaneously the referee's ruling and a property ad, and the pun only works on this exact object",
-      "The buy is a prop, not an impression: money went into printing cards instead of buying the commercial break, and the placement is unskippable because it's inside the play",
-      "It lands at peak attention — a send-off is the loudest moment in a match, when every camera and every phone is already pointed at the card",
-      "It self-distributes: highlights, screenshots and arguments about the decision re-run the ad for free, which is why 6M views cost 500,000₽",
-      "The creative is one flat red field, condensed white caps and the logo with the URL under it — anything more would be illegible at broadcast distance"
-    ],
-    "sections": [
-      {
-        "name": "Hook",
-        "notes": "The referee's arm goes up. The stadium and the broadcast are already staring at the card — the campaign didn't create the attention moment, it rented one that recurs a few times a night and never gets skipped."
-      },
-      {
-        "name": "Message / headline",
-        "notes": "'GO HOME!' — the sport's meaning and the advertiser's offer are the same two words, which is the whole idea. The case film stretches it into a chant ('GO HOOOME!'), matching how the crowd actually says it."
-      },
-      {
-        "name": "Visual / hero",
-        "notes": "There is no layout to speak of: the standard-issue red rectangle, white condensed caps, the etagi wordmark and etagi.com beneath. Held at arm's length on a 4K broadcast, legibility is the only design requirement, and the familiar red is the brand recognition."
-      },
-      {
-        "name": "CTA",
-        "notes": "Just the URL on the card. The real call to action is the gesture itself — the recall device is a thing viewers will see again next match, with or without the brand present."
-      }
-    ],
-    "principle": {
-      "title": "Brand the object that already means your message",
-      "explanation": "Most ads have to build the meaning they need before they can sell against it, which is what the first three seconds are usually spent on. If you can find an object or ritual already inside your audience's attention whose meaning IS your pitch, the set-up is free — and because the object is part of the event rather than a break in it, nobody can skip it or scroll past.",
-      "howToApply": "List the physical objects already present at the moment your buyer decides — the open-house sign-in card, the key tag, the SOLD rider, the lockbox, the champagne label at closing — and pick the one whose existing meaning is your offer. Brand that object with two words and a URL, at a size that reads in a phone photo, before commissioning any new creative."
-    },
-    "tags": [
-      "ambient",
-      "media-placement",
-      "copywriting",
-      "real-estate",
-      "restraint",
-      "earned-reach"
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "source": "daily",
-    "kind": "designer",
-    "site": {
-      "name": "Base Design",
-      "url": "https://www.basedesign.com"
-    },
-    "image": "images/2026-08-17-designer-base-design.png",
-    "category": "Branding studio network — studio operating model (Studio Monday)",
-    "when": "Founded 1993 · Brussels — now New York, Brussels, Geneva, Melbourne and Saigon",
-    "tagline": "A studio that refused to become one big studio — five small ones instead — and that redesigned its own company the way it redesigns a client's.",
-    "summary": "Base was started in Brussels in 1993 by Thierry Brunfaut, Dimitri Jeurissen and Juliette Cavenaile, and grew into what it calls 'one network, five studios, a company of cultures' — Brussels, New York, Geneva, Melbourne, Saigon, plus a digital team — doing cultural and commercial identity work with a stated bias toward substance: 'less decoration, more meaning', brands built as 'living systems: resilient, adaptive'. The part worth stealing is not the work but the operating model. Brunfaut is candid that the partners 'made ALL the possible mistakes you can make while running a creative business' before deciding to redesign Base itself, installing deliberate processes and rituals; his 5-Minute Poster series — roughly fifty typographic maxims, each made in a maximum of 300 seconds — is the same instinct at personal scale. Their public homepage is a live FEED that mixes client work, unfinished internal 'BASE_TEST' experiments and press clippings in one grid.",
-    "whatWorks": [
-      "Treat your own practice as a client: write the brief for how the studio works (rituals, hand-offs, who talks to the client) and redesign it deliberately instead of letting it accrete",
-      "Timebox the idea before you craft it — 300 seconds, type only, one thought per poster — so weak concepts die cheap and the good one has to survive without technique",
-      "Keep a running public feed where tests and unfinished experiments sit beside finished projects; the archive becomes the marketing and the studio's thinking stays visible",
-      "Put the makers in the room: 'You work directly with the makers — strategists, designers, technologists. No middle layers'",
-      "Stay small on purpose and multiply instead of scaling — several small studios that learn from each other beat one large one that averages out",
-      "Design identities as adaptive systems with rules for change, not a locked logo sheet — the deliverable is behaviour under new conditions",
-      "Collect the maxims as you work: Brunfaut jots the lines that surface in meetings and while designing, and those notes become the posters"
-    ],
-    "sections": [
-      {
-        "name": "How it's structured",
-        "notes": "Five permanent studios plus a digital team, each partner-led and culturally local, described as 'a network that learns from itself' rather than head office and branches. Growth happened by opening another small studio instead of enlarging the first one, which keeps every office at a size where the partners still touch the work."
-      },
-      {
-        "name": "How they take on work",
-        "notes": "Direct contact between client and makers — no account layer between the brief and the people executing it — and a strategy step framed as cultural reading: get 'to what makes it real, then give it form with honesty and personality'. Cultural clients (museums, festivals, institutions) sit deliberately alongside commercial ones, and each keeps the other honest."
-      },
-      {
-        "name": "Signature method",
-        "notes": "Reduction under a clock. The 5-Minute Poster series is the purest form: a hard 300-second limit, black type on white, one piece of design wisdom per sheet. Working that fast forces the concept to carry the piece, and the constraint makes producing fifty of them possible — volume and reduction from the same rule."
-      },
-      {
-        "name": "Decision rules / philosophy",
-        "notes": "'Less decoration, more meaning' is used as a test, not a slogan — if an element is not carrying meaning it comes off. Identities are judged on whether they stay iconic while adapting, so the question at review is 'does this survive being stretched, animated, translated and handed to someone else?' rather than 'is this beautiful today?'. And when the studio itself stops working, that's a design problem with a brief."
-      }
-    ],
-    "principle": {
-      "title": "Timebox the concept, then judge it before you craft it",
-      "explanation": "Craft hides weak ideas — an hour of typesetting can make an empty thought look considered, and then you're attached to it. A hard five-minute limit produces something honest: black type, one thought, no technique to hide behind. It also makes volume possible, and volume is what lets you throw the first six away.",
-      "howToApply": "Before designing any page or piece of collateral, set a 5-minute timer and make one type-only slide stating the single idea — no images, no colour, one line of copy. Do five, pin them side by side, and only start real layout on the one that still reads as an idea at that size. Keep a running note of the sharp lines that come out of client calls; they're the next batch of prompts."
-    },
-    "tags": [
-      "process",
-      "studio-culture",
-      "concepting",
-      "constraints",
-      "identity-systems"
-    ]
-  },
     {
       "date": "2026-08-18",
       "source": "daily",
@@ -15862,6 +15862,174 @@
         "abstraction",
         "craft",
         "constraints"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "The Criterion Collection",
+        "url": "https://www.criterion.com"
+      },
+      "image": "images/2026-08-26-the-criterion-collection.png",
+      "category": "Editorial / e-commerce (film)",
+      "tagline": "A homepage with no house display face: six full-bleed panels, each one wearing the artwork's own lettering, held together by an identical outline button.",
+      "summary": "Criterion sells three things off one page — a disc store, a streaming channel and a film magazine — and it never asks its own brand typography to compete with the art it licenses. Each panel is a full-bleed still with the title set in that film or series' own lettering (Little Odessa in red condensed stencil, 'Rock Biopics That Don't Suck' in comic bold plus script, The Complete Kubrick in wide grotesk), so the page reads like a stack of posters rather than a template. What makes it cohere is not a typeface but a set of invariants: the same panel proportion, the same centred stack, and the same white 1px outline button at the same width and vertical position, every single time. The one house typographic decision left on the page is a quiet one — the nav sets 'Current', the editorial arm, in italic serif while the two commercial destinations stay roman.",
+      "whatWorks": [
+        "No single hero: six stacked full-bleed panels of roughly equal weight, each a complete offer (image + title lockup + exactly one button), so any scroll position is a valid entry point.",
+        "Every CTA is the identical white 1px outline button — same width, same centred position, same small letterspaced caps — which is the invariant that makes six wildly different artworks read as one page.",
+        "Each panel's title is set in the content's own lettering, not a house display face; the site's brand voice is the frame, not the font.",
+        "'THE CRITERION COLLECTION' runs vertically up the hero's left edge, exactly where a disc spine would sit — the physical product's spine carried into the layout.",
+        "One type switch encodes the change of register: 'Current' is italic serif in both nav and footer while 'Shop the Collection' and 'The Criterion Channel' stay roman — you know it's reading, not shopping, before you click.",
+        "The new-release panel tilts the cover art into an overlapping collage rather than a tidy grid, so twelve covers become one texture with room for a centred headline on top.",
+        "The footer is deliberately image-free — serif column headings over uppercase sans links — so nothing competes with the six panels above it."
+      ],
+      "sections": [
+        {
+          "name": "Hero (rotating title panel)",
+          "notes": "Full-bleed key art for Little Odessa with the film's own red condensed stencil title, a single 'SHOP NOW' outline button, five dot indicators bottom-left and a down-chevron. The dots say it rotates and the chevron says the page continues — two tiny affordances instead of a scroll hint animation. The vertical 'THE CRITERION COLLECTION' rail on the left edge is the only place the brand name appears in the fold."
+        },
+        {
+          "name": "Channel promo — 'Adventures in Moviegoing'",
+          "notes": "A documentary photograph of Fred Armisen and Carrie Brownstein mid-conversation, title in chunky white display, and a small yellow ticket-stub graphic tucked into the lockup as the one hit of colour. 'WATCH NOW ON THE CHANNEL' — same button, different destination, so the streaming service gets equal billing with the store without a separate nav level."
+        },
+        {
+          "name": "New releases — 'November Titles Announced!'",
+          "notes": "Instead of a product grid, a dozen cover artworks are scaled up and tilted into an overlapping collage; the covers themselves are the brand asset, so the section's job is to show range (Harold and Maude, Marie Antoinette, Wild at Heart, The Right Stuff, K-Pop Demon Hunters) rather than list SKUs. Centred serif headline plus 'PREORDER NOW'."
+        },
+        {
+          "name": "Editorial programming — 'Rock Biopics That Don't Suck'",
+          "notes": "A black-and-white still carries a comic-red display headline with a script kicker — tonally the loudest panel on the page, and it works because the chassis around it hasn't changed. This is the panel that proves the system: swap in a completely different type voice and the page still reads as Criterion."
+        },
+        {
+          "name": "Box set — 'The Complete Kubrick'",
+          "notes": "A 2001 spacesuit still with the title in a wide, tightly-tracked grotesk stacked over three lines, dropped low-centre so the figures read either side of it. 'PREORDER NOW' sits at the same y-position as every other button on the page."
+        },
+        {
+          "name": "Criterion Closet Picks",
+          "notes": "A 4-up video-store portrait strip of guests holding discs, with the only interrogative copy on the page — 'Which movies did your favorite filmmakers, actors, and artists take home?' — in a friendly geometric sans beneath the title, then 'WATCH & SHOP'. The single CTA that admits it's doing two jobs at once, which is the whole business model in two words."
+        },
+        {
+          "name": "Footer",
+          "notes": "Near-black ground, the 'C' mark alone at top-left, then a four-column sitemap: serif headings (Shop the Collection / Current / The Criterion Channel / Our Mission / My Criterion / Terms of Use / FAQ) over small uppercase sans links, with 'Current' still italic. Newsletter field with one line of plain copy, four social glyphs, and the Janus Films lockup as a co-brand at bottom-right — no imagery, no repeated CTA, no back-to-top gimmick."
+        }
+      ],
+      "principle": {
+        "title": "Mark your editorial arm with a type style, not a separate site",
+        "explanation": "When one brand runs a store and a publication, the usual moves are a subdomain, a dropdown, or a visually different second site — all of which cost traffic and make the reading feel like a side project. Criterion keeps all three businesses in one nav and distinguishes the editorial one with a single typographic switch: 'Current' in italic serif, 'Shop the Collection' and 'The Criterion Channel' in roman. Style change is enough to reset the reader's expectation of register, and it costs one CSS rule instead of an architecture.",
+        "howToApply": "On Aperture, put the journal / market notes in the same top-level nav as Listings and Services, but set that one item in the italic of the house serif, and carry the same italic through to its section headings, card titles and footer column. Nothing else changes — same grid, same cards, same footer — so readers register 'this is reading, not shopping' before they click, and the traffic and SEO stay on one domain."
+      },
+      "tags": [
+        "typography",
+        "layout",
+        "editorial",
+        "e-commerce",
+        "brand-system"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "The New Zealand Herpes Foundation — 'The Best Place in the World to Have Herpes'",
+        "url": "https://www.adsoftheworld.com/campaigns/the-best-place-in-the-world-to-have-herpes-case-study"
+      },
+      "image": "images/2026-08-26-ad-nz-herpes-foundation.png",
+      "category": "Social / digital campaign key visual + gamified index",
+      "tagline": "It says the stigmatised word at full display size, in the exact typographic costume of a New Zealand tourism poster — and then turns the ask into a national leaderboard.",
+      "when": "Launched 13 October 2024 (Global Herpes Awareness Day), New Zealand; Cannes Lions Grand Prix winner 2025. Agencies: FINCH (Sydney) and Motion Sickness (Auckland).",
+      "summary": "The key visual is a sun-faded pastoral landscape — snow-capped range, sheep in a green paddock — with a fat rounded-gothic headline knitted into the photograph: 'Make New Zealand the best place in the world to have herpes.' Every craft decision is borrowed from tourism advertising rather than health advertising: the retro drop-shadowed type, the faded Kodachrome grade, the civic 'Make New Zealand…' construction. Behind it sat the actual mechanic — a Herpes Stigma Index that publicly ranked OECD countries and a six-part destigmatisation course fronted by recognisable New Zealanders — so the campaign gave the country a score to move rather than a message to agree with. It climbed from 9th to 1st in eight weeks, with 12.7 million social impressions and 69% of participants reporting reduced stigma.",
+      "whatWorks": [
+        "The taboo word is set at full display size in the headline — no euphemism, no 'HSV-1', no clinical hedge — which is what makes the friendly typography read as confidence instead of avoidance.",
+        "Type is interlocked with the photograph: 'Make' and 'the best place in the world to have' drop to small weight and tuck into the negative space between the big words, so a 40-character sentence still reads as one shape.",
+        "The whole palette comes from the landscape — sky blue, paddock green, one mustard yellow for the two secondary lines — so nothing on the frame looks like a brand overlay.",
+        "The construction is civic, not personal: 'Make New Zealand the best place…' asks for a national achievement rather than asking an individual to feel better, which is why strangers shared it.",
+        "The proof was built as a public scoreboard (the Herpes Stigma Index, ranked against other OECD countries) — a thing that can visibly move, so the campaign had a reason to be posted about again in week six.",
+        "Authority was cast rather than asserted: a former Director-General of Health and an All Blacks coach hosting the course did the credibility work that a logo and a statistic cannot."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "For about a second it is indistinguishable from a 1970s '100% Pure' tourism poster — mountains, sheep, faded film grade. The scroll stops because the visual promises one thing and the last word of the headline delivers another; the surprise is carried by the typography's warmth, not by shock imagery."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Make New Zealand the best place in the world to have herpes.' The operative words — New Zealand / herpes — are the two largest, and the connective tissue shrinks to fit between them, so the skim reads as a country plus a condition. It is an invitation to a national ranking, not a plea for sympathy."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A wide, unpeopled landscape doing the emotional work: the subject of the ad is the country, not a patient, which sidesteps every stock-photo cliché of health advertising. Rounded slab-gothic with a hard drop shadow places it in the era of civic pride posters, and the type sits *in* the photograph's depth rather than on a scrim above it."
+        },
+        {
+          "name": "CTA",
+          "notes": "The ask is not 'learn more' but 'take the course' — a six-part video series — with the Herpes Stigma Index as the running scoreboard that reported back on progress. The action is measurable, public and repeatable, which is why the campaign kept generating posts after launch week instead of decaying."
+        }
+      ],
+      "principle": {
+        "title": "Give the audience a scoreboard, not a message",
+        "explanation": "A campaign that asks people to believe something has one moment of attention and then decays. A campaign that publishes a number the audience can move has a reason to be checked, shared and re-posted every time the number changes — and it converts a soft attitude brief into something with a visible before and after. The creative's job becomes recruiting people onto a team rather than persuading them of a position.",
+        "howToApply": "Pick one number Aperture can publish and genuinely move, and put it somewhere public with a date and a rank: 'Lakewood: 112 days average time on market — 4th of 9 districts we track, August 2026.' Post the standings monthly, name the districts, and let the movement be the content — the listing is what people click after they've come back to check the table."
+      },
+      "tags": [
+        "typography",
+        "copywriting",
+        "social",
+        "health",
+        "mechanic"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Lou Dorfsman",
+        "url": "https://en.wikipedia.org/wiki/Lou_Dorfsman"
+      },
+      "image": "images/2026-08-26-designer-lou-dorfsman.png",
+      "category": "Corporate identity & advertising / American modernism",
+      "when": "1918–2008 · American",
+      "tagline": "Ran CBS's entire visual output for four decades on two deliberately different rulebooks — loose and idea-led for the advertising, absolutely locked for anything permanent.",
+      "summary": "Dorfsman joined CBS in 1946, took over from William Golden as creative director in 1959, and stayed until 1991 — roughly 45 years with authority over advertising, on-air promotion, news set design, packaging, annual reports, signage and the building itself. He is the best argument in the canon for the in-house designer: not a supplier executing briefs, but someone who learned the business well enough to invent the assignments. His masterwork, the Gastrotypographicalassemblage — a 35-foot hand-milled wood-type wall for the Black Rock cafeteria, made with Herb Lubalin and Tom Carnase — is also the clearest statement of his method: 'enthusiastic excess and clinical precision' in the same object.",
+      "whatWorks": [
+        "Learn the client's business from the inside before designing: he sat with the CBS Radio sales force and read the audience research, then made hundreds of small-space ads each arguing one specific point about the medium.",
+        "Run two rulebooks — eclectic and idea-first for campaign work, obsessively systematised for anything permanent — and never let one standard leak into the other.",
+        "Invent the assignment nobody asked for when the business needs it (the 132-page 'Field of Vision' book on CBS's seven-game NFL broadcast; a commemorative volume on the 1969 moon-landing coverage).",
+        "Commission the typeface rather than choose one — CBS Didot and CBS Sans from Freeman Craw — then push it down to the surfaces nobody briefs: door numbers, elevator buttons, wall clocks, cafeteria menus.",
+        "Write the ad as an argument, not a description: 'This program is so beautiful it has to die' saved The Waltons by making the audience the appeal's mechanism.",
+        "Treat the small, unglamorous, permanent artefacts as the real identity — the campaign is temporary, the door number is forever."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "By minding the client's business, in his own framing — he went to the CBS Radio sales meetings, learned what the reps were actually up against and how the audiences differed, and only then designed. The output of that phase was volume, not a concept: hundreds of small print ads, each one making a single compelling case for radio as a medium. The immersion, not a portfolio, is what got him Golden's job when Golden died in 1959."
+        },
+        {
+          "name": "Core method",
+          "notes": "Two explicitly different standards depending on the artefact's lifespan. Outward-facing advertising was eclectic — whatever typography, illustration or photography the idea demanded, changing execution to execution, image-driven and fast where the industry was still text-heavy. Everything permanent — the headquarters, the stationery, the signage, the on-air identity — was governed with near-fanatical rigour. Same designer, same decade, two rulebooks, held apart on purpose."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Proprietary type applied to the surfaces nobody thinks to specify. Rather than pick a face for Black Rock, he had Freeman Craw cut CBS Didot and CBS Sans, then specified them everywhere in the building — elevator buttons, door numbers, clock faces, cafeteria signage. The Gastrotypographicalassemblage (1966) is the extreme case: the cafeteria's food list rendered as a wall of hand-milled wood type, dense to the point of excess yet set with the precision of a title sequence."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Design defines the company's character, which makes every un-designed surface a leak. Corollaries he acted on: it is the designer's job to identify the opportunity, not to wait for the brief; and to take responsibility for the thing being sold, not just its presentation — he built news sets, convention booths and commemorative books because they were needed. He extended Golden's conceptual clarity rather than replacing it, and he judged work by whether it argued something, wittily and quickly."
+        }
+      ],
+      "principle": {
+        "title": "Run two rulebooks: loose for campaigns, locked for the permanent surfaces",
+        "explanation": "Most brand programmes fail in one of two ways — they systematise the campaign work until every ad looks like the last one, or they leave the permanent surfaces unspecified so the identity dissolves in the places people encounter it daily. Dorfsman's answer was to sort artefacts by lifespan and apply opposite standards: a one-off persuasion piece is allowed to invent its own typography every time, while anything that sits in the world for years gets no discretion at all. Consistency lives where it compounds; freedom lives where it converts.",
+        "howToApply": "Split the Aperture inventory into two lists. Temporary — carousels, story units, single-property key visuals: fixed logo position and legal line, everything else negotiable per property. Permanent — business cards, yard signs, email signature, the magazine masthead and folio, listing-page templates, PDF covers: one typeface pair, one accent, exact sizes and positions, and a written rule that they are never redesigned for a single job. Then find the permanent surfaces currently unspecified (the email footer, the PDF filename convention, the sign rider, the closing-gift card) and lock those next."
+      },
+      "tags": [
+        "process",
+        "identity",
+        "typography",
+        "in-house",
+        "systems"
       ]
     }
   ]
