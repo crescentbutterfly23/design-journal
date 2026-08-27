@@ -16031,6 +16031,173 @@
         "in-house",
         "systems"
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Domus Nova",
+        "url": "https://www.domusnova.com"
+      },
+      "image": "images/2026-08-27-domus-nova.png",
+      "category": "Property / estate agency",
+      "tagline": "A two-market estate agency that sells its taste before its inventory — the fold is one villa with its architect credited, and the dual-market claim is proved by two clocks that keep running.",
+      "summary": "Domus Nova sells design-led homes in London and Ibiza, and the homepage is built so that the properties, not the agency, do the talking: no slogan above the fold, no search box, just one featured villa in a wide frame with the neighbouring slides peeking in at both edges. Everything below reuses a single card template for rentals and sales alike, scoped by All / Ibiza / London chips so one page serves two geographies instead of splitting into two sites. Warm off-white grounds, a quiet transitional serif for headings, tiny sans for every piece of metadata, and photography allowed to be the only saturated thing on the page. The caveat: it is a long scroll that repeats its carousel pattern several times and several modules lazy-load late, so the middle of the page can feel like it is still arriving.",
+      "whatWorks": [
+        "The fold carries no slogan at all — one villa, its name ('Villa Aria'), its market ('Ibiza Sales'), and a right-aligned one-line dek that credits the architect by name ('a striking new-build villa for sale by award-winning Fran Silvestre Arquitectos'). The property is the headline and the architect is the proof.",
+        "Two live local clocks — 'LDN 15:22:31' and 'IBZ 16:22:31' in tiny mono — sit directly above the positioning paragraph, so 'London and Ibiza' is demonstrated by something that keeps ticking rather than asserted in a sentence.",
+        "One card template does rentals and sales: photo (a second image on hover), an overline badge that says why this one is notable ('New Listing – Architect Designed', 'Under Offer', 'Designed by Romano Arquitectos'), then two tight lines — name and location on the left, price and beds/lettings term hard right.",
+        "Market chips (All / Ibiza / London) sit at the top right of each carousel and scope the module rather than the navigation, keeping both markets in one brand and one page.",
+        "The journal block deliberately breaks the photo rhythm: flat colour panels (sage, deep teal) carrying a city-and-date stamp ('LDN · 03 Aug 2026'), a headline and topic chips — dated, attributable, and no image needed.",
+        "Conversion is one centred sentence — 'Thoughtful design is the foundation for a life lived well' — and one outlined 'Request appraisal' button in acres of white; the printed magazine (Issue 08) and a photograph of the actual shopfront do the credibility work instead of badges."
+      ],
+      "sections": [
+        {
+          "name": "Hero — featured listing carousel",
+          "notes": "A wide landscape frame holds one villa, with the previous and next slides cropped in at both edges so you can feel the queue without a dot nav. Caption sits below the image in two columns: property name and market lower-left, a single descriptive line lower-right that names the architect. No headline, no CTA, no search — the first thing the site says is 'here is a house worth looking at'."
+        },
+        {
+          "name": "Positioning + dual clocks",
+          "notes": "On a warm off-white panel: two running local times labelled LDN and IBZ, then a three-line serif statement ('An independent estate agency specialising in London and Ibiza's design-led homes.'), a short paragraph with the only hard numbers on the page ('More than 20 years' experience'), a small 'Find out more' with a square bullet, a hairline rule, and the BARNES International lockup as borrowed credibility. Right half: one architectural interior. This is the whole About page compressed into one screen."
+        },
+        {
+          "name": "Featured Rentals & Featured Sales",
+          "notes": "Two horizontally scrolling carousels using the identical card, one for lettings and one for sales, each with 'View all' and All/Ibiza/London chips. Giving rentals the same visual weight as sales is a positioning choice — it says the taste, not the transaction size, is the brand. The badges carry the editorial judgement ('Architect Designed', 'Sea Views'), which is what makes a grid of tiles scannable rather than uniform."
+        },
+        {
+          "name": "Appraisal line",
+          "notes": "A single centred sentence and one outlined button, surrounded by more whitespace than any other block. The pitch is a belief ('Thoughtful design is the foundation for a life lived well') followed by the service in three verbs ('buy better, sell smarter and let with confidence') — the only place on the page the agency asks for anything."
+        },
+        {
+          "name": "A new chapter / offices + the magazine",
+          "notes": "Left column of text explains the South Kensington office and the BARNES partnership; the right is a photograph of the real Notting Hill shopfront with someone walking past — premises as proof. Directly beneath, the printed 'Domus Ibiza Magazine 2026 – Issue 08' is shown as a rendered cover next to a lifestyle frame, with 'Read Now' and 'Browse our Editorial'. A physical artefact is harder to fake than a testimonial."
+        },
+        {
+          "name": "Over in Ibiza + Our Journal",
+          "notes": "A three-image cluster (villa, owners, terrace) sets up the island arm with two buttons ('Find your escape', 'Explore Ibiza'), then the journal grid alternates flat colour cards with photo cards, every card stamped with market and date. The editorial sits inside the same page and the same nav as Buy and Rent rather than being exiled to a blog."
+        },
+        {
+          "name": "Footer",
+          "notes": "'Need some advice?' repeats the three verbs, then a newsletter field with explicit consent, both offices' phone numbers side by side, two separate social sets (London and Ibiza), and the unglamorous compliance links spelled out — Landlord Letting Fees, Tenant Letting Fees, CMP Certificate. The dual-market structure holds all the way to the last line."
+        }
+      ],
+      "principle": {
+        "title": "Prove the claim with something that keeps running, not a sentence",
+        "explanation": "Every agency says it is 'international' or 'local' or 'always on'. Those are adjectives, and a reader discounts adjectives automatically. A live artefact — a clock, a counter, a dated stamp, a last-updated time — cannot be written by a copywriter; it can only be true. Domus Nova spends two lines of 10px mono on London and Ibiza local time and gets more credibility from it than the paragraph underneath.",
+        "howToApply": "On Aperture's Europe collection page, put the local time of each market in a small mono row above the intro line (Dallas / Lisbon / Madrid), and stamp the listings grid with 'Updated 27 Aug 2026, 09:14' pulled from the build, not typed. On a single property page, the equivalent is a live 'Days on market: 6' or 'Last price change: none' — one running number beats a paragraph of positioning."
+      },
+      "tags": [
+        "property",
+        "editorial",
+        "layout",
+        "typography",
+        "cards"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Dove — 'Real Beauty Redefined for the AI Era' (Pinterest takeover + paid social key visual)",
+        "url": "https://www.adsoftheworld.com/campaigns/real-beauty-redefined-for-the-ai-era-case-study"
+      },
+      "image": "images/2026-08-27-ad-dove-real-beauty-ai.png",
+      "category": "Social / platform takeover key visual",
+      "tagline": "Two portraits at identical crop with the AI prompt left visible under each — the ad hands you the evidence and lets you draw the conclusion.",
+      "when": "Published in the US in June 2025 by Mindshare for Dove (Unilever) — the AI chapter of Real Beauty's 20th year, continuing the stance Dove took in 2024's 'The Code'.",
+      "summary": "Dove's argument is that generative AI has learned a narrow definition of beauty, and rather than say so, the creative shows it: two vertical feed-shaped frames, same crop, same scale, same golden light, one generated from a generic prompt and one from Dove's Real Beauty prompt, with the prompt chips still sitting at the bottom of each image. The right third is almost empty — a navy question, a four-line stat, the wordmark with '20 years changing beauty', and a one-line CTA. The smallest type on the sheet is the honest part: AI was used here for the sole purpose of showing beauty bias in generative tools. In market it ran as a Pinterest homepage takeover plus paid social; the case study reports 787 million impressions and engagement 21.4% above Pinterest's norm for women.",
+      "whatWorks": [
+        "The comparison is staged inside the tool's own interface: the prompt is left on the image as chips — 'imagine / a confident / woman' on the left, 'according to 🕊 Real Beauty Campaign' on the right — so the viewer can check exactly what was asked. The ad is self-verifying rather than self-congratulating.",
+        "The two frames are locked to the same crop, scale, focal length and warm light, so the only variable left in the composition is the thing being argued about. Any other difference would have let the viewer explain the result away.",
+        "The headline is a question nobody can answer with 'no' — 'What kind of beauty do we want AI to learn?' — set in three short lines of navy, which makes the brand the convener of the question rather than the owner of the answer.",
+        "The stat is deliberately un-round and attributed to a prediction, not to Dove ('By 2025, 90% of online content is predicted to be generated by Artificial Intelligence'), and it is set at roughly a third of the headline size — evidence in a supporting role.",
+        "A beauty ad with no product in it at all: no bottle, no pack shot, no swatch. The frames are portrait 9:16, i.e. already the shape of the feed they were built for, so nothing had to be re-cropped for placement.",
+        "The disclaimer works as craft, not compliance: admitting the ad used AI to demonstrate AI's bias closes the only hole a sceptic could put a finger in, and it is printed in the smallest type on the page rather than buried in a caption."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Two phone-shaped rounded frames side by side, filling the left two-thirds. Before any words are read, the eye compares two faces at the same size and registers that one is uncannily smooth and one is a person laughing. The AI tell is left in on purpose — a melted patch on the left model's cheek and glassy plaid on her shirt."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'What kind of beauty do we want AI to learn?' in navy, three lines, centred in the right third. Beneath it, four short centred lines of grey: the 90% prediction, then 'Dove will keep committed to real beauty' and 'Learn more at: Dove.com' with only the domain in bold. Question first, position second, destination third — in that order."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The prompt chips are the hero device. Bottom-left frame reads like an unfinished prompt bar ('imagine' with a cursor, then two white pills), bottom-right replaces the last pill with 'according to 🕊 Real Beauty Campaign' — the same interface, one input swapped. The dove mark appears inside the chip, so the logo does argumentative work instead of sitting in a corner."
+        },
+        {
+          "name": "CTA",
+          "notes": "Deliberately soft: a domain in a sentence, then the wordmark with 'changing' bolded in '20 years changing beauty' — the only bold word in the block, and the one that carries the claim of continuity. Under it, the two-line asterisk about AI use. No button, no offer, no urgency."
+        }
+      ],
+      "principle": {
+        "title": "Stage the argument inside the interface, not next to it",
+        "explanation": "A claim about a system is easy to dismiss and hard to check. Rebuild the system's own interface — a prompt bar, a search field, a filter row, a results count — inside the creative, show the input you used, and the audience audits the claim themselves in about two seconds. It also solves the layout: the interface supplies the frame, the chips supply the caption, and you get to delete the explanatory paragraph.",
+        "howToApply": "For a listings ad, don't write 'more homes than the portals show'. Show two search-result panels side by side in your own UI at identical size, with the filter chips visible under each — 'Under €1M / 3+ beds / Portal' next to 'Under €1M / 3+ beds / Aperture' — and let the count and the photography differ. Same idea for a single property: put the real filter chips it satisfies along the bottom of the hero photograph instead of a bullet list."
+      },
+      "tags": [
+        "social",
+        "ai",
+        "comparison",
+        "typography",
+        "brand-purpose"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Alan Kitching",
+        "url": "https://en.wikipedia.org/wiki/Alan_Kitching_(typographic_artist)"
+      },
+      "image": "images/2026-08-27-designer-alan-kitching.png",
+      "category": "Letterpress typography / typographic art",
+      "when": "b. 1940 · British",
+      "tagline": "The compositor who made type into imagery — and who arrives at the composition with the wood letters in his hands and the press inked, not in a sketch.",
+      "summary": "Kitching was apprenticed at fifteen as a jobbing compositor, setting tickets, catalogues and posters by hand for six years, then spent decades in design studios — including Omnific with Derek Birdsall — before founding The Typography Workshop in Clerkenwell in 1989 and building a career out of a technology everyone else had abandoned. His letterpress work for The Guardian, the National Theatre, the British Library, Royal Mail and Dazed & Confused made words into pictures at large scale, printed by his own hand from wood and metal letter. He taught at the Royal College of Art from 1991 to 2006 and was made a Royal Designer for Industry in 1994. His line to students each morning is the whole method: 'I'm not interested in letterpress printing, I'm interested in what you can do with this stuff.'",
+      "whatWorks": [
+        "Learn one craft from the inside before you art-direct it. Six years setting other people's tickets and catalogues gave him the vocabulary — sizes, spacing, lock-up, register — that he later broke on purpose. Fluency first, expression second.",
+        "Make the first version in the final material. The composition is arrived at by handling real type and pulling real proofs, so the true constraints (which sizes exist in the cabinet, how the ink sits, where the register drifts) shape the idea instead of being retrofitted to it.",
+        "Build the image out of the words themselves rather than adding illustration. In 'Rainforest' the Portuguese word descends through forest, trees, rain and earth so the setting depicts its own meaning — no picture required.",
+        "Hold every expressive move to a content test: 'I always try to have some logic to the job, to the work.' Scale, rotation and colour each have to be earned by what the words say.",
+        "Own the instrument. The workshop and its collections — including the 'Entertaining Types' theatrical wood type acquired in 1999 — are a competitive advantage no competitor can download; the studio's materials are part of its identity.",
+        "Make the artefact the master and the file the copy: prints are hand-set, hand-printed, then reproduced at the same size, so the ink texture and misregistration survive into the reproduction as evidence of how it was made."
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "With the words and the type cabinets, not a layout. He reads the commission looking for the one thought that can be carried by letterforms alone, then goes to see what actually exists — which faces, which sizes, how many of each sort. Availability is treated as part of the brief rather than an obstacle, which is why his solutions look inevitable rather than styled."
+        },
+        {
+          "name": "Core method",
+          "notes": "Composition by proofing. Set, lock up, ink by hand, pull a proof, look at it, change it, print again over the top. Because colour arrives as successive transparent layers rather than as a chosen palette, the final decisions are made with the sheet physically in front of him — the process is iterative in the material, not in a file, and each state is a real object he can judge."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Type as image: words scaled, rotated, overlapped and overprinted at poster scale from wood letter until the setting performs its own meaning. He leaves the marks of the method visible — ink texture, slight misregistration, the grain of the wood — so the piece reads as made rather than rendered, which is precisely what a vector version cannot fake."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Two rules do most of the work. First, the logic test: if a move can't be justified by the content, it comes out. Second, the medium is a means and never the subject — 'I'm not interested in letterpress printing, I'm interested in what you can do with this stuff' — which is the guard against nostalgia work, and the reason his commercial commissions never read as heritage pastiche."
+        }
+      ],
+      "principle": {
+        "title": "Make the first version in the final material",
+        "explanation": "Decisions taken in a sketch, a moodboard or an empty artboard are free, and free decisions are untested — the constraints that actually determine the outcome (the real photographs, the real address strings, the real column width, the real paper size, what the press or the template will actually do) are absent. Kitching never has that problem because his sketch *is* a print. Bringing the real material forward moves the hard discoveries to the beginning of the job instead of the end.",
+        "howToApply": "Build the first comp of any Aperture piece with the real assets in place: the actual selects at their actual crops, the real address and price strings at their real character counts, on the true print size — before any type refinement. For a page, do the first pass in the browser at the real breakpoint with the real listing data rather than in a design file. If a headline only works at a length the copy never is, you want to know that on day one."
+      },
+      "tags": [
+        "process",
+        "typography",
+        "letterpress",
+        "craft",
+        "print"
+      ]
     }
   ]
 }
