@@ -16198,6 +16198,173 @@
         "craft",
         "print"
       ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Diaspora Co.",
+        "url": "https://www.diasporaco.com"
+      },
+      "image": "images/2026-08-28-diaspora-co.png",
+      "category": "E-commerce / single-origin food",
+      "tagline": "A spice shop that runs one four-claim spine down the entire page — named as a strip, argued as a comparison table, then evidenced with named farms and the people on them.",
+      "summary": "Underneath the loud palette this is one of the tightest argument structures in DTC: four claims — Single Origin, Fair Wages, Freshest Harvest, Highest Quality — are named once in a marigold strip near the top, then restated word-for-word as the four rows of a 'What Sets Us Apart' matrix two-thirds down, then evidenced a third time by a green full-bleed band of photographs from the farms themselves. The chassis is disciplined even where the brand is not: everything sits on a cream ground (#FFFDF3 / #FFFCEB), saturated colour is only ever allowed as a full-bleed band (magenta #D5137B, marigold #F58A23, green #007E00), and exactly two typefaces work with fixed jobs — the flared-serif P22 Mackinac Pro for every section heading and pull quote, Fustat sans for all UI, prices and body copy. The honest caveat: the middle of the page is still a conventional Shopify stack, and the carousel of star-rated product cards is the one place where four competing calls to action undo the clarity the rest of the page earns.",
+      "whatWorks": [
+        "The same four claim labels appear twice in identical wording — as an icon strip near the top and as the row headings of the comparison table far below — so two modules read as one continuing argument instead of two pitches.",
+        "'What Sets Us Apart' is a 4-column × 5-row matrix (Diaspora Co. / Conventional Grocery Store / Other Spice Companies) with a mark per cell and a one-line qualifier under each — the 'why does this cost more' objection answered in a single scannable block rather than a paragraph.",
+        "Saturated colour is only ever a full-bleed band; cards, product tiles and photography always sit on cream, so no coloured container ever competes with a photograph.",
+        "Two typefaces with non-overlapping roles — P22 Mackinac Pro for headings and quotes, Fustat for every interface string — which is why a page carrying magenta, marigold and green still reads as one brand rather than a theme.",
+        "The sourcing claim is proved by a photograph of a named grower on the green band ('Sourced from 150+ farms across India & Sri Lanka'), not by a map graphic, a leaf icon or a certification badge.",
+        "Endorsement is split by job: one long pull quote at display size on its own magenta band does the persuading, while a small greyscale logo row (Wired, Bon Appétit) elsewhere does the reassuring — the two never share a block."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "A seasonal photograph — the Pumpkin Spice tin standing in a real still life of squash and pumpkin, not on seamless white — under one short sentence ('Your fall favorites are back!'), a single line of subcopy naming the two products, and exactly one magenta pill. No slider, no second CTA, no value props stacked in the fold."
+        },
+        {
+          "name": "Claim strip",
+          "notes": "A marigold band directly under the hero naming the four claims — Single Origin, Fair Wages, Freshest Harvest, Highest Quality — as four small illustrated icons with two-word labels. It costs one screen-inch, sets the vocabulary for the rest of the page, and is the table of contents for the argument that follows."
+        },
+        {
+          "name": "Cookbook + endorsement",
+          "notes": "The cookbook is sold editorially rather than as another product tile: a large P22 Mackinac pull quote attributed to Alice Waters, a second from Nik Sharma, and one 'Shop the cookbook' link — then a separate small greyscale press-logo row. Authority and reassurance are handled by two different components at two different scales."
+        },
+        {
+          "name": "Most Popular grid",
+          "notes": "The commerce block: product cards with star rating, review count, badges (BESTSELLER, NEW), price and add-to-cart. It is the weakest section — every card shouts equally and the carousel arrows add a fifth thing to click — but it is quarantined in the middle of the page rather than interleaved through the argument."
+        },
+        {
+          "name": "Sourcing band",
+          "notes": "A deep green (#007E00) full-bleed block, 'Sourced from 150+ farms across India & Sri Lanka', carrying two large photographs from the farms with real people in them and short caption copy naming the growers and the trade terms. This is the page's proof floor: the claim from the strip, now with a face and a place attached."
+        },
+        {
+          "name": "What Sets Us Apart",
+          "notes": "A three-way comparison matrix on cream — Diaspora Co. against 'Conventional Grocery Store' and 'Other Spice Companies' — with the four claim labels as row headings and a one-line qualifier in each cell. It names the categories it is beating, which is what makes it feel like an argument rather than a brag; naming actual competitors would make it stronger still."
+        },
+        {
+          "name": "FAQ, newsletter and footer",
+          "notes": "A marigold accordion answering the six questions the comparison table provokes ('How are your spices different?', 'How do you support your farm partners?'), then a magenta newsletter band with hand-drawn spice illustrations and a four-column link footer. The objection handling sits after the argument, not before it."
+        }
+      ],
+      "principle": {
+        "title": "Name four claims, then let the page prove each one twice",
+        "explanation": "Most pages make a claim once, in a strip of icons, and then move on to selling — so the claim is decoration. This page fixes four claims in a specific wording and then earns each of them at two further depths: a comparison matrix for the visitor who wants to argue, and named people and places for the visitor who wants to believe. Because the wording never drifts between the three passes, a skimmer, a comparer and a sceptic all leave having read the same four sentences at different resolutions — and the page reads as one argument rather than a stack of modules.",
+        "howToApply": "Before designing an Aperture listing or service page, write the four claims down as two-word labels and refuse to reword them afterwards. Place them once as a compact strip under the hero; restate the identical four as the row headings of a comparison block that names what you are being compared against (the portals, a conventional brokerage, a discount listing service); then prove each one with a specific artefact further down — the photographer by name, the actual days-on-market figure, the marketing pieces themselves. If a claim cannot survive all three passes, it was an adjective and belongs off the page."
+      },
+      "tags": [
+        "e-commerce",
+        "color",
+        "typography",
+        "proof",
+        "layout"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Vaseline — 'Verified' (creator social + shoppable in-feed units)",
+        "url": "https://www.adsoftheworld.com/campaigns/verified"
+      },
+      "image": "images/2026-08-28-ad-vaseline-verified.png",
+      "category": "Creator-led social campaign with shoppable in-feed units",
+      "tagline": "Instead of policing 3.5 million unofficial 'Vaseline hacks', the brand lab-tested them and stamped the ones that passed with its own blue tick — so other people's videos became the advertising.",
+      "when": "Published May 2026 (South Africa and UK) — 2026 Clio Grand winner, by Ogilvy Singapore",
+      "summary": "People had been inventing uses for Vaseline for years and posting them — shoe polish, spice guard, teeth whitener, pomade, leather conditioner — with no involvement from the brand. Rather than issue a safety disclaimer or shoot a new film, Ogilvy Singapore built what the case calls a Social R&D Lab: scientists actually tested the viral hacks, and the brand then stitched into the original creators' videos to verify or debunk them, marking the survivors with a hand-drawn 'Vaseline Verified' tick. Verified hacks were made shoppable inside the same feed unit and the creators earned commission on tubs sold through them. Treat the numbers as the entrant's own — +43% underlying e-commerce sales growth, 63.3M interactions — but the structural move stands on its own.",
+      "whatWorks": [
+        "The hook is not a brand asset at all — it is a stranger's existing video, already carrying its own audience, with the brand entering as a small badge dropped into the corner of the frame.",
+        "One reusable device does all the work: a hand-drawn white speech-bubble outline holding an iridescent check, with 'Verified' set as a bitmap/geometric hybrid — small enough to overlay any 9:16 frame without covering a face, and identical across hundreds of posts.",
+        "The verdict is binary and public — verify or debunk — so the badge carries information; a mark that can never say no is decoration.",
+        "Proof is shown as procedure rather than adjective: a lab bench, gloved hands, a gloss-meter reading going from 0.0 to 7.0 on screen, instead of the words 'dermatologically proven'.",
+        "The conversion step lives in the same frame as the proof — verified hack, then a tagged product card (£4.50, Vaseline Petroleum Jelly 250ml, Sold by UnileverUK, Add to basket / Buy now) — so the demonstration, the shelf and the creator's payout are one unit rather than three campaigns.",
+        "The whole system is one Vaseline blue with white type, which means the only colour, texture and lighting variety on screen comes from the creators' own footage — the brand layer never competes with the content it is certifying."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A face the viewer may already follow, in their own bedroom or workshop, mid-hack — a leather bag being conditioned, a shoe being buffed, cuticles being sealed. Nothing about the first second reads as an ad, because the first second is not the brand's footage."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "One word, 'Verified', carrying the entire argument: it concedes that the audience invented the use, and claims only the right to adjudicate it. The pixel-lettered V and d graft the language of a platform badge onto the brand's own wordmark, so the meaning is understood before the copy is read."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The lab: gloved hands, pipettes, a gloss meter, before-and-after readings on screen. It is the only part of the campaign the brand shot, and it exists purely to make the badge cost something — the certification is credible because the testing is visible."
+        },
+        {
+          "name": "CTA",
+          "notes": "The badge itself becomes the buy button: the verified frame carries a tagged product card with a real price and 'Buy now', and commission flows back to the creator whose hack it was. The call to action is the same object as the proof, which is why nothing has to be re-explained at the point of sale."
+        }
+      ],
+      "principle": {
+        "title": "Certify what your audience already made instead of shooting something new",
+        "explanation": "When people are already producing content about you, a new brand asset has to buy attention that their content already has. Adjudicating it — publicly, with a pass/fail that can genuinely fail — converts that existing reach into your media, gives your mark real information value, and makes the audience the author while you stay the authority. The discipline is that the mark must be refusable: a badge that is only ever awarded is a sticker, and viewers price it accordingly.",
+        "howToApply": "Buyers and sellers already circulate rules of thumb — 'never list in December', 'repaint the front door', 'the Zestimate is close enough', 'stage every room'. Run those against Aperture's own closing data and publish a standing series with one fixed overlay device — VERIFIED or BUSTED, the number, the sample size and the month — laid over the original post format rather than a new template, and let it say BUSTED often enough that VERIFIED means something. Same badge, same position, one claim per post."
+      },
+      "tags": [
+        "social",
+        "creator",
+        "proof",
+        "ugc",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Kenya Hara",
+        "url": "https://en.wikipedia.org/wiki/Kenya_Hara"
+      },
+      "image": "images/2026-08-28-designer-kenya-hara.png",
+      "category": "Communication design / brand systems and exhibition curation",
+      "when": "b. 1958 · Japanese",
+      "tagline": "Muji's art director, who works by re-designing what everyone already knows and by building empty vessels rather than sending messages.",
+      "summary": "Hara joined Nippon Design Center in 1983 and has been Muji's art director since 2001 and a professor at Musashino Art University since 2003. He designed the programmes for the 1998 Nagano Winter Olympics ceremonies and the Expo 2005 Aichi posters, and curated the exhibitions that are really his method made public — Re-Design (2000), Haptic (2004), Senseware — alongside the books Designing Design, White and Ex-formation. The through-line is a refusal of novelty as the goal: design's job, in his account, is not to make things but to make things understood, and the strongest communication is often an empty container that the audience fills with their own meaning.",
+      "whatWorks": [
+        "Set the brief as a re-design of an object everyone already knows — a toilet roll, a tea bag, a box of matches — so the audience carries the original in their head and the idea can be judged rather than merely admired.",
+        "Run 'ex-formation': take one subject and make it unknown again through several parallel studies, treating an increase in curiosity as the deliverable rather than a solution.",
+        "Write the brief in a sense other than sight — how it should feel in the hand, its weight, the sound it makes — and let the visual answer follow from that.",
+        "Design a vessel, not a message: the Muji 'Horizon' poster is a salt flat, a hairline horizon, one small figure and the logo, with no product and no copy, precisely so the brand can hold whatever the customer brings.",
+        "Judge by sufficiency instead of maximum: Muji's 'kore de ii' ('this will do') rather than 'kore ga ii' ('this is the one') — a standard that rules out the extra flourish by definition.",
+        "Treat white and emptiness as capacity rather than absence, and protect that space in the layout the way you would protect a headline."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not with a search for a new form, but by choosing something already universal and re-designing it. Re-Design (2000) handed 32 designers everyday objects — toilet paper, tea bags, matches, immigration stamps — precisely because the familiar version acts as a control: every decision is visible against it, so the exhibition doubles as a critique of the designer's thinking rather than a display of their taste."
+        },
+        {
+          "name": "Core method",
+          "notes": "Ex-formation, the inverse of information. Where information makes something known, ex-formation makes the known unknown again: pick one subject (a river, the Shinano; a resort; the nose) and run many parallel studies on it, each stripping away an assumption, until the subject is genuinely strange. He teaches it as a studio method — one subject, many attacks — and counts the increase in curiosity, not a finished artefact, as the result."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The empty vessel. Muji under Hara does not broadcast a proposition; it offers a container. The 2003 'Horizon' campaign is an enormous photograph of the Uyuni salt flat with a figure the size of a full stop and the logo — no product, no headline — and the brand's whole meaning is what the viewer supplies. The companion move is Haptic (2004): briefing designers to design for touch, weight and temperature, so the concept arrives through a sense that cannot be faked in a rendering."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'Design is not about making things, it is about making things understood.' The practical tests: is this a message or a vessel? Can more be removed without the thing breaking? Is 'this will do' honestly true, or am I still adding to impress? And does the piece communicate through a sense other than sight — because if it only works as an image, it will not survive being an object, a shop or a room."
+        }
+      ],
+      "principle": {
+        "title": "Redesign the artefact your audience already knows by heart",
+        "explanation": "A newly invented format has to be learned before it can be judged, which is why new formats get admired and then quietly ignored. A re-design of something familiar is legible on sight: the audience holds the original in their head, so every change you made is visible, arguable and measurable, and you are forced to edit where you might otherwise have invented. It also protects you from the trap of proving your value with novelty rather than with improvement.",
+        "howToApply": "List the ten artefacts an Aperture buyer has already seen a hundred times — the yard sign, the open-house sign-in sheet, the one-page flyer, the 'just listed' post, the price-drop email, the key tag, the appointment text, the business card, the MLS photo order, the closing gift. Rank them by impressions per year, take the one with the most impressions and the least design, and redesign only that one thing. Present it as old-and-new at the same size on one sheet so the improvement is the argument, and do one a month instead of inventing a new format."
+      },
+      "tags": [
+        "process",
+        "reduction",
+        "brand systems",
+        "curation",
+        "japan"
+      ]
     }
   ]
 }
