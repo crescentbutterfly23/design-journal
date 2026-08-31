@@ -16365,6 +16365,170 @@
         "curation",
         "japan"
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Kvadrat",
+        "url": "https://www.kvadrat.dk"
+      },
+      "image": "images/2026-08-31-kvadrat.png",
+      "category": "Design brand / textiles",
+      "tagline": "A textile company that holds every piece of interface in greyscale so the only colour anywhere on the page comes out of a photograph.",
+      "summary": "Kvadrat sells fabric to architects, and the homepage is built so that nothing on screen can compete with the fabric. The wordmark, nav, headings, body copy, buttons and footer are all white, off-white, near-black and one mid-grey — so the blue sky through the weave in the hero, the green and blue curtains in the second card, and the oxblood chair further down are the only saturated colour a visitor ever sees. Type is never set over an image: every photograph runs clean and the title, two lines of copy and a dark pill CTA sit centred beneath it in a narrow measure, which makes the page read like catalogue spreads rather than a website. The honest caveat is that the discipline is total — every block gets the identical card and the identical pill, so nothing is louder than anything else and the page gives no steer on what matters most; it is a beautifully set shelf rather than an argument.",
+      "whatWorks": [
+        "The UI palette is white, off-white, near-black and one mid-grey, with zero brand accent colour — every saturated pixel on the page is inside a photograph, so the products supply the entire colour story and nothing has to be re-picked when the season changes.",
+        "No type is ever set over an image. Photographs run clean edge to edge within the margin, and the title, two lines of copy and the CTA sit centred underneath in a measure about half the image width.",
+        "Four different photographic registers — a macro shot of the weave against sky, product on a warm seamless, an in-situ interior with curtains and furniture, and three chairs on a studio floor — all lit in the same soft daylight with no grade, so the variety reads as one shoot instead of a stock mix.",
+        "Images are inset by exactly the same left/right margin as the text and never bleed to the viewport edge, which frames the whole page like paper and keeps the white ground continuous from masthead to footer.",
+        "One CTA component, repeated: a dark near-black pill with a white one-word label, the same size everywhere. There is no primary/secondary button system to maintain and no colour spent on buttons.",
+        "A sub-brand tab strip (kvadrat / shade / acoustics / Raf Simons / really) sits in 11px grey above the masthead, so a visitor picks the business before the product and the main nav stays seven plain words.",
+        "Product names are set in italic inside running copy — ‘discover Waves’, ‘two textiles, Ria and Field’ — a magazine convention that identifies a SKU without a chip, badge or coloured tag."
+      ],
+      "sections": [
+        {
+          "name": "Brand strip & masthead",
+          "notes": "Two stacked bars do different jobs. The top one is a tiny grey tab strip of the five sub-brands with the active one underlined, plus search, a colour tool, language and account pushed hard right. Beneath it the masthead is almost empty: lowercase ‘kvadrat’ wordmark at left, seven plain nav words at right (Products, Brands, Sustainability strategy, Designers, Inspiration, Contact, Events). Splitting business-selection from page-navigation is what lets a company with five sub-brands keep a seven-item menu."
+        },
+        {
+          "name": "Hero",
+          "notes": "An extreme macro of an open weave shot against blue sky — you can see through the fabric. It fills the column width but stops at the page margin, and carries no overlay type at all. The proposition (‘THREE presents textiles as sensual, spatial and sculptural forms’) sits below it, centred, at body size, with an ‘Explore’ pill under that. Because the image is a texture rather than a scene, it works as both a photograph and a brand pattern."
+        },
+        {
+          "name": "Two-up: events",
+          "notes": "3daysofdesign and Fulton Market Design Days share a row: a black mesh textile sculpture floating on warm off-white next to a real interior with green and blue curtains, a sofa and a paper lamp. One is object-on-seamless, one is in-situ — the pairing shows the material abstract and applied in a single glance. Identical card structure under both: centred title, two lines, pill."
+        },
+        {
+          "name": "Full-width feature: Our recycled polyester",
+          "notes": "The sustainability story is not a badge or an icon row — it is three chairs in navy, oxblood and olive on a grey seamless floor, with the headline ‘Our recycled polyester’ set large and light beneath the photo. The claim is made in the one place a specifier actually judges it: how the recycled fabric looks upholstered. One line of copy handles longevity and performance; there is no percentage graphic anywhere."
+        },
+        {
+          "name": "Two-up: collaboration & proof",
+          "notes": "The last content row pairs cultural credibility with commercial proof — Klára Hosnedlová's textile commission at the New Museum next to opera-house seating at the Nanchang Poly Grand Theatre. The CTAs differentiate the two intents in words rather than styling: ‘Discover our collaborations’ and ‘Discover our projects’. Named textiles (Ria, Field) appear in italic inside the copy, so the art story and the spec story both end in a product."
+        },
+        {
+          "name": "Footer",
+          "notes": "The only tinted panel on the page — a light grey block that signals end-of-document without a rule or a divider. Three columns, each headed in near-black bold with links beneath in mid-grey: Downloads (product downloads, image bank, catalogues, care and maintenance), Company info, and Contact us with the full Ebeltoft address, CVR number, email and phone. The download column is placed first, which tells you the real user is a specifier who came for a file."
+        }
+      ],
+      "principle": {
+        "title": "Spend the colour budget on the photograph, never on the interface",
+        "explanation": "Most brand pages spend colour twice — an accent on buttons, badges and headings, plus whatever is inside the imagery — and the two fight. Every coloured chip near a photograph competes with the thing it is pointing at, and it commits you to a palette that has to be reconciled with each new shoot. Holding the interface to one near-black, one grey and a white ground means the imagery can change completely, season to season or listing to listing, without a single UI decision being revisited, and it makes any photograph look more expensive than it is because nothing on screen is brighter than it.",
+        "howToApply": "On the next Aperture page, set the whole interface — nav, headings, body, buttons, footer — in one near-black (#1A1A1A), one mid-grey for secondary text, and white, and delete every accent: no gold price chips, no coloured ‘Just Listed’ badges, no tinted section bands, no coloured icons. Use a single dark pill for every call to action at the same size, and let the words differ instead of the colour (‘See the home’ vs ‘Book a viewing’). Then screenshot the page and desaturate everything except the photographs — if anything outside a photo changes, it was spending colour it did not need."
+      },
+      "tags": [
+        "color",
+        "photography",
+        "restraint",
+        "typography",
+        "layout"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Jacquemus — ‘Bags on Wheels’ (vertical social film, Instagram/TikTok)",
+        "url": "https://www.youtube.com/watch?v=CWbw2UtcfWY"
+      },
+      "image": "images/2026-08-31-ad-jacquemus-bags-on-wheels.png",
+      "category": "Vertical social film / faux out-of-home (CGI)",
+      "when": "Launched 5 April 2023 on Jacquemus’ Instagram, captioned ‘I THINK I LIKE PARIS NOW’; 3D by Ian Padgham. Reported ~20M views inside 24 hours.",
+      "tagline": "A product ad with no headline, no logo lockup and no call to action — just the bag, at bus scale, rolling through real Paris traffic.",
+      "summary": "Jacquemus posted a 9:16 clip of giant burgundy Le Bambino handbags on wheels driving down the bus lane past the Palais Garnier. It is entirely CGI, but every production decision is aimed at hiding that: real location, real midday sun and hard shadows, a handheld camera held low at pavement height, no colour grade and no cut to a product shot. The debate about whether it was real is what carried it — people stopped to verify a photograph rather than to read an ad, and the thing they stared at while verifying was the silhouette of the product. The only branding in frame is the small gold foil logo that is on the actual bag.",
+      "whatWorks": [
+        "The hook is a scale error inside a place the audience can name. Palais Garnier and a painted Paris bus lane are unambiguous, so the one impossible element — a handbag the size of a bus — forces the viewer to check the image instead of skipping it.",
+        "It is shot in the grammar of a bystander, not a brand: vertical, handheld with visible wobble, slightly low, uncorrected daylight. The format is the disguise — it looks like something a passer-by filmed, which is the only kind of footage the feed does not pre-filter as advertising.",
+        "One product, one colourway, no cast, no props, no copy. Nothing in the frame competes with the outline of the bag, which is what a handbag campaign actually has to sell.",
+        "Branding is diegetic: the gold JACQUEMUS foil appears because it is physically on the bag. No lockup, no end card, no logo bug — so nothing in frame reads as a paid unit.",
+        "The words live in the caption (‘I THINK I LIKE PARIS NOW’), not on the image, which keeps the creative clean and lets the brand’s voice do the work in the one place people expect voice.",
+        "There is no CTA at all. The intended action is the argument in the comments about whether it is real — the ad is designed to be described to someone else, which is cheaper distribution than any button."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "First frame is already the whole idea: a bus-sized Le Bambino rolling in the bus lane in front of the Opéra. No build-up, no logo intro, no title card — the contradiction lands inside the first half-second, which is all a vertical feed gives you."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "There is none in the frame. The message is carried entirely by the caption, and it is a mood rather than a claim — ‘I THINK I LIKE PARIS NOW’. No product name, no price, no collection reference. Withholding the copy is what keeps the clip readable as footage rather than as an ad."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The product is the hero at architectural scale, in real light. The craft is in the imperfections that were deliberately kept: the camera drifts, the sun is harsh and unflattering, the bag is slightly soft with motion, pedestrians and bollards partially occlude it. A clean, graded, tripod-steady version of the same render would have read instantly as CGI and died."
+        },
+        {
+          "name": "CTA",
+          "notes": "Absent, and that is the design. No swipe-up, no shop link, no end card. The conversion event is the share and the ‘is this real?’ comment; the product page is left for the people who go looking. It works because the silhouette is memorable enough to be searched for by shape."
+        }
+      ],
+      "principle": {
+        "title": "Break the scale of the one thing you’re selling, in a place your audience can name",
+        "explanation": "In a feed, people verify before they read. An adjective can be skipped; a photograph containing a real, recognisable location and one impossible measurement cannot, because the brain has to resolve the contradiction before it can move on — and the thing it stares at while resolving is your product. The recognisable place is the load-bearing half: the same object at the wrong size against a neutral background is just a render, and gets scrolled past. Shooting it in bystander grammar (vertical, handheld, unpolished daylight) is what stops the feed from filing it as advertising before the idea lands.",
+        "howToApply": "For a listing, pick the single element that IS the property — the arched window, the roofline, the pool shape, the front door — and build one asset where it appears at the wrong size in a street the local audience can name. It does not need CGI: chalk or tape the window outline full-size on the sidewalk at a named intersection, lay the floor plan out at 1:1 in the neighbourhood park, or prop a door-sized print of the front door against a landmark. Film it vertically, handheld, at eye level in ordinary daylight, keep every headline out of the frame and put the line in the caption instead, and let the only branding be the sign that would genuinely be standing there."
+      },
+      "tags": [
+        "social",
+        "scale",
+        "vertical video",
+        "product",
+        "cgi"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Experimental Jetset",
+        "url": "https://www.experimentaljetset.nl/"
+      },
+      "image": "images/2026-08-31-designer-experimental-jetset.jpg",
+      "category": "Graphic design studio — Amsterdam / late modernism",
+      "when": "Founded 1997 · Amsterdam, Netherlands · Marieke Stolk, Erwin Brinkers, Danny van den Dungen",
+      "tagline": "Three people who have run the same studio for nearly thirty years by refusing to hire anyone, and who write the argument before they design it.",
+      "summary": "Stolk, Brinkers and Van den Dungen met at the Gerrit Rietveld Academie and started Experimental Jetset in Amsterdam in 1997. They have stayed exactly three people ever since — no employees, no departments, no named creative director — and describe the studio as a rock band rather than a firm: a unit small enough to share one artistic language, where everyone is invested in the outcome instead of executing someone else’s. The work is printed matter, museum identity and signage (the 2013 Whitney ‘responsive W’, the Stedelijk, a long shelf of books), almost always in a late-modernist vocabulary with the palette held near black, white, red and blue. Their monograph is called Statement and Counter-Statement, which is a fair description of the method: they write their way to a position, then set it.",
+      "whatWorks": [
+        "Run the practice as a band, not a firm — cap it at the number of people who can share one visual language and all hold the whole job, and treat that cap as a design decision rather than a stage you grow out of.",
+        "Use ‘total football’ for roles: no fixed positions, any member can take any part of a job, and workload is distributed so all three keep every skill instead of specialising into a single point of failure. (They are honest that deadline pressure pushes them back into habitual roles — the rule is the intent, not a claim of perfection.)",
+        "Write before you design. Research and written argument come first, and writing is explicitly how they get enough distance to judge their own work — the essay is a working tool, not marketing afterwards.",
+        "Judge a commission by how much of your range it uses. They call a project satisfying when it needs writing, research, print and signage together, and treat one that exercises a single skill as a worse job regardless of the fee.",
+        "Choose each typeface for a stated reason rather than a house habit — Univers when the reference is historical, Futura when a logotype has to be embedded inside the letterform — and reject ‘we always use Helvetica’ as a description of the method even when the results look consistent.",
+        "Credit the studio, not the individual. They call the designer-as-rock-star framing repulsive and have gone out of their way to avoid appearing personally, which keeps the argument about the work."
+      ],
+      "sections": [
+        {
+          "name": "How the studio is structured",
+          "notes": "Three people since 1997, deliberately never more. Their stated model is a rock band — ‘a very tight socio-economic unit: just two, three or four people, sharing one collective artistic language’ — set explicitly against the boss/workers hierarchy and separated departments of a normal studio. Roles are run on Johan Cruijff’s total football: a player who moves out of position can be covered by any other player on the team, so no capability lives in one person."
+        },
+        {
+          "name": "How they take on work",
+          "notes": "The selection test is range, not sector: the projects they describe as satisfying are the ones that require them to ‘function to our full abilities’ — writing, research, print, signage, sometimes sound and moving image in the same commission. That biases them toward long relationships with cultural institutions and museums, where one job legitimately contains a book, an identity, a wall and an essay, and away from single-deliverable work no matter how well it pays."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Argument first, form second. Extensive research and writing precede the visual work, and they keep writing afterwards because it ‘enables us to reflect on our own work, to look at our work from a bit of a distance’. The vocabulary is then deliberately narrow — late-modernist type, a palette mostly held to black, white, red and blue — which they defend not as a style but as their ‘authentic language, our mother tongue’, inherited from the Dutch late-modernist landscape they grew up in."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Every formal choice has to be answerable: a typeface is picked for a historical reference or a structural need, not because it is the house face. Growth is the thing they refuse — scaling would break the shared language the whole model depends on. And authorship stays collective: the studio is credited rather than the three of them, because a practice organised around one name starts optimising for that name."
+        }
+      ],
+      "principle": {
+        "title": "Size the practice so everyone can hold the whole job",
+        "explanation": "Experimental Jetset have stayed three people for nearly thirty years on purpose. At that size there is one shared visual language, no handoffs, and nobody working on a fragment they cannot see the end of — quality is a property of the group rather than a checkpoint someone else owns. The total-football rule is what keeps the cap from becoming a bottleneck: because any member can take any part of a job, capacity is elastic and no single skill is trapped in one head. The corollary is that the constraint has to be enforced on the intake side too — you protect the size by choosing fewer, wider projects, not by working faster.",
+        "howToApply": "Write down the largest number of people who could work on an Aperture campaign and still all have read the listing, seen the photographs and be able to finish each other’s pieces — for most of this work that is two or three. Treat that as a hard cap, and take fewer, wider jobs to stay under it: prefer the client who needs the CSVs, the magazine, the print pack and the page over four clients who each need one flyer. Then run total football inside it — rotate who writes the copy, who does the photo selects and who builds the layout across jobs, so no single part of the pipeline lives with only one person."
+      },
+      "tags": [
+        "process",
+        "studio model",
+        "collaboration",
+        "typography",
+        "amsterdam"
+      ]
     }
   ]
 }
