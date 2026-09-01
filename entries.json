@@ -16529,6 +16529,173 @@
         "typography",
         "amsterdam"
       ]
+    },
+    {
+      "date": "2026-09-01",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Fly.io",
+        "url": "https://fly.io"
+      },
+      "image": "images/2026-09-01-fly-io.png",
+      "category": "Developer platform / agent infrastructure",
+      "tagline": "A 15,000-pixel infrastructure homepage carried entirely by one illustrator's hand, where every drawing states a specific mechanic instead of decorating the section.",
+      "summary": "Fly.io sells hardware-isolated Linux machines for AI agents — a category where nearly every competitor's homepage is a dark gradient with a glowing terminal. Fly does the opposite: a white ground, pastel airbrushed panels with a halftone dot texture, a high-contrast old-style serif for two-to-four-word headings, and purple-and-mint marker-line characters (a tower PC with wings and a beak, a sprite asleep in a bed, a trench-coated sprite holding an ID card) that each explain one behaviour rather than filling a slot. The page alternates strictly between tinted panels for the argument and plain white for the technical claims, so the rhythm does the wayfinding with no dividers or eyebrow labels, and the proof at the bottom is deliberately unglamorous: four purple metrics and three long testimonials attributed only by role and company type. One honest weak spot — the small grey body copy inside the pastel cards is the lowest-contrast type on the page, and a few of the drawings (the hat, the planets) charm more than they explain.",
+      "whatWorks": [
+        "One illustrator, one hand, one job per drawing: a sprite asleep in a bed = it sleeps when the agent stops; a trench-coated sprite holding an ID = the token never lands on the machine. The illustration is the explanation, so no diagram or jargon paragraph is needed.",
+        "Section containers carry the meaning: rounded full-bleed pastel panels with a halftone dot texture hold the persuasion, plain white holds the technical claims — alternating them is the only wayfinding device on a page with no section dividers and no eyebrow labels.",
+        "Headlines are two-to-four-word states of mind in the serif (“Grow without drama”, “Nothing to Manage”, “Support that knows the stack”); every specific lives in a two-line sub-sentence set in the sans at body size, never in the headline.",
+        "Proof is four numbers, not a paragraph: 18+ regions, <1 second boot, 500ms typical deploy, 99.9% uptime — set in purple in a 2×2 grid with hairline dividers, directly beside the claim they support.",
+        "Testimonials are attributed by role and company type only — “Platform Engineer / Series B startup”, “Staff Engineer / Fintech”, “Founder / AI-first product” — with no names, no headshots and no logo wall, and the quotes left long and un-trimmed.",
+        "The disqualifying condition sits inside the block that makes the promise: “Sprites Block Device is currently in private beta” in small grey directly under the durable-filesystem claims, rather than in a footnote."
+      ],
+      "sections": [
+        {
+          "name": "Hero — “Computers for agents”",
+          "notes": "Full-bleed pastel airbrush (mint → pink → lavender) with wandering hand-drawn ribbon lines and a stack of winged purple tower-PC characters at the right. Two serif lines of headline, then two short declarative sub-lines that do the positioning by negation — “Sandboxes aren't enough. / Give your agent a real computer and get back to building.” — and exactly one purple pill. No logo strip, no secondary CTA, no product screenshot in the fold."
+        },
+        {
+          "name": "Use-case carousel — “Machines that Remember”",
+          "notes": "The first tinted panel restates the offer in one sentence (“Real hardware-isolated Linux computers for agents, evals, and tools. The bill goes to zero when nobody's home.”) then runs a horizontal card set — Coding Agents, Personal agents, MCP servers — each a small drawing plus three lines of plain prose. Naming actual tools by name (Claude, Codex, MCP) does the qualifying that an audience selector usually does."
+        },
+        {
+          "name": "Capability blocks — “A Real Durable Filesystem” / “Nothing to Manage”",
+          "notes": "White section: serif head and two short claim lines on the left, three hand-drawn checkmarks with one-line benefits on the right, then the private-beta disclosure in small grey. Then straight back into a tinted panel of three drawn cards (No disk sizing, Automatic checkpointing, Sprites Connectors). The alternation is the structure; the white sections read as facts and the coloured ones as pitch."
+        },
+        {
+          "name": "Product disambiguation — “Sprites: where your agent runs. Machines: where you run what it builds.”",
+          "notes": "Instead of a comparison table, one centred serif sentence resolves which product is which, over a wide drawn cityscape, with two calm cards beneath (Sprites / Machines) each ending in a text link rather than a button. A two-product problem solved with a sentence."
+        },
+        {
+          "name": "Scale proof — “Grow without drama”",
+          "notes": "Left column argues the migration fear away in two short paragraphs (“The API you start with is the API you keep”); right column answers it with the four-metric grid. The claim and its evidence are on the same horizontal band, so the numbers read as the answer to that specific worry rather than as a stat band bolted onto the page."
+        },
+        {
+          "name": "Credentials, logos and support",
+          "notes": "“A Connection to Everything” opens with an italic lead-in that states the risk in the brand's voice (“Sprites are social creatures. Your credentials shouldn't be.”) and closes on a single centred pill. Eleven customer wordmarks then sit in two centred grey rows with no “trusted by” headline at all, followed by “Support that knows the stack” — “Our support team writes code” — and the three role-attributed quotes."
+        },
+        {
+          "name": "Footer",
+          "notes": "The only dark surface on the site: deep indigo, wordmark, five short link columns (Company / Articles / Resources / Contact / Legal) that include Status and Support Metrics as first-class links, then a newsletter row whose pitch is written like a person — “What we shipped, what we learned, like … stuff you put in a newsletter. Get it monthly.”"
+        }
+      ],
+      "principle": {
+        "title": "Draw the mechanism you can't photograph",
+        "explanation": "The most persuasive parts of an offer are usually the invisible ones — what happens while nobody is watching, what you no longer have to do, where the risk is being held. There is nothing to photograph, so most pages reach for a stock image or a generic icon set, and the claim stays an adjective. A commissioned drawn vocabulary in a single recognisable hand fixes both problems at once: each drawing can state one specific behaviour, and because the hand is unique to you it can't be bought by a competitor the way a photo library or an icon pack can.",
+        "howToApply": "List the parts of the Aperture offer that have no photograph — the pre-list timeline, what happens between signing and the photo shoot, how an off-market listing reaches a buyer, what's actually in the print pack — and give each one small drawing in a single hand, drawn once and reused across the page, the magazine and the pitch deck. Caption each with the behaviour it states (“photography booked before the sign goes up”), keep the set to one line weight and two colours so it reads as a system, and reserve photography for the properties themselves so drawings and photographs never compete for the same job."
+      },
+      "tags": [
+        "illustration",
+        "typography",
+        "layout",
+        "developer tool",
+        "color"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Pedigree — ‘Adoptable’ (programmatic display, social and digital OOH)",
+        "url": "https://www.adsoftheworld.com/campaigns/adoptable-case-study"
+      },
+      "image": "images/2026-09-01-ad-pedigree-adoptable.png",
+      "category": "Programmatic display / dynamic creative",
+      "tagline": "Every Pedigree ad becomes an ad for a real shelter dog that is available near the person seeing it — and the dog is pulled from the media the moment it's adopted.",
+      "when": "Launched 10 April 2024 in New Zealand as a test market (Colenso BBDO Auckland with Nexus Studios), published June 2024 and rolled out internationally through 2024–25; Cannes Lions 2024 and Clio 2025 winner",
+      "summary": "Colenso BBDO turned Pedigree's entire media buy into a distribution channel for shelter dogs: a plain shelter snapshot is rebuilt as a studio-quality image — a digital double supplies the pose, a machine-learning model refines it back to the specific real dog — and then dropped into Pedigree's own ad units, geo-targeted so the animal shown is genuinely local and genuinely available, and withdrawn from circulation as soon as it is adopted. The key visual explains the whole product in one frame: a single dog's face split down the middle, untextured grey CG mesh on the left, finished warm studio portrait on the right, on flat Pedigree yellow, under an ‘Adoptable’ wordmark whose paw-in-a-house dingbat is the offer. The one line of copy describes the media model rather than a benefit — “Turning every PEDIGREE ad into an ad for a shelter dog.” — and the result is counted in animals rather than impressions: 50% of featured dogs were homed within two weeks of appearing. Worth naming honestly: this is AI-enhanced imagery of a living animal, and it only stays honest because the dog is real, local and reachable, and disappears when it's gone.",
+      "whatWorks": [
+        "The hook is a single image that explains the mechanic with no diagram: one face, split on the centre line, raw mesh against finished portrait — process and payoff in the same frame.",
+        "Flat brand yellow, one subject, no environment: at feed size the split is the only thing competing for attention, which is why it survives a 3-inch screen.",
+        "The wordmark carries the offer — ‘Adoptable’ in a warm slab-serif with a paw-in-a-house mark replacing the accent — so the campaign is named, not described.",
+        "The support line states the media model in plain words (“Turning every PEDIGREE ad into an ad for a shelter dog.”) rather than a product benefit, which is what makes a brand ad worth watching.",
+        "The buy is the deliverable: geo-targeting and first-party data mean the dog shown is nearby and actually available, and a standing rule pulls it the moment it's adopted, so the creative can never go stale or lie.",
+        "The result is countable in the unit that matters — 50% of featured dogs adopted within two weeks — not in reach."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The split face. The left half is deliberately unfinished — grey, untextured, visibly computer-generated — so the eye is forced to read left-to-right as a transformation rather than as a portrait. It works because the seam sits exactly on the animal's centre line, where a viewer already expects symmetry."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "One word doing the naming (‘Adoptable’, with the house-and-paw dingbat), one sentence doing the explaining, set small and centred beneath it. No benefit claim, no product shot, no dog food anywhere in the frame — the brand appears once, as the rosette logo in the corner."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The finished half is lit like a pedigree studio portrait — catchlight in the eye, warm brown coat against saturated yellow — which is the actual argument of the campaign: shelter dogs lose adoptions to bad photography, so the fix is to give them the photography that sells purebreds."
+        },
+        {
+          "name": "CTA",
+          "notes": "The key visual carries no button; the conversion lives in the live units it explains, where the dog shown links through to that animal's shelter profile. The call to action is inventory, not a verb — and the campaign's honesty rests on the retirement rule behind it."
+        }
+      ],
+      "principle": {
+        "title": "Spend the media on live inventory, not on a brand image",
+        "explanation": "Most brand advertising spends its whole budget on a picture of the idea of the thing, then asks the audience to go find the actual thing themselves. If the ad unit instead carries a real, currently available item chosen by the viewer's location, three things happen at once: the creative can never be stale, the click has somewhere specific to land, and the campaign becomes countable in units moved rather than impressions served. The rule that makes it credible is the retirement rule — the item leaves the media the moment it converts, so nobody is ever shown something they can't have.",
+        "howToApply": "Make the standing Aperture social and display unit a feed rather than a key visual: one fixed frame — photograph, street, price, days on market, small ‘Available today’ stamp — filled automatically with the nearest currently-available listing to the viewer, and pulled the same day it goes under contract. Keep one designed chassis so the only thing that changes is the property, and report the campaign in listings shown and tours booked rather than reach."
+      },
+      "tags": [
+        "programmatic",
+        "dynamic creative",
+        "purpose",
+        "photography",
+        "ai"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Emory Douglas",
+        "url": "https://en.wikipedia.org/wiki/Emory_Douglas"
+      },
+      "image": "images/2026-09-01-designer-emory-douglas.png",
+      "category": "Movement graphics / political design (US)",
+      "when": "b. 1943 · American",
+      "tagline": "The Black Panther Party's Minister of Culture, who ran a national weekly visual language off paste-up tables, transfer tints and the cheapest press available.",
+      "summary": "Douglas learned commercial printing basics at 13 in a juvenile correctional facility, studied graphic design at City College of San Francisco from 1960, and joined the Black Panther Party in 1967 as its Revolutionary Artist and later Minister of Culture. He redesigned The Black Panther, moved it onto a web press so it could carry colour and graphics, and art-directed it weekly to a peak circulation of 300,000–400,000 in 1970 — then adapted his strongest drawings across posters, flyers, pamphlets and greeting cards. What makes him a process study rather than a style study is that almost every visual decision was a production decision: the thick woodcut-weight outlines exist because a cheap newspaper press misregisters, and the tints exist because a second colour was affordable and a fourth was not.",
+      "whatWorks": [
+        "Decide the reproduction before the drawing: the heavy black marker outline was chosen because it hides the registration drift of a cheap web press — the style is a specification for the press, not a preference.",
+        "Buy texture instead of colour: most issues ran black plus one colour, with transfer film patterns and tints supplying shading, depth and greys that a halftone budget wouldn't cover.",
+        "Keep a repeatable weekly kit rather than a studio: “regular tables, regular lights, Elmer's glue, rubber cement. We cut and pasted. We made up our own layout sheets. Non-repro blue markers.”",
+        "Choose tools by what protects the deadline — he preferred Formatt transfer lettering to Letraset because the sheet had a line under the alphabet, so words could be set straight without rubbing letters off.",
+        "One drawing, many surfaces: the images that worked were re-cut for the newspaper cover, the poster, the flyer and the greeting card instead of commissioning new art per format.",
+        "Test legibility against a named person, not a peer: “You have to draw in a way that even a child can understand to reach your broadest audience without losing the substance or insight of what is represented.”"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "From the distribution end, not the artboard. The first question is which press, which paper, how many colours and what day it ships — he upgraded the paper itself to a web press to unlock colour and graphics before worrying about individual layouts. The brief also arrives as a real audience with a real reading distance: papers sold on street corners, posters taped in windows, read by people with no design vocabulary and no patience."
+        },
+        {
+          "name": "Core method",
+          "notes": "Weekly paste-up on a fixed, cheap kit — self-made layout sheets, rubber cement, non-repro blue, transfer lettering, photostats — with drawing, collage and re-collage of his own earlier drawings and found photographs as the way to make volume possible. The system is designed so that a full-colour national visual identity can be produced every seven days by a handful of people with no budget."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Woodcut-weight black contour, flat areas of one spot colour, and transfer-film tints for everything in between. It reads at a glance across a street, survives being folded, photocopied and reprinted, and is forgiving of the exact printing faults it was designed around — which is why the same artwork works as a cover, a placard and a card."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "The image has to be understood instantly by the broadest possible audience without losing its substance — comprehension is the acceptance test, not sophistication. And the work is judged on what it does: the drawings serve specific, nameable purposes (the survival programmes, free breakfasts, clinics, legal aid, recruitment), so any image that can't say which job it is doing doesn't run."
+        }
+      ],
+      "principle": {
+        "title": "Design for the worst surface in the chain, then run everything off the same artwork",
+        "explanation": "Every piece has a most-degraded destination — a thumbnail in a feed, a black-and-white office copy of a flyer, a 200-pixel card in an email, a sign read from a moving car — and that destination, not the retina mockup, is what decides line weight, contrast, crop and type size. Designing for it first has a second payoff: an image tough enough for the worst surface is usually good enough for all the others, so one piece of artwork can serve every format instead of each format getting its own art and its own drift.",
+        "howToApply": "Before designing an Aperture piece, write down the roughest place it will actually land — usually a 400px card on a phone or a photocopied open-house handout — and build the first version at that size in greyscale: one image, one heavy-enough type weight, the address and price legible, nothing that depends on fine tint or a hairline rule. Then produce the flyer, the story ad, the email card and the postcard off that same artwork by re-cropping, not redrawing, and check each one by printing it on the office copier: whatever disappears there was never load-bearing."
+      },
+      "tags": [
+        "process",
+        "print production",
+        "political graphics",
+        "illustration",
+        "typography"
+      ]
     }
   ]
 }
