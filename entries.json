@@ -16696,6 +16696,173 @@
         "illustration",
         "typography"
       ]
+    },
+    {
+      "date": "2026-09-02",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "MoMA (The Museum of Modern Art)",
+        "url": "https://www.moma.org"
+      },
+      "image": "images/2026-09-02-moma.png",
+      "category": "Museum / cultural institution",
+      "tagline": "A museum homepage set almost entirely in one heavy grotesque on plain white, where the artwork supplies the whole palette — and the only two colour panels on the page are both asks.",
+      "summary": "MoMA's homepage is a stack of near-identical rows built from one custom grotesque (MoMA Sans, drawn by Christian Schwartz with the museum's design team and Made Thought in 2017, a refined Franklin Gothic — the museum's face since the 1930s) on white: a two-line bold section heading with a one-line purpose and a single arrow link in the left rail, content in the well to its right. Nothing is tinted, bordered or badged, so the art supplies the entire palette — a turquoise installation wall, Warhol's Flowers, van Gogh's Starry Night — and the two saturated bands on the page (lime for the Modern Fund, cyan for UNIQLO Friday Nights) are the only places the museum asks for something. The quiet masterstroke is the collection grid: each work sits uncropped at its own proportions, with the captions rather than the picture edges doing the aligning. The honest caveat is length — at roughly 16,000px with eight rows in the same rhythm, the middle of the page flattens, and only the two colour panels break the tie.",
+      "whatWorks": [
+        "One typeface doing two jobs: heavy MoMA Sans for every heading (two lines, tight, sentence case) and the same family at body size for all copy — no serif, no italic, no display face anywhere on the page.",
+        "The welcome line and the operational fact share one row: 'Welcome / Explore art and ideas at MoMA.' on the left, 'The museum is open 10:30 a.m.–5:30 p.m. today.' plus a black 'Plan your visit' button on the right, closed by a single black rule.",
+        "Uncropped artwork: the collection grid lets each work keep its native aspect (Warhol's Flowers tall, Man Ray's Chess Set wide) and aligns the two-line caption — artist in bold, title in italic — instead of the image edges.",
+        "Only two saturated panels on a 16,000px page, and both are asks — lime for 'Support experimentation, learning, and creativity → Donate to the Modern Fund', cyan for 'Free admission during UNIQLO Friday Nights'.",
+        "Carousels bleed off the right edge — the third exhibition card is deliberately cut by the viewport — so 'there is more' is shown by the crop instead of being said by a label.",
+        "Editorial cards carry a small cyan kicker naming the strand (UNIQLO ArtSpeaks, Art for All) above the headline, so a sponsored series and an in-house one run through the identical card."
+      ],
+      "sections": [
+        {
+          "name": "Utility header & nav",
+          "notes": "The wordmark sits far left at display size; Membership, a grey Donate and a cyan Tickets sit top-right; a second row carries five plain nouns (Visit, Exhibitions and events, Art and artists, Store, search). The two money actions are the only elements on the page with a filled background, and they are separated from browsing by living on their own row."
+        },
+        {
+          "name": "Hero",
+          "notes": "A single full-bleed installation photograph, edge to edge, with no type on it at all and no slider controls. Because the hero carries no words, the first typography a visitor meets is the Welcome block, which means the greeting can be quiet rather than shouting over an image."
+        },
+        {
+          "name": "Welcome",
+          "notes": "'Welcome' as an H1 with a one-line purpose beneath, and on the same row, right-aligned, today's actual opening hours plus a black 'Plan your visit' button; a black rule closes the block. The emotional line and the operational fact are given equal billing in one row — the most useful thing a museum homepage can do."
+        },
+        {
+          "name": "Exhibitions",
+          "notes": "A 3-up carousel that bleeds past the right edge, arrows aligned to the heading. Each card is image, bold title, then a small kicker where there is news ('Member Last Look, Sep 13') and a closing date ('Through Nov 29') — so urgency is carried by dates, not by badges."
+        },
+        {
+          "name": "Art and artists in our collection",
+          "notes": "The left rail holds the two-line heading, a one-sentence dek ('Discover artworks that speak to you, from the 1880s to today.') and one arrow link; the right well holds a three-column grid of works at their true proportions, each captioned with artist in bold and title in italic. Rows are ragged in height and read as ordered because the labels line up."
+        },
+        {
+          "name": "Events, visit services & the two colour ask panels",
+          "notes": "'Events for everyone' and 'Your day at MoMA' reuse the identical left-rail contract — heading, one-line dek, one arrow link — with a large event card plus four small square category tiles (Films, Families, Members, Talks), then the visit-services cards (Digital Visitor Guide, Design Store, cafés). The two flat panels that interrupt this rhythm are the only asks on the page: lime for the Modern Fund, cyan for free Friday nights, each set heading-left, copy-and-arrow-right."
+        },
+        {
+          "name": "MoMA PS1, partners & footer",
+          "notes": "The affiliate gets a black band — heading, two-line description, arrow link, photograph right — which is the only ground change in the page and does the work a nav item would have done badly. Beneath it a grey strip credits major partners ('MoMA would like to thank our major partners.' + one logo), then a dark footer repeats both addresses with 'Open today, 10:30 a.m.–5:30 p.m.', socials, the wordmark and the legal line."
+        }
+      ],
+      "principle": {
+        "title": "Let each image keep its own proportions, and align the captions instead of the crops",
+        "explanation": "A grid usually picks one aspect ratio and crops everything into it. That is fine for interchangeable stock and destructive for objects whose shape is information — a painting, a floorplan, a magazine spread, a product silhouette. MoMA's collection grid pins the column width and the caption position, then lets the height float, so a tall Warhol and a wide Man Ray sit in the same row at their true proportions; the row still reads as ordered because the labels line up, not because the pictures do. You get variation for free and never have to explain why the work was cut.",
+        "howToApply": "On the Aperture pages where an object's shape carries meaning — floorplans, magazine spreads, the printed pack, elevation drawings, a client logo strip — set the grid by column width and caption baseline only, let each image find its own height, and put a two-line caption under it (name bold, detail in grey italic). Keep uniform crops where scanning matters (listing cards, unit tiles) so the ragged-height grid reads as a deliberate second register rather than a broken layout."
+      },
+      "tags": [
+        "typography",
+        "layout",
+        "imagery",
+        "color",
+        "information architecture"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Heineken — 'The Pub That Refused to Die' (campaign key visual + social/digital rollout)",
+        "url": "https://www.adsoftheworld.com/campaigns/the-pub-that-refused-to-die"
+      },
+      "image": "images/2026-09-02-ad-heineken-pub-refused-to-die.jpg",
+      "category": "Branded documentary — key visual for social, digital and cinema",
+      "tagline": "Twenty-six real villagers packed until the frame runs out of room — the headcount is the whole argument, and the number is never printed.",
+      "when": "Premiered 28 February 2026 at the Dublin International Film Festival, with an Irish roadshow and digital rollout through 2026",
+      "summary": "LePub Milan and Publicis Dublin built the campaign around a documentary (directed by Gar O'Rourke, produced by Antidote Films Dublin) about the residents of Kilteely who bought, reopened and renamed their village's last pub. The key visual does not illustrate the story, it counts it: every face is a real local, packed so tightly that there is no background left — no floor, no ceiling, no pub. The title runs across the frame in three keylined boxes of wide-tracked all-caps serif, 'THE PUB / THAT REFUSED / TO DIE', a six-word line carrying subject, threat and outcome. Heineken appears only as two glasses raised in the crowd, one of them a 0.0, with no logo lockup anywhere in frame.",
+      "whatWorks": [
+        "The crowd IS the background: faces are cut off at all four edges, so the image reads as 'more people than fit' rather than as a posed group shot.",
+        "Nobody is cast — hard hat, hi-vis, beanie, flat cap, ear defenders, a fleece, a printed scarf: the wardrobe is what the village actually wears, and half the faces are mid-laugh or looking off-camera instead of smiling to lens.",
+        "The title is a story in six words (subject, threat, outcome) and needs no supporting copy on the visual; the past tense promises the ending is good.",
+        "Type is split into three staggered keylined boxes rather than one block, so it threads between heads instead of covering any face.",
+        "Branding is a product in a hand, not a lockup — two Heineken glasses inside the mass, one of them 0.0, which also does the responsible-drinking note quietly.",
+        "The number itself is nowhere on the artwork: the count is something you do with your eyes, not a statistic you are asked to believe."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Faces at scale. No establishing shot of the pub, no landscape, no logo — just a wall of people cropped on every edge. At feed size you register the crowd before you read a word, and the crop is what creates the sense of overflow."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'THE PUB THAT REFUSED TO DIE' in wide-tracked all-caps serif inside thin white keylines, staggered top / middle / bottom. The personification does the work — a building that refuses is a character — and the boxes let big type sit in a dense image without masking anyone."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The actual owners, in their own clothes, in mixed uncorrected light, arranged rather than styled. It is the same casting logic as the documentary: the proof of a community story is that everyone in the picture is from the community."
+        },
+        {
+          "name": "CTA",
+          "notes": "There is no button and no URL on the key visual. The ask is 'come and see the film', delivered by the festival premiere, the roadshow and the social rollout, with the brand carried by the product in frame — which sits under a wider Heineken commitment to Irish pub culture, so the film functions as evidence rather than as the whole ad."
+        }
+      ],
+      "principle": {
+        "title": "Cast the whole number and let the frame run out of room",
+        "explanation": "The instinct with a number worth bragging about is to set it large — '26 locals', '500+ agents', '37 closings'. A printed number is a claim the viewer has to accept; the same number staged as bodies filling the frame with no background left is a fact they count for themselves. Crowding is also what makes it read as true: real wardrobe, mixed light, faces cut by the edges, some people looking away. Leave tidy breathing room around the group and it becomes a corporate team photo, at which point the count stops mattering.",
+        "howToApply": "When the proof is a headcount, photograph the headcount. For Aperture: one frame of every agent in the district office packed to all four edges in whatever they wore that day, or every past client from a single street, cropped so people are cut off at the border — with the line set small in two or three keylined boxes threaded between heads ('THE STREET / THAT SOLD / ITSELF'). Keep the brand to something physically in someone's hand, a sign rider or a key tag, and leave the number out of the copy entirely. If the frame still has empty space, there aren't enough people in it yet."
+      },
+      "tags": [
+        "photography",
+        "casting",
+        "headline",
+        "restraint",
+        "campaign"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Ken Garland",
+        "url": "https://en.wikipedia.org/wiki/Ken_Garland"
+      },
+      "image": "images/2026-09-02-designer-ken-garland.jpg",
+      "category": "Graphic design, design writing & pedagogy / British post-war modernism",
+      "when": "1929–2021 · British",
+      "tagline": "The designer who wrote down what design was for — First Things First (1964) — and then ran a practice by it for forty-seven years.",
+      "summary": "Garland trained at the Central School of Arts and Crafts alongside Alan Fletcher and Derek Birdsall, art-directed Design magazine from 1956 to 1962, then ran Ken Garland & Associates from 1962 to 2009. In 1964 he stood up at an ICA meeting and read out First Things First, a one-page manifesto arguing for 'the more useful and more lasting forms of communication' against a culture where 'the high pitched scream of consumer selling is no more than sheer noise'; twenty-three designers signed it, and it was re-signed as First Things First 2000. His best-known body of work — Galt Toys, plus Campaign for Nuclear Disarmament material — came out of the same habit: settle in writing what the work is for, then test it on the people who will actually use it.",
+      "whatWorks": [
+        "Write the position down and publish it: one page stating what work you take and what you refuse is a filter you can point at, not a mood board.",
+        "Test with the real user before you style anything — he handed an unfinished Galt puzzle to friends' children and one of them solved a design problem he was stuck on.",
+        "Photograph the real thing: the Galt catalogues ran close-ups of his own kids and their friends actually playing, so the marketing imagery was documentation of the testing.",
+        "Take the whole surface area, not the poster — he insisted on designing every visual manifestation of Galt (packaging, catalogues, factory graphics, the London store), so consistency came from scope rather than from policing.",
+        "Turn the practice into a handbook: Graphics Handbook (1966) and Illustrated Graphics Glossary (1980) codified what he knew so it could be handed on, and he taught at Reading for nearly thirty years.",
+        "Credit the team — he refused the single-author story and described the work as a flexible group effort, which is part of why the studio lasted forty-seven years."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With language, not layout. Garland had been a magazine art editor before he was a studio principal, and he treated a brief as a piece of writing to be argued with and corrected — what is this for, who is it useful to, how long should it last. First Things First exists because he wrote the whole argument out at full length before expecting anyone to act on it."
+        },
+        {
+          "name": "Core method",
+          "notes": "Define the terms, then take the whole system. On Galt he treated toys, packaging, catalogue, factory signage and the London shop as one job, so nothing had to be reconciled later; the identity was coherent because the scope was, not because a rulebook enforced it. He also kept the work explicitly collaborative — a flexible team, credited as one."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Play as research. He put unfinished games in front of real children, watched what they did, and let their solutions change the design — then photographed those same children using the products, so the persuasion material was a by-product of the testing rather than a separate shoot."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Usefulness and longevity over persuasion: 'the more useful and more lasting forms of communication' is the test, and work whose only job is to raise the volume of selling fails it. Because the work was a team's, the question was never 'is this my best idea' but 'is this the clearest solution we have'."
+        }
+      ],
+      "principle": {
+        "title": "Write your position before you take the work, and let it do the refusing",
+        "explanation": "Most practices work out what they stand for retroactively, from whatever portfolio they happen to accumulate. Garland did it in the other order: a written, published, one-page position that told him — and everyone else — which jobs were his. It costs nothing, it turns 'no' into a two-sentence email instead of an argument, and it compounds, because over a few years the work starts to look like the position rather than like the last client.",
+        "howToApply": "Write one page of numbered lines on what your design work is for: what you will always do (photograph the real property, name the photographer, one price format, breathing room before every image), what you will not (fabricated twilight skies, virtual staging without a label, copy a fair-housing reviewer would flag), and the test a piece has to pass before it ships. Keep it in the repo next to the templates, read it before quoting a new job, and revise it once a year rather than once per project."
+      },
+      "tags": [
+        "process",
+        "practice",
+        "ethics",
+        "user testing",
+        "writing"
+      ]
     }
   ]
 }
