@@ -16863,6 +16863,170 @@
         "user testing",
         "writing"
       ]
+    },
+    {
+      "date": "2026-09-03",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "The Hoxton",
+        "url": "https://thehoxton.com/"
+      },
+      "image": "images/2026-09-03-the-hoxton.png",
+      "category": "Hospitality",
+      "tagline": "A hotel group that sells the neighbourhood before the room — every card carries a sentence you couldn't move to another card.",
+      "summary": "The Hoxton sells cities, not rooms. The hero is a documentary photograph of two staff pulling coffee — no made bed, no styled suite — and everything below it is built out of place: a carousel of city photographs, then nineteen hotel cards where each one gets a sentence of specific local detail instead of a label. The whole page sits on a warm cream ground with a near-black charcoal footer, and exactly one element is allowed to be loud: the coral 'Find a Room' button. The honest weak spot is the very top, where three stacked promotional messages (flexible cancellation, a 15%-off referral, a Lacoste capsule) fire before you reach any content.",
+      "whatWorks": [
+        "One filled button on the entire page — the coral 'Find a Room', in the header and again as the last cell of the booking bar. Every other action is an outlined button ('View offer', 'Learn more') or an underlined text link ('View hotel'), so nothing competes with booking.",
+        "Property cards carry a sentence, not a label: 'Our 10th Hox is in a leafy corner of Rome, a stone's throw from Villa Borghese'; 'Our Florence hotel near the beautiful Piazza della Libertà celebrates both Renaissance and Postmodern interiors across two spectacular buildings'. The reason to click sits in the card rather than behind it.",
+        "The hero photograph is of people working — an espresso machine, two staff, a stack of saucers — so the first image sells the feeling of the place and the room shots are saved for the property page.",
+        "The booking bar butts flat against the bottom edge of the hero photo: square corners, hairline dividers, no drop shadow, no float. It reads as part of the same composition instead of a widget parked on top of one.",
+        "Carousel images are matted — each photograph sits inset in its cell with cream margin on all sides and a full-height hairline between cells — which makes an ordinary row of city photos scan like a gallery wall.",
+        "Tiny uppercase field labels (LOCATION, CHECK IN / CHECK OUT, GUESTS, GOT A CODE?) sit above larger placeholder text, so a five-field booking form stays readable without a single input outline."
+      ],
+      "sections": [
+        {
+          "name": "Utility strip & header",
+          "notes": "A black strip carries one rotating promotional line ('Travel uncertain? We've got you with flexible cancellation — EXPLORE MORE'), then a cream header band: the lowercase serif wordmark 'the hoxton' hard left, a short sans nav right, and the coral FIND A ROOM button pinned to the corner as the only filled control on the page. A second, lighter row holds just '+ Select Location'. Splitting brand from booking across two rows keeps the nav short, but stacking three promo messages here is the page's one real cost — it spends the visitor's first scroll on offers rather than places."
+        },
+        {
+          "name": "Hero + booking bar",
+          "notes": "Full-bleed documentary photograph of two staff making coffee, warm and slightly grainy, with 'Welcome to The Hoxton' set large in white sans at lower left. The five-cell white booking bar sits flush on the photo's bottom edge — Location, Check in / Check out, Guests, Got a code?, then the coral submit as the terminal cell. Choosing craft-in-progress over an empty suite is the whole positioning in one frame: you are buying the place, not the bed."
+        },
+        {
+          "name": "Trending destinations",
+          "notes": "Centred heading with a single conversational line under it ('Thinking about your next city break? These are the places our Hox community can't get enough of'), then a horizontal carousel of portrait-format city photographs — Amsterdam, London, Florence, Rome — each matted inside its cell with vertical hairlines between and small circular chevrons at the edges. It answers 'where' before 'which hotel', which is the order a traveller actually thinks in."
+        },
+        {
+          "name": "Explore all our Hotel locations",
+          "notes": "The workhorse block: region tabs (Europe / UK & Ireland / USA / All) filtering a grid of nineteen property cards. Each card is photograph, name, one sentence of genuinely specific detail, and an underlined 'View hotel' link — no button, no price, no star rating. Tabs rather than a second page keep every property one click away, and the sentence does the qualifying that a 'Learn more' can't."
+        },
+        {
+          "name": "Best Rate? Book Here / Referral Scheme",
+          "notes": "Two conversion panels side by side, split by a single vertical hairline, both with outlined buttons rather than filled ones. The copy is plain-spoken and in the same voice as everything above it — 'Here's the inside scoop: book direct on thehoxton.com and you'll unlock our best rates, plus a few extra perks we keep just for you.' Direct-booking persuasion sits after the browsing, not in front of it."
+        },
+        {
+          "name": "Newsletter & footer",
+          "notes": "'Get the Inside Scoop' is a centred two-field form on cream with underline-only inputs — no boxes, no card, no shadow. Then the ground drops to near-black charcoal for a deliberately short footer: three columns (Links / Social / Language), cream text, a hairline, and a bottom bar with the Ennismore parent mark and copyright. No repeated newsletter, no sitemap dump, no oversized logo lockup."
+        }
+      ],
+      "principle": {
+        "title": "Put the reason to click inside the card, not behind it",
+        "explanation": "A grid of place names is a grid of unanswered questions: the visitor has to open each one to find out whether it's the one they want, so most of them open none. One sentence of specific, non-interchangeable detail per card does that qualifying up front — 'a leafy corner of Rome, a stone's throw from Villa Borghese' cannot be swapped onto another card, which is exactly why it earns reading. It also lets the card's link stay a quiet underlined 'View hotel' instead of a button, because the sentence has already done the selling and the page's one loud button can stay reserved for the action that matters.",
+        "howToApply": "On the Aperture Europe collection page, give every property card one sentence true of that property only — the street, the view, the age of the building, the thing you'd notice walking in — and never a category line like 'Luxury villa in Spain'. Write the sentence before choosing the photograph, and test it by trying to move it to another card: if it still fits, it isn't specific enough. Then demote the per-card CTA to an underlined text link and keep exactly one filled button on the page for the single action you actually want."
+      },
+      "tags": [
+        "hospitality",
+        "cards",
+        "conversion",
+        "photography",
+        "copywriting",
+        "color"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "The Ordinary — 'The Truth Should Be Ordinary' (Truth Drop key visual, paid social & display)",
+        "url": "https://www.itsnicethat.com/articles/uncommon-the-ordinary-graphic-design-advertising-project-110225"
+      },
+      "image": "images/2026-09-03-ad-the-ordinary.png",
+      "category": "Paid social / display key visual",
+      "when": "Launched 11 February 2025 — Uncommon Creative Studio for The Ordinary (DECIEM)",
+      "tagline": "A blackened, rotting tomato under a headline that corrects the beauty industry — the frame is spent on the argument and the bottle is left in the corner.",
+      "summary": "Uncommon built The Ordinary a campaign that doesn't sell a product. Each 'Truth Drop' takes one widely believed beauty myth and corrects it — in black and white, on white space — and points at a free public archive of research papers, including myths in categories The Ordinary doesn't even sell into. This execution pairs a blackened, decaying tomato with 'Firms. Tones. Corrects the myth that parabens in skincare are dangerous.' — the category's own claim grammar hijacked so the third verb lands on the truth instead of the skin. The creative rule was stated plainly by the team: truth doesn't need a thousand colours or fonts or crazy imagery, it just needs space. Honest 2026 footnote: thetruthshouldbeordinary.com no longer resolves, which is its own lesson about an ad whose whole payload is a URL.",
+      "whatWorks": [
+        "The hook is the category's own iconography turned against it — 'natural' represented by a rotting tomato, lit and shot like a lab specimen, so the image has made the argument before the headline is read.",
+        "The headline borrows the product-claim format every skincare ad uses ('Firms. Tones.') and then completes the list with a fact rather than a benefit — you read two lines of advertising and land in a correction.",
+        "No colour at all. Black, white and grey read as clinical and unbiased; one accent would have filed it back under advertising.",
+        "The bottle is small, low and near the edge; roughly nine tenths of the frame is argument and empty ground. The product is the footnote to the claim, not the subject.",
+        "Numbering the executions (#TruthDrop 4) turns a campaign into a series an audience can follow and a brand can keep extending without redesigning anything.",
+        "The call to action sends people to a free research archive instead of a product page — giving the evidence away is what makes the claim believable."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A single black-and-white object, isolated on white: a tomato collapsing in on itself, stem still attached, photographed with the flat clarity of a specimen shot. It stops the scroll because it is grotesque in a category that only ever shows dewy skin and glass bottles — and because 'natural' rotting is the exact counter-image to the myth being corrected."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Firms. Tones. Corrects the myth that parabens in skincare are dangerous.' The first two words are the category's stock claim rhythm, so the eye reads them as an ordinary product ad; the third clause swaps the object of the sentence from your face to the industry. A short paragraph of body copy underneath states what the drop is and where the evidence lives — small, unhurried, no bold, no exclamation."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "One object left, type right, everything on white with generous margins and a lot of nothing between them. Monochrome across the whole set (the OOH run and the shredder film share the same rules), which makes the campaign recognisable at a glance and signals 'evidence' rather than 'beauty'. The typography is the brand's own plain sans at a modest size — the restraint is the credibility."
+        },
+        {
+          "name": "CTA",
+          "notes": "'#TruthDrop 4' and the archive URL, both set tiny, with the 'The Ordinary.' lockup in the bottom corner. There is no shop link, no discount, no urgency device: the ad's destination is a library of research papers the brand doesn't monetise. The generosity is the proof — and the risk, since a campaign that lives at a URL dies when the URL does."
+        }
+      ],
+      "principle": {
+        "title": "Make the ad an argument, not an announcement",
+        "explanation": "Most category advertising announces — here is the product, here is the adjective, here is the button — and every competitor's announcement looks identical, so the audience files them all in the same place without reading. An argument behaves differently: it has a claim someone could disagree with, evidence you can go and check, and a shape that borrows the category's own grammar so it gets read before it gets recognised. It also inverts the frame — the claim is the hero, the product is the footnote — which buys attention that no amount of shouting the offer can.",
+        "howToApply": "On a Just Listed or collection post, pick the one claim a buyer would actually challenge — 'the third bedroom is a real bedroom, not an office'; 'south-facing here means sun on the terrace until 7pm in June' — and give the entire frame to proving that single claim, with address, price and agent block small at the bottom. Point the CTA at the evidence (the floorplan, the full photo set, the days-on-market page), not at the contact form, and host that evidence on a page you control and will keep, so the campaign doesn't outlive its own link."
+      },
+      "tags": [
+        "typography",
+        "monochrome",
+        "copywriting",
+        "restraint",
+        "campaign"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Peter Saville",
+        "url": "https://en.wikipedia.org/wiki/Peter_Saville_(graphic_designer)"
+      },
+      "image": "images/2026-09-03-designer-peter-saville.jpg",
+      "category": "Album art, identity & art direction / British post-punk modernism",
+      "when": "b. 1955 · British",
+      "tagline": "The art director who mostly didn't draw — he found an existing image and moved it into a room where it didn't belong.",
+      "summary": "Saville studied graphic design at Manchester Polytechnic (1975–78), where Malcolm Garrett showed him Jan Tschichold's New Typography — which he used almost immediately on FAC 1, the poster for Tony Wilson's Factory club. He co-founded Factory Records in 1978 with Wilson and Alan Erasmus and became the label's visual author: Joy Division's Unknown Pleasures (a plot of the pulsar CP 1919 lifted from an astronomy reference book), Closer (Bernard Pierre Wolff's photograph of a tomb in Genoa's Staglieno cemetery), New Order's Power, Corruption & Lies (Fantin-Latour's A Basket of Roses from the National Gallery, paired with a colour-coded alphabet) and Blue Monday's die-cut floppy-disk sleeve. Later came Manchester's city identity and Metrolink, Manchester International Festival, work for Dior, Stella McCartney and Pringle, and Burberry's 2018 logo; CBE in 2020, Royal Designer for Industry. He is also famously, comically late — a running joke in 24 Hour Party People — which is part of the method's honest cost.",
+      "whatWorks": [
+        "Source instead of originate: keep a standing library of images you didn't make — scientific plates, museum paintings, archival photography — and open a brief by asking which existing image, moved into this context, says the thing.",
+        "Withhold the obvious. Unknown Pleasures carries no band name and no title on the front; refusing to introduce itself is precisely what makes people look longer and remember it.",
+        "Encode rather than state: the colour wheel on Power, Corruption & Lies spells the title only if you decode it, so the meaning is available to anyone who wants it and delivered to nobody.",
+        "Let the object carry what the image can't — Blue Monday's sleeve was die-cut as a 5.25-inch floppy disk, so the format itself is the argument. It also famously cost more to make than the record earned: craft that ignores unit economics is a decision, not an accident.",
+        "Borrow authority from another register — a 19th-century still life or an astronomy diagram on a pop record imports credibility the category cannot manufacture for itself.",
+        "Art-direct rather than execute: the moves are select, crop, colour and place. Almost nothing on a Saville sleeve was drawn by Saville, and the work is no less authored for it."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not with a sketch — with a search. Saville's first move on a brief is to go looking through what already exists (books, museum collections, scientific reference, other people's photography) until something reframes the subject, and the design job becomes choosing and placing rather than inventing. The origin story is the method in miniature: a friend hands him Tschichold's New Typography, and it goes straight onto a live job as FAC 1. The corollary is that the library has to be built before the brief arrives, because you cannot search a collection you don't have."
+        },
+        {
+          "name": "Core method",
+          "notes": "Transposition. Take an image with a settled meaning in one world and set it down, largely unaltered, in another — a pulsar plot from astronomy onto a post-punk record, a Victorian flower painting onto a synth-pop sleeve — and let the friction between the two contexts do the work. As critic Alice Twemlow put it, he would irreverently lift an image from one genre and recontextualise it in another. The discipline is restraint: the borrowed image is not decorated, it's cropped, coloured and framed, and the design lives in what surrounds it."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The withheld cover plus the private system. Strip the identifying information off the front (no name, no title) so the object has to be approached rather than read, then build a system underneath it that rewards the people who come closer — the colour-coded alphabet, the silver ink, the die-cut. Two registers running at once: an immediate image anyone can respond to, and a coded layer for whoever decides to look twice."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "He designs for an audience assumed to be as curious as he is — the test is whether the piece earns a second look, not whether it explains itself on the first. Beauty and rightness are allowed to be reasons on their own: if the image is right, it doesn't need to shout, and adding a lockup or an explanation would only file it back under advertising. The honest limits are visible in the record too — chronic lateness, and sleeves that cost more than they made — so the method needs someone counting, which at Factory was somebody else."
+        }
+      ],
+      "principle": {
+        "title": "Find the image before you make one",
+        "explanation": "The default reflex on a brief is to commission or generate something new, which is expensive, slow and usually lands on whatever the category already looks like. Searching first is faster and produces stranger, more specific results, because the world is full of images made with total conviction for some other purpose — scientific diagrams, archival maps, botanical plates, municipal photography — and the meaning they carry from their first life is something you could never manufacture. The design work then moves to selection, crop, colour and placement, which is where authorship actually lives.",
+        "howToApply": "Before commissioning any graphic for a European listing, spend an hour in the archives of the place: the town's cadastral map, a botanical plate of the tree in the garden, the entry-hall tile pattern photographed flat, a page from the region's 1930s tourist brochure. Give the best one a full page in the magazine — unaltered, uncredited on the page, credited in the index — and let it carry the section that has nothing to photograph. Start the standing library now, one folder per region, so the search is possible when the brief is live and not just when there is time."
+      },
+      "tags": [
+        "appropriation",
+        "art direction",
+        "restraint",
+        "identity",
+        "typography"
+      ]
     }
   ]
 }
