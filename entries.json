@@ -17027,6 +17027,180 @@
         "identity",
         "typography"
       ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "NOMOS Glashütte",
+        "url": "https://nomos-glashuette.com/en"
+      },
+      "image": "images/2026-09-04-nomos-glashutte.png",
+      "category": "Watchmaking / luxury product",
+      "tagline": "A luxury product homepage where every tile is an editorial sentence that ends in the exact model name, and no type is ever allowed to land on a photograph.",
+      "summary": "NOMOS sells €2,000–€4,000 mechanical watches on a page that reads like a magazine contents list rather than a shop. Each block is one photograph on white or pale grey with its headline set above it — 'The very definition of a dress watch: Orion gold neomatik new black' — and the same tiny 'Discover now ›' link underneath, so the images stay uncropped, unscrimmed and untinted while the sentences do the persuading. One light grotesque at two weights, near-black on white, means the only saturated pixels on 12,500px of page live inside the watches themselves: gold cases, navy dials, and one orange highlight in a live stock-exchange ticker. The one lapse is a floating 'Do you have any questions?' chat bubble parked directly on the hero watch — the single element permitted to cover product photography.",
+      "whatWorks": [
+        "Headlines sit above the image, never on it — no gradient scrim, no dead-space crop, no text-safe area, so every photograph can be chosen as the best photograph rather than the most overlay-friendly one",
+        "Each tile's headline is a full sentence that ends in the specific model ('In real time, worldwide: Club Sport neomatik Worldtimer – Edition Handelsblatt') — the claim and the SKU are inseparable, which forces the claim to be true of one object instead of the catalogue",
+        "One identical micro-link ('Discover now ›') on every tile instead of a differently-worded button per block — the headline carries the difference, the CTA never competes",
+        "Under the world-time watch runs a live marquee of exchange codes and UTC offsets (HKEX +7, TSE +8, SYD +9, NOU +10, AKL +11, PPG ±12, HNL −11) with the currently open markets in orange — the feature is demonstrated, not described",
+        "Numbers are the copy: '13 model families, 13 mechanical calibers', and each family in the picker is labelled with its own inventory ('TANGENTE / 37 watches'), so navigation doubles as a stock report",
+        "Provenance is a four-tile row whose first tile is a drone shot of the actual town of Glashütte, followed by hands, a caliber under a press and a bare movement — location, R&D, production, part",
+        "Social proof is one oversized pull-quote in German guillemets »…« attributed simply 'Hodinkee', set in the page's own headline face at headline size rather than boxed in a testimonial card",
+        "The footer leads with the newsletter field and sets 'Withdraw from Contract ›' in bold among the legal links — consumer rights treated as a trust signal instead of fine print"
+      ],
+      "sections": [
+        {
+          "name": "Header",
+          "notes": "Wordmark centred and stacked (NOMOS over letterspaced GLASHÜTTE), the three content routes pushed left — Watches, Watchmaking, Topics — and commerce pushed to the far right (Shop, Find retailer, account, search). The nav order tells you the site thinks of itself as a publication with a shop attached, not the reverse."
+        },
+        {
+          "name": "Hero",
+          "notes": "Two lines of headline and a 'Discover now ›' link sit on white ABOVE a full-width photograph of one watch on pale grey. No price, no button, no badge, nothing overlaid. The generous line spacing and the light weight of the grotesque do the luxury signalling that a serif or a gold accent would usually be asked to do."
+        },
+        {
+          "name": "Two-up feature row",
+          "notes": "Two products, two editorial sentences, one shared link style: the Worldtimer on white with its live exchange ticker beneath, and 'No two pairs are alike: Twice Unique offers individual design in stainless steel and gold' shot on navy leather. The grounds differ (studio white vs. material close-up) so the pair reads as two registers of the same system rather than a repeated card."
+        },
+        {
+          "name": "Model families / Watchfinder",
+          "notes": "A small left-set paragraph of facts ('13 model families, 13 mechanical calibers—high-precision watches crafted by an independent Glashütte manufacture') with an outlined 'Watchfinder' button hard right, then a five-up carousel of watches on white, each with a tiny all-caps family name and its live count. This is the whole catalogue compressed into one scannable row — no filters, no price grid."
+        },
+        {
+          "name": "Manufactory / provenance",
+          "notes": "'Made in Glashütte: In our manufactory films, the smallest parts of the watch are the stars' with a 'Watch Season 7 now' button, over a full-bleed macro of a single component so shallow in focus it reads as landscape. Then a short paragraph and the four provenance tiles. Making the film series a numbered 'Season' commits the brand to publishing rather than to one brand video."
+        },
+        {
+          "name": "Pull quote",
+          "notes": "One quote from Hodinkee at headline scale on white, with the German »quotation marks« kept rather than converted — a small piece of national grammar left in place. The attribution is one word, no logo wall, no star rating, no carousel of five."
+        },
+        {
+          "name": "Footer",
+          "notes": "Pale grey ground. Newsletter first with an inline email field, then four columns of ~10px all-caps labels (Useful information / Watches / Shop / About NOMOS / Follow / Legal information), a bolded 'Withdraw from Contract ›', and a bottom rule carrying 'Location: International ›' and 'Language: English ›'. Every item is a plain text link; there is not one icon button in it."
+        }
+      ],
+      "principle": {
+        "title": "End the tile headline with the thing's own name",
+        "explanation": "Most product and listing tiles split into two texts — a marketing line on top and a model or address label underneath — so the visitor reads an adjective first and only learns what they are looking at on the second read. Collapsing both into one sentence that finishes on the specific object ('The very definition of a dress watch: Orion gold neomatik new black') makes the claim inseparable from the thing, which quietly forbids any claim that is only true of the category.",
+        "howToApply": "On Aperture collection grids and the magazine contents page, write every card as '<one-sentence claim>: <the actual address or unit>', cap it at two lines, and delete the separate name label underneath. Keep one identical micro-link on every card and set the sentence above the photograph so the image never needs a scrim. Test: if the claim still reads fine when you swap in a different address, it is a category adjective and has to be rewritten."
+      },
+      "tags": [
+        "typography",
+        "photography",
+        "luxury",
+        "editorial",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "German Rail (Deutsche Bahn) — 'No Need to Fly' (Facebook / Instagram dynamic feed ads)",
+        "url": "https://www.ogilvy.com/de/eng/work/no-need-fly"
+      },
+      "image": "images/2026-09-04-ad-german-rail-no-need-to-fly.png",
+      "category": "Meta feed ad — data-driven dynamic creative",
+      "when": "Launched summer 2019 (Ogilvy Germany, Frankfurt)",
+      "tagline": "Two photographs the viewer cannot tell apart, with two prices under them that are impossible to confuse.",
+      "summary": "Ogilvy built an ad whose argument is a visual near-match: an algorithm read the foreign destinations Germans were searching to book, found German locations that look almost identical in stock imagery, and generated the pair as a single feed unit carrying the day's real flight price against a €19 rail fare — roughly 10,000 personalised variants from one layout. The unit here pairs paddleboarders in Santos, Brazil with paddleboarders on the Spree in Berlin, labelled 'Frankfurt → Santos / Plane: 1,154 Euros' and 'Frankfurt → Berlin / Train: 19 Euros'. No train appears anywhere in the creative; the product is the trip, and the persuasion is arithmetic the viewer performs themselves. The agency reports a 24% revenue lift off the campaign.",
+      "whatWorks": [
+        "The hook is a near-match, not a headline — two photographs split by a hairline gutter, close enough that the eye checks one against the other before reading a word",
+        "The two price chips are mirrored to the outer edges (left chip flush left, right chip flush right) so the comparison resolves as two numbers at the frame's far corners: 1,154 against 19",
+        "Each chip is exactly two lines in tight bold sans on DB crimson — route with an arrow glyph, then mode and price — and carries no other information",
+        "The body copy concedes the fantasy before undercutting it: 'You could fly to Brazil for a sightseeing tour in the water. Or simply to go Berlin. #noneedtofly' — the hashtag rides the joke, not the offer",
+        "The CTA repeats the number instead of the brand ('Discover Germany. For just 19 Euros.' + 'Book Now'), so the ad still lands if the image is scrolled past half-shown",
+        "No model, no lifestyle gloss, no logo lockup inside the frame — the only branding is the DB avatar in the post header, which is why the pair reads as evidence rather than art direction",
+        "One layout, thousands of variants: the creative is a template whose content is data (search demand → lookalike location → live fare), so relevance scales without a redesign"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Two square photographs edge to edge with a hairline gutter, shot from similar heights in similar light — paddleboarders on flat water, low buildings behind. The comparison is doing the work a headline usually does: you look twice to check whether it is the same place, and by then you have read both prices in the outer corners."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "The in-feed copy is one sentence of concession and one of substitution: 'You could fly to Brazil for a sightseeing tour in the water. Or simply to go Berlin.' It never argues that Berlin is better, only that the experience pictured is available closer and cheaper — and #noneedtofly compresses the entire positioning into one word."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Neither half is a product shot; there is no train, no interior, no staff. What is pictured is the thing the customer already wanted, twice. The images are ordinary feed-resolution photography rather than retouched campaign stills, which is exactly why the equivalence is believable."
+        },
+        {
+          "name": "CTA",
+          "notes": "'Discover Germany. For just 19 Euros.' set as a two-line link block with a quiet outlined 'Book Now' at the right. The price appears three times in the unit — in the right-hand chip, in the CTA, and in the offer — because the number is the whole campaign."
+        },
+        {
+          "name": "The system behind it",
+          "notes": "An algorithm matched trending searched-for destinations to German lookalikes and pulled live flight and rail fares at serve time, producing ~10,000 generated pairs targeted by the traveller's own intent. The layout was designed once; every subsequent 'idea' was a new row of data."
+        }
+      ],
+      "principle": {
+        "title": "Make the comparison the creative, and let data write the copy",
+        "explanation": "A claim of equivalence — you can get this same thing here, for less — is weak as a sentence and unarguable as two photographs the viewer cannot separate. And once the layout is a fixed comparison frame with two image slots and two number slots, relevance stops being a creative problem: speaking to a different desire means a different row of data, not a new design.",
+        "howToApply": "Build one fixed side-by-side frame for Aperture — identical crop both sides, hairline gutter, label chips pinned to the outer corners — and fill it from a CSV: the aspirational comparison on the left (Amalfi, Provence, Lake Como with its real €/m² or nightly rate) and the equivalent Aperture listing on the right with its actual price. One layout, one sheet, one post per pairing, so the series runs for months without new art direction. The gate: if the left and right photographs are clearly distinguishable at a glance, the pairing is not ready to post."
+      },
+      "tags": [
+        "comparison",
+        "data-driven",
+        "social",
+        "copywriting",
+        "price"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Alexandre Wollner",
+        "url": "https://pt.wikipedia.org/wiki/Alexandre_Wollner"
+      },
+      "image": "images/2026-09-04-designer-alexandre-wollner.png",
+      "category": "Corporate identity / 'programação visual' — Brazilian modernism",
+      "when": "1928–2018 · Brazilian (São Paulo)",
+      "tagline": "The designer who imported Ulm's method to Brazil and renamed the job: not graphic art, but visual programming.",
+      "summary": "The son of Yugoslav immigrants who grew up around his father's typography workshop, Wollner was picked by Max Bill for the first intake at the Hochschule für Gestaltung Ulm and trained there from 1954 to 1958. He came home to São Paulo and, with Geraldo de Barros and Ruben Martins, opened Forminform in 1958 — one of the first design offices in Brazil — building identities for Eucatex, Klabin, Ultragaz, Santista, Coqueiro and the original Banco Itaú mark, all drawn with compass, ruler and set square from geometric programmes. In 1963 he helped found ESDI in Rio on the Ulm model and taught there for years, because his real product was not a logo but a transferable method. He is generally credited as the father of modern Brazilian design, and he insisted on the term 'programação visual' — visual programming — over 'graphic art'.",
+      "whatWorks": [
+        "Rename the deliverable to change it: refusing 'graphic artist' for 'visual programmer' turns the output from a picture that is composed into a system that is programmed, and the client's expectations move with the word",
+        "Draw with instruments, not with the hand — every mark derived from circles, squares and a grid module, so it can be rebuilt from its own construction at any size by anyone",
+        "Write the reasoning before the drawing (the Ulm habit), so the mark arrives as the conclusion of an argument that someone else can check rather than a preference to be defended",
+        "Take the entire visual output as one commission — interiors, signage, packaging, typefaces, advertising, employee clothing — so coherence comes from scope rather than from a brand manual policing separate vendors",
+        "Grid first, ornament last: anything decorative that could not be defended as communication was removed, which is how the marks end up describable in a single sentence",
+        "Institutionalise the process instead of protecting it — he built a school to teach the method, which is the only version of a working process that outlives the practitioner"
+      ],
+      "sections": [
+        {
+          "name": "How he begins",
+          "notes": "With a definition rather than a sketch. Wollner treats a brief as a request for a programme: what the company actually makes, at what scales its marks will appear, on which surfaces, and which of those surfaces will still exist in ten years. The Ulm training means the written rationale comes first, so nothing gets drawn that cannot be explained."
+        },
+        {
+          "name": "Core method",
+          "notes": "Programação visual — the identity as a rule set covering everything the company emits, delivered as one job. For his corporate clients that meant the complete visual communication: office interiors, signage systems, typefaces, packaging, advertising media, even what staff wore. The system is the deliverable; each artefact is an instance of it."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Instrument-built geometry. Marks constructed with compass, ruler, triangle and square out of circles, squares and grid modules, with the tangents and centres implied in the finished form — the primacy of the grid, structural rigour, and a mark whose logic survives being redrawn by a signwriter, an embroiderer or a printer who never sees the original artwork."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Function outranks flourish: if a shape cannot be justified as communication it comes off, however pleasant. A solution should be reproducible from instructions, not from a file. And a method is only real if it can be taught — hence ESDI, and hence a career spent giving away the process rather than mystifying it."
+        }
+      ],
+      "principle": {
+        "title": "Ship the construction, not just the artwork",
+        "explanation": "A mark handed over as a finished file gets rebuilt wrongly the first time somebody needs it at 12mm on a sign, embroidered on a jacket, or re-set inside a template you do not control. A mark derived from a geometric construction can be redrawn from its own instructions — and the discipline of having to construct it in the first place kills every shape that was only ever a nice gesture.",
+        "howToApply": "For any Aperture mark or recurring device — collection badge, magazine folio, unit-number plate, the carousel slug — deliver a one-page construction sheet beside the SVG: the circles and squares it is built from, the grid module, minimum size, clear space, and the two-sentence reason it looks like that. Require the same sheet for anything a vendor will re-set (print, signage, embroidery, a Canva template someone else fills in). If a piece cannot be drawn from its sheet, it is not finished."
+      },
+      "tags": [
+        "identity",
+        "systems",
+        "geometry",
+        "method",
+        "modernism"
+      ]
     }
   ]
 }
