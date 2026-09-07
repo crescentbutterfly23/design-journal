@@ -17201,6 +17201,182 @@
         "method",
         "modernism"
       ]
-    }
+    },
+  {
+    "date": "2026-09-07",
+    "source": "daily",
+    "kind": "site",
+    "site": {
+      "name": "Notion",
+      "url": "https://www.notion.com"
+    },
+    "image": "images/2026-09-07-notion.png",
+    "category": "SaaS / productivity software",
+    "tagline": "The headline sets one of its own words inside a Notion inline chip, so the sentence is already a screenshot of the product.",
+    "summary": "Notion's homepage argues almost entirely in product stills. The fold reads “Where teams and agents ● Think together.” — and the word “Think” is not styled text, it is drawn as a Notion inline chip with the little blue dot, so the claim about working inside Notion is demonstrated inside the claim. Everything below is the same discipline: a real workspace (“Ramp HQ”) rather than an abstract UI, feature sections whose eyebrow states the job and whose headline states the outcome, and a five-chip row of literal tasks. The page is near-monochrome — near-black type on off-white, one blue reserved for the primary action — and spends its entire colour budget on three saturated testimonial cards near the bottom, which is exactly where a skimmer needs a stop.",
+    "whatWorks": [
+      "Hero headline contains a live UI element: “Think” is set in the product's own inline chip (rounded pill, blue dot), same size and baseline as the surrounding words — no callout, no annotation.",
+      "The fold's product shot is a named, plausible workspace (“Ramp HQ” with real-looking sidebar items and task rows), not a sanitised demo — and hand-drawn line-art characters peek in from the margins so the screenshot doesn't sit in a vacuum.",
+      "Logo wall carries a caption that converts it from decoration into a statistic: “Trusted by 98% of the Forbes Cloud 100”, set small and grey directly beneath.",
+      "Feature cards use a two-line stack — a small grey eyebrow naming the job (“Capture knowledge”, “Find answers”) over a bold sentence naming the outcome (“Bring everything into one system of record.”) — so the skim reads as job → result.",
+      "“See what Notion can do” is a row of five plain task chips (“Resolve support tickets in Slack”, “Respond to security alerts faster”) — verbs a buyer already has on their list, not capabilities.",
+      "Colour is rationed: the whole page is near-black on off-white with one blue for the primary button, and the only saturated blocks on the page are the three quote cards — so colour marks the one section that is pure opinion.",
+      "Every headline is a complete sentence ending in a full stop (“AI where your team works.”, “Trusted by teams that ship.”, “Get started today.”), which reads as statement rather than menu label."
+    ],
+    "sections": [
+      {
+        "name": "Nav",
+        "notes": "Five items only — Product, Resources, Pricing, Request a demo on the left cluster; Log in and a single blue “Get Notion free” pill on the right. One filled button in the entire header, so the primary action is unambiguous on every screen."
+      },
+      {
+        "name": "Hero",
+        "notes": "Centred, three lines of tight-tracked bold sans: “Where teams and agents ● Think together.” with “Think” drawn as a Notion inline chip. One grey subhead line (“Capture context, find answers, and automate tasks with AI built for your team.”) and a two-button pair — solid blue primary, ghost secondary. Nothing else competes above the fold."
+      },
+      {
+        "name": "Product proof + logo wall",
+        "notes": "A wide, softly-shadowed screenshot of an actual workspace sits directly under the CTAs, with doodle characters breaking its edges to keep it from reading as stock UI. Two rows of client logos follow at low contrast, closed by the grey line “Trusted by 98% of the Forbes Cloud 100” — the caption is what makes the logos evidence."
+      },
+      {
+        "name": "“AI where your team works.”",
+        "notes": "Left-aligned section head, then a 2-up then 1-up card grid on very light grey. Each card: grey eyebrow (the job) → bold sentence (the outcome) → a circular arrow button → a product still cropped so it bleeds off the card. The stills carry the explanation, so the copy stays at one sentence."
+      },
+      {
+        "name": "“See what Notion can do”",
+        "notes": "A five-across strip of small bordered chips, each with one coloured icon and a two-line task written as an imperative (“Triage product feedback →”). It functions as a use-case index without a heavy tab component — the cheapest possible way to let five different buyers self-identify."
+      },
+      {
+        "name": "“Trusted by teams that ship.” + stat bar",
+        "notes": "Three tall cards in saturated red, blue and amber gradients — the only strong colour on the page — each holding a serif-italic pull quote with attribution set small at the bottom left. Beneath them, a single thin row of five stats with tiny icons (“100M users in over 50 countries”, “Over 50% of YC companies”, “62% of Fortune 100 use Notion”), which keeps the numbers out of the emotional block."
+      },
+      {
+        "name": "Closing CTA",
+        "notes": "“Get started today.” centred on a light grey band with the exact two buttons from the hero, same order, same styling — the page ends by repeating its opening offer verbatim rather than inventing a new one."
+      },
+      {
+        "name": "Footer",
+        "notes": "Four link columns (Product, Resources, Company, Notion for) beside the logo and, unusually, a Marshall McLuhan quote — “We shape our tools, and thereafter our tools shape us.” — credited in small grey type. One line of belief in the coldest part of the page, where a manifesto costs nothing and is found by the people who scroll all the way."
+      }
+    ],
+    "principle": {
+      "title": "Set one word of the headline in the product's own interface",
+      "explanation": "Notion doesn't write “works the way you already work” — it renders the word “Think” as the exact inline chip you'd see in the app, at the same size and baseline as the rest of the sentence. The claim and its evidence occupy the same three centimetres, so there is nothing to believe: a reader who has used the product recognises the component, and one who hasn't has just been shown it. It works because the element is real and restrained — one word, no callout arrow, no annotation.",
+      "howToApply": "On an Aperture hero or a listing page, take the single word in the headline that names something the buyer will actually meet and set it as that thing: render “$1.2M” in the same price chip used on the cards, put the street name inside the map-pin label, set “11 days” in the days-on-market stamp. One word only, inline, same size and baseline as its neighbours — if it needs a caption explaining the joke, it's decoration and should come out."
+    },
+    "tags": [
+      "saas",
+      "typography",
+      "product-ui",
+      "color",
+      "conversion",
+      "restraint"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "source": "daily",
+    "kind": "ad",
+    "site": {
+      "name": "Guide Dogs — ‘Life Unleashed’ (integrated: film, digital, print, radio)",
+      "url": "https://www.adsoftheworld.com/campaigns/life-unleashed"
+    },
+    "image": "images/2026-09-07-ad-guide-dogs-life-unleashed.png",
+    "category": "Charity campaign film + integrated digital (UK)",
+    "when": "Launched 28 August 2026 in the UK; running through September with legacy-giving activity into October",
+    "tagline": "A sight-loss charity stops asking for pity and starts filming first times — and ships a bespoke typeface drawn for the people it serves as part of the same campaign.",
+    "summary": "Fold7's debut work for Guide Dogs is built on ‘firsts’: a 2:45 film, ‘First Steps’, directed by Tom Green with voiceover by Maxine Peake, in which every person on screen is a real Guide Dogs service user rather than an actor — a teenager walking back into school after losing their sight, a fan returning to the stands, a toddler learning a cane. The reframe is the whole idea: the charity's product is not the dog, it's the first time. What lifts it past a well-shot fundraising film is that the agency's studio also drew Guide Dogs a bespoke typeface tuned for readers with vision impairment, so the accessibility argument is made by the artwork itself and not only by the script. The still here is a poster frame from the film; the campaign is best judged with sound, since the radio leg is built from real thank-you voice notes.",
+    "whatWorks": [
+      "The category reframe is one word: ‘firsts’. It converts a deficit story (what someone lost) into an achievement story (what they just did) without softening the fundraising ask.",
+      "Casting is the proof — real service users, not actors, and vignettes small enough to be credible (a cane, a school corridor, a stadium seat) rather than a single triumphant set piece.",
+      "Cinematography stays undramatic: available daylight, shallow depth, mid-shot at the subject's height, no swelling reveal — so the achievement carries the emotion instead of the grade.",
+      "The typeface commissioned for low-vision readers means the campaign's headline asset is also its accessibility asset — the medium is not exempt from the message.",
+      "Each channel is cast for what it does best: film for the moment, radio for real voice notes from service users thanking staff, social (‘Behind every first’) for the unglamorous partnership work behind it.",
+      "The ask is written as a mechanism, not a mood — ‘Your donation helps make life-changing firsts possible for people with sight loss’ names the unit your money buys."
+    ],
+    "sections": [
+      {
+        "name": "Hook",
+        "notes": "An ordinary frame of someone about to do something ordinary — a woman standing still in a field holding a cane, eyes closed, sun on her face. No logo, no super, nothing announcing a charity. The scroll stops because you can't yet tell what it is, and the answer is a person mid-achievement rather than mid-hardship."
+      },
+      {
+        "name": "Message / headline",
+        "notes": "‘Life Unleashed’ as the platform, with the running argument that Guide Dogs exists for life-changing firsts, not just for dogs. Maxine Peake's voiceover stays low and unsentimental, letting the service users' own moments carry the claim; the donation line arrives as a plain statement of what a gift produces."
+      },
+      {
+        "name": "Visual / hero",
+        "notes": "Documentary grammar throughout — real locations, real people, daylight, handheld-adjacent framing, and the guide dog or cane treated as an everyday tool in shot rather than a symbol placed in shot. Typography across the print and digital cutdowns uses the bespoke vision-impairment typeface, so the identity reads as designed-for rather than designed-about."
+      },
+      {
+        "name": "CTA",
+        "notes": "A donation ask tied to the unit the campaign spent two minutes defining — the ‘first’ — rather than a generic ‘support us’. Legacy-giving activity runs behind it into October, so the same emotional frame is reused for the longest-horizon ask instead of getting its own separate campaign."
+      }
+    ],
+    "principle": {
+      "title": "Put the accessibility into the brand asset, not into a compliance pass",
+      "explanation": "Guide Dogs didn't caption an existing typeface as accessible — the studio drew a new one for people with vision impairment and made it the campaign's own voice. That inverts the usual order, where the design is made and then checked against a contrast ratio at the end. When the accessible choice is the brand asset, every future piece inherits it for free and nobody has to argue for it per-job; when it's a checklist, it is the first thing dropped under deadline.",
+      "howToApply": "Decide the accessibility rules at the template layer of the Aperture Power Pack and Magazine rather than per order: set the floor body size for print collateral and never go under it to fit copy, fix a minimum text-on-photograph contrast and require a solid panel rather than a scrim when a caption can't clear it, and check the house typeface's numerals and unit abbreviations at the smallest size a spec line is ever set. Write those three into the template's construction sheet so the constraint arrives with the file, not with the review."
+    },
+    "tags": [
+      "accessibility",
+      "typography",
+      "nonprofit",
+      "casting",
+      "documentary",
+      "campaign-platform"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "source": "daily",
+    "kind": "designer",
+    "site": {
+      "name": "Wolff Olins",
+      "url": "https://en.wikipedia.org/wiki/Wolff_Olins"
+    },
+    "image": "images/2026-09-07-designer-wolff-olins.jpg",
+    "category": "Brand consultancy / corporate identity — London, New York, San Francisco, Los Angeles (image: co-founder Wally Olins)",
+    "when": "Founded 1965, Camden Town, London · Michael Wolff (designer) & Wally Olins (business); ≈150 people today",
+    "tagline": "The studio that invented the modern brand consultancy by putting a designer and a business mind in the room as equal authors — and defined identity as ‘strategy made visible’.",
+    "summary": "Wolff Olins was founded in 1965 by Michael Wolff, a designer, and Wally Olins, who came from advertising and business — a deliberate two-headed practice at a time when corporate identity meant a draughtsman tidying a logo. Olins's definition of the job, ‘strategy made visible’, is still the clearest description of what an identity is for: not decoration applied afterwards, but the organisation's intent made legible. The work runs from BOC (1967) and Apple Records (1968) through Orange (1994), Tata, NBC Universal and London 2012 to the BBC's Reith blocks. They are also worth studying for the failures — the 2012 Olympic mark was savaged at reveal and then worked in motion and application, while abrdn was ridiculed and reverted in 2025 — which together make the honest case that an identity has to be judged in use, and that a name nobody can say is not saved by a good system.",
+    "whatWorks": [
+      "Put a maker and a business mind in the room as equal authors from the first meeting — not strategy first, then design, but both arguing over the same decision.",
+      "Write the strategy as a sentence before drawing anything, then treat every visual decision as an attempt to make that sentence visible; anything that can't cite it is decoration.",
+      "Design for the organisation the client is becoming, not the one that walked in — Orange in 1994 had no telecom cues at all because the brief was about a future behaviour.",
+      "Be willing to invent the name and the whole language, not just the mark — naming is where most of the strategy actually gets fixed.",
+      "Judge the identity in application over a year (motion, signage, small sizes, templates) rather than at the reveal, where it is being judged as a picture.",
+      "Pair evidence with a leap — the house phrase is ‘maths and magic’: research narrows the options, but somebody still has to choose the one nobody asked for.",
+      "Know the honest limit: the reveal-backlash defence only holds when the idea is sound. If the thing is unsayable or unspellable, application won't rescue it."
+    ],
+    "sections": [
+      {
+        "name": "How it's structured",
+        "notes": "Founded as a partnership of opposites — Wolff the designer, Olins the business and advertising side — and built out into a consultancy that keeps strategists, writers, designers and now culture and experience specialists on the same team rather than in a relay. Today the practice organises itself around three linked pillars (brand, culture, experience) precisely so an identity can't be delivered without also changing how the organisation behaves internally."
+      },
+      {
+        "name": "How it takes on work",
+        "notes": "The engagement starts with the client's ambition rather than their asset list: what is this organisation trying to become, and what would have to be true for people to believe it. That framing is why so much of the output is a name, a proposition and a behaviour set, with the mark arriving late — the deliverable is the argument, and the logo is its most compressed form."
+      },
+      {
+        "name": "Signature method",
+        "notes": "‘Strategy made visible.’ Olins's phrase is an actual working test: for each element you are proposing, state which line of the strategy it makes visible. Executed in the extreme by Orange — an invented name with no category reference, a square of one colour, and a line (‘The future's bright’) that describes a posture rather than a service — which is what let it act as a challenger from launch instead of growing into one."
+      },
+      {
+        "name": "Decision rules / philosophy",
+        "notes": "Judge the work in use, not at reveal: London 2012 was dismissed at reveal (Stephen Bayley called it ‘a puerile mess’) and then earned itself back through motion, colour and application across a whole games. The counterweight is abrdn — ridiculed, never recovered, reverted in 2025 — which sets the limit honestly: application rescues a mark that is merely unfamiliar, never one that is unusable. Today they state the bias plainly — ‘optimisation won't ensure success’ — preferring a defensible leap to a safe increment."
+      }
+    ],
+    "principle": {
+      "title": "Make a maker and a business mind co-authors from the first meeting",
+      "explanation": "Wolff Olins exists because Michael Wolff and Wally Olins were partners, not a sequence — a designer and a business head deciding together, which is the only arrangement in which ‘strategy made visible’ is a method rather than a slogan. When strategy is handed over finished, the designer spends the job decorating someone else's conclusion; when the maker is in the room while the conclusion forms, the visual idea and the commercial idea end up being the same idea.",
+      "howToApply": "Before laying out any Aperture order, take twenty minutes with the agent — the business head on that property — and leave with one written sentence naming who this piece is for and what it must make them do (‘make out-of-state buyers book a tour before the open house’). Put that sentence at the top of the working file. Every later choice — which photograph opens, whether the price leads, how much copy survives — has to cite it, and anything that can't gets cut at the first pass instead of the third."
+    },
+    "tags": [
+      "identity",
+      "strategy",
+      "naming",
+      "process",
+      "studio-model",
+      "brand-systems"
+    ]
+  }
   ]
 }
