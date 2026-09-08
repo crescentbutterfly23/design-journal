@@ -17377,6 +17377,175 @@
       "studio-model",
       "brand-systems"
     ]
-  }
+  },
+    {
+      "date": "2026-09-08",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Tony's Chocolonely",
+        "url": "https://us.tonyschocolonely.com"
+      },
+      "image": "images/2026-09-08-tonys-chocolonely.png",
+      "category": "FMCG / mission-led e-commerce",
+      "tagline": "A shop built as a stack of flat-colour posters, where the hero's feature list is two hand-drawn arrows scribbled onto the product photograph.",
+      "summary": "Tony's sells personalised chocolate bars and an argument about forced labour in cocoa on the same page, and never changes voice between the two. Every section is a full-bleed slab of one flat brand colour — royal blue, then red, then white — with its title set in the house woodblock display face at full viewport width, so scrolling reads as turning over posters rather than moving through a template. Yellow appears nowhere except buttons and article tags, which is what keeps a very loud page navigable. The cost of that commitment: there is almost no quiet type on the page — everything is bold, hierarchy comes only from size, and the centred body copy gets tiring once a paragraph runs past three lines.",
+      "whatWorks": [
+        "The hero replaces a feature list with annotation — two hand-drawn arrows and handwritten labels ('fully customizable wrapper', 'Fairtrade cocoa') point straight at the bar a hand is holding, so the claims sit on the product instead of in a column beside it",
+        "Section breaks are colour changes, not rules or whitespace: each block runs edge to edge in one flat hue, with no gradient, drop shadow or rounded card anywhere on the page",
+        "Section titles ('CHOCO SHOP', 'CUSTOMIZE YOUR WRAPPER', 'OUR WALL OF PRAISE') are set in the woodblock display face at full page width, one line, tracked to fill the measure — the headline is the section's only ornament",
+        "One hue is quarantined for action: yellow is used for every button and news tag and for absolutely nothing else, so the next step is findable inside any colour block",
+        "Testimonials are drawn as tilted speech bubbles with tails and attributed by role and organisation ('Senior Manager of Retail & Merchandising'), so proof reads as people talking rather than as a review widget",
+        "The mission block sits mid-page between two commerce sections in plain centred copy — the argument is inside the shop, not quarantined on an About page",
+        "The product photography lets the wrapper carry the design: bars are shot flat on saturated grounds so each customised label reads as its own poster in the grid"
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "Royal-blue slab. Right half: 'CHOCOLATE THAT MAKES AN IMPACT' in three lines of the chunky house display face, one line of supporting copy, one small yellow 'shop now' button. Left half: a hand holding a customised bar, annotated with two hand-drawn arrows. No slider, no video, no second CTA."
+        },
+        {
+          "name": "Choco shop",
+          "notes": "White ground, and the words 'CHOCO SHOP' in red at full viewport width — the section label is the graphic. Under it, three lines of centred copy and a carousel of wrapper designs, each bar shot flat on its own saturated ground so the personalisation is legible at thumbnail size."
+        },
+        {
+          "name": "Wedding favours split block",
+          "notes": "The page's only quiet moment: white ground, copy left, one styled photograph right of stacked pink bars on a wedding table with Polaroids. It works because it is the one section that isn't shouting — the contrast buys it attention."
+        },
+        {
+          "name": "Customize your wrapper",
+          "notes": "Red slab, full-width title, then the decision split into two literal buttons — 'choose a template' or 'start from scratch' — with the carousel below showing both routes. Two doors instead of one vague CTA."
+        },
+        {
+          "name": "Corporate gifting",
+          "notes": "Blue slab holding three white cards (image, heading, two lines, yellow button): 'irresistible Belgian chocolate', 'customization for any occasion', 'ditch the dull merch'. The cards are the only place on the page where content sits on a panel, which is what marks this block as the B2B lane."
+        },
+        {
+          "name": "Mission",
+          "notes": "White ground, centred copy left and a video right: 'We exist to end exploitation in cocoa. Not just the cocoa in our chocolate, but in all chocolate worldwide… The choice is yours, are you in?' Placed between two selling sections, with a plain 'read more' — the ethics are load-bearing merchandising, not a separate page."
+        },
+        {
+          "name": "Wall of praise / What's new / Footer",
+          "notes": "Red slab of four tilted speech-bubble testimonials, each with role and organisation; then a white news row of four dated cards with coloured category tags ('news', 'new products', 'serious stuff') so the campaign log is date-stamped; then a red footer, 'LET'S BE SERIOUS FRIENDS' email capture, five link columns and a self-deprecating 'website footer joke generator' with a 'meh..' button."
+        }
+      ],
+      "principle": {
+        "title": "Annotate the hero photograph instead of listing its features",
+        "explanation": "A bullet list asks the reader to hold the claim in one place and the thing in another, and to trust that they match. An arrow drawn onto the photograph does the matching for them: the claim is pinned to the pixels that prove it, the eye never leaves the product, and the handwriting reads as a person pointing rather than as marketing copy. It also enforces brevity — you can only fit three words on an arrow.",
+        "howToApply": "On a listing hero or the front of a flyer, drop the feature bullets and annotate the photograph instead: two or three short handwritten labels with curved arrows, in one consistent hand, pointing at the actual evidence — 'original 1920s casement windows', 'south-facing all afternoon', 'garage fits two'. Cap it at three, keep them on the empty parts of the frame and never over a face or the roofline, and use the same hand across the whole pack so the annotation reads as a house device rather than a one-off sticker."
+      },
+      "tags": [
+        "color",
+        "typography",
+        "e-commerce",
+        "brand voice",
+        "imagery"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Midas — 'CV: Curriculum inVISIBLE' (digital film + platform)",
+        "url": "https://www.adsoftheworld.com/campaigns/cv-curriculum-invisible"
+      },
+      "image": "images/2026-09-08-ad-midas-cv-invisible.png",
+      "category": "Digital campaign film / branded platform",
+      "tagline": "Sends the same résumé to 100 job ads under two names, one female and one male, and lets the callback gap be the whole ad.",
+      "when": "Published in Spain, September 2026 (agency: evercom)",
+      "summary": "Spain has more than 450,000 professional truck drivers and around 30,000 unfilled seats, but only about 2% of large-vehicle drivers are women — and many of those women had learned to blur the photograph and hide the name on their CV to get an interview at all. Midas built CV Visible, a platform where drivers send their full identity, kilometres and licences straight to hiring companies, and proved the need with a controlled experiment: 100 job ads, 200 applications, identical qualifications, one variable changed — Andrea Flores Gil vs Andrés Flores Gil. The male profile drew 66.7% more opportunities; 13 companies called only the man, 3 only the woman. The craft is in the restraint: black frames, one statistic at a time in Midas yellow, documentary footage of real drivers on either side of the data.",
+      "whatWorks": [
+        "The central image is the audience's own workaround — a real CV with the identity block blacked out — rather than a metaphor for bias",
+        "The method is shown before the result: '100 OFERTAS DE EMPLEO / 200 candidaturas enviadas / 100 Andrea — 100 Andrés' on a flat yellow card, so the finding is auditable when it arrives",
+        "One statistic per frame, set as the only yellow element on black — 66.7%, then 13, then 3 — so no number has to compete with another",
+        "The figures are un-round and small-sample-honest, which reads as an experiment rather than as a rounded marketing claim",
+        "Documentary footage of named working drivers bookends the data, so the statistics have faces before and after the graphics",
+        "The call to action is a working platform (CV Visible) plus one line, 'Únete al cambio' — the campaign leaves something running behind it"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Women driving — a cab window, a port, a hand on the wheel — shot flat and documentary, then a hard cut to a CV whose name and photograph are covered by a black bar. The blacked-out bar is the stop-scroll image, and it is a real artefact, not an illustration."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Statistics stated one per frame in white and Midas yellow on black: '3 de cada 4 españoles creen que siguen existiendo barreras de género en el acceso al mercado laboral de la automoción.' Bold weight only on the clause that carries the claim."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The experiment card: flat yellow ground, black rules, '100 OFERTAS DE EMPLEO' over '200 candidaturas enviadas', two identical CVs with a female and male pictogram, '100 Andrea' and '100 Andrés' pinned at the outer edges. The whole mechanic reads in one still — which is why it also works as the social frame."
+        },
+        {
+          "name": "CTA",
+          "notes": "The black bar lifts off the CV to reveal 'Andrea Flores Gil' in full, then the endcard: 'Cv Invisible' becomes CV Visible, 'Únete al cambio', #EllasConducen — a live platform where drivers submit name, face, kilometres, years and licences directly to hiring companies."
+        }
+      ],
+      "principle": {
+        "title": "Build the opposite of the workaround your audience invented",
+        "explanation": "When people quietly hack around a problem — blurring a name, cropping a photo, leaving a field blank — the hack is a finished piece of research: it names the barrier, the emotion and the exact artefact to put on screen. Inverting it gives you a product and a picture in one move, and the ad can then be a demonstration instead of a claim, because the audience already recognises the behaviour being reversed.",
+        "howToApply": "List the workarounds people use around your category — buyers screenshotting a listing to crop out the agent's face, sellers hiding the price until enquiry, agents shooting a room from the doorway to disguise its size. Pick the one everybody does and build the opposite as an actual thing you can point a CTA at (every room measured and stated, the full unedited photo set, price on every card), then make the ad the before-and-after of that artefact rather than a sentence about transparency."
+      },
+      "tags": [
+        "proof",
+        "data",
+        "typography",
+        "public interest",
+        "campaign platform"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Elaine Lustig Cohen",
+        "url": "https://en.wikipedia.org/wiki/Elaine_Lustig_Cohen"
+      },
+      "image": "images/2026-09-08-designer-elaine-lustig-cohen.png",
+      "category": "American postwar modernism / book jackets, catalogues and signage",
+      "when": "1927–2016 · American",
+      "tagline": "Ran her husband's studio without a day of design training, then turned executing his work into a practice of her own — Seagram Building signage, 150+ Meridian book jackets, the Jewish Museum catalogues.",
+      "summary": "Elaine Lustig Cohen took a BFA in 1948 intending to teach art, married Alvin Lustig the same year, and became his assistant and studio manager — building his designs to his spoken specifications as his diabetes took his sight. When he died in 1955 his clients asked her to finish the work, and she kept going: Philip Johnson hired her for the Seagram Building signage, Meridian Books for more than 150 jackets, the Jewish Museum for some twenty catalogues including 'Primary Structures'. Her method was distillation — read the text, find its central idea, render it abstractly in drawn and collaged letterforms rather than illustrating a scene. In 1973 she and Arthur Cohen founded Ex Libris, dealing in European avant-garde books and ephemera, so her reference library was also her business; she received the AIGA Medal in 2011.",
+      "whatWorks": [
+        "Learn a craft by executing another person's decisions exactly — years of building Alvin's specifications to the letter gave her his standards in her own hands before she ever had to author a job",
+        "Take the commission that is the wrong size for you: her first solo project was architecture-scale signage for the Seagram Building, from a designer whose experience was book jackets",
+        "Reduce the text to one idea before drawing anything — design the argument of a document, not a picture of its subject",
+        "Make the lettering the image: draw, cut and collage the type instead of setting type and adding a picture next to it",
+        "Work in long series (150+ jackets for one publisher, ~20 catalogues for one museum) so the practice produces variations on a language rather than unrelated one-offs",
+        "Keep a real collection as your supply line — Ex Libris made owning, handling and researching avant-garde printing a permanent part of the studio's economics",
+        "Take the abstraction from a structure, not a story: 'My abstraction never came from narrative; it came from architecture.'"
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "With the manuscript, not the format. She read the text and identified its central idea, then looked for the abstract form that could carry it — so the jacket argues with the book instead of illustrating one scene from it. The habit came from the studio years, where a design had to be described in words before it could be built."
+        },
+        {
+          "name": "Core method",
+          "notes": "Distillation, then construction: the idea is rendered with bold lettering, geometric forms and playfully collaged photographic fragments, composed asymmetrically. Type, image and field are one object — there is rarely a headline sitting on top of a picture."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Letterforms as picture. Drawn, cut and repositioned characters, flat colour, hard-edged shapes and photographic scraps assembled by hand — the alphabet doing the work an illustration would normally do, which is also how her design work and her later paintings share a vocabulary."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "No design school, so no house style to defend: the standard came from executing work to Alvin's level, then from the avant-garde material she collected and traded at Ex Libris (1973–1998). Abstraction had to be structural rather than narrative, and the client's field — architecture, publishing, museums — supplied the geometry. When design stopped feeding her in 1969 she moved to painting rather than repeating herself."
+        }
+      ],
+      "principle": {
+        "title": "Execute someone else's decisions until the judgment transfers",
+        "explanation": "Critique teaches you what is wrong with your work; building another designer's decisions exactly teaches you what right feels like from the inside — every measurement, crop and colour break they made and you would not have. Cohen had no design training at all; what she had was several years of producing work to a first-rate designer's spoken specification, and when the studio became hers the standard came with it. Copying to learn only fails when you improvise halfway through.",
+        "howToApply": "Pick three pieces you genuinely admire in your own format — a magazine spread, a brochure cover, a print ad — and rebuild each one exactly: same grid, same measure, same crops, same type sizes, with your own content poured in and no improvements allowed. Write down each place your instinct wanted something different and what the original did instead; that list is the transfer. Only then design the variant. Doing this once a month against the same source builds a house standard faster than any moodboard."
+      },
+      "tags": [
+        "process",
+        "typography",
+        "book design",
+        "modernism",
+        "self-taught"
+      ]
+    }
   ]
 }
