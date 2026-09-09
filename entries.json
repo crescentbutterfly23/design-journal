@@ -17546,6 +17546,177 @@
         "modernism",
         "self-taught"
       ]
+    },
+    {
+      "date": "2026-09-09",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "TOAST",
+        "url": "https://www.toa.st"
+      },
+      "image": "images/2026-09-09-toast.png",
+      "category": "Editorial e-commerce",
+      "tagline": "A retail homepage where roughly half the page sells nothing — and that non-selling half is exactly what makes the selling half believable.",
+      "summary": "TOAST is a British clothing and homeware brand, and its homepage is built as a magazine that happens to have a basket in the corner. The top half is pure commerce — two full-bleed photographs splitting womenswear and menswear at pixel zero, then collection and category doors — but from the seasonal statement down it turns into editorial: a paragraph on why the clothes look the way they do this season, a film, an open call for five new makers, and three magazine articles about named potters and cooks. The whole thing runs on one warm off-white ground, one warm grey band and near-black type, with two typefaces doing two strictly separate jobs, so every saturated pixel on screen belongs to a photograph. The imagery is the argument; the interface is deliberately almost invisible.",
+      "whatWorks": [
+        "Two typefaces, two jobs, no exceptions: a transitional serif for every editorial voice (section headings, the seasonal paragraph, article titles, the newsletter pitch) and a wide-letterspaced sans in caps for every commerce and UI element (nav, category chips, buttons, eyebrows). You always know from the type alone whether you're being talked to or navigated.",
+        "Text on photographs sits in a small opaque white rectangle — same size, same bottom-left placement — rather than over a gradient scrim. Legibility is solved once, the photograph never gets darkened, and the same chip works for a category door ('WOMEN'S NEW IN'), a section label ('BED LINEN') and a film ('WATCH FILM').",
+        "The hero is two half-width photographs side by side, women's and men's, instead of one rotating banner. The two audiences split before a single click and there are no arrows, dots or timers to build.",
+        "A centred seasonal paragraph sits between the hero and the first collection, written entirely in material nouns — 'simplified forms and a tonal palette. Fine sgraffito lines, open seams and geometric hand-smocking' — with no link and no CTA. It teaches you what to look at in every photograph below it.",
+        "Editorial cards carry a small-caps category on the left and a relative age on the right ('MAKING & CRAFT · 5 days ago'), which quietly proves the magazine is actually maintained instead of being a three-year-old blog.",
+        "Affordance weight tracks the depth of the ask: an unlabelled chip for 'just look', one solid black button per banner ('DISCOVER'), and a plain underlined line of text for the committed asks ('Apply to New Makers 2027', 'All Articles'). No two different asks share a button style."
+      ],
+      "sections": [
+        {
+          "name": "Utility bar + header",
+          "notes": "A thin black strip carries the one genuinely transactional message (free delivery threshold, free returns) and the region/currency selector, so it never has to compete inside the page. Below it the wordmark sits left, five nav items run inline, and search is an open underlined field rather than a magnifier that expands — with Saved, Account and Bag showing live counts in the same small caps. All commerce chrome lives in this one band and then disappears."
+        },
+        {
+          "name": "Hero: two doors, no carousel",
+          "notes": "Two full-bleed photographs at half width, one women's and one men's, each shot on location against plaster and cobbles in the collection's own palette — rust, olive, oatmeal. No headline, no scrim, no rotation: just one small white chip anchored bottom-left in each frame. The photographs are allowed to be the message, and the split does the segmentation that most retailers spend a carousel on."
+        },
+        {
+          "name": "Seasonal statement",
+          "notes": "A centred three-word serif heading ('Finding Balance') over a short centred paragraph on the autumn equinox, named entirely through construction detail — sgraffito lines, open seams, hand-smocking. There is no link and nothing to buy. It functions as the caption for every photograph that follows, converting styling into craft evidence."
+        },
+        {
+          "name": "Collection banner",
+          "notes": "'In the Hands of Potters' runs full-bleed over a dark still life of thrown and turned vessels, with the white serif headline, two lines of body and a solid 'DISCOVER' button placed in the naturally quiet left third of the photograph. The text is positioned to the image rather than the image being darkened to fit the text — the same discipline as the chips, at banner scale."
+        },
+        {
+          "name": "Category pair + film",
+          "notes": "Two half-width category doors reuse the exact hero pattern (one black-and-white loungewear frame, one warm bed-linen interior), so a category and a collection are visibly the same kind of object. Then a full-bleed film still — three people carrying a cloth through Norfolk dunes — with 'Marking the Turn', the two participants named in the dek, and a 'WATCH FILM' chip. Commerce and editorial keep alternating rather than being separated into tabs."
+        },
+        {
+          "name": "New Makers open call",
+          "notes": "The one asymmetric block on the page: a photograph of hanging worn kitchen tools on the left, text right, and the CTA is an underlined line of type — 'Apply to New Makers 2027'. A brand giving homepage real estate to an open call for five outside makers, in the year ahead, is the strongest proof of the craft claim on the page, and it is set more quietly than the shop buttons."
+        },
+        {
+          "name": "TOAST Magazine + footer",
+          "notes": "A warm grey band lifts a three-up article grid off the white — a Devon potter, a Norwich ceramics community, a Kyoto dining collaboration — each card a photograph, a title, two lines of dek, and a small-caps category with a relative timestamp. The footer is four plain columns (Help / Our Approach / Info / newsletter) where 'Our Approach' quietly lists Social Conscience, Our Materials, Craftsmanship, Care Guide, New Makers: the ethics are filed as navigation, not as a badge. The newsletter input is an underline only, with a text 'SIGN UP'."
+        }
+      ],
+      "principle": {
+        "title": "Caption the photographs with material nouns, not adjectives",
+        "explanation": "When a page is carried by photography, viewers read beautiful images as styling unless something tells them what they are looking at. A short paragraph that names only materials, joins and finishes converts mood into evidence, teaches the eye what to notice in every frame below it, and cannot be written by someone who hasn't seen the thing — which is precisely why it reads as credible. Adjectives do the opposite: 'serene', 'stunning' and 'timeless' survive being pasted onto any other subject.",
+        "howToApply": "Between the hero and the first grid of a property page or pack, set one centred two-to-three-sentence paragraph in the house serif under a three-word title, and allow only material nouns and verifiable facts — 'lime-plaster walls, chestnut beams, original 1930s casements, terracotta floors laid in the 1890s, a tonal palette of oatmeal and rust'. No link, no CTA, nothing to click. Then apply the test: if the paragraph still reads fine with a different address swapped in, it is adjectives and must be rewritten."
+      },
+      "tags": [
+        "typography",
+        "photography",
+        "editorial",
+        "e-commerce",
+        "whitespace",
+        "color"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Norwegian — 'Brad is single' (reactive press ad, rolled out as a social image)",
+        "url": "https://www.adforum.com/creative-work/ad/player/34538532/brad-is-single/norwegian-airlines"
+      },
+      "image": "images/2026-09-09-ad-norwegian-brad-is-single.jpg",
+      "category": "Reactive press ad → organic social image",
+      "tagline": "Three words, one flat brand-coral field and a fare — booked into newspapers within days of a celebrity divorce filing, and designed to be screenshotted.",
+      "when": "September 2016 — placed within days of the 19 September 2016 Pitt–Jolie divorce filing; the fine print dates the fare to 20 September and closes booking on 26 September 2016. Credited to Try/Apt, Oslo.",
+      "summary": "Norwegian ran a full-page ad in UK press that said only 'Brad is single', with 'Los Angeles. From/one way, incl taxes.' underneath and £169* set almost as large as the headline. There is no photograph, no celebrity likeness, no button and no URL beyond the wordmark. Every element was already in the brand's hands — the coral field, the logo, a route and a fare — which is the whole reason it could ship inside the news window instead of after it. It circulated as a phone snapshot of the newspaper page, which is exactly the resolution it was built to survive.",
+      "whatWorks": [
+        "The headline is the news, not the offer. Three words the reader completes from their own knowledge; the product only appears in the subline, so the audience does the persuading.",
+        "No imagery at all — one flat brand coral filling a full page. Dropped into a newsprint spread of grey columns, the colour block alone is the attention mechanism, and it needs no shoot, no licence and no retouching.",
+        "Two type sizes and one hairline rule: headline above, price below. £169* is set at nearly headline scale, so the joke and the offer land in a single glance instead of the price hiding in a corner.",
+        "The celebrity is named but never depicted — no photograph, no likeness, no borrowed logo. Keeping the reference purely textual is what let a legally safe ad go to press in days.",
+        "Real fine print at real size along the bottom: travel window, book-by date, 'fare correct as of 20 September 2016'. The gag is underwritten by a genuinely bookable dated fare, which is what separates an offer from a stunt.",
+        "The artefact is designed for its second life. A full-page block of solid colour with four lines of type is still legible as a compressed phone photo shared on a feed — the press buy was the seed, the screenshot was the media."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A full page of flat brand coral in a newspaper otherwise made of grey text columns. Before a single word is read, the page has changed material — no photograph does that job as cheaply, and no photograph would have been ready in time."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'Brad is single' in the brand's rounded sans, upper-and-lower, one line, no punctuation. It states a fact the reader already knows and lets them supply the joke; the offer is demoted to a single small qualifying line, 'Los Angeles. From/one way, incl taxes.'"
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is no hero image — the brand colour is the image. A hairline rule under the qualifier separates editorial from commerce, and £169* sits below it at near-headline size, centred. The wordmark with its tail-swash sits top right and is the only other mark on the page."
+        },
+        {
+          "name": "CTA",
+          "notes": "There is no CTA. No button, no 'book now', no campaign URL, no QR code — just norwegian.com inside the wordmark and the fine print. The price is doing the asking, and the absence of a call to action is what keeps it reading as a joke rather than a sales page."
+        }
+      ],
+      "principle": {
+        "title": "Keep one no-photograph frame loaded so you can answer the news in an hour",
+        "explanation": "Reactive work only pays while the story is still live, so the constraint that decides it is production time, not concept. Anything needing a shoot, a licence, a likeness or a retouch misses the window — which means the reactive template has to be assembled entirely from assets you already own: brand colour, wordmark, two type sizes, and a number pulled from a live feed. Norwegian's ad looks like restraint and is really logistics; naming the person in text and never showing them removes the rights problem at the same time.",
+        "howToApply": "Build one locked frame in the brand colour with exactly five slots — three-to-five-word headline, one qualifying line, hairline rule, one number at no less than half the headline size, wordmark top right — plus a fine-print bar for the dated caveat. When something local breaks (a rate cut, a school ranking, a new rail stop, a record street price), fill the five slots in under an hour, date the claim in the fine print, and post it. If a slot needs a photograph or somebody's likeness, the frame is wrong for reactive work — keep photography for the property."
+      },
+      "tags": [
+        "typography",
+        "copywriting",
+        "restraint",
+        "color",
+        "reactive",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Rosmarie Tissi",
+        "url": "https://en.wikipedia.org/wiki/Rosmarie_Tissi"
+      },
+      "image": "images/2026-09-09-designer-rosmarie-tissi.jpg",
+      "category": "Swiss graphic design / the break from the grid — posters, printed matter, typefaces",
+      "when": "b. 1937 · Swiss (Zurich)",
+      "tagline": "Trained inside Swiss modernism and then abandoned its central tool: she never starts on a grid, and lets the alignments be discovered in the real elements instead.",
+      "summary": "Rosmarie Tissi studied at the Kunstgewerbeschule Zürich from 1953, apprenticed with Siegfried Odermatt from 1958, and in 1968 the two founded Odermatt & Tissi — a studio with no assistants, where each partner kept their own clients and generated all of their own artwork. From inside the most system-driven design culture in the world she made work that was asymmetric, playful and geometric without being ruled: first prize and gold at the Warsaw Poster Biennial in 1986, second prize in the Swiss banknote competition in 1989, the Swiss Grand Award for Design in 2018, and teaching at RISD and Yale. Her contribution is not a style but a refusal: she is one of the designers who proved Swiss rigour could survive without the grid, provided you commit absolutely to the relationships you do find.",
+      "whatWorks": [
+        "Start on a blank sheet, not on a template. The grid is the last decision, not the first — 'I am freer in the way I work.'",
+        "Work in movable pieces: many rough variants, some modelled in paper, physically pushed around until patterns and flows appear.",
+        "Combine intuition with logic deliberately — her stated aim is 'simple and powerful solutions', so the play is a route to clarity, never a substitute for it.",
+        "Once an alignment is found, make it exact. The work reads as rigorous because the relationships are committed to, not because they were inherited.",
+        "Test a system on its hardest character before trusting it. Her rule for a typeface: start A, B, C, then jump to S — 'if the S doesn't work, none of it works.'",
+        "Share overheads, not authorship. Odermatt & Tissi split clients at the briefing stage by fit, worked their jobs alone, and critiqued each other's throughout — partnership as a critique loop, not as co-design.",
+        "Small type is fair game: labels, captions and folios angle, bend, frame and contour instead of sitting quietly in a corner."
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "With a blank sheet of paper and no structure on it. Where the Swiss orthodoxy she trained in would rule up a modular grid before looking at the content, Tissi begins by generating 'rough sketches in my head of countless ideas', modelling some of them in paper, and moving them around — the material comes first and the structure is deduced from it. Since 2000 she has moved between hand-sketching and the computer, but the sequence is unchanged: many drafts before any measurement."
+        },
+        {
+          "name": "Core method",
+          "notes": "Earned alignment. She pushes the real elements until relationships appear — 'I see patterns and flows' — and then fixes those relationships precisely, which is why work with no grid behind it still reads as exact rather than arbitrary. The apparent geometry in her posters is real geometry, just discovered rather than imposed, and it is allowed to break in one or two places where the content demands it."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Letting type behave like form. Words are stretched, angled, contoured and used as shapes; flat colour and pattern create dimensional illusion without gradients; and the small type carries as much of the composition as the display. In her typeface work the letters are effectively case studies in getting three-dimensional effect out of a flat surface — and she screens the whole design against its most difficult character early, the S, on the grounds that a system that fails there is already wrong."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "'For me, it's been important to combine intuition and logic in order to find simple and powerful solutions.' Playfulness is a search method, judged by the clarity it produces. She kept a studio with no assistants and drew all her own artwork — the judgment stayed in the hand that made it. And she kept the critique external without diluting authorship: same studio, separate clients, mutual criticism at the start of a job and all the way through."
+        }
+      ],
+      "principle": {
+        "title": "Find the alignments in the real pieces, then lock them as the template",
+        "explanation": "A grid chosen before you have seen the material silently decides which content is allowed to exist — addresses get abbreviated, prices get shrunk, portrait photographs get cropped to landscape, all to protect a structure that was invented in ignorance. Tissi's practice shows the inverse order works and still reads as rigorous: discover the relationships in the actual elements, then commit to them exactly. The discipline lives in the committing, not in the inheriting.",
+        "howToApply": "For a new listing or pack template, print the real parts and cut them out — the longest address on the roster, the actual price string, the full agent block, one portrait and one landscape photograph — and move them on blank paper until two or three genuine relationships appear (the price baseline landing on the photograph's edge, the address left margin picking up the caption column). Only then write those measurements into the file as the template. And run Tissi's S test before trusting it: build the worst case first — longest address plus seven-figure price plus a portrait photo — and if that fails, the template is wrong no matter how well the easy listing sits."
+      },
+      "tags": [
+        "layout",
+        "typography",
+        "process",
+        "swiss",
+        "grid",
+        "posters"
+      ]
     }
   ]
 }
