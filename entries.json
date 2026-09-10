@@ -17717,6 +17717,177 @@
         "grid",
         "posters"
       ]
+    },
+    {
+      "date": "2026-09-10",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Barbican Centre",
+        "url": "https://www.barbican.org.uk"
+      },
+      "image": "images/2026-09-10-barbican.png",
+      "category": "Arts & culture institution",
+      "tagline": "A 200-event-a-month programme held together by one burnt orange, one card template, and a colour-coded genre chip that lets you filter the page by eye before you read a word.",
+      "summary": "The Barbican homepage is a schedule pretending to be a magazine, and it works because almost nothing on it is invented twice. One colour — a burnt orange, #D14900 — owns the header bar, the primary buttons, the active tab underline and the newsletter band; everything else is near-black (#1A1A1A), warm white and photography. Below the hero the whole page is the same four-part listing card (image, genre chip, title, sub-line, bold date) repeated across \"This week\", \"Coming up\" and \"In the Cinemas\", with only the chip's colour changing to mark cinema from theatre from classical music. The one caveat: with four card carousels stacked, the middle of the page is long and rhythmically flat — the dark promo bands are the only thing breaking it up, and there are only two of them.",
+      "whatWorks": [
+        "The whole palette is one accent plus neutrals: burnt orange #D14900 on the header, the hero button, the active tab underline and the newsletter band; near-black #1A1A1A on the promo bands and footer; warm white everywhere else. No second brand colour exists on the page.",
+        "The genre chip is the only other colour on screen, and it is coded — green CINEMA, blue THEATRE & DANCE, ochre CLASSICAL MUSIC — set in small caps and pinned to the bottom edge of the card's photograph, so a mixed feed can be filtered by eye before any title is read.",
+        "One card template carries three unrelated content types: image → chip → bold title → grey sub-line naming the company or series → date range in the heaviest weight on the card. \"This week\", \"Coming up\" and \"In the Cinemas\" are the same component with different queries behind it.",
+        "The date, not the title, is the boldest line in the lower half of each card — correct for a venue, where \"can I still go\" is the actual question being asked.",
+        "The autoplaying full-bleed hero video ships a visible circular pause button in the bottom-left corner of the frame, at the same size as a real control — the motion is stoppable without hunting for it.",
+        "Carousel arrows sit outside the card grid, in the page margin, in a plain grey square — they never sit on top of artwork.",
+        "The donation ask is a tinted panel (#FEF6F4) with orange type, three preset amounts as outlined buttons (£3 / £5 / £10) and one honest sentence of reason — \"It forms more than 60% of our income\" — with no slider, no free-text field and no guilt image."
+      ],
+      "sections": [
+        {
+          "name": "Header & navigation",
+          "notes": "Two stacked bars, both solid orange. The top one carries the lowercase 'barbican' wordmark at the far left, a bordered search field, and a Log in button; the second carries eight plain text items (What's on, Your visit, Join & support, Take part, Our story, Hire, Read watch & listen, Shop) with small chevrons on the ones that open. No dropdown shadows, no pills, no icons beyond the two functional ones — an institution with a genuinely wide remit gets its breadth across by listing it flat rather than hiding it behind a hamburger or a mega-menu trigger."
+        },
+        {
+          "name": "Hero",
+          "notes": "Full-bleed autoplaying footage of a live performance under a warm dark overlay, with 'Welcome to the Barbican' set huge in the house grotesque — a tight, high-x-height sans with sheared angled terminals on the a, c and s that is the identity's only real ornament. One orange button with a small calendar glyph: 'Discover our autumn programme'. The pause control sits in the bottom-left of the frame, visible and unhidden. Note what is absent: no search box, no 'book tickets' hero CTA, no strapline. The hero sells the season; the page below sells the events."
+        },
+        {
+          "name": "This week",
+          "notes": "Three tabs — On this week / Free things to do / Plan your visit — on a hairline rule, the active one marked by an orange label and an orange underline, nothing else. Beneath them, three listing cards in a carousel with arrows out in the margins. The 'Free things to do' tab as a peer of the main listing, not a footer link, is a quiet statement of access rather than a paragraph about it."
+        },
+        {
+          "name": "Death Note promo band",
+          "notes": "A full-width near-black band interrupting the white: headline left ('Death Note The Musical returns in 2027'), two lines of body with the five-star rating set inline in the sentence at body size rather than blown up as a graphic, and a white '→ Find out more' button hard right. It does one job — break the run of card grids and give a single title a bigger stage — and it is reused verbatim later for Young Barbican."
+        },
+        {
+          "name": "Coming up, Autumn at the Barbican, In the Cinemas",
+          "notes": "The same card grid again on warm off-white, then a copy-only season block ('Cinema that stays with you. Performances you can't stop thinking about. Exhibitions you didn't expect to love.') with one arrow CTA, then the cinema listings under Now showing / Coming soon tabs. Three sections, one component, one tab pattern — the variation is entirely in the photography and the chip colour, which is why a page this long stays legible even if it goes rhythmically flat through the middle."
+        },
+        {
+          "name": "Young Barbican, donations & newsletter",
+          "notes": "Three asks in descending commitment. Young Barbican reuses the black promo band with the price in the headline ('tickets from £6') and the qualifier in one line beneath ('Aged 16-29? Sign up for free'). The donation card is the tinted panel with three preset amounts and the 60%-of-income sentence. The newsletter band is solid orange and — instead of an envelope icon — shows a photographed stack of the actual emails, fanned, next to three ticked promises (hear first, latest news, choose your types)."
+        },
+        {
+          "name": "Footer",
+          "notes": "Near-black, deliberately plain: six underlined text links in two columns, no headings, no repeated mega-nav. Then the City of London Corporation crest with four lines of small type naming it as founder and principal funder — the money is disclosed rather than buried — followed by '© 2026 Barbican Centre, Silk Street, London, EC2Y 8DS' and three small circular social icons. Accessibility statement is the first link in the list, not the last."
+        }
+      ],
+      "principle": {
+        "title": "Colour-code the category, then repeat one card everywhere",
+        "explanation": "A page that lists many kinds of things is usually solved by designing a different card for each kind — a wide one for features, a tall one for events, a square one for posts — and the result is a page that has to be re-learned every scroll. The Barbican does the opposite: one card stack for every content type, and the only thing that varies is a small colour-coded chip naming the genre, sitting on the photograph's bottom edge. Because the chip's colour is consistent, a visitor scanning for film never reads a single title — they scan for green. The layout stops being the wayfinding and the taxonomy takes over, which means new content types can be added forever without a new component.",
+        "howToApply": "Pick one listing card for every mixed feed on the site — the collection page, the journal, the sold archive, the open-house list — and fix its five parts in this order: photograph, chip on the image's bottom-left edge, bold title, one grey sub-line (neighbourhood, agent, or series), and the date or price in the heaviest weight on the card. Then assign each content type a fixed chip colour and never let that colour appear anywhere else on the page — FOR SALE, JUST SOLD, OPEN HOUSE, LAND, JOURNAL. Test it by desaturating a screenshot of the feed: if you can no longer tell the types apart at a glance, the chips are decoration and the card is doing work it shouldn't be."
+      },
+      "tags": [
+        "layout",
+        "color",
+        "components",
+        "cultural",
+        "wayfinding",
+        "accessibility"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Morgan & Morgan — 'The Slip & Fall Collection' (campaign key visuals, 3:4 social units)",
+        "url": "https://www.adsoftheworld.com/campaigns/the-slip-amp-fall-collection"
+      },
+      "image": "images/2026-09-10-ad-morgan-morgan-slip-fall.png",
+      "category": "Campaign key visual set / 3:4 in-feed social units",
+      "tagline": "A personal-injury law firm turns its case files into a five-look couture collection and shoots the look book as a designer's sketchbook — the injury becomes a fabric swatch instead of a wound.",
+      "when": "Debuted 10 September 2026 — New York Fashion Week opening night at Sony Hall, with Runway 7; five looks designed with Lawrence Cooper, rolled out as social key visuals",
+      "summary": "Morgan & Morgan took the five things it deals in every day — a hospital gown, a dog bite, a burn, black ice, gauze — and had them made as runway looks, then photographed each one as a flat-lay from the designer's desk rather than as a runway shot. The frame in the journal is 'Dog Bite Denim': a spiral sketchbook open to a pencil-and-wash illustration of a shredded denim gown, the look's name hand-lettered in the sketch's white space, and around it on dark wood a grid of denim swatches showing slash, shred, hole and fray, plus scissors, an awl, a pencil and loose brass rivets. The category's whole visual language is billboard phone numbers and stock photos of neck braces; this is the opposite move — the injury is translated into material and craft, so a subject people flinch at arrives in the register of a luxury look book. It is a stunt, and the runway conceit is doing a lot of the lifting, but the key visuals stand on their own without it.",
+      "whatWorks": [
+        "One template, five palettes: every look is the same 3:4 flat-lay — spiral sketchbook upper-left, illustration on the page, name hand-lettered in the sketch's own white space, materials and tools fanned across the dark ground — so five separate posts read as one collection instead of five ideas.",
+        "Each frame is monochrome to its subject: 'Dog Bite Denim' is indigo on indigo throughout, 'Black Ice' is patent black on black with the only highlights coming from the vinyl's own reflections. The palette carries the concept, so no explanatory copy is needed.",
+        "The injury is translated into material, never depicted: the dog bite is a torn seam, a frayed hole and a run of broken threads on a denim swatch; the black ice is a sheet of high-gloss vinyl. Not one image of a hurt person appears.",
+        "The names do the writing — 'DOG BITE DENIM', 'BLACK ICE' — hand-lettered in pencil at exactly the size a designer's own note would be, so the joke arrives as a caption and not as a headline.",
+        "The prop layer is what makes an invented collection look documented: real scissors, a seam ripper, a graphite pencil, brass rivets, a jar of gel, a steel rule. Craft evidence is the proof device, standing in for the case results this category usually shouts.",
+        "The brand never enters the frame — no logo, no phone number, no CTA anywhere in the creative. The concept is legible first, and attribution is left entirely to the caption and the account."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A high-gloss fashion flat-lay in a feed where this category is billboards and neck braces. The stop is entirely a register mismatch: it reads as a designer's desk from a fashion house, and the viewer is a beat late realising it belongs to a law firm."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "There is no headline. The entire message is a two-word hand-lettered look name — 'DOG BITE DENIM' — which does the whole reframe in situ: an injury becomes a collection piece. The campaign line ('an injury can happen to you, but it doesn't have to define you') lives in the press release and the show, not in the frame."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The illustration is the hero, and it is a sketch rather than a photograph of the finished garment — which is the smart call, because a sketch reads as intent and keeps the frame in the language of making. The swatch grid on the right does the evidential work: four squares showing exactly how a bite becomes a texture, laid out like a materials board."
+        },
+        {
+          "name": "CTA",
+          "notes": "None in frame — no logo, no URL, no phone number, which for a firm whose entire category is built on recall of a phone number is the boldest decision in the piece. Attribution and any next step are carried by the post caption and by the show itself. The honest risk: without the caption, the frame is unattributable, so the set depends on being seen in a branded context."
+        }
+      ],
+      "principle": {
+        "title": "Translate the subject into material, not imagery",
+        "explanation": "When the thing you sell is something people flinch at, look away from, or can't be photographed well — an injury, a gut renovation, an empty plot, a probate sale — the instinct is to photograph it anyway and then soften it with copy. Translating it into material does the opposite: you render the idea as texture, swatch, tool and craft, and let the viewer assemble the meaning. It changes the register from documentary to design, the subject arrives without the flinch, and — usefully — it gives you a repeatable frame, because materials can be styled to a template in a way that real-world conditions never can.",
+        "howToApply": "For a listing whose truth is hard to photograph — a fixer-upper, raw land, an unfinished new build, a lot with a teardown on it — stop shooting the shortfall and build one flat-lay grammar instead: dark or pale ground, the plan on trace laid open like a sketchbook, and around it the actual materials of the outcome (the tile and stone samples, the brass hardware, the flooring offcut, the soil, the key). Hand-letter or set the property's own short name in the plan's white space, hold one palette per frame, and shoot every property in the series to the identical layout so the set reads as a collection. Keep the logo out of the frame and let the caption attribute it — the constraint is what forces the image to be legible on its own."
+      },
+      "tags": [
+        "art direction",
+        "photography",
+        "concept",
+        "material",
+        "campaign",
+        "reframing"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Jan van Toorn",
+        "url": "https://en.wikipedia.org/wiki/Jan_van_Toorn"
+      },
+      "image": "images/2026-09-10-designer-jan-van-toorn.png",
+      "category": "Critical practice / Dutch post-war graphic design",
+      "when": "1932–2020 · Dutch",
+      "tagline": "The designer who refused to be a neutral pipe — and put the argument, visibly, inside the client's own printed matter.",
+      "summary": "Van Toorn started as a teenager in an Amsterdam printing house, took evening classes and the Rietveld, and went freelance in 1957. Over four decades he made posters and catalogues for the Van Abbemuseum in Eindhoven, work for the Dutch PTT, and a long-running series of calendars for the printing firm Mart. Spruijt that he used to run themes like sexism and imperialism through what was nominally a printer's promotional item. On 9 November 1972 he debated Wim Crouwel at Museum Fodor in Amsterdam — Crouwel arguing the designer is a neutral messenger who should not colour the message, van Toorn arguing that neutrality is itself a position and the designer must intervene, comment and provoke awareness. He then spent his teaching life making that arguable: Rietveld 1968–85, director of the Jan van Eyck Academie 1991–98. He won the H.N. Werkman Award twice and the Piet Zwart Award in 1985.",
+      "whatWorks": [
+        "Read the brief for what it is leaving out, and consider making that the subject — van Toorn's most celebrated Van Abbemuseum poster foregrounded the monetary value of the art on show, which is exactly what the institution would rather the poster did not mention.",
+        "Build each piece out of the client's own material — the artist's imagery, the printer's presses, the museum's own numbers — so the work is grounded in the actual conditions of the job rather than in a house template. This is why no two of his Van Abbemuseum pieces look alike.",
+        "Use montage as the working method, not the finish: cut and recombine photographs against set type so two claims occupy the same square inch and the reader has to do the arithmetic.",
+        "Treat production as design material — overprint, deliberate misregistration, the second colour running out of position, printer's marks left in frame. The seams are the argument, not a defect to clean up.",
+        "Lay handwriting and hand-drawn letters over machine typesetting when a message needs a voice — the mark of a person on top of the system.",
+        "Break the house guidelines on purpose only when you can say what the break is arguing; van Toorn ignored the Van Abbemuseum's own design rules for years, and could defend every departure."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not with a format and not with a mood. He begins with the conditions of the commission — who is paying, who will read it, what the press can actually do, and what the client would rather not say out loud — and treats the brief as a position to argue with rather than a specification to fill. Starting from the client's own supplied material (an artist's photographs, the printer's stock and presses) meant every job began from different raw matter, which is precisely why his output never settled into a style."
+        },
+        {
+          "name": "Core method",
+          "notes": "Montage. Photographs cut and recombined against typography, layers overprinting so that two messages share the same area of paper and neither one wins outright. The reader is left with visible seams and has to assemble the meaning — which is the point, because a reader who assembles something is aware they are being addressed. He sustained this over years in the Mart. Spruijt calendars, running social and political subjects through a printer's promo item that had no obligation to carry them."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Making the production visible. Overprint, second-colour offsets, hand-executed lettering and handwriting laid across machine typesetting, image manipulation left legible as manipulation. Nothing is smoothed into a resolved surface. For the Van Abbemuseum he pushed this into an openly informal tone — messy, promiscuous with type, indifferent to the museum's own guidelines — as a deliberate counter to the harmoniously resolved typographic constructions his Dutch contemporaries were making."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Neutral is a position too. He judged work not by whether it looked resolved but by whether it made the reader aware that a message was being made by someone with interests — and he held that the designer must intervene rather than transmit. That is the whole substance of the 1972 Fodor debate with Crouwel, and it is a judgement rule you can actually apply: if a layout answers everything and asks nothing, it has taken the neutral position by default. He then institutionalised the argument by teaching it — Rietveld for seventeen years, then directing the Jan van Eyck Academie."
+        }
+      ],
+      "principle": {
+        "title": "Decide what the layout is arguing before you decide how it looks",
+        "explanation": "Every arrangement makes a claim whether or not you chose it. A full-bleed exterior with the price small argues that the house is the point; a grid of six equal photographs argues that the inventory is the point; a portrait of the agent above the property argues something else again. Van Toorn's contribution is the observation that declining to choose does not produce neutrality — it produces the default argument of the format, made on your behalf by whoever built the template. Naming the argument first is what converts taste into decisions you can defend to a client, and it is also the fastest way to know which elements are load-bearing and which are habit.",
+        "howToApply": "Before laying out any piece, write one sentence at the top of the artboard naming what the layout is arguing — 'the land is the asset, the house is a teardown', 'this is a portfolio, not a home', 'the neighbourhood sells this, not the kitchen'. Then walk the structural decisions one at a time — what is full-bleed, what is largest, what comes first, what is cropped, what is small — and for each, say which half of that sentence it serves. Anything that serves neither is the template arguing instead of you, and should be removed or changed. Keep the sentence in the file so it can be read back at the review; it turns 'I think it should be bigger' into a question about the claim."
+      },
+      "tags": [
+        "process",
+        "editorial",
+        "montage",
+        "typography",
+        "dutch",
+        "critique"
+      ]
     }
   ]
 }
