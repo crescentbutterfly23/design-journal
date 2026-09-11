@@ -17888,6 +17888,169 @@
         "dutch",
         "critique"
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Rest of World",
+        "url": "https://restofworld.org"
+      },
+      "image": "images/2026-09-11-rest-of-world.png",
+      "category": "Editorial / nonprofit journalism",
+      "tagline": "A 14,000-pixel newsroom front page that stays navigable because every section name hangs in one fixed left margin.",
+      "summary": "Rest of World reports on technology outside the West, and its homepage has to carry four beats, seven regions and seven topic sections without collapsing into a portal. It solves that with one structural decision rather than a menu: a fixed left column holds every label — LATEST STORIES, The AI Race, EV Revolution, Big Tech pushback, Asia — while the cards sit in the three columns to its right, so scrolling the page is really scrolling an index. Three typefaces each hold exactly one job (Moderat for headlines and UI, GT Sectra for deks and standfirsts, Input Mono for anything a machine knows), and one electric blue, #242EF7, carries the wordmark, the kickers, the chevrons, the membership card and the footer. One soft spot: the regional columns near the foot run three-up inside a four-column field, so the empty right-hand slot reads as a gap rather than as air.",
+      "whatWorks": [
+        "Three typefaces, three non-overlapping jobs — Moderat (grotesque) for every headline and nav item, GT Sectra (high-contrast serif) for deks and standfirsts, Input Mono for anything the machine supplies: timestamps, read time, photo credit, footer links. You can tell what a line is before you read it.",
+        "One accent, #242EF7, and it is never decorative: wordmark, section kickers (INNOVATION), the ' > ' chevrons that mean 'more of this', the membership card and the footer ground. Nothing else on the page is blue.",
+        "Every headline in the left rail carries two machine facts in small mono — 'YESTERDAY · 6 MIN READ' — so the reader can budget before clicking; audio stories add a speaker glyph on the same line instead of a separate label.",
+        "Section labels hang in the left margin at one size and one x-position all the way down the page, with a hairline rule between rails, so eleven differently-shaped content blocks still scan as one list.",
+        "The long white run is punctuated by three full-bleed blue bands that each do a different job — newsletter sign-up, Editor's picks with 2025 / 2024 / 2023 year tabs, and Charts — so colour marks a change of purpose, not just a change of section.",
+        "Conversion blocks show the actual thing: the newsletter band renders the real newsletter on a tilted phone, and the Charts band leads with a dated chart card ('17 AUGUST 2026') instead of an illustration of one."
+      ],
+      "sections": [
+        {
+          "name": "Masthead",
+          "notes": "The wordmark sits centred with the four beats split to either side of it, each pair separated by a small blue dot, all in letterspaced caps; About / Latest / Newsletter sit far left, Sign in / search / menu far right. Centring the logo turns the nav into two short balanced lists instead of one long row, and the diacritics in 'rëst öf wõrld' do the positioning work a strapline would otherwise have to do."
+        },
+        {
+          "name": "Lead story and rails",
+          "notes": "Three columns: a text-only LATEST STORIES rail on the left, one large illustrated lead in the middle with a blue kicker, sans headline and serif dek, and a secondary story plus a membership card on the right. The lead earns its size with a commissioned illustration rather than a stock photograph, and the membership ask is a card inside the grid rather than a banner laid over it."
+        },
+        {
+          "name": "Newsletter band",
+          "notes": "Full-bleed blue with an oversized cropped brand glyph bleeding off the left edge, a pink headline, a serif deck, one underlined email field and a pink SIGN UP button — beside a tilted phone showing the actual newsletter. The band demonstrates the product instead of describing it, and pink is reserved for the two things you can act on."
+        },
+        {
+          "name": "Topic rails",
+          "notes": "Six labelled rails — The AI Race, EV Revolution, Features, China Outside China, Big Tech pushback, The India Story — each a left-margin label with a blue chevron and a three-up card row, hairline rules between them. The card construction never changes (image, bold headline, 'By NAME' in small caps), so the only thing varying down the page is the label."
+        },
+        {
+          "name": "Editor's picks and Charts",
+          "notes": "Two blue bands break the white run. Editor's picks adds 2025 / 2024 / 2023 / PREV tabs and a staggered row of covers at varying heights, making the archive browsable without a separate page; Charts gives the left third to a title, a two-line serif deck and a mono EXPLORE CHARTS link, and spends the other two thirds on one dated chart plus a strip of thumbnails."
+        },
+        {
+          "name": "Region columns and footer",
+          "notes": "The page ends on Asia / Eastern Europe / Middle East & North Africa, each a lead card with an image above two text-only headlines separated by hairline rules — geography as the last cut, after topic. The footer is a flat field of the same blue: centred wordmark, one row of social glyphs, pipe-separated mono links at small size, and no link farm."
+        }
+      ],
+      "principle": {
+        "title": "Hang every section label in one fixed left margin so a long page reads as its own index",
+        "explanation": "A front page carrying many kinds of content usually grows navigation to cope — sticky bars, mega-menus, jump links. Rest of World instead spends one whole column on nothing but labels, always at the same size and the same distance from the edge, and lets the content columns vary freely beside it. The eye learns the label position within the first screen and then treats the rest of the scroll as a list it can skim, which is why fourteen thousand pixels never feel like a portal.",
+        "howToApply": "On a long property page or a magazine feature, put every section name — Location, The House, Grounds, Floorplan, Price & Terms — in the same left column at the same size, weight and x-position, with the content hugged into the right two-thirds. Add a hairline rule between sections and nothing else. Test it by scrolling fast with your eyes on the left edge alone: if you can still say which section you are in, you can delete the sticky nav."
+      },
+      "tags": [
+        "editorial",
+        "layout",
+        "typography",
+        "information-architecture",
+        "color"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "GlassesUSA.com — 'Aid to Cart' (product creative + non-commercial landing page)",
+        "url": "https://www.adsoftheworld.com/campaigns/aid-to-cart"
+      },
+      "image": "images/2026-09-11-ad-glassesusa-aid-to-cart.png",
+      "category": "Awareness campaign — on-site commerce units, paid social and a dedicated landing page",
+      "tagline": "The brand's ordinary oversized-sunglasses shot, left completely untouched, and one sentence that changes what you are looking at.",
+      "when": "Launched 16 October 2025 — Purple Thursday, during US Domestic Violence Awareness Month; made in-house at GlassesUSA.com in partnership with The National Domestic Violence Hotline",
+      "summary": "Every October brands turn their logos purple. GlassesUSA.com instead used the surface it already owns — the product shot and the add-to-cart flow — and changed only what the product means. The creative is a completely conventional eyewear ad: a pair of oversized pink frames on a warm sweep, lit with one hard shaft of light, the campaign name set small in plain caps. The line running with it points out that some people buy oversized frames not to follow a trend but to hide, and the click, instead of landing on a product page, lands on a non-commercial page fronted by The National Domestic Violence Hotline with guidance on recognising abuse and supporting someone in it. The credits are telling: no outside agency listed, but designers, a head of UX and two people credited for code — the ad is the shop, re-pointed.",
+      "whatWorks": [
+        "No new photography. The campaign runs on the same studio grammar the brand already sells with — sweep, one hard light, product centre-right, generous empty space — so it arrives in feed looking like commerce and only turns over in the copy.",
+        "The whole idea lives in one plain sentence, not in the image. The image is deliberately beautiful and deliberately ordinary, and that restraint is what lets the sentence land.",
+        "No purple ribbon, no cause lock-up, no shock imagery: the category's own visual cliché — oversized glamour sunglasses — is the carrier, so nothing has to be explained to the viewer.",
+        "One typographic gesture only: the campaign name in a plain grotesque at modest size, white, sitting in the shadowed half of the frame, with no strapline competing for the same space.",
+        "The CTA is engineered so it cannot convert — it lands on a page that sells nothing and gives the Hotline first position, which is the proof that this is not a sales device wearing a cause.",
+        "Timed to a date already in the audience's calendar (Purple Thursday, 16 October) rather than to a media plan, and backed by a donation tied to actual oversized-frame sales rather than to impressions."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A conventional, beautifully lit product still that reads as a normal eyewear ad in feed, so it is not pre-filtered as a cause post before it is read. The scroll is stopped by craft, not by a warning."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "One sentence carries everything: that some people buy oversized frames not to follow a trend but to hide. It never names the brand's own role in the observation and never instructs the viewer how to feel about it."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Pink oversized frames on a warm sweep, a single hard diagonal of light and a long cast shadow; the empty left half of the frame holds the title in small white caps. Nothing in the picture is altered to signal the subject — the meaning is supplied entirely by the line."
+        },
+        {
+          "name": "CTA",
+          "notes": "The click goes to a dedicated non-commercial page carrying The National Domestic Violence Hotline, how to recognise abuse, and how to support someone living with it. For the length of that click the brand's own store pathway is suspended."
+        }
+      ],
+      "principle": {
+        "title": "Reframe the category's own cliché instead of commissioning a new image",
+        "explanation": "The strongest reframes do not need new art direction — they need the most familiar picture in the category and one sentence that changes what it is. Because the audience already knows the image by heart, the sentence does not have to compete with it, and the gap between what the picture looks like and what it now means is the whole of the idea. Commissioning something new would have made this another campaign; leaving the image untouched is what makes it land.",
+        "howToApply": "List the five pictures your audience has seen a thousand times — the staged empty living room, the sunset over the pool, the SOLD rider, the key in the palm, the drone shot over the cul-de-sac. Take the one you would be most embarrassed to shoot again, run it exactly as the category runs it, and write one plain sentence beneath it that makes the viewer see it differently. If the sentence only works once the photograph is changed, the sentence isn't finished."
+      },
+      "tags": [
+        "advertising",
+        "copy",
+        "restraint",
+        "product-photography",
+        "cause"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Fabien Baron",
+        "url": "https://en.wikipedia.org/wiki/Fabien_Baron"
+      },
+      "image": "images/2026-09-11-designer-fabien-baron.jpg",
+      "category": "Editorial art direction / fashion identity",
+      "when": "b. 1959 · French, working in New York",
+      "tagline": "Rebuilt the fashion magazine around one enormous typographic gesture per spread — and had the typeface redrawn when the existing one couldn't survive the size.",
+      "summary": "Fabien Baron art-directed Italian Vogue under Franca Sozzani (1988–90), redesigned Harper's Bazaar from 1992 with editor Liz Tilberis, ran Calvin Klein's campaigns for two decades and has been editorial director of Interview since 2008, all from his own studio, Baron & Baron, founded in 1990. His grammar is unusually simple for how widely it was copied: one picture holding one page, one or two enormous letters plus a small block of text holding the facing page, and a great deal of white left alone. The detail worth stealing is what he did when the type wouldn't cooperate — rather than accept a Didot whose hairlines broke at display size, he commissioned Jonathan Hoefler to draw a new cut specifically for very large settings.",
+      "whatWorks": [
+        "When the existing tool can't hold the idea at the size you need, change the tool: Baron had a Didot drawn for enormous settings rather than scaling up a text cut and living with hairlines that collapsed.",
+        "Fix the variables per issue, not per piece — at Interview each issue ran one typeface and one colour throughout, the discipline he added after Italian Vogue, where individual stories were set in different faces and the result was striking but inconsistent.",
+        "Give each spread one job: decide which of the two facing pages carries the image and which carries the typography before setting anything, then let a single element own each.",
+        "Choose type for what it does to the reader rather than for the client's heritage — his stated reason for Didot at Bazaar was the character of the face, not the magazine's past.",
+        "Treat white as a material you have budgeted rather than as what is left over: clutter comes out first, and whatever survives is set large.",
+        "Run the same reductive logic across magazine, campaign, bottle and film, so the identity is a way of deciding rather than a set of assets."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Baron starts from the picture and the spread as a single unit rather than from a grid or a brief document: the first decision is which of two facing pages carries the image and which carries the type, the second is how much can come out. He has been explicit that over-interpreting design is a mistake and that the reasons behind a decision are more instinctive than theoretical — so the opening move is a judgement made fast, not a rationale assembled slowly."
+        },
+        {
+          "name": "Core method",
+          "notes": "Reduction to one gesture per spread, then scale. A page carries a single photograph; the facing page carries one or two letters at enormous size with a small paragraph beneath. Because there is only one thing on each page, its size and position become the entire composition, and anything that would dilute it is removed rather than shrunk to fit."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Display type drawn for the size it will actually be set at. For the 1992 Harper's Bazaar redesign he commissioned Jonathan Hoefler to cut a new digital Didot specifically for very large sizes, so the hairlines stayed razor-thin at headline scale instead of thickening or breaking up. The look that was copied for a decade afterwards depends on a face built for the job rather than an off-the-shelf one pushed past its range."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "One typeface and one colour per issue, held all the way through — consistency as an editorial rule rather than a style guide. Beyond that, a flat aversion to clutter: if an element is not the single gesture of that spread, it doesn't get smaller, it goes. The test is whether the spread can be understood at a glance from across the room."
+        }
+      ],
+      "principle": {
+        "title": "When the tool can't hold the idea, rebuild the tool — don't shrink the idea",
+        "explanation": "The usual response to a template, typeface or master file that won't take the real content is to compromise the content: abbreviate the address, drop the price to a smaller size, accept the hairline that vanishes in print. Baron did the opposite and had a typeface cut for the size he intended to set it at, which is why those pages still look right thirty years on. The asset is cheaper to fix once than the workaround is to repeat on every job after it.",
+        "howToApply": "Keep a running list of the places your own files fight you — a carousel master whose stray stock photos hide the real image slots, a CSV field that oversets the moment a listing is bilingual, a serif whose numerals go soft at the size the price is set. Once a month, fix one at the source: repair the master, split the slot, swap in a cut with a proper display weight. Anything you have worked around twice is a broken tool, not a hard brief."
+      },
+      "tags": [
+        "typography",
+        "editorial",
+        "art-direction",
+        "process",
+        "reduction"
+      ]
     }
   ]
 }
