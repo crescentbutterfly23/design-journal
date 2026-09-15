@@ -18223,6 +18223,175 @@
         "photography",
         "signage"
       ]
+    },
+    {
+      "date": "2026-09-15",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Ghost",
+        "url": "https://ghost.org"
+      },
+      "image": "images/2026-09-15-ghost.png",
+      "category": "Publishing platform / open-source SaaS",
+      "tagline": "A long product page that proves itself three times over — by audience segment, in each segment's own metric, with real names and real revenue on the page.",
+      "summary": "Ghost sells a publishing platform on one very long page built from full-bleed bands that alternate white, navy and near-black, each band carrying exactly one job. The hero is a single centred headline over one dark product screenshot with the explanatory paragraph placed after the image rather than under the headline. The page's real move is its proof layer: instead of a mixed logo wall it runs three labelled rows — Publishers, Creators, Businesses — each with four real publications as photo tiles, each tile tagged with the metric that segment actually chases (123K members, $281K MRR), and backs them with a flat '$100,000,000+ revenue earned each year by publications running on Ghost, with 0% payment fees'. The close is a counted number rather than an adjective. The one caveat: at roughly 15,000px the page asks a lot of patience, and the mid-page feature panels blur together in a way the proof rows never do.",
+      "whatWorks": [
+        "Hero order is inverted: headline ('Turn your audience into a business.') sits alone over one dark dashboard screenshot, and the explanatory paragraph comes AFTER the image at body-paragraph size — the picture answers 'what is it' so the prose can answer 'what does it do' instead of repeating the headline.",
+        "Every band opens with a tiny letterspaced caps eyebrow (EASY SITE DESIGN, ADVANCED CREATOR TOOLS, GROW YOUR AUDIENCES, RUN YOUR BUSINESS, BUILT TO LAST) and closes with a sentence-case headline — the eyebrow does navigation, the headline does selling, and the eyebrow is the only all-caps type on the page.",
+        "Proof is split into three audience rows — Publishers / Creators / Businesses — four real customers each, shown as photographic tiles with the publication's own wordmark knocked out in white over the image and the category set small and grey at the tile's right edge.",
+        "Each proof tile carries a number in that segment's native unit: members for publishers (404 Media, Platformer), MRR for creators (Creator Science, $39K MRR) — not a star rating, not a quote.",
+        "Integrations are ~14 full-colour app icons scattered loosely around centred text rather than a tidy monochrome logo grid; the real brand colours make it read as 'everything you already use' instead of a partner tier.",
+        "The final CTA is a counted, moving figure set in white inside a dimmed grey sentence — 'Last week, 29,074 brand new publications got started with Ghost.' then 'Today, it's your turn.' in full white — with one acid-lime button below it.",
+        "The footer carries live instruments instead of claims: a GitHub star badge (65,309), a status pill reading 99.9%, and three marks — Non-Profit Foundation, Open Source, Carbon Neutral."
+      ],
+      "sections": [
+        {
+          "name": "Hero",
+          "notes": "White ground, a yellow pill announcing the current release ('Just launched: Ghost 6.0'), then a two-line centred headline in a tight geometric grotesk at display size. Below it a single wide screenshot of the dark Ghost dashboard — member counts, an MRR curve, engagement percentages — so the first proof the visitor sees is the product's own numbers. Only then does the paragraph of explanation appear, followed by a plain text link, 'Try Ghost completely free for 14 days →', rather than a second button."
+        },
+        {
+          "name": "Easy site design",
+          "notes": "First hard band change to deep navy. Left column pairs the eyebrow with 'Complete control over your website and branding.' — the word 'your' italicised, the only italic in the section. Right side shows the site-design panel and a live theme preview side by side, so the control and its result are in one frame. Underneath, a twelve-thumbnail theme wall in wildly different styles, which is how the page proves 'control' without adjectives."
+        },
+        {
+          "name": "Advanced creator tools",
+          "notes": "Pale blue-grey ground, and the type gets quieter as the UI gets bigger: a full-width editor screenshot in a rounded card, then two alternating half-width blocks ('Rich media & dynamic cards.', 'Newsletters built-in.') where the visual is an exploded stack of individual UI cards floating at slight angles rather than another flat screenshot. The copy owns the discipline claim — 'Calm by design… an interface that's invisible until you need it.'"
+        },
+        {
+          "name": "Grow your audiences / Run your business",
+          "notes": "Back to near-black. A hot-pink panel holds one small signup form in the centre — the smallest visual on a page of big ones, which is the point, since the whole argument is that one form converts an anonymous reader into a member. The business half then shows the members table and per-member detail, and closes with 'Offers & promotions' illustrated as a fanned deck of discount cards. Copy stays blunt: 'Hello, new friends.'"
+        },
+        {
+          "name": "Integrations and the money band",
+          "notes": "White ground, centred short copy ('Works with everything.'), and colour supplied entirely by scattered app icons — Slack, Spotify, YouTube, Instagram, Stripe, Discord — floating free of any grid. It flows straight into a black band carrying one figure at display size: '$100,000,000+ / Revenue earned each year by publications running on Ghost, with 0% payment fees.' The differentiator (0%) is the only bolded fragment in the sentence."
+        },
+        {
+          "name": "Publishers / Creators / Businesses",
+          "notes": "The strongest passage. Three identical rows on near-black, each with a big left-hand segment label, a two-line pitch in the middle ('Escape the algorithm / Your audience, brand, and revenue – owned entirely by you'), and a small green 'Learn more →' pinned right. Each row carries four photographic tiles — real people and real offices, not screenshots — with the publication's logo knocked out over the image and its metric in the label. Directly after, 'Built to last' states the business model in grey-on-black and lands one white line: 'No investors. No bullshit.'"
+        },
+        {
+          "name": "Final CTA and footer",
+          "notes": "The close spends no new imagery: eyebrow, one counted sentence with the number in white against dimmed grey, one bold line of address to the reader, one acid-lime button ('Start publishing now →'). The footer runs five columns and — unusually — devotes an entire column to Comparisons (vs Substack, beehiiv, WordPress, Medium, Patreon), i.e. it hands the visitor the competitive search they were going to run anyway."
+        }
+      ],
+      "principle": {
+        "title": "Split your proof by audience, and label each proof in that audience's own metric",
+        "explanation": "A single mixed wall of logos or testimonials makes every visitor do the sorting — they scan for someone like themselves, usually fail, and read the whole block as decoration. Ghost splits proof into three labelled rows for the three audiences it actually serves, gives each row four named real customers as photographs, and captions each with the number that segment is chasing: members for publishers, monthly revenue for creators, category for brands. The visitor finds their row in one scan, and the metric tells them what success looks like in units they already use.",
+        "howToApply": "On an Aperture services or seller page, replace the mixed testimonial carousel with three labelled rows of four — Sellers, Developers, Relocating buyers — each tile a real photograph of the actual property with the client or building name over the image, and one metric underneath in that segment's own units: 'sold 6 days, 4% over ask', '38 units absorbed in 9 months', 'closed remotely from Lisbon'. If a row can't be filled with four real ones, it isn't a segment you serve yet — cut the row rather than padding it."
+      },
+      "tags": [
+        "saas",
+        "social proof",
+        "layout",
+        "typography",
+        "conversion"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "The Economist — 'Raising Eyebrows and Subscriptions' (programmatic display)",
+        "url": "https://shortyawards.com/8th/the-economist-raising-eyebrows-and-subscriptions-marketing-campaign"
+      },
+      "image": "images/2026-09-15-ad-the-economist.png",
+      "category": "Programmatic display banner — contextual, in-article mobile",
+      "tagline": "A redacted headline in Economist red, served deliberately inside the news story that completes it.",
+      "when": "Launched 2015 (Proximity London with UM London; Gold at Cannes Lions and the DMA Grand Prix that year)",
+      "summary": "The unit is four elements: a field of Economist red, a headline that has been redacted with black censor bars so only 'CIA' and 'torture.' survive, the small red Economist logo box bottom-left, and a black button reading 'DON'T CLICK HERE ▸'. What makes it work is where it ran — served programmatically into a CNN mobile article headlined 'CIA Director responds to torture report', so the surrounding editorial supplies the half of the sentence the bars are hiding. The line and the media buy were built as one idea rather than in sequence, which is why the copy can be two words long. The campaign ran a portfolio of these lines against matched contexts and pushed readers to free Economist articles rather than straight to a paywall.",
+      "whatWorks": [
+        "The brand's own red fills the unit edge to edge, so it separates instantly from the grey-and-white news page it is placed in and is identifiable before a single word is read.",
+        "The headline is a redaction, not a sentence: black bars cover everything except 'CIA' and 'torture.', so the reader has to finish it — one second of work, and that second is the engagement.",
+        "The placement is the punchline. Served against a CNN story about the CIA torture report, the ad and the article around it become one message; the targeting is doing the job a longer headline would otherwise do.",
+        "The CTA inverts the standard imperative — 'DON'T CLICK HERE' — while keeping the arrow pointing the way and staying a single plain black button; the contrarian line reads as the brand's voice, not a trick.",
+        "The logo is a footnote, not the lead: the red Economist box sits small in the bottom-left corner with its pointer, so the ad closes with the brand instead of opening with it.",
+        "Total element count is four — field, redacted line, logo, button. No product shot, no offer, no price, no stock photography.",
+        "The click goes to a free, related Economist article rather than a subscription form, so the first thing the provocation delivers is the actual product."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Pure colour plus censorship. A flat red rectangle inside a page of neutral news UI stops the scroll on contrast alone, and the black bars read as 'something is being withheld from you' before any word is parsed — an information-shaped tease for an information brand."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Two surviving words, 'CIA' and 'torture.', set in the Economist's own type, white on red and black on red. The sentence is unreadable and that is the copy: the redaction device is both the joke and a claim about what the paper covers. The full stop after 'torture.' keeps it a statement rather than a headline fragment."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "There is no image. The visual idea is a typographic device — censor bars sized and positioned like real redaction over real words — which means the unit weighs nothing, renders identically at every banner size, and can be re-written for a new context in minutes. That reproducibility is what let the campaign run hundreds of context-matched variants programmatically."
+        },
+        {
+          "name": "CTA",
+          "notes": "A small black pill, bottom-right, reading 'DON'T CLICK HERE ▸'. It does three things at once: it's a legible button in the expected place, it's in the paper's contrarian register, and it dares rather than asks. The Economist logo sits opposite it bottom-left, so the bottom edge reads as signature-then-invitation."
+        }
+      ],
+      "principle": {
+        "title": "Build the creative and the placement as one idea, not in that order",
+        "explanation": "Most display is written first and targeted afterwards, so it says the same thing everywhere and gets read as wallpaper. The Economist wrote lines that only detonate in a specific context — a redacted 'CIA … torture.' running inside a CNN story about the CIA torture report — so the article around the unit supplies the missing half. The reader experiences it as relevance rather than advertising, and the creative can be radically shorter because the page is doing half the work.",
+        "howToApply": "For the next Aperture digital-ad flight, write one line per placement context instead of one line for the whole flight, and build the variants before the media plan is locked: the unit running beside a school-ratings page reads differently from the one beside a relocation or interest-rate article, and different again on a neighbourhood guide. Keep the layout identical across all of them so only the line changes. The test is simple — if a line still makes sense on any page, it isn't using its placement and should be rewritten or cut."
+      },
+      "tags": [
+        "display",
+        "copywriting",
+        "contextual",
+        "brand color",
+        "cta"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Hermann Zapf",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Zapf"
+      },
+      "image": "images/2026-09-15-designer-hermann-zapf.png",
+      "category": "Type design & calligraphy",
+      "when": "1918–2015 · German",
+      "tagline": "Wrote his typefaces with a pen before he ever drew them — Palatino, Optima, Zapf Dingbats, Zapfino — then spent his second career teaching computers to set type properly.",
+      "summary": "Zapf was essentially self-taught: in 1935 he saw an exhibition honouring Rudolf Koch in Nuremberg, bought two books, and taught himself calligraphy from them. Everything after that began with the written hand — Palatino (1948), Melior, Optima (released 1958) and eventually Zapfino (1998) all started as pen strokes and were only then refined into type, cut in metal alongside punchcutter August Rosenberger at the Stempel foundry. The second half of his career ran in the opposite direction: he lectured on computerised typesetting from the 1960s, consulted for Hallmark on a lettering style manual, held the first professorship in typographic computer programming at RIT from 1977 to 1987, and wrote the hz-program to fix justification and spacing systematically rather than page by page.",
+      "whatWorks": [
+        "Start with the tool that makes the form, not the outline: write the alphabet with a broad-nib pen first, so stress, thick/thin distribution and the natural joins fall out of the pen's physics — the drawing then refines something that already moves, instead of inventing movement from scratch.",
+        "Work from one named source you can point at, not a mood: Palatino takes its name and its logic from the Renaissance writing master Giambattista Palatino; Optima came out of flared Florentine stone letters. A specific historical document beats a board of references.",
+        "Sit beside whoever makes the final object. Zapf worked directly with Rosenberger at the punchcutting bench rather than sending drawings over a wall, so the constraints of the production step reached him while the design was still moving.",
+        "Design the connective tissue too, not only the stars — companion italics, a text-weight partner (Aldus to Palatino), a whole family of symbols (Zapf Dingbats). The useful thing is often the supporting piece nobody briefs.",
+        "Learn the next production technology roughly a decade before you need it: he was lecturing on computer typesetting long before desktop publishing arrived, so the upheaval found him fluent rather than defensive.",
+        "When you catch yourself fixing the same thing by hand repeatedly, fix the system instead — rather than hand-adjusting justification forever, he wrote the hz-program so every page got better."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With a pen and a real source. Zapf's first move on a face was calligraphic — sheets of written letters with a broad nib, at large size, to find the skeleton and the rhythm before any outline existed — and his starting reference was usually one identifiable historical hand or inscription rather than a general period feel. The self-taught route matters here: he learned by copying named exemplars out of two books and a library, so 'go study a specific artefact closely' was the method he had, and it stayed the method."
+        },
+        {
+          "name": "Core method",
+          "notes": "Written form first, drawn refinement second, production collaboration third. He iterated between the pen and the drawing board, then took the drawings to August Rosenberger to be cut in metal at Stempel, refining against what the punchcutter and the press revealed. The loop is the point: each pass moved the design closer to the material it would finally exist in, and the person who handled that material was in the room."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The humanist compromise — letters that carry calligraphic stress without obvious calligraphic decoration. Optima is the clearest case: a sans serif whose strokes flare at the terminals, so it reads with the warmth and the thick/thin modulation of a written or carved letter while having no serifs at all. The move is to keep the evidence of the hand in the proportions and the stroke, and strip the ornament that usually advertises it."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Judge a text face in a paragraph at reading size, never in a display showing — the test is the even grey of a block of text and how the letters behave next to each other, not how handsome a single 'a' looks blown up. And treat spacing as a system problem: his late work (the hz-program, the Hallmark style manual, the RIT professorship) is all the same instinct applied at a larger scale — if the rule can be written down, write it down so it runs everywhere, and reserve the hand for the things a rule can't reach."
+        }
+      ],
+      "principle": {
+        "title": "Judge the face in a paragraph at reading size, never in the specimen",
+        "explanation": "A display showing flatters everything — at 120pt any typeface looks characterful, and you end up choosing letterforms rather than texture. Zapf's judgement was made on the block: set real text at real size and look at the evenness of the grey, how the letters space against each other, where a pair collides, which characters go soft. Almost everything that decides whether type works in the wild — the 8pt disclaimer, the caption, the MLS thumbnail — lives at sizes the specimen never shows you.",
+        "howToApply": "Before locking a typeface for an Aperture piece, print one sheet with nothing but the real smalls: a full property description paragraph at its actual size, the spec line with real digits, the fair-housing disclaimer at its true 7–8pt, the agent block with a real long email address, and a price string with commas — then look at it at arm's length, not on screen. If the numerals go soft, the paragraph turns patchy, or the disclaimer fills in, the face is wrong regardless of how the address looks at hero size."
+      },
+      "tags": [
+        "typography",
+        "type design",
+        "calligraphy",
+        "process",
+        "craft"
+      ]
     }
   ]
 }
