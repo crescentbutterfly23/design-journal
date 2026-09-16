@@ -18392,6 +18392,173 @@
         "process",
         "craft"
       ]
+    },
+    {
+      "date": "2026-09-16",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "NTS Radio",
+        "url": "https://www.nts.live"
+      },
+      "image": "images/2026-09-16-nts-radio.png",
+      "category": "Online radio / music platform",
+      "tagline": "A 24/7 radio station whose homepage puts what is on air right now in a strip above its own navigation, sets the entire page in one condensed typeface at 13–24px, and spends its single red on nothing but the word 'live'.",
+      "summary": "NTS is a London internet radio station with two always-on channels, and the homepage is built as a broadcast chassis rather than a marketing page: before the logo row there is a live strip — red dot, channel 1 and 2, the show playing now, the city it is coming from — so the first thing the page says is what is happening this second. Everything below it is set in Univers Condensed, uppercase, one bold weight, between 13px and 24px, on pure black; there is no display type, no hero headline and no brand accent anywhere except a single alarm red (#E81717) that is only ever the live indicator. Hierarchy is done with position, black-and-white inversion and genre chips instead of size, which is how a page carrying eight shows, a shop rail, a supporter pitch, a collections rail and a news row stays under 3,500px and still reads as calm. The honest caveat: the type is small and dense everywhere, so this restraint depends on an audience that arrives to browse rather than to be persuaded.",
+      "whatWorks": [
+        "Two live channel rows sit above the nav, not inside it — red dot, channel number in a white box, show title in 14px uppercase bold, origin city right-aligned — so the schedule outranks the menu and the page is never a snapshot.",
+        "One typeface (Univers Condensed), one voice (uppercase), one weight family, 13–24px for literally everything from nav to show titles to footer; no display size appears on the page at all.",
+        "The single saturated colour in the chassis is the red live circle. Desaturate the page and nothing changes except the show artwork — which is the only place colour is allowed to live.",
+        "Every show is the same card: 4:3 artwork, a metadata line (date · SUPPORTER RADIO · CHICAGO), the uppercase title, then genre chips (HOUSE / EURO HOUSE / ELECTROCLASH) that are the site's real taxonomy rather than decoration.",
+        "Exactly one conversion moment in the whole page — a full-bleed dark photographic band with 'BUILT FOR MUSIC LOVERS, BY MUSIC LOVERS' and one outlined button — so the ask reads as a membership, not a banner.",
+        "The product promise is five words in the footer: 'FREE. NO ADS. 24/7.' It is never restated in a hero, because the live strip has already demonstrated it."
+      ],
+      "sections": [
+        {
+          "name": "Live strip & nav",
+          "notes": "A black bar above everything: 'LIVE NOW' with a red dot, then two numbered channel rows each carrying a play triangle, the show title in uppercase bold and the city (LONDON) right-aligned, with a small waveform and time controls at the right end. The nav row beneath it is seven uppercase words (RADIO, LATEST, EXPLORE, INFINITE MIXTAPES, SHOP, NTS SUPPORTERS) plus search and account. Putting state above navigation means the page answers 'what's on?' before it answers 'where can I go?'."
+        },
+        {
+          "name": "Hero: In Focus + Infinite Mixtapes rail",
+          "notes": "A full-bleed editorial photograph (this week: John Martyn) with a small black caption card set into the bottom-left — genre tags, title, two lines of dek, a play triangle — and carousel arrows tucked in the bottom-right corner rather than overlaid on the face. To its right, a fixed rail of Infinite Mixtapes: stacked colour-coded tiles (POOLSIDE, SLOW FOCUS, LOW KEY) each with its own artwork and play button. The hero sells one editorial pick; the rail sells the always-on alternative. No headline, no CTA button, no brand statement anywhere in the fold."
+        },
+        {
+          "name": "NTS Picks",
+          "notes": "Eight identical cards in a 4×2 grid under a small 'NTS PICKS ›' label and a one-line dek ('Recent radio highlights hand picked by NTS'). Each card: artwork, a grey metadata line with date and station/city, the title in uppercase bold, then genre chips. Uniform crop and identical card weight mean the artwork — which ranges from a blurred portrait to a red text-only cover to a classical painting — does all the visual variety, and the eye can still scan the column of titles."
+        },
+        {
+          "name": "NTS Shop",
+          "notes": "A horizontal rail of product cards on plain white grounds (radio player, jacket, tee, earphone case) with name and price set in exactly the same condensed caps as the show titles. Commerce is given no special styling, no badges and no coloured buttons — it is another content type in the same system, which is why a shop row inside an editorial page doesn't feel like an interruption."
+        },
+        {
+          "name": "Supporter band",
+          "notes": "The only persuasion block on the page: a full-bleed, dark, out-of-focus club photograph with two centred lines — 'BUILT FOR MUSIC LOVERS, BY MUSIC LOVERS' — and a single white-outlined 'BECOME AN NTS SUPPORTER' button. It appears after the visitor has already seen forty shows for free, so the ask arrives as a consequence of the page rather than a condition of it."
+        },
+        {
+          "name": "Collections & News",
+          "notes": "Two more rails using the same card, differentiated only by label and by where the title sits: Collections overlays the title on the artwork with a play button (they are playable), News & Events keeps the title below (they are readable). One component, two behaviours, no new styling."
+        },
+        {
+          "name": "Footer",
+          "notes": "Three columns of plain uppercase links — NTS (About, Careers, Help, Support, Gift), Stay up to date (email field, an explicit consent checkbox, SUBSCRIBE), Listen on the NTS app (App Store / Google Play badges) — then the NTS mark centred, 'FREE. NO ADS. 24/7.' beneath it, and a row of social icons. The strongest claim on the site is given the smallest type and the last position."
+        }
+      ],
+      "principle": {
+        "title": "Let your one accent colour mean one state, not the brand",
+        "explanation": "An accent used for emphasis is decoration and the eye stops reading it within a screen or two. An accent bound to a single condition — on air now, open today, taken — is information: its presence anywhere on the page tells you something true, and its absence tells you something too. NTS can run a black-and-white interface at 13px and still be instantly scannable because the only red on screen always means one thing.",
+        "howToApply": "Pick the one accent in the Aperture palette and write down the single condition under which it is allowed to appear — 'open house today', 'just listed this week', 'under offer' — then ban it from headings, buttons, hovers, chips and section bands. On a collection page that means the accent appears on three cards out of thirty and a visitor can find what's happening today without reading a word; if you find yourself wanting it on a button, use a black pill and change the label instead."
+      },
+      "tags": [
+        "typography",
+        "color",
+        "information density",
+        "editorial",
+        "interface"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Domino's — social film series & key visual (France)",
+        "url": "https://www.adsoftheworld.com/campaigns/the-original-foldable"
+      },
+      "image": "images/2026-09-16-ad-dominos-the-original-foldable.png",
+      "category": "Reactive social campaign (short films + key visual)",
+      "when": "September 2026 — released in France within days of Apple's foldable phone reveal, by agency Foolish for Domino's Pizza France",
+      "tagline": "Shoots a cardboard pizza box with the exact production grammar of a phone launch — seamless sweep, macro folding shots, sentence-case grotesque — and lets the mismatch make the argument.",
+      "summary": "Apple unveiled a foldable phone; days later Domino's France published a series of short films that introduce its pizza box using the visual codes of a tech keynote — precision macro shots of the folding, the product floating alone on an off-white infinite sweep, and a launch lockup reading 'Domino's / The Original Foldable'. The joke only survives because the craft is real: the lighting, the retouching, the contact shadow and the typography are all at the level of the thing being spoofed, so it reads as a campaign rather than a meme. It is also true — the box has always arrived flat, folded, opened and closed — which is what separates this from a topical gag: the claim is a product fact that was sitting there the whole time. Apple is never named; the week's news supplies the reference for free.",
+      "whatWorks": [
+        "The staging is the hook, not the copy: off-white seamless, soft top light, two boxes at a three-quarter float with a contact shadow — a device-launch frame your eye decodes before you read a word.",
+        "Typography does the borrowing — small brand name above, large sentence-case product name below, set in a neutral grotesque with a wide empty margin to the right. No food typography, no italic, no burst.",
+        "The boxes are art-directed as hardware: blue and red lids read as colourways, 'comes in multiple sizes' becomes a spec line, the die-cut vents become a product detail.",
+        "Everything an ordinary pizza ad would carry is absent — no price, no offer, no appetite macro, no corner logo lockup, no 'order now'. The restraint is the parody.",
+        "It is reactive by design: published in the slipstream of someone else's launch, so the audience arrives already holding the reference, and the ad never has to explain the comparison.",
+        "The claim is literally true, so the campaign lands as a fact about the product rather than a joke at a competitor's expense — nothing to retract, and it can be repeated at the next launch."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Format mimicry in the first frame: in a feed full of phone-launch footage, a shot that looks exactly like phone-launch footage — until the object resolves as a pizza box. The scroll stop costs nothing in copy because the audience's eye is already tuned to this frame that week."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'The Original Foldable', three words, with 'Domino's' set small above it in the keynote position. It is unreadable as a joke on any other week and perfectly readable this one — the placement in time is doing half the writing. 'Original' quietly does the competitive work without naming anyone."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Two boxes, one closed and one part-opened, floating on an off-white sweep with the brand's blue and red lids as the only colour. The films extend the same grammar into precision macro: the crease, the fold, the click of the tab — shot with the loving slow-motion normally reserved for a hinge mechanism."
+        },
+        {
+          "name": "CTA",
+          "notes": "There isn't one, and that's the discipline — no price, no promo code, no 'order now' end-card. The payoff is the product reveal itself. Honest caveat: a no-CTA brand film only works on top of an ordering habit that's already frictionless; it buys fame, not this week's orders, and shouldn't be the whole plan."
+        }
+      ],
+      "principle": {
+        "title": "If you borrow another category's format, buy its production values too",
+        "explanation": "Parody only reads as confidence when the craft matches the thing being parodied. The moment the lighting, the retouching, the type or the timing falls below the borrowed format's standard, the audience reclassifies the work from campaign to meme and the brand loses the authority the borrowing was meant to steal. The comedy lives in the straight face — which is expensive to hold.",
+        "howToApply": "When an Aperture piece borrows a format — a spec sheet for a house, a keynote reveal for a new development, a gallery wall label for a renovation — commit to that format's real standards: its exact typographic register, its lighting, its white space, its absence of sales furniture. Then delete every element the borrowed format would never contain (the price flash, the agent headshot, the QR burst). If you can't afford to execute the parody to the standard of the original, run the plain version instead."
+      },
+      "tags": [
+        "reactive",
+        "art direction",
+        "product photography",
+        "typography",
+        "social"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "George Lois",
+        "url": "https://en.wikipedia.org/wiki/George_Lois"
+      },
+      "image": "images/2026-09-16-designer-george-lois.png",
+      "category": "Advertising & editorial art direction — the New York 'Creative Revolution'",
+      "when": "1931–2022 · American (Greek-American, New York)",
+      "tagline": "Ninety-two Esquire covers in ten years, each a single image that argues — and the strongest working model for arriving with one idea instead of three options.",
+      "summary": "Lois came out of Doyle Dane Bernbach, co-founded Papert Koenig Lois, and between 1962 and 1972 art-directed 92 covers for Esquire under editor Harold Hayes — Muhammad Ali as St. Sebastian pierced with arrows, Andy Warhol drowning in a can of soup, Sonny Liston as Santa Claus — work now held by MoMA. His method was the 'Big Idea': one image and one line, fused so tightly that neither survives alone, produced fast and then defended at length. He is also the cautionary half of his own story — a relentless self-mythologiser whose authorship claims were disputed — but the process he practised is unusually teachable, and the discipline underneath it (one idea, presented with its argument, executed under your own eye) is the part worth stealing.",
+      "whatWorks": [
+        "Reduce the brief to a single sentence that can be argued with. If you can't say what the piece is claiming in one line, there is no idea yet, only a layout.",
+        "Test for the one-image rule: if the point needs two pictures, a diagram or a build, the idea isn't finished. Lois's covers are all single frames.",
+        "Fuse word and image so neither works alone — the line should be meaningless without the picture and the picture unreadable without the line.",
+        "Present one idea, not a menu. Options are a way of handing the decision to the client; an argument is a way of making it.",
+        "Sketch in minutes, sell for months. He treated the selling of the idea — not its generation — as the long and skilled part of the job: if you can't sell it, you didn't have an idea.",
+        "Stay on the floor: he cast the shoot, directed the talent and stood behind the camera. The idea is not handed off to production, because the execution is where it is usually lost."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not with references or thumbnails, but with the argument. Lois read the story or the sales problem and reduced it to one provoking sentence — Ali is being martyred by the establishment; nobody believes the Democratic ticket — and only then looked for the single picture that would make a stranger think it. He worked fast on purpose: the first idea that passes the one-sentence and one-image tests is taken seriously rather than diluted by a week of alternatives."
+        },
+        {
+          "name": "Core method",
+          "notes": "The 'Big Idea': one image plus a handful of words, fused. He designed the cover as an argument aimed at a person walking past a newsstand at four feet, not at an editor holding a proof at reading distance. The corollary is brutal editing — no secondary cover lines fighting the picture, no explanatory dek, no second subject. Everything that isn't the argument is removed before it's presented, which is why the presentation is a single board."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Casting the real person into the borrowed image. Rather than illustrate a metaphor, he staged it with the actual subject and made them perform it: Ali as Mantegna's St. Sebastian, Nixon being made up by four hands, Warhol going under in a Campbell's can. Because the subject is real and the frame is borrowed from something the audience already knows, the picture needs no caption to be decoded — and it is impossible to mistake for stock."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "One idea per problem; no options. Research reports what has already happened, so it can't validate something new. The idea must be defensible in one sentence to a hostile room — and if it can't be sold, it wasn't strong enough to begin with. He judged work by whether it would be remembered and repeated, not by whether it was liked in the meeting; the whole method assumes a client relationship (Hayes at Esquire gave him control) in which the art director is allowed to be right, which is the precondition most people skip."
+        }
+      ],
+      "principle": {
+        "title": "Bring one idea and the sentence that sells it — never a menu",
+        "explanation": "Presenting three options hands the decision to whoever has the least context, and guarantees the result is the safest of the three. Arriving with one direction plus a one-line argument moves the conversation from taste ('which do you prefer?') to reasoning ('is this the right claim?') — which is the only conversation in which good work survives. It also forces the editing to happen before the meeting, where it's cheap, rather than in it.",
+        "howToApply": "For the next Aperture deliverable, write the one-sentence claim before opening the template ('this house is bought for the light in the mornings, not the square footage'), build the single direction that makes that claim, and present it alone with the sentence on the first slide. Keep the alternates in a folder for when the claim itself is rejected — not as a tasting menu. If you can't write the sentence, the piece isn't ready to show, however finished the layout looks."
+      },
+      "tags": [
+        "concepting",
+        "art direction",
+        "editorial",
+        "process",
+        "presentation"
+      ]
     }
   ]
 }
