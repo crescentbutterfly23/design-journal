@@ -18559,6 +18559,182 @@
         "process",
         "presentation"
       ]
+    },
+    {
+      "date": "2026-09-17",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Vipp",
+        "url": "https://www.vipp.com/en"
+      },
+      "image": "images/2026-09-17-vipp.png",
+      "category": "Design brand / hospitality e-commerce",
+      "tagline": "A shop homepage that opens not with a hero shot but with twenty-four small material crops, and where the biggest type on the page is about 32px \u2014 all the scale is carried by photography.",
+      "summary": "Vipp sells kitchens, cabinets, chairs and a handful of guesthouses and co-owned houses, and the homepage refuses the usual e-commerce grammar: no carousel of offers, no badge rows, no filled buttons above the fold. Instead the page alternates two states \u2014 a full-bleed photograph with three lines of white serif set over its calmest area, then a white \"rest\" block holding a letterspaced caps label, one sentence and an underlined text link \u2014 and repeats that rhythm nine times down the page. Colour is used as an index rather than decoration: one sand field (#CCBCA2) for the cabinet system, one terracotta field (#804A2E) for the Residences co-ownership business, charcoal for the footer, and white everywhere else, so every saturated pixel between them comes out of a photograph. The caveat is length: the page runs past 15,000px with several editorial blocks competing for the same \"read more\" slot, and a first-time visitor looking for a price has a long scroll ahead. (The capture covers the page down through the outdoor collections; the kitchen grid, guesthouse cards and footer sit below it.)",
+      "whatWorks": [
+        "Open on material, not on a room: the fold is a sand field with an italic serif fragment (\"From lightness\u2026\") small in the top-left and a 3\u00d78 mosaic of twenty-four tight crops \u2014 oak end-grain, fluted metal, a marble edge, an open drawer, a ceramic bowl \u2014 so the product is introduced as a set of surfaces before it is ever shown whole.",
+        "Cap the headline size and let the photograph do the scaling. Nothing on this page is set much above ~32px; the emotional volume comes from full-bleed imagery, which means the type never has to shout over it.",
+        "Alternate full-bleed image with a short white rest block \u2014 caps label, one 2\u20133 line sentence, one underlined link \u2014 so no section is asked to carry both maximum image and maximum copy.",
+        "Place overlay copy in the calm zone of the photograph (sky, plaster wall, empty floor) at a narrow centred measure, never across the busy subject; no scrim is needed anywhere on the page.",
+        "Let a craft photograph do the selling: the new swivel chairs are argued with a close shot of hands and callipers on the shell, not with a feature list \u2014 the making is the proof.",
+        "Credit the photographer inside the headline (\"Scottish photographer Richard Gaston has spent a spring weekend at the Vipp Montafon\") so the block reads as reportage with an author rather than as brand copy.",
+        "Give each business line its own colour field. Sand means the cabinet system; terracotta means Residences \u2014 a different offer with a different transaction \u2014 and the change of ground announces that before a word is read.",
+        "Keep conversion quiet where the page is editorial: caret + underlined text links throughout, with the only real form (newsletter, country selector) parked in the charcoal footer."
+      ],
+      "sections": [
+        {
+          "name": "Hero \u2014 cabinet mosaic",
+          "notes": "Sand ground, italic serif fragment small in the top-left corner, and a 3\u00d78 grid of tight material crops that animates in place. It does the job a hero image would do \u2014 establish register, palette and material \u2014 while also functioning as a contact sheet: the visitor scans twenty-four surfaces in the time one wide shot would have taken."
+        },
+        {
+          "name": "Statement block",
+          "notes": "White, centred, with a tiny letterspaced caps eyebrow (\"A CABINET OF MATERIAL CURIOSITY\") over three lines explaining the eight modular units, then an underlined text link. The eyebrow names the thing, the sentence explains the system, and the whole block is roughly one-eighth the height of the section above it \u2014 a deliberate rest."
+        },
+        {
+          "name": "Vipp Apartment editorial",
+          "notes": "Full-bleed interior with a three-line white serif headline centred over the middle of the frame and a small bold link beneath. The copy is a piece of news (\"Vipp returns to its hometown of Copenhagen with a city apartment\"), not a product claim, which is what lets an image this quiet hold a whole screen."
+        },
+        {
+          "name": "Swivel Chair product story",
+          "notes": "Asymmetric two-column: a wide lifestyle shot on the left, a tight process photograph on the right \u2014 hands measuring the moulded shell with callipers \u2014 with caps eyebrow and four lines of body under it. Then a single full-bleed scene, a centred one-line sentence (\"Configurable in multiple ways to suit any space\") and a four-up row of variants (Vipp452\u2013455) with hairline rules and caret affordances."
+        },
+        {
+          "name": "Montafon photo essay",
+          "notes": "Full-bleed alpine h\u00fctte with the photographer named in the headline. The move is editorial attribution: a third party has spent time in the place, which converts the property from inventory into a story someone chose to tell."
+        },
+        {
+          "name": "Residences \u2014 Mallorca",
+          "notes": "The only coloured section on the page: terracotta ground, a tall exterior on the left, copy on the right, a second interior lower right. Colour marks a different business (co-ownership, an external site) so the reader knows the offer has changed before reading the eyebrow \"CO-OWN THIS HOUSE IN MALLORCA\"."
+        },
+        {
+          "name": "Outdoor, kitchens, guesthouses, Inspiration",
+          "notes": "The lower page settles into four-up card rows \u2014 four kitchens (V1\u2013V4), four guesthouses (Cold Hawaii, Todos Santos, Lagrasse, Bruny Island), three Inspiration stories with small category labels. Identical card geometry throughout, so the shift from editorial to catalogue is legible without a heading change."
+        },
+        {
+          "name": "Footer",
+          "notes": "Charcoal ground, three link columns (Company / Customer Service / Professionals), then the newsletter field with a country selector, the CVR number and social icons. All the transactional furniture the top of the page refuses to carry is collected in one place at the end."
+        }
+      ],
+      "principle": {
+        "title": "Open with the material, not the room",
+        "explanation": "A single wide hero shot asks the visitor to judge a whole space in one glance, and every competitor's hero looks the same because the frame is the same. A mosaic of tight material crops \u2014 grain, join, edge, handle, tile \u2014 sells the thing photographs of rooms are worst at conveying (what it is made of and how well it is made), and it reads as a contact sheet, which flatters both the property and the photographer.",
+        "howToApply": "On the next property page or Power Pack opener, build the fold from 18\u201324 square detail crops shot at the same session and the same light \u2014 casement hardware, stone edge, timber grain, tap, tile join, stair nosing \u2014 laid in a tight grid on one warm ground, with the address line small above and one underlined text link beneath. Keep the wide room shots for the sections below: the mosaic establishes quality, the wides establish plan."
+      },
+      "tags": [
+        "photography",
+        "editorial",
+        "layout",
+        "color",
+        "luxury",
+        "e-commerce"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Club Med \u2014 'The Art of Free Time' (key visuals, social & digital OOH)",
+        "url": "https://www.adsoftheworld.com/campaigns/the-art-of-free-time"
+      },
+      "image": "images/2026-09-17-ad-club-med-art-of-free-time.png",
+      "category": "Campaign key visuals \u2014 paid social / digital OOH (film-led integrated campaign)",
+      "tagline": "Three frames, no headline doing any explaining: the whole idea is carried by one absurd human gesture staged inside the real resort.",
+      "when": "Launched 6 September 2026, international (Europe, US, Latin America, Asia) \u2014 BETC Paris, film directed by Fleur Fortun\u00e9",
+      "summary": "BETC's platform for Club Med reframes idleness as a skill \u2014 free time as the ultimate luxury \u2014 and the key visuals argue it without a single line of body copy. A woman in a bathrobe and towel turban balances horizontally on a man's upturned feet above an alpine pool, sipping from an espresso cup; two skiers ride a chairlift in white ski suits with face-mask cream and cucumber slices on; a mother and two children walk a beach carrying stacked towers of pool rings. Each frame is a one-second read, shot on location in real Club Med settings rather than composited, and the only type is a four-word lockup \u2014 \"The Art of free time\" in a high-contrast serif with the two key words in italic \u2014 pinned in the same top-right corner of every frame beside the trident. Because the wardrobe is white in all three and the grounds are sky-blue, snow and sand, a summer beach ad and a winter ski ad read as the same campaign without any shared graphic device beyond the lockup.",
+      "whatWorks": [
+        "One gesture per frame, legible before any word is read: the acroyoga espresso, the cucumber slices on a chairlift, the tower of pool rings. Each is a single tableau, not a sequence or a build.",
+        "The location is the product and the joke is staged inside it \u2014 real Alps, real beach, real chairlift \u2014 so the setting sells while the gesture entertains; nothing is fabricated on top of the photograph.",
+        "The lockup never moves. Same corner, same size, same white across all three frames, so the set reads as one campaign at feed scale where nothing else is shared.",
+        "Copy is four words and it reframes rather than describes: 'The Art of free time' makes doing nothing a discipline you can be good at \u2014 which is the entire strategy compressed into a headline that never has to appear anywhere else.",
+        "One wardrobe rule (all white) carries the campaign across two opposite seasons, letting beach and ski creative run in the same flight without looking like two brands.",
+        "No CTA, no price, no offer strip. The unit is asking for recognition, not a click, and it does not pretend otherwise \u2014 the ask lives later in the funnel."
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A physical impossibility played entirely straight \u2014 a person horizontal in mid-air in a bathrobe, or skiers in full spa treatment on a moving chairlift. The absurdity is in the behaviour, not in the retouching, so the eye stops without feeling sold to."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Four words in a high-contrast serif with 'free time' in italic: a reframe, not a description. It categorises leisure as a craft, which quietly flatters the buyer and licenses every silly scenario in the campaign."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Real resort locations shot in flat bright daylight, deep-focus, with the subject small enough that the landscape still reads. The gag occupies the lower two-thirds and the lockup takes the empty sky at the top right \u2014 composition planned around where the type would go."
+        },
+        {
+          "name": "CTA",
+          "notes": "There isn't one, beyond the brand lockup. The key visual's job is to re-position the brand; the booking ask is left to the performance units, which is why the frame can stay this clean."
+        }
+      ],
+      "principle": {
+        "title": "Direct one gesture, and let it carry what a headline would have said",
+        "explanation": "In a feed the image is decoded before the words are, so a picture that needs its caption to make sense has already lost the scroll. A single staged human action \u2014 one frame, no build, no second element \u2014 is understood pre-language, and it lets the copy stop describing and start reframing, which is the only job left worth doing in four words.",
+        "howToApply": "For a listing campaign, name the benefit in one sentence, then direct a single human gesture inside the actual property that dramatises it \u2014 dinner laid on the dock instead of in the dining room, a child's bike parked at the bottom of the stairs, coffee on the roof terrace at 7am \u2014 shot on location with no compositing. Keep the campaign lockup (address or campaign line plus mark) in the same corner at the same size across every frame in the flight, cap the copy at five words, and let the price, specs and CTA live in the performance unit that follows."
+      },
+      "tags": [
+        "campaign",
+        "photography",
+        "copywriting",
+        "art direction",
+        "social",
+        "travel"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Herbert Matter",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Matter"
+      },
+      "image": "images/2026-09-17-designer-herbert-matter.png",
+      "category": "Photographic modernism \u2014 photomontage, advertising and identity",
+      "when": "1907\u20131984 \u00b7 Swiss-American (Engelberg \u2192 Paris \u2192 New York)",
+      "tagline": "The designer who made his own raw material: trained as a painter, worked as a photographer, and built posters by pairing two photographs at wildly different scales.",
+      "summary": "Matter studied painting in Geneva and at the Acad\u00e9mie Moderne in Paris under L\u00e9ger and Ozenfant, then worked around Cassandre, Le Corbusier and the type foundry Deberny & Peignot before returning to Zurich in 1932 to make the Swiss National Tourist Office posters that changed what a photograph could do on a sheet of paper. He emigrated in 1936, worked for Alexey Brodovitch at Harper's Bazaar, was design consultant to Knoll from 1946 to 1966, designed the 1954 New Haven Railroad identity and its NH monogram, consulted for the Guggenheim, filmed Alexander Calder at work, and taught photography at Yale from 1952 to 1976. What makes him worth studying as process rather than style is the order of his operations: he shot first and designed second, which meant his compositions could use images no picture library would ever have held.",
+      "whatWorks": [
+        "Make the raw material before you make the layout. Matter photographed the mountains, faces, boots and objects himself, so the composition was never limited to frames someone else had already chosen to shoot.",
+        "Build the frame from two elements at violently different scales \u2014 a head filling the sheet, a skier at a fiftieth of its size behind it. Scale contrast produces depth and hierarchy without any grid at all.",
+        "Assemble in the medium that will print it: Matter's layouts were made photographically, in the darkroom, so what he approved and what came off press were the same object.",
+        "Treat type as an element inside the image, overprinted in a second colour and locked into the composition, rather than as a caption zone under it.",
+        "One photographic idea per surface. His posters never carry two arguments; the second idea becomes a second poster.",
+        "Keep your own picture library and keep shooting between jobs \u2014 his Knoll advertising, the Calder films and the Yale teaching all fed off the same continuous photographic practice."
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "With a camera rather than a sketch. Matter's first move on a tourism brief was to go and photograph the place, the equipment and the people, generating raw material that didn't exist yet \u2014 which is why his posters could do things his contemporaries' drawn posters couldn't. The painting training (L\u00e9ger, Ozenfant) supplied the sense of flat picture construction; the camera supplied the parts."
+        },
+        {
+          "name": "Core method",
+          "notes": "The darkroom as the layout table. For the Swiss National Tourist Office posters of 1934\u201336 he montaged: enlarge one photographic element until it fills the sheet, drop a second at a fraction of the size, overprint type in one flat colour, and resolve the whole thing photographically rather than by pasting artwork. The technique fused photograph and typography into one surface \u2014 the move that later became the house grammar of Swiss design."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Extreme scale jumps between two photographic elements in a single frame \u2014 a foreground head or hand ten times the size of the figure behind it \u2014 creating depth, reading order and drama without perspective tricks or illustration. The 1941 'America Calling' poster shows the same logic in wartime form: one enormous eagle photographed as an object, type bitten into the image, three flat colours."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Image first, type as part of the image, one idea per surface, and consistency across media \u2014 the New Haven Railroad work is a mark plus a rule for how everything gets photographed and repainted, not just a logo. He judged work as a photographer does: does the frame hold at a glance, and is anything in it doing nothing? Everything else \u2014 Knoll ads, museum graphics, film titles \u2014 ran off the same photographic instinct."
+        }
+      ],
+      "principle": {
+        "title": "Commission the raw material, not the finished picture",
+        "explanation": "A layout can only be as good as the frames that exist. If every photograph in the delivery is a well-made wide shot of a room, every layout will be a well-made grid of well-made wide shots \u2014 there is nothing to build scale contrast from. Matter could pair a giant foreground element with a tiny distant one because he had shot both himself, on purpose, knowing what the sheet needed.",
+        "howToApply": "Write the shot list as pairs, and send it before the shoot: for every wide (fa\u00e7ade, living room, garden), one extreme close of something in that same frame \u2014 the door handle, the plaster, the tap, the tile join, the casement catch \u2014 shot at the same session in the same light. Then build the opener by pairing one of those closes enlarged to full bleed with the wide dropped in small, and set the address line into the image rather than beneath it. Anything the layout can't do later is usually a frame nobody asked for on the day."
+      },
+      "tags": [
+        "photography",
+        "photomontage",
+        "process",
+        "scale",
+        "identity",
+        "modernism"
+      ]
     }
   ]
 }
