@@ -8,6 +8,7 @@ serve.sh
 compress-images.py
 publish.bat
 publish.sh
+.claude/
 
 # Temp/merge scratch files
 _*.json

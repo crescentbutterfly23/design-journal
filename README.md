@@ -1,18 +1,18 @@
 # Design Journal
 
-A daily study of design done well. Each entry breaks down something worth
+A weekly study of design done well. Each entry breaks down something worth
 learning from and distills one reusable principle.
 
 **Live site:** https://crescentbutterfly23.github.io/design-journal/
 
 ## What's inside
 
-Three daily streams (toggle between them on the site) plus reference glossaries:
+Three weekly streams (toggle between them on the site) plus reference glossaries:
 
-- **Web Design** — a strong website each day, walked section by section.
+- **Web Design** — a strong website each week, walked section by section.
 - **Digital Ads** — a well-crafted ad, broken down hook → message → visual → CTA.
-- **Designers** — an exceptional graphic designer (or, on Mondays, a legendary
-  studio), studied for their **process** — how they actually work.
+- **Designers** — an exceptional graphic designer (or, every fourth run, a
+  legendary studio), studied for their **process** — how they actually work.
 - **Glossaries** — Design Terms, Web Tech Basics, and Digital Ads, each term with
   a live example.
 
@@ -20,7 +20,8 @@ Three daily streams (toggle between them on the site) plus reference glossaries:
 
 A static site — no build step. `index.html` reads three data files at runtime:
 
-- `entries.json` — the daily journal entries (`kind`: `site` / `ad` / `designer`).
+- `entries.json` — the journal entries (`kind`: `site` / `ad` / `designer`; entries
+  written by the routine keep `"source": "daily"` as their machine tag).
 - `glossary.json` — the three reference glossaries.
 - `images/` — screenshots, ad creatives, and designer portraits.
 

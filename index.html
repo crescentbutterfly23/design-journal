@@ -6,7 +6,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
-<title>Design Journal — a daily study</title>
+<title>Design Journal — a weekly study</title>
 <link rel="icon" href="data:,">
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -305,7 +305,7 @@
   <header class="masthead">
     <div class="wrap">
       <p class="eyebrow">Design Journal</p>
-      <h1>A daily study of design done well.</h1>
+      <h1>A weekly study of design done well.</h1>
       <p class="dek">Each morning: one strong website, one well-made ad, one good brand guide, and one great designer — broken down, with a single principle worth keeping. A slow, deliberate way to sharpen the eye and build a working library of what good looks like.</p>
       <div class="meta">
         <span><b id="count">—</b> entries</span>
@@ -313,7 +313,7 @@
         <span id="latest"></span>
       </div>
       <nav class="tabs" id="tabs" aria-label="Views">
-        <button class="tab journal-tab-btn" data-view="journal">Daily Journal</button>
+        <button class="tab journal-tab-btn" data-view="journal">Journal</button>
         <span class="journal-toggle" hidden>
           <button class="tab jtab" data-kind="site">Web Design</button>
           <button class="tab jtab" data-kind="ad">Digital Ads</button>
@@ -422,7 +422,7 @@ function renderEntry(e, i){
   const imgAlt = isDesigner ? `Portrait or work — ${e.site?.name||"designer"}` : (isGuide ? `Cover of ${e.site?.name||"the brand guide"}` : `Screenshot of ${e.site?.name||"the site"}`);
   const guideDoc = e.guide?.url ? `<p class="guide-doc"><span class="gd-label">The guide itself</span><a href="${esc(e.guide.url)}" target="_blank" rel="noopener">${esc(e.guide.label||"Read the brand guide")} ↗</a></p>` : "";
   return `<article class="entry" id="entry-${i}" data-site="${esc(e.site?.name||"")}">
-    <p class="date">${esc(fmtDate(e.date))}${e.source==="manual"?` · <span class="src">added by you</span>`:(e.source==="daily"?` · <span class="src">daily pick</span>`:"")}</p>
+    <p class="date">${esc(fmtDate(e.date))}${e.source==="manual"?` · <span class="src">added by you</span>`:(e.source==="daily"?` · <span class="src">journal pick</span>`:"")}</p>
     <h2>${e.site?.url ? `<a href="${esc(e.site.url)}" target="_blank" rel="noopener">${esc(e.site?.name||"Untitled")}</a>` : esc(e.site?.name||"Untitled")}</h2>
     ${e.tagline?`<p class="tagline">${esc(e.tagline)}</p>`:""}
     ${e.when?`<p class="when">${esc(e.when)}</p>`:""}
@@ -551,7 +551,7 @@ fetch("./glossary.json", {cache:"no-store"})
 const gsearch = document.getElementById("glossarySearch");
 if (gsearch) gsearch.addEventListener("input", renderGlossary);
 
-// ── View tabs: Daily Journal pill becomes a Web Design / Digital Ads toggle when active ──
+// ── View tabs: Journal pill becomes a Web Design / Digital Ads toggle when active ──
 let currentView = "journal";  // "journal" | "glossary"
 function syncTabUI(){
   const onJournal = currentView === "journal";
