@@ -18735,6 +18735,176 @@
         "identity",
         "modernism"
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "RIMOWA",
+        "url": "https://www.rimowa.com"
+      },
+      "image": "images/2026-09-18-rimowa.png",
+      "category": "Luxury e-commerce",
+      "tagline": "A luxury commerce homepage with one button on the entire page — everything else is a tiny underlined caps link, and every category is represented by a still commissioned for it rather than a catalogue shot.",
+      "summary": "RIMOWA sells hard-cased aluminium luggage on a page that behaves like a print catalogue: a transparent header over a full-bleed shoreline photograph, then alternating bands of near-white product ground and full-bleed lifestyle, separated by unusually deep white space. Type is a light, widely letterspaced sans used at two registers only — tiny caps for labels and micro-CTAs, large and low-contrast for the one brand sentence — and there is no accent colour anywhere, so the grooved silver, sand and black of the products are the only saturated things on screen. The most instructive part is the 2x2 category grid: each tile is a purpose-built still (a case standing in a model-railway landscape, a bag suspended mid-air against grey), not a reused product photo. One honest caveat — the pale grey type on near-white in the brand statement and the smallest caps labels sit right at the edge of readable, and would fail a contrast check.",
+      "whatWorks": [
+        "Exactly one button on the page (the hero's outlined 'DISCOVER THE SELECTION'); every other action is a small letterspaced caps word with a hairline underline, so the single button is unmissable",
+        "The 2x2 category grid uses four commissioned stills — trio on an olive backdrop, bag and case suspended against grey, a case in a miniature model landscape, the Faber-Castell pencil case open — each on a ground built for it, all at one crop ratio and one caption treatment",
+        "Every category tile is captioned with the same construction ('SEE ALL LUGGAGE', 'SEE ALL BAGS', 'SEE ALL ACCESSORIES', 'SEE ALL SPECIALTIES') so the grid reads as one series even though the four images share nothing",
+        "The brand sentence is a single claim with a dated eyebrow above it — 'A GERMAN LEGACY OF OVER 125 YEARS' / 'RIMOWA has placed quality and innovation at its core to create functional tools for a lifetime of movement' — and no supporting paragraph",
+        "A four-icon band sells what happens after the purchase, not the purchase: Lifetime Guarantee, Worldwide Repairs ('over 120 repair points'), Free Returns ('prepaid label within 30 days'), RIMOWA Unique (customise)",
+        "Product photography is all one light and one ground: each item floats on a pale gradient with a soft reflection, so a carousel of four different silhouettes still looks like one shoot"
+      ],
+      "sections": [
+        {
+          "name": "Utility bar + transparent nav",
+          "notes": "'Ship to United States | English' sits top-left, the wordmark is centred, search / account / wishlist / bag are right, and the nav row of ten letterspaced caps words floats directly on the hero photograph with no bar behind it. The header only gains a solid ground once you scroll off the image, so the fold is a photograph rather than a photograph with furniture on it."
+        },
+        {
+          "name": "Hero",
+          "notes": "A full-bleed shoreline frame — a leather flap backpack stacked on a grooved aluminium cabin case at the water's edge — with 'Built for Business' centred in light-weight type and one outlined ghost button beneath. The headline is three words and makes a use claim, not a product claim; the product is the whole picture rather than a cut-out pasted onto a scene."
+        },
+        {
+          "name": "Iconic products carousel",
+          "notes": "A tiny 'ICONIC PRODUCTS' eyebrow, then four items on a pale gradient ground with soft reflections, each labelled with its real product name (Original Cabin, Never Still - Leather Flap Backpack Large, Distinct Cabin, Hybrid Check-In L) and a row of 8px colourway swatches. No prices, no badges, no 'Shop now' — the name and the swatch row are the whole card."
+        },
+        {
+          "name": "Category grid — 'Find a match for every kind of journey'",
+          "notes": "Four square stills in a 2x2, each shot on a ground constructed for that category, each captioned with an identical underlined caps link. This is the page's real argument: a category grid built from commissioned images stays true when the inventory turns over, where one built from the current best listing photo dates the moment that item sells."
+        },
+        {
+          "name": "Brand statement",
+          "notes": "Centred, generous, no image: a 10px letterspaced eyebrow dating the company, one sentence set large in pale grey, and a single underlined 'LEARN MORE ABOUT RIMOWA'. The whole band is three lines of text in a screenful of white — the page spends its most expensive real estate on one claim."
+        },
+        {
+          "name": "Video band + service reassurance",
+          "notes": "A full-bleed retail-interior still ('RIMOWA VIDEO SERIES' / 'Discover our staples for daily commuters' / 'WATCH NOW') is followed immediately by a pale grey band of four line-drawn diamond icons covering guarantee, repairs, returns and customisation. The sequence is deliberate: aspiration, then the ownership terms, in that order."
+        },
+        {
+          "name": "Stories carousel + footer",
+          "notes": "'STORIES / Our latest news and views' runs as a horizontal editorial carousel with circular arrow buttons, then a four-column footer (About RIMOWA / Support / Services / Legal) with the newsletter sign-up in the left column and a bottom bar carrying locale, socials and copyright. The editorial content is placed after the commerce, not instead of it."
+        }
+      ],
+      "principle": {
+        "title": "Commission one built image per category, not the prettiest listing photo",
+        "explanation": "A category or collection grid assembled from current inventory photos is obsolete the day that inventory sells, and it teaches the visitor nothing about what the category means — four rooms shot four ways just look like four rooms. RIMOWA instead stages one deliberate still per category on a ground built for it, and holds crop ratio, subject scale and caption construction identical across all four, so images that share no subject still read as one commissioned series and stay usable for years.",
+        "howToApply": "For a collection or services page, shoot four stills yourself in one session — one object that means each category (a mooring cleat for Waterfront, a gate latch for Ranches, keys on rolled drawings for New Construction, a stack of lease folders for Rentals) — each on its own plain ground, all at the same square crop, same subject scale, same caption construction ('SEE ALL WATERFRONT'). Keep them in the repo and reuse them for years; never let a live listing photo stand in for a category."
+      },
+      "tags": [
+        "luxury",
+        "e-commerce",
+        "photography",
+        "typography",
+        "restraint",
+        "layout"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Louis Vuitton — LV By The Pool (digital campaign)",
+        "url": "https://www.adsoftheworld.com/campaigns/lv-by-the-pool-2024"
+      },
+      "image": "images/2026-09-18-ad-louis-vuitton-by-the-pool.png",
+      "category": "Luxury digital / paid social campaign key visual",
+      "tagline": "A luxury ad with no headline, no logo lockup and no CTA in frame, where every object brought to the shoot is already one of the location's three colours.",
+      "when": "Launched May 2024 (summer 2024 'LV By The Pool' collection, shot by Ethan James Green, art direction Michella Rossetti, in-house at Louis Vuitton)",
+      "summary": "The creative is a single photograph: a model on the stern of a white launch at the water's edge, a sand-coloured Capucines bag held loose at hand height, surfboards and kayaks stacked along the bottom of the frame. There is no type in the image at all — the collection name, the offer ('a selection of pieces available exclusively online') and the click live entirely in the caption and the placement, so the same file runs in every market and language. What makes it more than a pretty holiday picture is the colour discipline: the sea, sky, hull and sand give three colours, and everything brought into frame — the printed trousers, the knit, the hat, the bag, the bracelets — is one of them. The product looks discovered on the boat rather than placed on it.",
+      "whatWorks": [
+        "Zero copy in the frame: name, offer and CTA sit in the caption and placement, so one master image ships to every market unchanged",
+        "The bag is small, half-turned and held at hand height — treated as luggage someone is carrying, not as a hero object lit on a plinth",
+        "The location supplies the palette (sea blue, sand, white hull) and every styled element repeats it; the floral trousers are the sea's blues, the bag is the sand, the knit is the hull",
+        "Props are functional and plural — a stack of surfboards and kayaks in orange, teal, mustard and green across the bottom edge — the only saturated colour in the frame, and it sits away from the product",
+        "The horizon is dropped to roughly a third, so two-thirds of the frame is soft water and pale sky and the figure reads instantly at feed scale",
+        "Two rock outcrops on the far horizon, left and right, quietly frame the figure without any compositional device in the foreground"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "The scroll-stopper is atmospheric, not graphic: a wide, low-saturation field of tropical water and pale sky with one figure standing at the exact centre. At feed size it reads as a place before it reads as an ad, which buys the extra half-second."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "There is no headline. The message is carried by the situation — you have arrived somewhere by boat and the bag came with you — and the only words ('a carefree holiday spirit', 'available exclusively online') live in the post copy. Removing type from the frame is what lets one shot serve global paid social."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The Capucines is in the lower third, held down and away from the body so its shape reads against the white hull; the model's pose (weight back, elbow on the boat) makes the product incidental to the scene. The bag is the smallest element in the frame and still the first thing a buyer of this category will find."
+        },
+        {
+          "name": "CTA",
+          "notes": "None in the image. The commercial mechanism is 'exclusively online' stated in the caption, which makes the click the only way to get the thing rather than a button asking for it."
+        }
+      ],
+      "principle": {
+        "title": "Cast the wardrobe and the props from the location's own palette",
+        "explanation": "On location, anything you carry into frame that isn't already one of the place's colours reads as a prop, and the eye separates it from the setting — which is exactly what you don't want when the whole argument is that the product belongs here. Pulling three colours off the real location first and requiring every brought-in element to be one of them makes the frame look found rather than styled, and has the side benefit of a coherent palette for the type and chips that go around the image later.",
+        "howToApply": "Before a property shoot, photograph the fixed materials (the terracotta floor, the brass window furniture, the sea or the stone outside) and pull three hex values off them. Require every staging object, throw, book, flower and vase to be one of those three, and pull anything that isn't out of frame — a staging kit brought in wholesale will always fight the house. Use the same three values for the chips, rules and section grounds in the collateral so the printed piece and the photograph share one palette."
+      },
+      "tags": [
+        "luxury",
+        "photography",
+        "color",
+        "art direction",
+        "social",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Franco Grignani",
+        "url": "https://en.wikipedia.org/wiki/Franco_Grignani"
+      },
+      "image": "images/2026-09-18-designer-franco-grignani.png",
+      "category": "Italian modernism / optical and kinetic graphics",
+      "when": "1908–1999 · Italian",
+      "tagline": "An architect who ran graphic design as a perceptual laboratory, made roughly 14,000 experiments with no client attached, and drew his commissions out of that archive.",
+      "summary": "Grignani trained as an architect in Turin (1929–33) and came up through Italy's second Futurist and Constructivist circles, but spent his working life on one question: what makes the eye move. He built an apparatus-based practice — rephotographing images through industrial textured glass, reflecting them off curved chrome, solarising and pushing line film to extreme contrast, then twisting, rotating and splitting the results — and accumulated something like 14,000 experimental sheets. The commissions came out of that body of research rather than out of blank-page ideation: over 150 posters and a full identity for the printer Alfieri & Lacroix, 26 years art-directing the Pubblicità in Italia annuals, the 1969–70 Penguin Science Fiction covers pictured here, and the Woolmark mark of 1963–64 — a skein rendered as one continuous optical ribbon, eventually applied to some five billion products.",
+      "whatWorks": [
+        "Separate generation from judgment: build a mechanical process that produces variants you did not imagine, then switch roles and select",
+        "Keep the apparatus fixed and the input variable — one operation (one sheet of textured glass, one chrome curve, one exposure) applied across many images, so results are comparable rather than one-off accidents",
+        "Do the research without a client attached, date and file everything, and treat the archive as the raw material a live brief is answered from",
+        "Start from a correct, resolved image and then interfere with it — distortion applied to something already working, not used to rescue something that isn't",
+        "Judge by physical effect on the viewer (does the eye move, does the surface vibrate) rather than by taste or by whether it looks current",
+        "Stay in black and white while researching form; introduce colour only once the structure is settled — the Penguin covers are one flat ink over black"
+      ],
+      "sections": [
+        {
+          "name": "How they begin",
+          "notes": "Not with sketches of the finished piece. Grignani began by making an image — a photogram, a photomontage, a clean line drawing — and then putting it through a physical process to see what came back. His architectural training showed up as method rather than style: define the operation, apply it systematically, record the result, compare."
+        },
+        {
+          "name": "Core method",
+          "notes": "Optical interference at industrial scale. He rephotographed artwork through sheets of textured industrial glass to break the form into vibration, reflected images in distorting chrome surfaces, re-shot line film to introduce blur and movement, and used darkroom high contrast and solarisation. He then intervened directly on the image — rotations, twists, splits, plastic deformations — building a personal vocabulary of 'virtual forms'. Roughly 14,000 works came out of this, nearly all of them unpaid research."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "The continuous ribbon that reads as a solid object because the eye supplies the volume. The Woolmark (1963–64) is the pure case: a skein of wool drawn as one unbroken optical band, no outline, no gradient, that holds at a millimetre on a garment label and at building scale. The Penguin Science Fiction covers do the same trick with photographic source — a single flat fluorescent ink over black, the image distorted until the subject is felt before it is identified."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "He judged work by whether it acted on perception, not by whether it was handsome: the test was a measurable reaction in the viewer's eye. That gave him a hard filter — anything that merely looked stylish got archived rather than used. He called drawing a mark the most exciting assignment a designer gets, and he treated a logo the same way as a research sheet: one form, tested for what it does to a person looking at it."
+        }
+      ],
+      "principle": {
+        "title": "Run a standing experiment file, then design by choosing from it",
+        "explanation": "Inventing at the deadline means inventing from whatever you already know, which is why work converges on the same three layouts. Grignani inverted it: the exploration happened continuously, with no client, using fixed mechanical operations that produced results he could not have pictured, and the brief was then answered by selecting and cropping from that corpus. Two practical consequences — the strange options exist before anyone is paying for them, and generation and judgment never happen in the same hour, so nothing gets defended for being hard to make.",
+        "howToApply": "Keep a dated, numbered experiments folder with no job attached to it, and spend one short session a week filling it with one fixed operation applied across many inputs — the same listing photograph through six treatments at one export setting, one price string set at eight scales in the house serif, one floorplan redrawn at three line weights, a hero crop at every ratio the templates use. Never judge on the day you generate. When a brief lands, open the folder first and look for what is already there before opening a blank artboard."
+      },
+      "tags": [
+        "process",
+        "experimentation",
+        "typography",
+        "modernism",
+        "identity",
+        "photography"
+      ]
     }
   ]
 }
