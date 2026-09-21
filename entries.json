@@ -18905,6 +18905,184 @@
         "identity",
         "photography"
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Zed",
+        "url": "https://zed.dev"
+      },
+      "image": "images/2026-09-21-zed.png",
+      "category": "Developer tool",
+      "tagline": "A code editor's homepage laid out like an engineering drawing — pale blueprint hairlines and corner registration ticks, writer-mono body copy, one electric blue — with the keystroke that fires it printed on every button.",
+      "summary": "Zed sells a Rust-written editor, and the page is made out of an editor's own materials rather than the usual dark gradient behind a glowing terminal. The ground is warm off-white ruled with faint blue drafting hairlines and tick marks at the column corners; display lines are set in an italic serif (IBM Plex Serif) in blue, every paragraph, label and caption is set in iA Writer Quattro, a duospace writer's face, and code samples are Lilex mono. The single accent blue does headline, link, primary button and the full-bleed footer, and nothing else on the page is saturated. Its sharpest move is interaction grammar: 'Download now' carries a D key-cap, 'Clone source' a C, 'Sign up' an S, search shows ⌘⇧P — so a keyboard-first product is demonstrated on the marketing page before anything is installed. One honest caveat: several sections are scroll-pinned and the live counters animate on view, so a static full-page capture overlaps them and reads the open-source numbers as zero — the middle third is best seen live.",
+      "whatWorks": [
+        "Every call to action prints its own shortcut as a small key-cap inside the button (Download D, Clone source C, Sign up S) — the product's core promise is performed by the page, not claimed by it",
+        "Three type roles, no house display face: italic serif for display, a duospace writer face (iA Writer Quattro) for all prose and labels, Lilex mono for code — the page is typographically made of the same stuff as the editor",
+        "A drafting substrate instead of decoration: warm paper ground, pale blue hairline columns and small corner registration ticks that mark structure without a single card, shadow or gradient",
+        "One blue, spent four times only — headline, link, primary button, footer band — so the full-bleed blue footer reads as the end of the document rather than a new colour",
+        "The product screenshot is one enormous slab that overlaps the section above it, shown at real UI density with legible file names and line numbers, with a small 'Watch Demo' tab pinned to its top edge",
+        "Testimonials are named engineers with their affiliation lockup beside them (José Valim · Creator of Elixir, Ethan Perez · Anthropic, Mike Bostock), sitting on plain cards with no portrait crops or star ratings",
+        "The open-source section is counted, not adjectival — forks, stars, contributors and PRs merged last month pulled live rather than a 'loved by developers' line"
+      ],
+      "sections": [
+        {
+          "name": "Nav + news bar",
+          "notes": "Left wordmark, centre links, right-hand Sign up / Download, each with its key-cap badge and a ⌘⇧P search affordance; one thin centred news line beneath ('Delta is now in public beta. Try it today.') so the announcement gets a slot instead of a banner."
+        },
+        {
+          "name": "Hero",
+          "notes": "Centred, imageless, and small: an italic blue serif line ('Your last next editor'), two lines of mono sub-copy, two buttons, and a quiet grey line of platform support. It trusts type and the substrate to carry the fold, which is why the product slab below lands so hard."
+        },
+        {
+          "name": "Fast / Agentic / Collaborative",
+          "notes": "A three-column band divided by hairlines, one word plus two mono lines each ('Written from scratch in Rust…'). The page's whole argument in nine lines, placed before any feature detail, so a skimmer leaves with the positioning."
+        },
+        {
+          "name": "Product slab",
+          "notes": "A full-width screenshot of the real UI — agent thread on the left, diff and code on the right — overlapping the band above it and shown at true density rather than a simplified mock; the 'Watch Demo' tab sits on its top edge as the only chrome."
+        },
+        {
+          "name": "Social proof",
+          "notes": "'Trusted by world-class developers & industry leading teams', a grey logo row (Cloudflare, Unkey, Rainbow, callstack, Dashbit, New Relic) and quote cards from named engineers — quotes long enough to contain a specific ('I was able to go from idea to running experiment code in half an hour')."
+        },
+        {
+          "name": "Feature showcase + grid",
+          "notes": "Five large alternating blocks with video posters (Parallel Agents, Debugger, Agentic Editing, Native Git Support, Edit Prediction), then a dense hairline grid of fourteen smaller capabilities (Remote Development, Multibuffer editing, Vim-friendly, LSP, REPL, Rainbow Brackets) at body size — depth for the evaluator without inflating the top of the page."
+        },
+        {
+          "name": "Open source",
+          "notes": "An italic blue heading over one sentence and four live counters — forks, stars, contributors, PRs merged last month — the community claim priced in numbers the repo can be checked against."
+        },
+        {
+          "name": "Letter, blog and final CTA",
+          "notes": "A signed letter from the three founders with their photographs, three dated blog cards with author and a small 'Newest' tag, then a closing block — app icon, 'Daily drive with Zed', 'Code at the speed of thought' — repeating the same two buttons with the same key-caps."
+        },
+        {
+          "name": "Footer",
+          "notes": "The only full-bleed colour on the page: a solid electric blue band with five columns of white underlined links and the copyright, so the document ends on the accent instead of fading into grey."
+        }
+      ],
+      "principle": {
+        "title": "Set the page on the product's own drawing surface",
+        "explanation": "Most category pages borrow a look (dark gradients for developer tools, gold serifs for luxury) and then have to argue for craft in words. Zed instead builds the page out of the materials its users already work in — a drafting grid, a writer's monospace, real code at real density — so 'crafted' is experienced as substrate rather than read as an adjective. The substrate also does the structural work that cards, shadows and tinted bands normally do, which is why a very long page stays quiet.",
+        "howToApply": "For a property or development page, take the substrate from the building's own paperwork rather than the brand deck: a warm paper ground ruled with pale hairlines lifted from the floorplan's own line weight, corner ticks marking the column, every spec, caption and label set in one mono at body size, and a single accent used for headline, link, button and footer band and nowhere else. Then test it by desaturating the page — if anything outside a photograph changes twice, the accent is being spent on decoration."
+      },
+      "tags": [
+        "typography",
+        "layout",
+        "color",
+        "developer",
+        "restraint"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Halfords — 'For All Wheelkind' (broadcast film, OOH and social)",
+        "url": "https://www.adsoftheworld.com/campaigns/for-all-wheelkind"
+      },
+      "image": "images/2026-09-21-ad-halfords-wheelkind.jpg",
+      "category": "Integrated brand campaign — film, OOH, social",
+      "tagline": "A retailer replaces its category description with a coined collective noun for its customers, then proves it by casting instead of by claiming.",
+      "when": "Launched September 2026 (United Kingdom), by Dentsu Creative UK",
+      "summary": "Halfords has spent decades described as a cycling and motoring retailer — a line about aisles. 'For All Wheelkind' throws that away for a coinage that names the people instead, and the work then has to earn it: a cast of recognisable British characters and their relationships with their wheels, shot with warmth and humour on ordinary roads, driveways, garages and forecourts. The frame here is typical of the run — a delighted child hoisting an armful of soft toys above her head, the brand present only as an out-of-focus branded canopy behind her, no product hero, no on-screen offer. It rolls across broadcast, OOH, social, digital, influencer, stores and garages, with an ITVX drama sponsorship carrying the same idea.",
+      "whatWorks": [
+        "The strapline is a coined collective noun, not a claim — 'wheelkind' does the positioning work in one word and cannot be copied by a competitor the way 'expert service' can",
+        "The proposition shifts the subject of the sentence from what the company sells to who it serves, which is what lets one line cover retail, garages, mobile fitting and digital without listing them",
+        "The key frame contains no product at all: the goods are off-camera and the payoff is a person's face mid-reaction, which is what makes it survive as a thumbnail",
+        "Branding is diegetic — the logo appears only on the canopy that would really be there, blurred at the edge of frame, so nothing reads as a lockup pasted on",
+        "Ordinary British overcast daylight, eye-level handheld, shallow depth: the register is documentary rather than advertising, so the humour reads as observed instead of written",
+        "One idea, deliberately over-distributed — broadcast, OOH, social, influencer, in-store and garage, plus a programme sponsorship — rather than three ideas fighting across channels"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "A face, not a product: a child grinning under a hoisted armful of soft toys, arms up, filling the frame. The stopping power is the unexplained pile — you read the expression before you can work out the situation, and the brand canopy behind is the only clue."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "'For All Wheelkind' — a coinage that collects every customer type (commuter, enthusiast, parent, van driver, cyclist) into one word, replacing a category description with a membership. Because it names people, the same three words fit a bike aisle, a garage bay and a mobile fitting van."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "Characters in their own settings — British roads, driveways, garages, everyday journeys — with warmth and humour, shot naturalistically. The wheels and the products are context, not subject; the branded canopy sits out of focus at the frame edge rather than as an overlay."
+        },
+        {
+          "name": "CTA",
+          "notes": "There isn't one in the creative, by design: the brand platform carries no offer, and the transactional work is left to retail, garage and performance units running underneath it. The ITVX sponsorship idents extend the idea rather than adding a price."
+        }
+      ],
+      "principle": {
+        "title": "Name who you serve, not what you stock",
+        "explanation": "A category description ('cycling and motoring retailer', 'luxury real estate brokerage') is a line about inventory, so it goes stale the moment the business widens and it can be written about any competitor. A coined collective noun for the customers is neither — it is ownable, it survives adding services, and it sets a casting brief rather than a copy brief, which is what stops the campaign becoming a product carousel.",
+        "howToApply": "Write the sentence that starts with the people rather than the offering, then coin the one word that collects every type you actually serve — the first-time buyer, the downsizer, the relocating family, the landlord — and prove it by casting one frame per type, shot in their own ordinary setting, with the brand present only as it would really appear (the sign in the garden, the folder on the kitchen table). If a frame needs a logo pasted into the corner to be read as yours, recast it. Keep price, specs and CTA entirely out of these frames and let the listing units underneath carry them."
+      },
+      "tags": [
+        "brand platform",
+        "copywriting",
+        "casting",
+        "photography",
+        "retail"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Barbara Stauffacher Solomon",
+        "url": "https://en.wikipedia.org/wiki/Barbara_Stauffacher_Solomon"
+      },
+      "image": "images/2026-09-21-designer-barbara-stauffacher-solomon.jpg",
+      "category": "Environmental graphics / Swiss modernism at architectural scale",
+      "when": "1928–2024 · American",
+      "tagline": "The Basel-trained designer who took Swiss typographic discipline off the page and painted it wall-to-ceiling, inventing supergraphics at The Sea Ranch in 1966.",
+      "summary": "Stauffacher Solomon trained as a dancer in San Francisco, then studied under Armin Hofmann at the Kunstgewerbeschule in Basel from 1956 to 1959 as the school's first American student. Widowed and back in San Francisco in 1962, she opened a studio to make a living — SFMOMA programme guides, then work through Lawrence Halprin's office, which gave her desk space and access to his architect and developer clients. At The Sea Ranch in 1966 she was handed blank interior walls at the athletic club because they 'looked unfinished' and paint was cheap; what she painted — stripes, arrows and hard-edged sans letterforms running wall to wall and up onto the ceiling — became known as supergraphics and won two AIA awards. She later took an architecture degree at Berkeley (1981), taught at Harvard and Yale, and kept working in landscape and installation into her nineties.",
+      "whatWorks": [
+        "Move a discipline you already have to a surface it wasn't trained for — the whole invention is Basel poster rules applied at building scale, not a new style",
+        "Design the route, not the wall: she composed for a body moving through the space — one arrow up the stairs, another down, a striped wave travelling from the lowest corner to the highest ceiling point",
+        "Accept the cheap material as the brief — paint, straight to the wall, colour used 'directly out of the paint can', no fabrication budget to wait for",
+        "Commit to the first strong image under a real deadline: she drew up the first design she visualised so she could leave to collect her daughters from school, and it held",
+        "Hold your training when the fashion runs the other way — her answer to 1960s psychedelia was to be more Swiss, not less",
+        "Get physically close to the people who commission buildings; a desk in an architect's office produced more work than a portfolio ever did",
+        "Put your name on the work in public, in writing — she was explicit about architects publishing her painted interiors without crediting her"
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "From the constraint and the material, not from a concept. The Sea Ranch commission existed because white walls looked unfinished and paint was the affordable fix; she began by walking the space as a route — where a body enters, turns, climbs — and drew the first design she could see whole, fast, against the school run."
+        },
+        {
+          "name": "Core method",
+          "notes": "Swiss poster grammar at architectural scale: the black-and-white shapes of Helvetica, straight lines, geometric forms and flat unmixed colour, sized to the wall rather than the sheet. Because the vocabulary was already fixed by her Basel training, scale was the only new variable — which is why the leap worked instead of dissolving."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Painting continuously across the surfaces a designer normally stops at: wall to wall, wall to ceiling, over door frames and stair edges, so type and stripe read as architecture rather than decoration on architecture. Arrows and letterforms double as wayfinding, so the graphics have a job as well as a look."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Rigour as a stance rather than a taste: 'My reaction to the hippy stuff was to be more Swiss rigorous … Armin was my master. His eyes were in my head.' Graphics were how she earned a living and she said so plainly, which kept the work unprecious — and she judged a scheme by whether it moved you through the space, not by how it photographed flat."
+        }
+      ],
+      "principle": {
+        "title": "Take the system you already have to the biggest surface in the room",
+        "explanation": "A house style that only ever runs at A4 and screen width never gets tested, and invention usually costs less than it looks like it should — Stauffacher Solomon changed a whole field by holding her existing vocabulary constant and changing only the scale, using the cheapest material available. Scale is the variable most design systems never exercise, and it is the one that makes a system feel authored rather than applied.",
+        "howToApply": "Take the finished type and colour rules from a print pack and paint them at room scale on the surfaces the client's audience actually walks through — the window vinyl and hoarding on a listing, the stair risers and corridor of an open house, the wall behind the desk at a launch event — with nothing new invented: same typeface, same two colours, same rules, sized to the wall. Compose it for the walk-through rather than the photograph: decide where someone enters, where they turn, and let one element run continuously across a corner or up onto the ceiling so it reads as built rather than stuck on."
+      },
+      "tags": [
+        "process",
+        "environmental graphics",
+        "typography",
+        "scale",
+        "modernism",
+        "color"
+      ]
     }
   ]
 }
