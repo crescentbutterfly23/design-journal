@@ -19083,6 +19083,169 @@
         "modernism",
         "color"
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Field Notes",
+        "url": "https://fieldnotesbrand.com"
+      },
+      "image": "images/2026-09-28-field-notes.png",
+      "category": "E-commerce / Stationery",
+      "tagline": "A memo-book brand whose storefront is set in the product's own two typefaces and footer'd on its own kraft cover stock, with every pitch fitted into a product-sized cell of the grid.",
+      "summary": "Field Notes (Aaron Draplin's DDC and Coudal Partners, Chicago) sells a $12.95 pocket notebook, and the site behaves like the notebook: Futura Bold in letterspaced caps for every name and label, New Century Schoolbook for the few sentences of pitch, warm brown-grey text instead of black, rust prices, and a footer printed on the same kraft board as the Original Kraft cover. The homepage is essentially the whole catalogue as one ruled four-column grid on white — and instead of breaking that grid with banners, the subscription pitch and the email signup are dropped into it as cells the same size as a product. The weak spot is length: at ~5,800px of near-identical tiles, and with lazy-loaded images that arrive late, the lower grid can read as an undifferentiated wall.",
+      "whatWorks": [
+        "Two typefaces, both borrowed from the product itself — Futura Bold caps (2px tracking) for every name, label and button, New Century Schoolbook for the handful of persuasive sentences — so the site reads as the memo book before a single image loads",
+        "Pitches live inside the grid at product size: the 'Start a Quarterly Subscription' card sits in cell 2 of row 1 and 'The List' signup takes a cell in row 7, so the eye scans them at the same rhythm as the goods instead of skipping a banner",
+        "Scarcity is a round stamp, not a countdown — a rust '40 LEFT' / '18 LEFT' disc sits on the corner of limited press sheets only, so it means something where it appears",
+        "One ruled grid, hairline cell borders, every object photographed on white at a consistent scale, name in caps and price in rust beneath — the catalogue is legible as a printed spec sheet",
+        "The footer is set on the brand's own kraft board texture, with 'Made in the U.S.A.' and 'Durable Materials' in the two top corners exactly as they sit on the back of a memo book",
+        "Copy stays in the brand's plain-spoken voice even in the fine print — 'Save Some Scratch', 'We'll never share your data, and we don't email often'"
+      ],
+      "sections": [
+        {
+          "name": "Announcement bar & header",
+          "notes": "A slim rule of kraft brown across the very top, then a centred FIELD NOTES wordmark with 'Get on the List' left and Sign in / Cart right, and a single row of Futura caps nav (Products, Limited Editions, Dispatches, More). A teal band beneath carries the one standing offer — 'Get on The List for Updates, Deals, & Monthly Newsletter' — in the serif, so utility and pitch are typographically separated."
+        },
+        {
+          "name": "Hero — the quarterly edition",
+          "notes": "Full-bleed photograph of the summer 'Paletas' edition covers fanned edge to edge, colour doing all the work. Overlaid, centred: a small caps kicker 'SUMMER LIMITED EDITION', the 60px Futura caps title 'LA DULCE VIDA', the translation '(The Sweet Life)' in the serif, and one teal outlined button naming the edition. No slider — one edition, one quarter, one image."
+        },
+        {
+          "name": "Split feature band",
+          "notes": "Two halves at equal weight: left, a Rex Brasher owl plate on white with 'REDISCOVERING REX BRASHER / THE BIRDS AND TREES OF NORTH AMERICA' and a 'THREE 3-PACKS' button; right, a flat slate panel with the subscription pitch set as three short serif sentences and a DETAILS button. Illustration on one side, argument on the other — never both in the same box."
+        },
+        {
+          "name": "Filter bar & catalogue grid",
+          "notes": "A thin control row (Products dropdown, a search field, Paper Styles, Sizes) then the entire line in a four-column grid ruled with hairlines: object on white, Futura caps name, rust price, quantity + Add to Cart on hover. The subscription card occupies cell 2 of the first row and 'The List' signup takes a whole cell mid-grid, each exactly one product wide, so the page never switches from shop to marketing."
+        },
+        {
+          "name": "Limited-edition markers",
+          "notes": "Round rust stamps reading '40 LEFT' and '18 LEFT' appear only on numbered press sheets; 'Out of stock' is plain text in the button slot. Scarcity is rationed to the items that are genuinely scarce, which is why it reads as information rather than pressure."
+        },
+        {
+          "name": "Footer",
+          "notes": "Printed on a kraft-board texture: 'Made in the U.S.A.' and 'Durable Materials' in the corners, the wordmark large and centred, the brand's line about writing things down 'to remember it now' in the serif, then three columns of caps links, The List signup with a rust label, and a bottom rule with the Racine Avenue address, 'Proudly printed in the U.S.A.' and 'A DDC/Coudal joint'. The last thing you touch feels like the back cover."
+        }
+      ],
+      "principle": {
+        "title": "Give the pitch a product-sized cell, not a banner",
+        "explanation": "A banner that interrupts a grid announces 'marketing starts here', and people have learned to scroll past exactly that shape. Field Notes puts its subscription offer and its email signup inside the catalogue grid at the same cell size as a notebook, so the offer is read in the same scanning rhythm as the goods and borrows their credibility instead of breaking it.",
+        "howToApply": "On a collection page, make the 'Get new listings before they go public' signup (or a 'Private sale — enquire' card) one listing card wide, same crop, same caption construction — label in caps, one serif sentence, underlined text link — and slot it at position 2 and again after row 3; if it needs to be wider than a card to be noticed, the sentence is too weak."
+      },
+      "tags": [
+        "e-commerce",
+        "grid",
+        "typography",
+        "conversion",
+        "brand-voice"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "DuckDuckGo — 'Prying Eyes' for Duck.ai (30s film, YouTube / CTV / Meta / TikTok)",
+        "url": "https://www.youtube.com/watch?v=RLgXkN5AKgI"
+      },
+      "image": "images/2026-09-28-ad-duckduckgo.jpg",
+      "category": "YouTube / CTV film + paid social cutdowns",
+      "tagline": "The feeling of being watched while you ask an AI something private is made literal — giant, clumsy eyeballs crowd into ordinary rooms — and the product's only job is to make them leave.",
+      "when": "Launched September 2026 (United States), by Rival; produced by Partizan, directed by Matt Baron; set to run at least 14 weeks through early Q4",
+      "summary": "Duck.ai is DuckDuckGo's private AI chat, and the category problem is abstract: tracking is invisible, so 'private' is just an adjective. Rival turns the research finding — people said they feel watched when they ask an AI personal questions — into a physical, slightly ridiculous object: huge veined eyeballs that bob and bump toward someone mid-question, in a cubicle, a pink-tiled bathroom checking a skin flare-up, a family kitchen. Each 30s runs the same beat: ordinary moment, eyes arrive, discomfort, switch to Duck.ai, eyes gone, and it closes on a lockup reading 'Where AI is private and optional' with a small toggle glyph set inline. The comedy is in the practical staging — the eyes are clumsy rather than menacing — which keeps a privacy message from tipping into fear.",
+      "whatWorks": [
+        "One literal object stands for the whole objection: the eyeballs are the tracking, so the film never has to explain data collection in words",
+        "The rooms are aggressively ordinary — a strip-lit cubicle, a pink bathroom, a kitchen with kids' drawings on the fridge — which is what makes the absurd object read as a feeling rather than sci-fi",
+        "The questions are personal but mundane (work, skin, home), so viewers supply their own more embarrassing version",
+        "The product is the relief, not the hero: the payoff frame is the room returning to normal and the face relaxing, with the UI (a search field typing 'Duck', the orange arrow) shown only for a beat",
+        "A fixed three-act chassis across three spots and three rooms, so :15 cutdowns and social edits all land the same beat",
+        "The end line puts a real interface element — a toggle — inside the sentence, so 'optional' is shown as a control rather than claimed"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "Within the first seconds a basketball-sized eyeball drifts into an otherwise normal frame and bumps toward the person on screen. It's unexplained and faintly comic, which is what stops the scroll — you watch to find out why it's there before you know it's an ad."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Spoken and shown as a situation, not a claim: the eyes crowd in the moment the person starts asking an AI something private, and disappear when they switch to Duck.ai. The closing line 'Where AI is private and optional' carries the proposition; the rest of the film is the demonstration."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "The key frame from 'Bathroom': a woman in a pink-tiled bathroom looking down at her phone, a flushed patch on her cheek, five huge veined eyes of different iris colours pressing in around her head. Warm practical light, shallow depth, centred composition — the eyes are lit like props in the room, not composited overlays, which is why they feel physical."
+        },
+        {
+          "name": "CTA",
+          "notes": "Quiet: the Duck.ai by DuckDuckGo lockup over the now-empty room, the line with its inline toggle beneath, and in the kitchen spot a search field typing 'Duck' with the orange go-arrow. It points at the behaviour (use this instead) rather than a download button, which suits a free, no-login product."
+        }
+      ],
+      "principle": {
+        "title": "Turn the buyer's worry into one object in the room, then let the product remove it",
+        "explanation": "Anxieties like 'being watched', 'hidden costs' or 'will it flood' are abstract, and abstract worries are argued with in copy that nobody reads. Giving the worry a single physical, slightly absurd form in an ordinary setting lets the audience recognise the feeling instantly, and the product's value becomes visible as the moment the object leaves — relief is easier to show than a feature.",
+        "howToApply": "Name the one worry a buyer has about this kind of property (the dated survey, the flood map, the 'what's the catch' price) and make it a literal prop in a real room shot — a stack of unopened envelopes on the kitchen island, a hand-drawn waterline on the wall — then show the same room clean with the answer (the survey date, the flood-zone certificate, the price breakdown) as the only copy; keep the prop comic rather than threatening, and never fake the room itself."
+      },
+      "tags": [
+        "film",
+        "metaphor",
+        "privacy",
+        "social",
+        "storytelling"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Bruce Mau Design",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Mau"
+      },
+      "image": "images/2026-09-28-designer-bruce-mau-design.jpg",
+      "category": "Legendary studio — books, identity and systems thinking (Toronto)",
+      "when": "1985–present · Canadian · founded in Toronto by Bruce Mau (creative director until 2010); continued as an identity studio after his departure",
+      "tagline": "The studio that treated the designer as a co-author of the content — structuring books, exhibitions and identities by argument and scale rather than decorating what the client handed over.",
+      "summary": "Bruce Mau set up his Toronto studio in the mid-1980s and made its name on books: two decades as design director of Zone Books, beginning with Zone 1|2: The Contemporary City, and then S,M,L,XL (1995), the roughly 1,300-page book with Rem Koolhaas/OMA that is organised not by chronology but by the physical scale of the projects, with a dictionary of terms running through it. The studio worked as a co-author, sitting with editors and architects to decide what the content was and in what order before deciding what it looked like. In 1998 Mau published An Incomplete Manifesto for Growth, 43 short rules on process, and in 2004 Massive Change — exhibition and book at the Vancouver Art Gallery, researched with students from the Institute without Boundaries he had founded with George Brown College — pushed the method from pages to 'the design of the world'. After Mau left in 2010 the studio carried on as an identity practice (its 2015 Sonos identity is the best known).",
+      "whatWorks": [
+        "Get into the content before the form: sit with the editor or client until you can say what the material argues and in what order, then design the structure that argument needs",
+        "Organise by a property of the material, not by the date it arrived — S,M,L,XL runs from small to extra-large, so the book's structure is itself an idea",
+        "Run a secondary track alongside the main one (the running dictionary in S,M,L,XL) so dense material can be dipped into rather than only read front to back",
+        "Write your process down as short numbered rules — the Incomplete Manifesto's 'Process is more important than outcome', 'Begin anywhere', 'Capture accidents', 'Make your own tools' — and keep it deliberately unfinished",
+        "Use research as a studio product: Massive Change was built with a student cohort, so the investigation, the exhibition and the book were the same work",
+        "Keep a long relationship with one client (Zone for two decades) as the studio's laboratory, where the method can compound"
+      ],
+      "sections": [
+        {
+          "name": "How it's structured",
+          "notes": "A Toronto studio built around a creative director who acted as editor as much as designer, with designers working inside long collaborations (Zone Books, OMA, galleries such as the Art Gallery of Ontario and the Andy Warhol Museum) rather than on one-off jobs. Education was part of the structure: the Institute without Boundaries (2003, with George Brown College) put a student research team inside the practice."
+        },
+        {
+          "name": "How it takes on work",
+          "notes": "As co-author, not supplier. On Zone and on S,M,L,XL the studio sat with the editors and with Koolhaas to decide what the content was, what to cut and what order it should run in; the visual language came after that argument was settled. A brief was treated as a question about the content — 'what is this actually about?' — rather than a list of pages to fill."
+        },
+        {
+          "name": "Signature method",
+          "notes": "Structure as the big idea. S,M,L,XL groups projects by physical scale instead of date, interleaves essays, diaries, photographs and drawings at wildly varying densities, and threads a dictionary through the margins so the reader can enter anywhere. The same move scaled up in Massive Change: sort the world by kind of system (energy, materials, information, living) and let the organisation carry the argument."
+        },
+        {
+          "name": "What holds it together",
+          "notes": "A written, deliberately incomplete rulebook. The 1998 Incomplete Manifesto for Growth — 43 terse lines on process, curiosity, collaboration and failure ('Love your experiments', 'Make mistakes faster', 'Avoid software') — is how the studio's way of working was transmitted beyond Mau himself, and why it circulated far beyond design. The judgement rule underneath: if the structure doesn't say something about the content, it's just packaging."
+        }
+      ],
+      "principle": {
+        "title": "Decide the running order by a property of the subject, then design",
+        "explanation": "Most multi-page pieces default to the order the material arrived in — or the order of the template — which means the structure says nothing. Bruce Mau Design's books start by choosing one property of the content to organise by (scale, in S,M,L,XL) so the sequence itself becomes the first argument a reader absorbs, before any single page is read.",
+        "howToApply": "Before placing a single photo in the Magazine or a long listing page, pick one organising property and write it on the artboard — scale (region → estate → house → room → the door handle), time of day (first light in the kitchen to dusk on the terrace) or route (the walk from the gate) — sort every selected image by it, and only then assign images to spreads; add one running secondary strip (spec line or floorplan key in the margin) so the piece can be dipped into, not only read in order."
+      },
+      "tags": [
+        "studio",
+        "books",
+        "structure",
+        "sequencing",
+        "process"
+      ]
     }
   ]
 }
