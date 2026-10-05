@@ -19246,6 +19246,169 @@
         "sequencing",
         "process"
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "source": "daily",
+      "kind": "site",
+      "site": {
+        "name": "Koto",
+        "url": "https://koto.com/"
+      },
+      "image": "images/2026-10-05-koto.png",
+      "category": "Agency / Brand studio",
+      "tagline": "A near-black agency site where the clients' own wordmarks, set huge over their campaign footage, are the portfolio's headlines.",
+      "summary": "Koto's homepage keeps almost nothing that belongs to Koto: a tiny yellow wordmark, a few lines of type and a local clock. The rest of the page is the clients' work, and each case card is just the client's logo at billboard size over a frame of the campaign, so a quick scroll reads as Instagram, Amazon, Copilot+PC, Fitbit, Tripadvisor before you read any copy. A single two-line lockup (a regular-weight claim over a light-weight descriptor) opens the hero and comes back for the contact section, which ties the long dark page together. Caveat: the hero is a full-bleed video, so static captures show a black field and the page is best experienced live.",
+      "whatWorks": [
+        "Every work card is the client's own wordmark set at roughly 60% of the card width over a frame of their campaign, with no card title, so recognition does the labelling",
+        "One two-line lockup, a regular-weight first line over a light-weight second line ('We're Koto / The Creative Company', 'Contact / Press and careers'), opens both the first and last sections",
+        "A near-black ground with a single yellow accent spent only on the logo, so the colour on screen comes from the client footage",
+        "Work stacks in a right-hand column about 60% wide while the left column stays empty for the sticky project text, which gives each card a calm runway",
+        "Small mono utility labels in brackets ('[ VIEW ALL PROJECTS ]', 'STUDIO NEWS · PRESS, TALKS, AND EVENTS') and a live 'UTC+1' clock in the nav handle the housekeeping without competing with the work",
+        "The news block is one large card and two small ones, with a grey 'PRESS' chip and a date on each, which ranks the stories instead of listing them as equals"
+      ],
+      "sections": [
+        {
+          "name": "Nav",
+          "notes": "Small yellow Koto wordmark top-left, five tiny uppercase links (Work, About, Services, Latest, Careers, Contact), and the studio's local time at top-right. The bar takes up almost nothing, and the clock quietly signals a multi-office company."
+        },
+        {
+          "name": "Hero",
+          "notes": "A full-bleed reel on black with the lockup low and to the left: 'We're Koto' in regular weight over 'The Creative Company' in a lighter grey weight. There's no button or subhead in the frame. The reel makes the pitch, and the lockup only signs it."
+        },
+        {
+          "name": "Selected work",
+          "notes": "Five stacked cards (Instagram, Amazon, Microsoft Copilot+PC, Fitbit Ace LTE, Tripadvisor) in a wide right-hand column. Each card is the client's wordmark set huge over campaign footage or the brand's own colour field. A sticky left column carries the year, sector and one line of description. The stack ends in a quiet bracketed '[ VIEW ALL PROJECTS ]' bar rather than a big button."
+        },
+        {
+          "name": "Studio news",
+          "notes": "A mono eyebrow ('STUDIO NEWS · PRESS, TALKS, AND EVENTS') with a 'VIEW ALL' link opposite. Below it, one large portrait-led story beside two smaller image cards, each with a short excerpt, a grey PRESS chip and a date, so the lead story is obvious at a glance."
+        },
+        {
+          "name": "Offices / Contact",
+          "notes": "The hero's two-line lockup comes back as 'Contact / Press and careers'. Under it, five expandable office cards (LA, NYC, London, Berlin, Sydney) each hold a photo, an email and a map link. Reusing the opening lockup tells you the page is ending."
+        },
+        {
+          "name": "Footer",
+          "notes": "Almost nothing: '© 2015—2026' and three legal links in small grey type on black. The contact section has already done the job a footer usually does, so the footer can stay minimal."
+        }
+      ],
+      "principle": {
+        "title": "Let the client's own mark title the work",
+        "explanation": "A grid of cards, each with a thumbnail, a headline and a description, makes the visitor read before they recognise anything. Koto turns that around: the card is the client's wordmark at billboard size over a frame of the campaign, so recognition does the work and the portfolio scans in a second. Text drops back into a quiet side column for anyone who wants the detail.",
+        "howToApply": "On a portfolio, case-study or 'properties we've sold' grid, cut the card headline and put the most recognisable mark of the subject large over its best frame: the client logo, the building's name in its own lettering, or the street name from the sign. Keep the year, sector or price in one small line beside the card. Test it by blurring all the small text; if a visitor can still tell which job is which, it works."
+      },
+      "tags": [
+        "portfolio",
+        "logos",
+        "dark-mode",
+        "layout",
+        "agency"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source": "daily",
+      "kind": "ad",
+      "site": {
+        "name": "Alberta Cancer Foundation — 'Life-Saving Spoilers' (YouTube pre-roll + cinema)",
+        "url": "https://www.adsoftheworld.com/campaigns/life-saving-spoilers"
+      },
+      "image": "images/2026-10-05-ad-alberta-cancer-foundation.jpg",
+      "category": "YouTube pre-roll / streaming + cinema pre-show (integrated)",
+      "tagline": "It spoils the ending of the show you're about to watch, then argues that knowing sooner is better with a mammogram too.",
+      "when": "Published October 2026 (Canada) — by Berlin for the Alberta Cancer Foundation and the Alberta Society of Radiologists",
+      "summary": "The insight is that people dodge mammograms for the same reason they dodge spoilers: they don't want to learn the ending before they're ready. Berlin plays this straight. On YouTube pre-roll before Dawson's Creek, Friends or Seinfeld clips, and on Cineplex posters and pre-show trivia, each unit gives away the ending ('Joey chooses Pacey over Dawson.', 'Ross and Rachel end up together.', 'Rose lives. The Titanic sinks.') over a pixelated still from that scene. The turn is the line 'SPOILER: Sometimes knowing sooner is better.' Fear about a scan becomes a habit everyone already jokes about, and the targeting comes free, because the ad only runs right before the thing it spoils.",
+      "whatWorks": [
+        "The headline is an actual spoiler for the video the viewer is about to watch, so the five unskippable seconds hit the exact behaviour the campaign is about",
+        "The scene still is pixelated, which marks it as a spoiler and also dodges the licensing problem; you recognise Joey and Pacey without being shown them",
+        "The turn line borrows the word the viewer is already thinking: 'SPOILER:' in bold, then 'Sometimes knowing sooner is better.' in regular weight",
+        "One plain URL CTA set in a pale pill ('GetAMammogram.ca'), with no logo stack or 'learn more' button, so the action and the brand are the same thing",
+        "One template (oxblood frame, pale cream type boxes, pixel still) carries pre-roll, cinema lightboxes, hoardings and trivia slides, and only the spoiler changes from piece to piece",
+        "In the Cineplex pre-show 'Spoiler Trivia', the audience volunteers spoilers themselves before the reveal, which makes the ad a game they join"
+      ],
+      "sections": [
+        {
+          "name": "Hook",
+          "notes": "It appears as pre-roll on a clip of the exact show it spoils, so the first line ('Joey chooses Pacey over Dawson.') lands as a small, funny outrage aimed at that one viewer. The ad stops you because it has already done the thing you hate."
+        },
+        {
+          "name": "Message / headline",
+          "notes": "Two parts. A big, plain statement of the ending in a heavy rounded sans, then a smaller 'SPOILER: Sometimes knowing sooner is better.' The first line is the joke and the second turns it, and neither mentions cancer, which keeps the tone light enough to watch to the end."
+        },
+        {
+          "name": "Visual / hero",
+          "notes": "A pixel-mosaic still of the spoiled scene sits behind cream type panels inside an oxblood frame. The pixelation does three jobs: it reads as 'censored spoiler', it gets around clip rights, and it gives the whole series one texture. The oxblood and cream are a warm, health-adjacent palette with no pink-ribbon cliché."
+        },
+        {
+          "name": "CTA",
+          "notes": "Only 'GetAMammogram.ca', as a pale pill bottom-right, set like a button but naming the action as a domain. The foundation and radiologists' logos stay out of the pre-roll frame entirely."
+        }
+      ],
+      "principle": {
+        "title": "Rhyme the avoided thing with a small avoidance people already laugh at",
+        "explanation": "Telling someone their fear is irrational makes them defensive. Showing them the same reflex in something trivial (dodging spoilers, not opening the bank app, skipping the scale) gets a laugh of recognition first. The serious version then picks up the shrug, and the ask feels like the obvious next step rather than a lecture. Placing the trivial version right where it happens (pre-roll on the spoiled show) makes the rhyme impossible to miss.",
+        "howToApply": "For a hesitant audience (sellers who won't ask what their home is worth, buyers scared of the mortgage call), write down the everyday thing they dodge for the same reason and lead with that, played straight. Then turn it in one short line that names the real action as a URL or a single verb. Keep the serious subject's imagery out of frame; the rhyme carries it."
+      },
+      "tags": [
+        "contextual",
+        "pre-roll",
+        "copywriting",
+        "health",
+        "reframing"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source": "daily",
+      "kind": "designer",
+      "site": {
+        "name": "Jessica Walsh",
+        "url": "https://en.wikipedia.org/wiki/Jessica_Walsh"
+      },
+      "image": "images/2026-10-05-designer-jessica-walsh.jpg",
+      "category": "Art direction & branding — handmade sets, colour and the public experiment",
+      "when": "b. 1986 · American",
+      "tagline": "Builds the image physically, with sets, paint, food and props, and photographs it, and runs her own public experiments that later feed the client work.",
+      "summary": "Walsh came out of RISD (2008) through a year interning at Pentagram under Paula Scher and art direction at Print magazine, became Stefan Sagmeister's partner at Sagmeister & Walsh in 2012, and founded &Walsh in 2019. Her work is known for saturated colour and experimental type that's usually made in front of a camera rather than in software: painted bodies, sculpted food, built rooms. Alongside it she runs public, rule-bound personal projects such as 40 Days of Dating (2013, with Timothy Goodman), 12 Kinds of Kindness (2016) and the Ladies, Wine & Design network (2016, 280+ chapters). These work as R&D, and the client work borrows from them.",
+      "whatWorks": [
+        "Make the image in the physical world first (paper, paint, food, fabric, a built corner of a room), then photograph it, so the texture, shadow and mistakes can't be faked",
+        "Write the experiment's rules and its end date before starting (40 days, 12 tasks), and publish as you go so the deadline can't slip",
+        "Treat personal projects as the studio's research lab: the techniques and the audience they build turn into client work and new business",
+        "Pick one saturated colour family per project and push it everywhere (set, props, wardrobe, type), rather than sprinkling an accent",
+        "Let the type be an object in the scene (cut, sculpted, painted on skin or glass) rather than a layer set on top of a photo",
+        "Start with a brand's personality and feeling, not its logo, and make the identity a toolkit of moods and materials"
+      ],
+      "sections": [
+        {
+          "name": "How she begins",
+          "notes": "From a feeling rather than a format. The early workshop names how the brand or piece should make someone feel and what it would be like as a person, then looks for a physical material that carries that feeling (glossy, edible, soft, messy). For her own projects she starts by writing the rules and the time limit."
+        },
+        {
+          "name": "Core method",
+          "notes": "Build and shoot. Walsh and her team make sets, props and lettering by hand at the scale of the frame, light them, and photograph them, using digital tools mostly for cleanup and layout. This keeps the colour, texture and shadow real and makes many small decisions happen in front of the camera instead of on a screen."
+        },
+        {
+          "name": "Signature technique",
+          "notes": "Typography as a physical object inside a heavily saturated, single-palette set. Letters are cut, sculpted, painted on bodies or formed from food, then shot with the rest of the scene so type and image share one light source."
+        },
+        {
+          "name": "Decision rules / philosophy",
+          "notes": "Work should make people feel something, and safe and forgettable is the real risk. Personal work is how you get the client work you want, so it gets real time. Public experiments with fixed rules beat private noodling because the audience and the deadline keep you honest. Visibility for women and non-binary designers is part of the job, not separate from it."
+        }
+      ],
+      "principle": {
+        "title": "Build it and photograph it before you reach for software",
+        "explanation": "A rendered or composited image tends to look like one, with too-clean edges, invented shadows and no surprises. Making the thing physically, even crudely, gives you real light, real texture and happy accidents, and it makes you decide scale, colour and composition at once and in front of the lens. It's also what makes the work feel crafted rather than templated.",
+        "howToApply": "For the next social graphic, cover or listing promo, build a small tabletop set: coloured paper or card from one colour family, a real object from the property (keys, a tile sample, a brass handle), and the headline cut or printed and placed in the scene. Light it from a window and shoot it on the phone, top-down or at 45°. Use Figma only to add the logo and fix the crop, and if a piece is going to be faked digitally, ask first whether it could be made instead."
+      },
+      "tags": [
+        "process",
+        "handmade",
+        "photography",
+        "colour",
+        "experiments"
+      ]
     }
   ]
 }
